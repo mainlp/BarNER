@@ -1,0 +1,1721 @@
+# newdoc id = bar_wiki_Google
+# sent_id = bar_wiki_Google-1
+# text = Google
+Google	B-ORG	B-ORG
+
+# sent_id = bar_wiki_Google-2
+# text = Google bzw. Google Inc. is a Firma mid Haptsitz in Mountain View ( Santa Clara County , Kalifornien , USA ) , des wo bsundas duach de gleichnomige Suachmaschin „ Google “ bekonnt worn is .
+Google	B-ORG	B-ORG
+bzw.	O	O
+Google	B-ORG	B-ORG
+Inc.	I-ORG	I-ORG
+is	O	O
+a	O	O
+Firma	O	O
+mid	O	O
+Haptsitz	O	O
+in	O	O
+Mountain	B-LOC	B-LOC
+View	I-LOC	I-LOC
+(	O	O
+Santa	B-LOC	B-LOC
+Clara	I-LOC	I-LOC
+County	I-LOC	I-LOC
+,	O	O
+Kalifornien	B-LOC	B-LOC
+,	O	O
+USA	B-LOC	B-LOC
+)	O	O
+,	O	O
+des	O	O
+wo	O	O
+bsundas	O	O
+duach	O	O
+de	O	O
+gleichnomige	O	O
+Suachmaschin	O	O
+„	O	O
+Google	B-ORG	B-LOC
+“	O	O
+bekonnt	O	O
+worn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-3
+# text = De Firma is am 7. Septemba 1998 vom Larry Page und vom Sergey Brin grindt worn .
+De	O	O
+Firma	O	O
+is	O	O
+am	O	O
+7.	O	O
+Septemba	O	O
+1998	O	O
+vom	O	O
+Larry	B-PER	B-PER
+Page	I-PER	I-PER
+und	O	O
+vom	O	O
+Sergey	B-PER	B-PER
+Brin	I-PER	I-PER
+grindt	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-4
+# text = No am sejm Dog homs de easchte Testversion vo dem Programm afn Moakt brocht und no im sejm Joa is de Suachmaschin offiziej ans Netz ganga .
+No	O	O
+am	O	O
+sejm	O	O
+Dog	O	O
+homs	O	O
+de	O	O
+easchte	O	O
+Testversion	O	O
+vo	O	O
+dem	O	O
+Programm	O	O
+afn	O	O
+Moakt	O	O
+brocht	O	O
+und	O	O
+no	O	O
+im	O	O
+sejm	O	O
+Joa	O	O
+is	O	O
+de	O	O
+Suachmaschin	O	O
+offiziej	O	O
+ans	O	O
+Netz	O	O
+ganga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-5
+# text = De Firma bschreibt s Haptzui wia foigt :
+De	O	O
+Firma	O	O
+bschreibt	O	O
+s	O	O
+Haptzui	O	O
+wia	O	O
+foigt	O	O
+:	O	O
+
+# sent_id = bar_wiki_Google-6
+# text = De Firma hod Ende 2010 24.400 Mitorwata bschäftigt .
+De	O	O
+Firma	O	O
+hod	O	O
+Ende	O	O
+2010	O	O
+24.400	O	O
+Mitorwata	O	O
+bschäftigt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-7
+# text = Google hod an moaktbeheaschndn Otei ( 80 % ) vo oin Suachofrong im Internetz ( Stond : 2010 ) .
+Google	B-ORG	B-ORG
+hod	O	O
+an	O	O
+moaktbeheaschndn	O	O
+Otei	O	O
+(	O	O
+80	O	O
+%	O	O
+)	O	O
+vo	O	O
+oin	O	O
+Suachofrong	O	O
+im	O	O
+Internetz	O	O
+(	O	O
+Stond	O	O
+:	O	O
+2010	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-8
+# text = Noch da Moaktfoaschungsgruppm Millward Brown is Google mid am Weat vo rund 111.5 Milliardn US-Dollar ( uma 78 Milliardn Euro ) noch Apple de zwoatejdaste Markn vo da Wejd ( Stond : 2011 ) .
+Noch	O	O
+da	O	O
+Moaktfoaschungsgruppm	O	O
+Millward	B-ORG	B-ORG
+Brown	I-ORG	I-ORG
+is	O	O
+Google	B-ORG	B-ORG
+mid	O	O
+am	O	O
+Weat	O	O
+vo	O	O
+rund	O	O
+111.5	O	O
+Milliardn	O	O
+US-Dollar	B-ORGpart	B-LOCpart
+(	O	O
+uma	O	O
+78	O	O
+Milliardn	O	O
+Euro	O	O
+)	O	O
+noch	O	O
+Apple	B-ORG	B-ORG
+de	O	O
+zwoatejdaste	O	O
+Markn	O	O
+vo	O	O
+da	O	O
+Wejd	O	O
+(	O	O
+Stond	O	O
+:	O	O
+2011	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-9
+# text = S Woat Google basiat af an Woatspui ( mange sogn sogoa , des warad bloss a Rechtschreibfehla ) mid da US-amerikanischn Aussproch vom Woat " googol " ( de englische Bezeichnung fia de Zoi formula_1 ) .
+S	O	O
+Woat	O	O
+Google	B-ORG	B-ORG
+basiat	O	O
+af	O	O
+an	O	O
+Woatspui	O	O
+(	O	O
+mange	O	O
+sogn	O	O
+sogoa	O	O
+,	O	O
+des	O	O
+warad	O	O
+bloss	O	O
+a	O	O
+Rechtschreibfehla	O	O
+)	O	O
+mid	O	O
+da	O	O
+US-amerikanischn	B-LOCderiv	B-LANG
+Aussproch	O	O
+vom	O	O
+Woat	O	O
+"	O	O
+googol	O	O
+"	O	O
+(	O	O
+de	O	O
+englische	B-LANGderiv	B-LANGderiv
+Bezeichnung	O	O
+fia	O	O
+de	O	O
+Zoi	O	O
+formula_1	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-10
+# text = De Google-Grinda hom an Begriff af an riesign Haffa vo Informationa iwatrong , de wo a Suachmaschin findn soit .
+De	O	O
+Google-Grinda	B-ORGpart	B-ORGpart
+hom	O	O
+an	O	O
+Begriff	O	O
+af	O	O
+an	O	O
+riesign	O	O
+Haffa	O	O
+vo	O	O
+Informationa	O	O
+iwatrong	O	O
+,	O	O
+de	O	O
+wo	O	O
+a	O	O
+Suachmaschin	O	O
+findn	O	O
+soit	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-11
+# text = Da standarddeitsche Rechtschreib-Duden hod des Verb " googeln " ( sprich : [ ] „ guhg ( e ) ln “ ) 2004 in de 23. Aflog afgnumma .
+Da	O	O
+standarddeitsche	O	B-LANG
+Rechtschreib-Duden	B-WOApart	O
+hod	O	O
+des	O	O
+Verb	O	O
+"	O	O
+googeln	B-ORGderiv	B-ORGderiv
+"	O	O
+(	O	O
+sprich	O	O
+:	O	O
+[	O	O
+]	O	O
+„	O	O
+guhg	O	O
+(	O	O
+e	O	O
+)	O	O
+ln	O	O
+“	O	O
+)	O	O
+2004	O	O
+in	O	O
+de	O	O
+23.	O	O
+Aflog	O	O
+afgnumma	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-12
+# text = S Woat wiad in da Umgangssproch moast ned fias Suachn mid Google vawendt , sondan aa ois Synonym fia de Suacharei im Netz mid irgendana Suachmaschin ( " vgl. " Wiktionary ,
+S	O	O
+Woat	O	O
+wiad	O	O
+in	O	O
+da	O	O
+Umgangssproch	O	O
+moast	O	O
+ned	O	O
+fias	O	O
+Suachn	O	O
+mid	O	O
+Google	B-MISC	B-ORG
+vawendt	O	O
+,	O	O
+sondan	O	O
+aa	O	O
+ois	O	O
+Synonym	O	O
+fia	O	O
+de	O	O
+Suacharei	O	O
+im	O	O
+Netz	O	O
+mid	O	O
+irgendana	O	O
+Suachmaschin	O	O
+(	O	O
+"	O	O
+vgl.	O	O
+"	O	O
+Wiktionary	O	B-ORG
+,	O	O
+
+# sent_id = bar_wiki_Google-13
+# text = 1995 san da Page Larry und da Brin Sergey an da Stanford University ois Studentn zammatroffa .
+1995	O	O
+san	O	O
+da	O	O
+Page	B-PER	B-PER
+Larry	I-PER	I-PER
+und	O	O
+da	O	O
+Brin	B-PER	B-PER
+Sergey	I-PER	I-PER
+an	O	O
+da	O	O
+Stanford	B-ORG	B-ORG
+University	I-ORG	I-ORG
+ois	O	O
+Studentn	O	O
+zammatroffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-14
+# text = .
+.	O	O
+
+# sent_id = bar_wiki_Google-15
+# text = Se hom nacha de Suachmaschin " BackRub " konzipiat .
+Se	O	O
+hom	O	O
+nacha	O	O
+de	O	O
+Suachmaschin	O	O
+"	O	O
+BackRub	B-MISC	B-ORG
+"	O	O
+konzipiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-16
+# text = Gnennt hom ses so zweng den Backlinks , noch dena de Wertigkeit vo oana Seitn bstimmt worn is .
+Gnennt	O	O
+hom	O	O
+ses	O	O
+so	O	O
+zweng	O	O
+den	O	O
+Backlinks	O	O
+,	O	O
+noch	O	O
+dena	O	O
+de	O	O
+Wertigkeit	O	O
+vo	O	O
+oana	O	O
+Seitn	O	O
+bstimmt	O	O
+worn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-17
+# text = 1998 hod se owa znagst neamd fia de nei entwicklte Suachtechnik interessiat .
+1998	O	O
+hod	O	O
+se	O	O
+owa	O	O
+znagst	O	O
+neamd	O	O
+fia	O	O
+de	O	O
+nei	O	O
+entwicklte	O	O
+Suachtechnik	O	O
+interessiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-18
+# text = Im August 1998 hod da amerikanische Investor Andreas von Bechtolsheim noch oana Zehn-Minutn-Präsentation fia de Weidaentwicklung vo da Suachmaschin an Scheck iwa 100.000 US-Dollar ausgschdöd .
+Im	O	O
+August	O	O
+1998	O	O
+hod	O	O
+da	O	O
+amerikanische	O	B-LOCderiv
+Investor	O	O
+Andreas	B-PER	B-PER
+von	I-PER	I-PER
+Bechtolsheim	I-PER	I-PER
+noch	O	O
+oana	O	O
+Zehn-Minutn-Präsentation	O	O
+fia	O	O
+de	O	O
+Weidaentwicklung	O	O
+vo	O	O
+da	O	O
+Suachmaschin	O	O
+an	O	O
+Scheck	O	O
+iwa	O	O
+100.000	O	O
+US-Dollar	B-ORGpart	B-LOCpart
+ausgschdöd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-19
+# text = Wei da Bechtolsheim Andy ognumma hod , „ Google " warad da Nama vo da Firma , hoda ois Empfänga „ Google Inc. " afn Scheck eitrong .
+Wei	O	O
+da	O	O
+Bechtolsheim	B-PER	B-PER
+Andy	I-PER	I-PER
+ognumma	O	O
+hod	O	O
+,	O	O
+„	O	O
+Google	B-ORG	B-ORG
+"	O	O
+warad	O	O
+da	O	O
+Nama	O	O
+vo	O	O
+da	O	O
+Firma	O	O
+,	O	O
+hoda	O	O
+ois	O	O
+Empfänga	O	O
+„	O	O
+Google	B-ORG	B-ORG
+Inc.	I-ORG	I-ORG
+"	O	O
+afn	O	O
+Scheck	O	O
+eitrong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-20
+# text = De Firma hods domois owa no gor ned gem. Larry Page und Sergey Brin ließen das Unternehmen unter diesem Namen registrieren , damid der Scheck kassiad werden konnte .
+De	O	O
+Firma	O	O
+hods	O	O
+domois	O	O
+owa	O	O
+no	O	O
+gor	O	O
+ned	O	O
+gem.	O	O
+Larry	B-PER	B-PER
+Page	I-PER	I-PER
+und	O	O
+Sergey	B-PER	B-PER
+Brin	I-PER	I-PER
+ließen	O	O
+das	O	O
+Unternehmen	O	O
+unter	O	O
+diesem	O	O
+Namen	O	O
+registrieren	O	O
+,	O	O
+damid	O	O
+der	O	O
+Scheck	O	O
+kassiad	O	O
+werden	O	O
+konnte	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-21
+# text = De " Google Inc " is nacha am 7. Septemba 1998 vo oana Garagn aus grindt worn .
+De	O	O
+"	O	O
+Google	B-ORG	B-ORG
+Inc	I-ORG	I-ORG
+"	O	O
+is	O	O
+nacha	O	O
+am	O	O
+7.	O	O
+Septemba	O	O
+1998	O	O
+vo	O	O
+oana	O	O
+Garagn	O	O
+aus	O	O
+grindt	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-22
+# text = Mit an Startkapital vo umgrechnt 810.000 Euro ( 1.100.000 Dollar , afbrocht vo de Famijn , Freind und vom Bechtolsheim Andy ) is de easchte Vasuachsversion vo dem Programm vaeffentlicht worn .
+Mit	O	O
+an	O	O
+Startkapital	O	O
+vo	O	O
+umgrechnt	O	O
+810.000	O	O
+Euro	O	O
+(	O	O
+1.100.000	O	O
+Dollar	O	O
+,	O	O
+afbrocht	O	O
+vo	O	O
+de	O	O
+Famijn	O	O
+,	O	O
+Freind	O	O
+und	O	O
+vom	O	O
+Bechtolsheim	B-PER	B-PER
+Andy	I-PER	I-PER
+)	O	O
+is	O	O
+de	O	O
+easchte	O	O
+Vasuachsversion	O	O
+vo	O	O
+dem	O	O
+Programm	O	O
+vaeffentlicht	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-23
+# text = Fimf Monat spoda hod Google mid ocht Ogstejtn a Biro in Palo Alto bezong .
+Fimf	O	O
+Monat	O	O
+spoda	O	O
+hod	O	O
+Google	B-ORG	B-ORG
+mid	O	O
+ocht	O	O
+Ogstejtn	O	O
+a	O	O
+Biro	O	O
+in	O	O
+Palo	B-LOC	B-LOC
+Alto	I-LOC	I-LOC
+bezong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-24
+# text = Uma 500.000 Suachofrong san boid Tog fia Tog vazeichnt worn .
+Uma	O	O
+500.000	O	O
+Suachofrong	O	O
+san	O	O
+boid	O	O
+Tog	O	O
+fia	O	O
+Tog	O	O
+vazeichnt	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-25
+# text = Wia nacha im Septemba 1999 AOL und Netscape mid Google zammagorbat hom , san de Suachofrong glei afs Sechsfoche gstieng .
+Wia	O	O
+nacha	O	O
+im	O	O
+Septemba	O	O
+1999	O	O
+AOL	B-ORG	B-ORG
+und	O	O
+Netscape	B-ORG	B-ORG
+mid	O	O
+Google	B-ORG	B-ORG
+zammagorbat	O	O
+hom	O	O
+,	O	O
+san	O	O
+de	O	O
+Suachofrong	O	O
+glei	O	O
+afs	O	O
+Sechsfoche	O	O
+gstieng	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-26
+# text = Im Joa 2005 is de " Google Inc. " zan easchtn Moi af da Forbes-Listn ogfiat ( Platz 38 ) .
+Im	O	O
+Joa	O	O
+2005	O	O
+is	O	O
+de	O	O
+"	O	O
+Google	B-ORG	B-ORG
+Inc.	I-ORG	I-ORG
+"	O	O
+zan	O	O
+easchtn	O	O
+Moi	O	O
+af	O	O
+da	O	O
+Forbes-Listn	B-ORGpart	B-MISC
+ogfiat	O	O
+(	O	O
+Platz	O	O
+38	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-27
+# text = Dea Unternehmenswert is im Joa 2005 af uma 55 Milliardn Dollar gschätzt worn .
+Dea	O	O
+Unternehmenswert	O	O
+is	O	O
+im	O	O
+Joa	O	O
+2005	O	O
+af	O	O
+uma	O	O
+55	O	O
+Milliardn	O	O
+Dollar	O	O
+gschätzt	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-28
+# text = 2006 is Google zua einflussreichstn Markn vo 2005 gwejd worn .
+2006	O	O
+is	O	O
+Google	B-ORG	B-ORG
+zua	O	O
+einflussreichstn	O	O
+Markn	O	O
+vo	O	O
+2005	O	O
+gwejd	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-29
+# text = Google deaf noch an Gerichtsurtei vom 14. Feba 2007 in Bejgien de Artikl vo nationaln Dogeszeidunga ned meah vaeffentlichn und hod 3,45 Mio. Euro Gejdstraf zoin miassn ..
+Google	B-ORG	B-ORG
+deaf	O	O
+noch	O	O
+an	O	O
+Gerichtsurtei	O	O
+vom	O	O
+14.	O	O
+Feba	O	O
+2007	O	O
+in	O	O
+Bejgien	B-LOC	B-LOC
+de	O	O
+Artikl	O	O
+vo	O	O
+nationaln	O	O
+Dogeszeidunga	O	O
+ned	O	O
+meah	O	O
+vaeffentlichn	O	O
+und	O	O
+hod	O	O
+3,45	O	O
+Mio.	O	O
+Euro	O	O
+Gejdstraf	O	O
+zoin	O	O
+miassn	O	O
+..	O	O
+
+# sent_id = bar_wiki_Google-30
+# text = Am 23. Aprui is Google de weatvoiste Markn vo da Wejd - vor " General Electric " , Microsoft und Coca-Cola .
+Am	O	O
+23.	O	O
+Aprui	O	O
+is	O	O
+Google	B-ORG	B-ORG
+de	O	O
+weatvoiste	O	O
+Markn	O	O
+vo	O	O
+da	O	O
+Wejd	O	O
+-	O	O
+vor	O	O
+"	O	O
+General	B-ORG	B-ORG
+Electric	I-ORG	I-ORG
+"	O	O
+,	O	O
+Microsoft	B-ORG	B-ORG
+und	O	O
+Coca-Cola	B-ORG	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Google-31
+# text = Drei Dog draf hod Google aa de moastn Bsuacha im Internet vor Microsoft , Yahoo , Time Warner , eBay und Wikipedia .
+Drei	O	O
+Dog	O	O
+draf	O	O
+hod	O	O
+Google	B-ORG	O
+aa	O	O
+de	O	O
+moastn	O	O
+Bsuacha	O	O
+im	O	O
+Internet	O	O
+vor	O	O
+Microsoft	B-ORG	B-ORG
+,	O	O
+Yahoo	B-ORG	B-ORG
+,	O	O
+Time	B-ORG	B-ORG
+Warner	I-ORG	I-ORG
+,	O	O
+eBay	B-ORG	B-ORG
+und	O	O
+Wikipedia	B-ORG	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Google-32
+# text = Google wead exklusiva Sponsor vo oam Satellitn midn Nama " GeoEye-1 " , dea wo aktueje houchaflesnde Satellitnfotos fia Google Earth und Google Maps liefat .
+Google	B-ORG	B-ORG
+wead	O	O
+exklusiva	O	O
+Sponsor	O	O
+vo	O	O
+oam	O	O
+Satellitn	O	O
+midn	O	O
+Nama	O	O
+"	O	O
+GeoEye-1	B-MISC	B-MISC
+"	O	O
+,	O	O
+dea	O	O
+wo	O	O
+aktueje	O	O
+houchaflesnde	O	O
+Satellitnfotos	O	O
+fia	O	O
+Google	B-MISC	B-MISC
+Earth	I-MISC	I-MISC
+und	O	O
+Google	B-MISC	B-MISC
+Maps	I-MISC	I-MISC
+liefat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-33
+# text = Beim Start vo dem Satellitn woan de zwoa Google-Grinda Larry Page und Sergey Brin dabei .
+Beim	O	O
+Start	O	O
+vo	O	O
+dem	O	O
+Satellitn	O	O
+woan	O	O
+de	O	O
+zwoa	O	O
+Google-Grinda	B-ORGpart	B-ORGpart
+Larry	B-PER	B-PER
+Page	I-PER	I-PER
+und	O	O
+Sergey	B-PER	B-PER
+Brin	I-PER	I-PER
+dabei	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-34
+# text = An Hauptsitz hod Google z Mountain View , in Kalifornien .
+An	O	O
+Hauptsitz	O	O
+hod	O	O
+Google	B-ORG	B-ORG
+z	O	O
+Mountain	B-LOC	B-LOC
+View	I-LOC	I-LOC
+,	O	O
+in	O	O
+Kalifornien	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Google-35
+# text = Dazua gibts owa a Niedalossunga in da gonzn Wejd .
+Dazua	O	O
+gibts	O	O
+owa	O	O
+a	O	O
+Niedalossunga	O	O
+in	O	O
+da	O	O
+gonzn	O	O
+Wejd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-36
+# text = De Eiropa-Zentrale sitzt z Dublin , Irland und de Deitschland-Zentrale z Hamburg .
+De	O	O
+Eiropa-Zentrale	B-LOCpart	O
+sitzt	O	O
+z	O	O
+Dublin	B-LOC	B-LOC
+,	O	O
+Irland	B-LOC	B-LOC
+und	O	O
+de	O	O
+Deitschland-Zentrale	B-LOCpart	B-LOCpart
+z	O	O
+Hamburg	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Google-37
+# text = Aa in Bayern gibts an Stondoat , nämli Minga .
+Aa	O	O
+in	O	O
+Bayern	B-LOC	B-LOC
+gibts	O	O
+an	O	O
+Stondoat	O	O
+,	O	O
+nämli	O	O
+Minga	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Google-38
+# text = In Berlin wead a neies Foaschungsinstitut baut .
+In	O	O
+Berlin	B-LOC	B-LOC
+wead	O	O
+a	O	O
+neies	O	O
+Foaschungsinstitut	O	O
+baut	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-39
+# text = Google vakafft fia beliabige Suachbegriffe s Einblendn gsponsata Links .
+Google	B-ORG	B-ORG
+vakafft	O	O
+fia	O	O
+beliabige	O	O
+Suachbegriffe	O	O
+s	O	O
+Einblendn	O	O
+gsponsata	O	O
+Links	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-40
+# text = Des nenna se Google AdWords .
+Des	O	O
+nenna	O	O
+se	O	O
+Google	B-MISC	B-MISC
+AdWords	I-MISC	I-MISC
+.	O	O
+
+# sent_id = bar_wiki_Google-41
+# text = Des is a reine Textweabung , de wo optisch speziej heavoaghom is , so doss da Nutza se vo de eigntlichn Suachergebnissn untascheidn ko .
+Des	O	O
+is	O	O
+a	O	O
+reine	O	O
+Textweabung	O	O
+,	O	O
+de	O	O
+wo	O	O
+optisch	O	O
+speziej	O	O
+heavoaghom	O	O
+is	O	O
+,	O	O
+so	O	O
+doss	O	O
+da	O	O
+Nutza	O	O
+se	O	O
+vo	O	O
+de	O	O
+eigntlichn	O	O
+Suachergebnissn	O	O
+untascheidn	O	O
+ko	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-42
+# text = So wead a Werbung ozoagt , de wo inhoitli zua Suachofrog passt .
+So	O	O
+wead	O	O
+a	O	O
+Werbung	O	O
+ozoagt	O	O
+,	O	O
+de	O	O
+wo	O	O
+inhoitli	O	O
+zua	O	O
+Suachofrog	O	O
+passt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-43
+# text = Obgrechnt wead vo Google dann pro Klick .
+Obgrechnt	O	O
+wead	O	O
+vo	O	O
+Google	B-ORG	B-ORG
+dann	O	O
+pro	O	O
+Klick	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-44
+# text = Dabei legt da Weabekunde sejm fest , wiavui ea fia an Klick zoin wui .
+Dabei	O	O
+legt	O	O
+da	O	O
+Weabekunde	O	O
+sejm	O	O
+fest	O	O
+,	O	O
+wiavui	O	O
+ea	O	O
+fia	O	O
+an	O	O
+Klick	O	O
+zoin	O	O
+wui	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-45
+# text = De Häh vom Preis bstimmt owa de Position , wann meahrare Ozoagn af ana Seitn gibt ( je meah ma zoit , desto weida obm is ma ) .
+De	O	O
+Häh	O	O
+vom	O	O
+Preis	O	O
+bstimmt	O	O
+owa	O	O
+de	O	O
+Position	O	O
+,	O	O
+wann	O	O
+meahrare	O	O
+Ozoagn	O	O
+af	O	O
+ana	O	O
+Seitn	O	O
+gibt	O	O
+(	O	O
+je	O	O
+meah	O	O
+ma	O	O
+zoit	O	O
+,	O	O
+desto	O	O
+weida	O	O
+obm	O	O
+is	O	O
+ma	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-46
+# text = Und wann ma beispuisweis a Monatslimit festglegt , des wo ma maximal ausgem wui , dann bstimmt da Preis aa , wia oft de Ozoag eascheint .
+Und	O	O
+wann	O	O
+ma	O	O
+beispuisweis	O	O
+a	O	O
+Monatslimit	O	O
+festglegt	O	O
+,	O	O
+des	O	O
+wo	O	O
+ma	O	O
+maximal	O	O
+ausgem	O	O
+wui	O	O
+,	O	O
+dann	O	O
+bstimmt	O	O
+da	O	O
+Preis	O	O
+aa	O	O
+,	O	O
+wia	O	O
+oft	O	O
+de	O	O
+Ozoag	O	O
+eascheint	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-47
+# text = Adsense san de Google-Ozoagn , de wo a Webmoasta af seina Hoamseitn eibindn ko , des hoasst , de Ozoagn wean kontextobhängig eiblendt .
+Adsense	B-MISC	B-MISC
+san	O	O
+de	O	O
+Google-Ozoagn	B-ORGpart	B-ORGpart
+,	O	O
+de	O	O
+wo	O	O
+a	O	O
+Webmoasta	O	O
+af	O	O
+seina	O	O
+Hoamseitn	O	O
+eibindn	O	O
+ko	O	O
+,	O	O
+des	O	O
+hoasst	O	O
+,	O	O
+de	O	O
+Ozoagn	O	O
+wean	O	O
+kontextobhängig	O	O
+eiblendt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-48
+# text = Google hod okindigt , si middlfristig ned nua af Weabung im Internet beschränkn z woin , sondan aa driwa ausse z gähn .
+Google	B-ORG	B-ORG
+hod	O	O
+okindigt	O	O
+,	O	O
+si	O	O
+middlfristig	O	O
+ned	O	O
+nua	O	O
+af	O	O
+Weabung	O	O
+im	O	O
+Internet	O	O
+beschränkn	O	O
+z	O	O
+woin	O	O
+,	O	O
+sondan	O	O
+aa	O	O
+driwa	O	O
+ausse	O	O
+z	O	O
+gähn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-49
+# text = In de USA laffn scho diverse Kooparationa dazua .
+In	O	O
+de	O	O
+USA	B-LOC	B-LOC
+laffn	O	O
+scho	O	O
+diverse	O	O
+Kooparationa	O	O
+dazua	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-50
+# text = Des is a Funkzion , de ma owalodn und inschdalian kau und mid de Browser Firefox und Internet Explorer funkzioniad und im Browser a zuasezliche Weakzaigleistn eifigt mid ana Google Suach-Box , am Phishing Schuz , Pop-Up Blocker und a da Meglichkait fia Leit mid eigena Intanetseitn , dosss ma Button mocha kau .
+Des	O	O
+is	O	O
+a	O	O
+Funkzion	O	O
+,	O	O
+de	O	O
+ma	O	O
+owalodn	O	O
+und	O	O
+inschdalian	O	O
+kau	O	O
+und	O	O
+mid	O	O
+de	O	O
+Browser	O	O
+Firefox	B-MISC	B-MISC
+und	O	O
+Internet	B-MISC	B-MISC
+Explorer	I-MISC	I-MISC
+funkzioniad	O	O
+und	O	O
+im	O	O
+Browser	O	O
+a	O	O
+zuasezliche	O	O
+Weakzaigleistn	O	O
+eifigt	O	O
+mid	O	O
+ana	O	O
+Google	B-ORG	B-ORG
+Suach-Box	O	O
+,	O	O
+am	O	O
+Phishing	O	O
+Schuz	O	O
+,	O	O
+Pop-Up	O	O
+Blocker	O	O
+und	O	O
+a	O	O
+da	O	O
+Meglichkait	O	O
+fia	O	O
+Leit	O	O
+mid	O	O
+eigena	O	O
+Intanetseitn	O	O
+,	O	O
+dosss	O	O
+ma	O	O
+Button	O	O
+mocha	O	O
+kau	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-51
+# text = Des is an Online Kalenda zum Vawoitn fu de peasenlichn Teamine , mid Earinnarungsfunkzion .
+Des	O	O
+is	O	O
+an	O	O
+Online	O	O
+Kalenda	O	O
+zum	O	O
+Vawoitn	O	O
+fu	O	O
+de	O	O
+peasenlichn	O	O
+Teamine	O	O
+,	O	O
+mid	O	O
+Earinnarungsfunkzion	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-52
+# text = Kau ma sogoa af Hendis vawendn .
+Kau	O	O
+ma	O	O
+sogoa	O	O
+af	O	O
+Hendis	O	O
+vawendn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-53
+# text = De Funkzion is owa datnschuzmessig umschdridn , wei natiali daun voi vui Infoamazion iwa oan söwa afn Google Server gschbaichat is .
+De	O	O
+Funkzion	O	O
+is	O	O
+owa	O	O
+datnschuzmessig	O	O
+umschdridn	O	O
+,	O	O
+wei	O	O
+natiali	O	O
+daun	O	O
+voi	O	O
+vui	O	O
+Infoamazion	O	O
+iwa	O	O
+oan	O	O
+söwa	O	O
+afn	O	O
+Google	B-ORG	B-ORG
+Server	O	O
+gschbaichat	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-54
+# text = Des is an Owendung , wo ma söwa gschossne Fotos online schdön und Web Albums mocha kau .
+Des	O	O
+is	O	O
+an	O	O
+Owendung	O	O
+,	O	O
+wo	O	O
+ma	O	O
+söwa	O	O
+gschossne	O	O
+Fotos	O	O
+online	O	O
+schdön	O	O
+und	O	O
+Web	O	O
+Albums	O	O
+mocha	O	O
+kau	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-55
+# text = Dea Service is in Google integriad worn , wia s 2004 de Fiama Picasa kafft haum .
+Dea	O	O
+Service	O	O
+is	O	O
+in	O	O
+Google	B-ORG	B-ORG
+integriad	O	O
+worn	O	O
+,	O	O
+wia	O	O
+s	O	O
+2004	O	O
+de	O	O
+Fiama	O	O
+Picasa	B-ORG	B-ORG
+kafft	O	O
+haum	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-56
+# text = Des is a Sisdem zum Easchdön und Beoawatn fu Blogs , des 1999 fu da Fiama Pyra Labs eafundn worn is .
+Des	O	O
+is	O	O
+a	O	O
+Sisdem	O	O
+zum	O	O
+Easchdön	O	O
+und	O	O
+Beoawatn	O	O
+fu	O	O
+Blogs	O	O
+,	O	O
+des	O	O
+1999	O	O
+fu	O	O
+da	O	O
+Fiama	O	O
+Pyra	B-ORG	B-ORG
+Labs	I-ORG	I-ORG
+eafundn	O	O
+worn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-57
+# text = 2003 hod Google Pyra Labs kafft .
+2003	O	O
+hod	O	O
+Google	B-ORG	B-ORG
+Pyra	B-ORG	B-ORG
+Labs	I-ORG	I-ORG
+kafft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-58
+# text = 2006 is de neichasde Blogger Version in da Betawariantn aussakema , mid dea a endguitig olle User af de Serva vo Google tranfariad worn san .
+2006	O	O
+is	O	O
+de	O	O
+neichasde	O	O
+Blogger	B-MISC	B-MISC
+Version	O	O
+in	O	O
+da	O	O
+Betawariantn	O	O
+aussakema	O	O
+,	O	O
+mid	O	O
+dea	O	O
+a	O	O
+endguitig	O	O
+olle	O	O
+User	O	O
+af	O	O
+de	O	O
+Serva	O	O
+vo	O	O
+Google	B-ORG	B-ORG
+tranfariad	O	O
+worn	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-59
+# text = Mid Blogger kau ma entweda Blogs af blogspot.com easchdön oda de Software benuzn fia Blogs , de ma auf eigne Domains hosted .
+Mid	O	O
+Blogger	B-MISC	B-MISC
+kau	O	O
+ma	O	O
+entweda	O	O
+Blogs	O	O
+af	O	O
+blogspot.com	B-MISC	B-MISC
+easchdön	O	O
+oda	O	O
+de	O	O
+Software	O	O
+benuzn	O	O
+fia	O	O
+Blogs	O	O
+,	O	O
+de	O	O
+ma	O	O
+auf	O	O
+eigne	O	O
+Domains	O	O
+hosted	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-60
+# text = Google News is a Funkzion , mid dea ma de neichastn Nochrichtn aus online Zeidunga duachfoastn kau , bzw. seine eignen Intaressensgebiete eischdön kau , zu denan ma Infoamziona und Neiigkeitn hom mechad .
+Google	B-MISC	B-MISC
+News	I-MISC	I-MISC
+is	O	O
+a	O	O
+Funkzion	O	O
+,	O	O
+mid	O	O
+dea	O	O
+ma	O	O
+de	O	O
+neichastn	O	O
+Nochrichtn	O	O
+aus	O	O
+online	O	O
+Zeidunga	O	O
+duachfoastn	O	O
+kau	O	O
+,	O	O
+bzw.	O	O
+seine	O	O
+eignen	O	O
+Intaressensgebiete	O	O
+eischdön	O	O
+kau	O	O
+,	O	O
+zu	O	O
+denan	O	O
+ma	O	O
+Infoamziona	O	O
+und	O	O
+Neiigkeitn	O	O
+hom	O	O
+mechad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-61
+# text = Funkzionad a af Hendis .
+Funkzionad	O	O
+a	O	O
+af	O	O
+Hendis	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-62
+# text = Des is a bsondare Suachfunkzion vu Google , mid dea ma schbeziej noch wissnschoftliche Artikl und uniweasiteare Zeidschriftn , Diplomoawaitn , Disseatazionen usw. suachn kau .
+Des	O	O
+is	O	O
+a	O	O
+bsondare	O	O
+Suachfunkzion	O	O
+vu	O	O
+Google	B-ORG	B-ORG
+,	O	O
+mid	O	O
+dea	O	O
+ma	O	O
+schbeziej	O	O
+noch	O	O
+wissnschoftliche	O	O
+Artikl	O	O
+und	O	O
+uniweasiteare	O	O
+Zeidschriftn	O	O
+,	O	O
+Diplomoawaitn	O	O
+,	O	O
+Disseatazionen	O	O
+usw.	O	O
+suachn	O	O
+kau	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-63
+# text = Funkzioniad jez a af Deitsch .
+Funkzioniad	O	O
+jez	O	O
+a	O	O
+af	O	O
+Deitsch	B-LANG	B-LANG
+.	O	O
+
+# sent_id = bar_wiki_Google-64
+# text = Gmail is da Webmail Service vu Google , dea am 1. Aprü 2004 gschdart worn is .
+Gmail	B-MISC	B-MISC
+is	O	O
+da	O	O
+Webmail	O	O
+Service	O	O
+vu	O	O
+Google	B-ORG	B-ORG
+,	O	O
+dea	O	O
+am	O	O
+1.	O	O
+Aprü	O	O
+2004	O	O
+gschdart	O	O
+worn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-65
+# text = Zu dea Zeid woan Hotmail und Yahoo-Mail de waidast vabroatadstn Webmail Services , und wia Google aunkündigt hod , dasa baim Gmail a jeda User a Gigabyte Webspace hod , haum de mearan Leit glaubt , des is a Aprüscheaz - voa oim , wei Google schau efda am 1. Aprü kloane Pflanzarein gmocht hod .
+Zu	O	O
+dea	O	O
+Zeid	O	O
+woan	O	O
+Hotmail	B-MISC	B-MISC
+und	O	O
+Yahoo-Mail	B-MISC	B-MISC
+de	O	O
+waidast	O	O
+vabroatadstn	O	O
+Webmail	O	O
+Services	O	O
+,	O	O
+und	O	O
+wia	O	O
+Google	B-ORG	B-ORG
+aunkündigt	O	O
+hod	O	O
+,	O	O
+dasa	O	O
+baim	O	O
+Gmail	B-MISC	B-MISC
+a	O	O
+jeda	O	O
+User	O	O
+a	O	O
+Gigabyte	O	O
+Webspace	O	O
+hod	O	O
+,	O	O
+haum	O	O
+de	O	O
+mearan	O	O
+Leit	O	O
+glaubt	O	O
+,	O	O
+des	O	O
+is	O	O
+a	O	O
+Aprüscheaz	O	O
+-	O	O
+voa	O	O
+oim	O	O
+,	O	O
+wei	O	O
+Google	B-ORG	B-ORG
+schau	O	O
+efda	O	O
+am	O	O
+1.	O	O
+Aprü	O	O
+kloane	O	O
+Pflanzarein	O	O
+gmocht	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-66
+# text = Desmoi wo des owa eanst gmoand , und mitlaile hod jeda User sogoa zwoa Gigabyte Webspace gratis dabei ( fia Attachments , gschbaichate e-Mails , usw. )
+Desmoi	O	O
+wo	O	O
+des	O	O
+owa	O	O
+eanst	O	O
+gmoand	O	O
+,	O	O
+und	O	O
+mitlaile	O	O
+hod	O	O
+jeda	O	O
+User	O	O
+sogoa	O	O
+zwoa	O	O
+Gigabyte	O	O
+Webspace	O	O
+gratis	O	O
+dabei	O	O
+(	O	O
+fia	O	O
+Attachments	O	O
+,	O	O
+gschbaichate	O	O
+e-Mails	O	O
+,	O	O
+usw.	O	O
+)	O	O
+
+# sent_id = bar_wiki_Google-67
+# text = Google Talk is a Voice over IP Program , so eanli wia Skype .
+Google	B-MISC	B-MISC
+Talk	I-MISC	I-MISC
+is	O	O
+a	O	O
+Voice	O	O
+over	O	O
+IP	O	O
+Program	O	O
+,	O	O
+so	O	O
+eanli	O	O
+wia	O	O
+Skype	B-MISC	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Google-68
+# text = Google Video is a gratis Hosting vu Videos und glaichzeitig aa a Suachmaschin fia ole Videos im gaunzn Intanet .
+Google	B-MISC	B-MISC
+Video	I-MISC	I-MISC
+is	O	O
+a	O	O
+gratis	O	O
+Hosting	O	O
+vu	O	O
+Videos	O	O
+und	O	O
+glaichzeitig	O	O
+aa	O	O
+a	O	O
+Suachmaschin	O	O
+fia	O	O
+ole	O	O
+Videos	O	O
+im	O	O
+gaunzn	O	O
+Intanet	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-69
+# text = De Funkzion wü kloaraweis Youtube a weng in Eafoig schdraitig mochn und hod desweng a boa Voateij , domid s User aunlokn .
+De	O	O
+Funkzion	O	O
+wü	O	O
+kloaraweis	O	O
+Youtube	B-MISC	B-ORG
+a	O	O
+weng	O	O
+in	O	O
+Eafoig	O	O
+schdraitig	O	O
+mochn	O	O
+und	O	O
+hod	O	O
+desweng	O	O
+a	O	O
+boa	O	O
+Voateij	O	O
+,	O	O
+domid	O	O
+s	O	O
+User	O	O
+aunlokn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-70
+# text = Bei Google Video is de Auflesung gressa und ma kau lengare Videos afilodn ( bei Youtube is fia noamoie User des Limit zehn Minutn ) .
+Bei	O	O
+Google	B-MISC	B-MISC
+Video	I-MISC	I-MISC
+is	O	O
+de	O	O
+Auflesung	O	O
+gressa	O	O
+und	O	O
+ma	O	O
+kau	O	O
+lengare	O	O
+Videos	O	O
+afilodn	O	O
+(	O	O
+bei	O	O
+Youtube	B-MISC	B-ORG
+is	O	O
+fia	O	O
+noamoie	O	O
+User	O	O
+des	O	O
+Limit	O	O
+zehn	O	O
+Minutn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-71
+# text = Im Nowemba 2006 hod Google Youtube iwahaupst komplet kafft undn Service in Google Video integriad .
+Im	O	O
+Nowemba	O	O
+2006	O	O
+hod	O	O
+Google	B-ORG	B-ORG
+Youtube	B-MISC	B-ORG
+iwahaupst	O	O
+komplet	O	O
+kafft	O	O
+undn	O	O
+Service	O	O
+in	O	O
+Google	B-MISC	B-MISC
+Video	I-MISC	I-MISC
+integriad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-72
+# text = Youtube is owa a waidahin nu unta seina Domain aufruafboa .
+Youtube	B-MISC	B-ORG
+is	O	O
+owa	O	O
+a	O	O
+waidahin	O	O
+nu	O	O
+unta	O	O
+seina	O	O
+Domain	O	O
+aufruafboa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-73
+# text = Meah unta Youtube .
+Meah	O	O
+unta	O	O
+Youtube	B-MISC	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Google-74
+# text = Mid de Google Maps hod de Fiama zum easchtn Moi ogfongt , Laundkoatn und Satelitnfotos ois Service zum aunbitn .
+Mid	O	O
+de	O	O
+Google	B-MISC	B-MISC
+Maps	I-MISC	I-MISC
+hod	O	O
+de	O	O
+Fiama	O	O
+zum	O	O
+easchtn	O	O
+Moi	O	O
+ogfongt	O	O
+,	O	O
+Laundkoatn	O	O
+und	O	O
+Satelitnfotos	O	O
+ois	O	O
+Service	O	O
+zum	O	O
+aunbitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-75
+# text = Google Maps funkzioniad im Intanet Browser und ma braucht koa Software owalodn und nix inschdalian .
+Google	B-MISC	B-MISC
+Maps	I-MISC	I-MISC
+funkzioniad	O	O
+im	O	O
+Intanet	O	O
+Browser	O	O
+und	O	O
+ma	O	O
+braucht	O	O
+koa	O	O
+Software	O	O
+owalodn	O	O
+und	O	O
+nix	O	O
+inschdalian	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-76
+# text = Am Aufaung woa s Koatnmatrial af de USA bschrenkt , owa midlawei kau ma se de gaunze Wejd oschaun , teiweis in foa houcha Detailschdufn .
+Am	O	O
+Aufaung	O	O
+woa	O	O
+s	O	O
+Koatnmatrial	O	O
+af	O	O
+de	O	O
+USA	B-LOC	B-LOC
+bschrenkt	O	O
+,	O	O
+owa	O	O
+midlawei	O	O
+kau	O	O
+ma	O	O
+se	O	O
+de	O	O
+gaunze	O	O
+Wejd	O	O
+oschaun	O	O
+,	O	O
+teiweis	O	O
+in	O	O
+foa	O	O
+houcha	O	O
+Detailschdufn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Google-77
+# text = Seitdem s owa s Google Earth gibt , is des Intaresse on Google Maps a weng zrukgaunga .
+Seitdem	O	O
+s	O	O
+owa	O	O
+s	O	O
+Google	O	O
+Earth	O	O
+gibt	O	O
+,	O	O
+is	O	O
+des	O	O
+Intaresse	O	O
+on	O	O
+Google	O	O
+Maps	O	O
+a	O	O
+weng	O	O
+zrukgaunga	O	O
+.	O	O
+

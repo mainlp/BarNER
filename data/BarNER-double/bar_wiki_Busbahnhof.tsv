@@ -1,0 +1,2229 @@
+# newdoc id = bar_wiki_Busbahnhof
+# sent_id = bar_wiki_Busbahnhof-1
+# text = Busbahnhof
+Busbahnhof	O	O
+
+# sent_id = bar_wiki_Busbahnhof-2
+# text = ABusbahnhof ( kurz Busbhf , Busbf oda Bbf ) aa Omnibusbahhof ( Obf ) , Bushof oda Busterminal , is a greaßare Hoitesteinanlog , de ois - meist zentroia - Vaknüpfungspunkt vo vaschiedane Buslinien deant .
+ABusbahnhof	O	O
+(	O	O
+kurz	O	O
+Busbhf	O	O
+,	O	O
+Busbf	O	O
+oda	O	O
+Bbf	O	O
+)	O	O
+aa	O	O
+Omnibusbahhof	O	O
+(	O	O
+Obf	O	O
+)	O	O
+,	O	O
+Bushof	O	O
+oda	O	O
+Busterminal	O	O
+,	O	O
+is	O	O
+a	O	O
+greaßare	O	O
+Hoitesteinanlog	O	O
+,	O	O
+de	O	O
+ois	O	O
+-	O	O
+meist	O	O
+zentroia	O	O
+-	O	O
+Vaknüpfungspunkt	O	O
+vo	O	O
+vaschiedane	O	O
+Buslinien	O	O
+deant	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-3
+# text = Dobei handlt's se um a Vakeahrsflächn mit Straßnoschluss , de vo Omnibus bfahrn werd .
+Dobei	O	O
+handlt's	O	O
+se	O	O
+um	O	O
+a	O	O
+Vakeahrsflächn	O	O
+mit	O	O
+Straßnoschluss	O	O
+,	O	O
+de	O	O
+vo	O	O
+Omnibus	O	O
+bfahrn	O	O
+werd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-4
+# text = Zum Ei- und Aussteing vo Fahrgäst wern Bussteig ( analog de Bahnsteig in am Bahnhof ) oglegt , an dene Bus hoitn .
+Zum	O	O
+Ei-	O	O
+und	O	O
+Aussteing	O	O
+vo	O	O
+Fahrgäst	O	O
+wern	O	O
+Bussteig	O	O
+(	O	O
+analog	O	O
+de	O	O
+Bahnsteig	O	O
+in	O	O
+am	O	O
+Bahnhof	O	O
+)	O	O
+oglegt	O	O
+,	O	O
+an	O	O
+dene	O	O
+Bus	O	O
+hoitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-5
+# text = Zua Vanetzung mit Eisnbahn oda Stodbahn wern bei Nei- oda Umbautn vo Busbahnheaf manchmoi Kombibahnsteig oglegt .
+Zua	O	O
+Vanetzung	O	O
+mit	O	O
+Eisnbahn	O	O
+oda	O	O
+Stodbahn	O	O
+wern	O	O
+bei	O	O
+Nei-	O	O
+oda	O	O
+Umbautn	O	O
+vo	O	O
+Busbahnheaf	O	O
+manchmoi	O	O
+Kombibahnsteig	O	O
+oglegt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-6
+# text = In Deitschland werd oft de Kurzbezeichnung ZOB ( Zentroia Omnibus-Bahnhof ) vawendt , wobei oitanativ aa de Kurzbezeichnung ZUM fia Zentroie Umsteigehoitestelln , ZUP fia Zentroia Umsteige-Punkt oda ZOH fia Zentroia Omnibus-Hoitestej vawandt wern .
+In	O	O
+Deitschland	B-LOC	B-LOC
+werd	O	O
+oft	O	O
+de	O	O
+Kurzbezeichnung	O	O
+ZOB	O	O
+(	O	O
+Zentroia	O	O
+Omnibus-Bahnhof	O	O
+)	O	O
+vawendt	O	O
+,	O	O
+wobei	O	O
+oitanativ	O	O
+aa	O	O
+de	O	O
+Kurzbezeichnung	O	O
+ZUM	O	O
+fia	O	O
+Zentroie	O	O
+Umsteigehoitestelln	O	O
+,	O	O
+ZUP	O	O
+fia	O	O
+Zentroia	O	O
+Umsteige-Punkt	O	O
+oda	O	O
+ZOH	O	O
+fia	O	O
+Zentroia	O	O
+Omnibus-Hoitestej	O	O
+vawandt	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-7
+# text = A vaoideta voikstümliche Bezeichnung laut " Gummibahnhof " .
+A	O	O
+vaoideta	O	O
+voikstümliche	O	O
+Bezeichnung	O	O
+laut	O	O
+"	O	O
+Gummibahnhof	O	O
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-8
+# text = Da erste ZOB vo Deitschland , da Zentroia Omnibusbahnhof Flensbuag , is am 31. Dezemba 1931 im umbautn oidn Bahnhof Flensbuag ereaffnat worn , oiso in zentroia Lag vo da Stod .
+Da	O	O
+erste	O	O
+ZOB	O	O
+vo	O	O
+Deitschland	B-LOC	B-LOC
+,	O	O
+da	O	O
+Zentroia	B-LOC	B-LOC
+Omnibusbahnhof	I-LOC	I-LOC
+Flensbuag	I-LOC	I-LOC
+,	O	O
+is	O	O
+am	O	O
+31.	O	O
+Dezemba	O	O
+1931	O	O
+im	O	O
+umbautn	O	O
+oidn	O	O
+Bahnhof	B-LOC	B-LOC
+Flensbuag	I-LOC	I-LOC
+ereaffnat	O	O
+worn	O	O
+,	O	O
+oiso	O	O
+in	O	O
+zentroia	O	O
+Lag	O	O
+vo	O	O
+da	O	O
+Stod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-9
+# text = 1951 is des Konzept vom Hambuaga ZOB ( Neibau 2003 ) mit seine Bussteig und am gemeinsama Zentroigebäude europaweit wegweisand fia den Bus-Fernvakeahr .
+1951	O	O
+is	O	O
+des	O	O
+Konzept	O	O
+vom	O	O
+Hambuaga	B-LOCderiv	B-LOCderiv
+ZOB	O	O
+(	O	O
+Neibau	O	O
+2003	O	O
+)	O	O
+mit	O	O
+seine	O	O
+Bussteig	O	O
+und	O	O
+am	O	O
+gemeinsama	O	O
+Zentroigebäude	O	O
+europaweit	B-LOCderiv	B-LOCderiv
+wegweisand	O	O
+fia	O	O
+den	O	O
+Bus-Fernvakeahr	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-10
+# text = Busbahnheaf findn se aa heit allgmein in zentroia Lag entweda in da Näh vo am Bahnhof oda in da Innanstod .
+Busbahnheaf	O	O
+findn	O	O
+se	O	O
+aa	O	O
+heit	O	O
+allgmein	O	O
+in	O	O
+zentroia	O	O
+Lag	O	O
+entweda	O	O
+in	O	O
+da	O	O
+Näh	O	O
+vo	O	O
+am	O	O
+Bahnhof	O	O
+oda	O	O
+in	O	O
+da	O	O
+Innanstod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-11
+# text = Zu untascheidn is zwischn Umsteigeknotn vom Stod- oda Nahvakeah und Olaafpunkte fia Fernbuslinien .
+Zu	O	O
+untascheidn	O	O
+is	O	O
+zwischn	O	O
+Umsteigeknotn	O	O
+vom	O	O
+Stod-	O	O
+oda	O	O
+Nahvakeah	O	O
+und	O	O
+Olaafpunkte	O	O
+fia	O	O
+Fernbuslinien	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-12
+# text = A Ausnahm vo da Regl ana zentroin Lag stejt da ZOB Berlindo , der weda in da Berlina Innanstod gleng is , no in da Näh vo am ( Fernvakeahs- ) Bahnhof .
+A	O	O
+Ausnahm	O	O
+vo	O	O
+da	O	O
+Regl	O	O
+ana	O	O
+zentroin	O	O
+Lag	O	O
+stejt	O	O
+da	O	O
+ZOB	B-LOC	B-LOC
+Berlindo	I-LOC	I-LOC
+,	O	O
+der	O	O
+weda	O	O
+in	O	O
+da	O	O
+Berlina	B-LOCderiv	B-LOCderiv
+Innanstod	O	O
+gleng	O	O
+is	O	O
+,	O	O
+no	O	O
+in	O	O
+da	O	O
+Näh	O	O
+vo	O	O
+am	O	O
+(	O	O
+Fernvakeahs-	O	O
+)	O	O
+Bahnhof	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-13
+# text = Ohne zuasätzlichn Fuaßweg is er ledigle an des Busnetz vo de Berlina Vakeahsbetriebe direkt obundn ; zu U- und S-Bahn muass jeweis a Streck von oanige hundart Meta z' Fuaß zruckglegt wern .
+Ohne	O	O
+zuasätzlichn	O	O
+Fuaßweg	O	O
+is	O	O
+er	O	O
+ledigle	O	O
+an	O	O
+des	O	O
+Busnetz	O	O
+vo	O	O
+de	O	O
+Berlina	B-ORG	B-ORG
+Vakeahsbetriebe	I-ORG	I-ORG
+direkt	O	O
+obundn	O	O
+;	O	O
+zu	O	O
+U-	O	O
+und	O	O
+S-Bahn	O	O
+muass	O	O
+jeweis	O	O
+a	O	O
+Streck	O	O
+von	O	O
+oanige	O	O
+hundart	O	O
+Meta	O	O
+z'	O	O
+Fuaß	O	O
+zruckglegt	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-14
+# text = Fernlinienbus erreichan eahm iba de nahe glengne Stodautobahn ( AVUS ) .
+Fernlinienbus	O	O
+erreichan	O	O
+eahm	O	O
+iba	O	O
+de	O	O
+nahe	O	O
+glengne	O	O
+Stodautobahn	O	O
+(	O	O
+AVUS	B-LOC	B-LOC
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-15
+# text = A weidarne Ausnahm buidt da Zentroie Omnibusbahnhof in Stuttgart .
+A	O	O
+weidarne	O	O
+Ausnahm	O	O
+buidt	O	O
+da	O	O
+Zentroie	O	O
+Omnibusbahnhof	O	O
+in	O	O
+Stuttgart	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-16
+# text = Infoig vo de Bauorbatin fia Stuttgart 21 is da bisharige Standort gengiba am Hauptbahnhof zum 1. Aprui 2010 gschlossn , de Bus foahrn ibagangsweis vo zwoa Standort in de Stodteil Obatürkheim und Zuffnhausn ob .
+Infoig	O	O
+vo	O	O
+de	O	O
+Bauorbatin	O	O
+fia	O	O
+Stuttgart	B-MISC	B-MISC
+21	I-MISC	I-MISC
+is	O	O
+da	O	O
+bisharige	O	O
+Standort	O	O
+gengiba	O	O
+am	O	O
+Hauptbahnhof	O	O
+zum	O	O
+1.	O	O
+Aprui	O	O
+2010	O	O
+gschlossn	O	O
+,	O	O
+de	O	O
+Bus	O	O
+foahrn	O	O
+ibagangsweis	O	O
+vo	O	O
+zwoa	O	O
+Standort	O	O
+in	O	O
+de	O	O
+Stodteil	O	O
+Obatürkheim	B-LOC	B-LOC
+und	O	O
+Zuffnhausn	B-LOC	B-LOC
+ob	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-17
+# text = Seit 10. Mai 2016 is da neie Zentroie Omnibusbahnhof am Stuttgarta Flughafn in Betrieb .
+Seit	O	O
+10.	O	O
+Mai	O	O
+2016	O	O
+is	O	O
+da	O	O
+neie	O	O
+Zentroie	O	O
+Omnibusbahnhof	O	O
+am	O	O
+Stuttgarta	B-LOCderiv	B-LOC
+Flughafn	O	I-LOC
+in	O	O
+Betrieb	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-18
+# text = In vui Lända hot da Vakeah mit Langstreckn-Buslinian a wesantle greaßare Bedeitung ois in Deitschland .
+In	O	O
+vui	O	O
+Lända	O	O
+hot	O	O
+da	O	O
+Vakeah	O	O
+mit	O	O
+Langstreckn-Buslinian	O	O
+a	O	O
+wesantle	O	O
+greaßare	O	O
+Bedeitung	O	O
+ois	O	O
+in	O	O
+Deitschland	B-LOC	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-19
+# text = Do findn se of Busbahnheaf mit de Dimensionan vo am Hauptbahnhof oda am kloana Flughofn , beispuisweis da 2005 in Helsinik ereaffnate Kapin keskus oda da Busbahnhof Esenler in Istanbul , da greaßte Busbahnhof vo da Türkei und oana vo de greaßtn vo da Wejt .
+Do	O	O
+findn	O	O
+se	O	O
+of	O	O
+Busbahnheaf	O	O
+mit	O	O
+de	O	O
+Dimensionan	O	O
+vo	O	O
+am	O	O
+Hauptbahnhof	O	O
+oda	O	O
+am	O	O
+kloana	O	O
+Flughofn	O	O
+,	O	O
+beispuisweis	O	O
+da	O	O
+2005	O	O
+in	O	O
+Helsinik	B-LOC	B-LOC
+ereaffnate	O	O
+Kapin	B-LOC	B-LOC
+keskus	I-LOC	I-LOC
+oda	O	O
+da	O	O
+Busbahnhof	B-LOC	B-LOC
+Esenler	I-LOC	I-LOC
+in	O	O
+Istanbul	B-LOC	B-LOC
+,	O	O
+da	O	O
+greaßte	O	O
+Busbahnhof	O	O
+vo	O	O
+da	O	O
+Türkei	B-LOC	B-LOC
+und	O	O
+oana	O	O
+vo	O	O
+de	O	O
+greaßtn	O	O
+vo	O	O
+da	O	O
+Wejt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-20
+# text = Oft befindt se a Busbahnhof in unmittlbora Näh zu am Bahnhof vo ana Eisnbahn , Schnejbahn ( S- , U-Bahn ) oda Stodbahn , um den Fahrgäst des Umsteing zwischn de ÖV-Vakeahsmittln zum aleichtan .
+Oft	O	O
+befindt	O	O
+se	O	O
+a	O	O
+Busbahnhof	O	O
+in	O	O
+unmittlbora	O	O
+Näh	O	O
+zu	O	O
+am	O	O
+Bahnhof	O	O
+vo	O	O
+ana	O	O
+Eisnbahn	O	O
+,	O	O
+Schnejbahn	O	O
+(	O	O
+S-	O	O
+,	O	O
+U-Bahn	O	O
+)	O	O
+oda	O	O
+Stodbahn	O	O
+,	O	O
+um	O	O
+den	O	O
+Fahrgäst	O	O
+des	O	O
+Umsteing	O	O
+zwischn	O	O
+de	O	O
+ÖV-Vakeahsmittln	O	O
+zum	O	O
+aleichtan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-21
+# text = Dobei werd aaf kurze Weg , ausreichand Fahrgastinformation und a barrierefreie Gstoitung gacht , dozua ghearn beispuisweis Makierunga fia Sehbehindarte .
+Dobei	O	O
+werd	O	O
+aaf	O	O
+kurze	O	O
+Weg	O	O
+,	O	O
+ausreichand	O	O
+Fahrgastinformation	O	O
+und	O	O
+a	O	O
+barrierefreie	O	O
+Gstoitung	O	O
+gacht	O	O
+,	O	O
+dozua	O	O
+ghearn	O	O
+beispuisweis	O	O
+Makierunga	O	O
+fia	O	O
+Sehbehindarte	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-22
+# text = Es gibt jedo aa Ort , de iba go koa Gleisobindung vafüng , jedo iba an Busbahnhof , wo se mehrare Buslinian treffan .
+Es	O	O
+gibt	O	O
+jedo	O	O
+aa	O	O
+Ort	O	O
+,	O	O
+de	O	O
+iba	O	O
+go	O	O
+koa	O	O
+Gleisobindung	O	O
+vafüng	O	O
+,	O	O
+jedo	O	O
+iba	O	O
+an	O	O
+Busbahnhof	O	O
+,	O	O
+wo	O	O
+se	O	O
+mehrare	O	O
+Buslinian	O	O
+treffan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-23
+# text = Zum leichtarn Eisteing aa mit Kindawong , Gepäck oda Roistui san obgschrägte neba erheahte Bordstoakantn voahandn .
+Zum	O	O
+leichtarn	O	O
+Eisteing	O	O
+aa	O	O
+mit	O	O
+Kindawong	O	O
+,	O	O
+Gepäck	O	O
+oda	O	O
+Roistui	O	O
+san	O	O
+obgschrägte	O	O
+neba	O	O
+erheahte	O	O
+Bordstoakantn	O	O
+voahandn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-24
+# text = Es gibt vaschiedane Baufoaman fia Busbahnheaf .
+Es	O	O
+gibt	O	O
+vaschiedane	O	O
+Baufoaman	O	O
+fia	O	O
+Busbahnheaf	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-25
+# text = Des san :
+Des	O	O
+san	O	O
+:	O	O
+
+# sent_id = bar_wiki_Busbahnhof-26
+# text = De Rondell-Foam is oane vo de typischstn Bauforman fia Busbahnheaf , insbsondare im städtischn Vakeah .
+De	O	O
+Rondell-Foam	O	O
+is	O	O
+oane	O	O
+vo	O	O
+de	O	O
+typischstn	O	O
+Bauforman	O	O
+fia	O	O
+Busbahnheaf	O	O
+,	O	O
+insbsondare	O	O
+im	O	O
+städtischn	O	O
+Vakeah	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-27
+# text = Bei da Rondellfoam bsteht da Busbahnhof aus ana Ellipsn in Mittlfoam , um de de Bus im Linksvakeah ( in Lända mit Linksvakeah : Rechtsvakeah ) vorbeifahrn .
+Bei	O	O
+da	O	O
+Rondellfoam	O	O
+bsteht	O	O
+da	O	O
+Busbahnhof	O	O
+aus	O	O
+ana	O	O
+Ellipsn	O	O
+in	O	O
+Mittlfoam	O	O
+,	O	O
+um	O	O
+de	O	O
+de	O	O
+Bus	O	O
+im	O	O
+Linksvakeah	O	O
+(	O	O
+in	O	O
+Lända	O	O
+mit	O	O
+Linksvakeah	O	O
+:	O	O
+Rechtsvakeah	O	O
+)	O	O
+vorbeifahrn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-28
+# text = Sie erlaubt a sehr leichts Wendn , wos im Städtischn Vakeah oft vo Bedeitung is .
+Sie	O	O
+erlaubt	O	O
+a	O	O
+sehr	O	O
+leichts	O	O
+Wendn	O	O
+,	O	O
+wos	O	O
+im	O	O
+Städtischn	O	O
+Vakeah	O	O
+oft	O	O
+vo	O	O
+Bedeitung	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-29
+# text = De Rondellform konn , um Plotz zum sparn , mit Eibuchtunga zua so gnanntn " Sägezahnfoam " ausgstatt wern , de a leichts Ei- und Ausfahrn vo de Omnibus ermeaglichn .
+De	O	O
+Rondellform	O	O
+konn	O	O
+,	O	O
+um	O	O
+Plotz	O	O
+zum	O	O
+sparn	O	O
+,	O	O
+mit	O	O
+Eibuchtunga	O	O
+zua	O	O
+so	O	O
+gnanntn	O	O
+"	O	O
+Sägezahnfoam	O	O
+"	O	O
+ausgstatt	O	O
+wern	O	O
+,	O	O
+de	O	O
+a	O	O
+leichts	O	O
+Ei-	O	O
+und	O	O
+Ausfahrn	O	O
+vo	O	O
+de	O	O
+Omnibus	O	O
+ermeaglichn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-30
+# text = Do gibt's zwoa Ortn , de Schräg- und de Längsparallellfoam .
+Do	O	O
+gibt's	O	O
+zwoa	O	O
+Ortn	O	O
+,	O	O
+de	O	O
+Schräg-	O	O
+und	O	O
+de	O	O
+Längsparallellfoam	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-31
+# text = Dobei wern de oanzalna Bussteig parallel zuaeinanda , entweda längs oda diagonoi , ogordnat .
+Dobei	O	O
+wern	O	O
+de	O	O
+oanzalna	O	O
+Bussteig	O	O
+parallel	O	O
+zuaeinanda	O	O
+,	O	O
+entweda	O	O
+längs	O	O
+oda	O	O
+diagonoi	O	O
+,	O	O
+ogordnat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-32
+# text = De Foam hot zwar gengiba da Rondellfoam den Voateil , dass Buss untaschiediche Richtunga voananda trennt wern , bsitzt aba de Nochteil vom Flächnvabrauch sowia de fehlande Aufstejflächn und haife vo da fehlandn Wendemeaglichkeitn .
+De	O	O
+Foam	O	O
+hot	O	O
+zwar	O	O
+gengiba	O	O
+da	O	O
+Rondellfoam	O	O
+den	O	O
+Voateil	O	O
+,	O	O
+dass	O	O
+Buss	O	O
+untaschiediche	O	O
+Richtunga	O	O
+voananda	O	O
+trennt	O	O
+wern	O	O
+,	O	O
+bsitzt	O	O
+aba	O	O
+de	O	O
+Nochteil	O	O
+vom	O	O
+Flächnvabrauch	O	O
+sowia	O	O
+de	O	O
+fehlande	O	O
+Aufstejflächn	O	O
+und	O	O
+haife	O	O
+vo	O	O
+da	O	O
+fehlandn	O	O
+Wendemeaglichkeitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-33
+# text = A Sondafoam vo am Busbahnhof existiert beim ZOB in Bossa .
+A	O	O
+Sondafoam	O	O
+vo	O	O
+am	O	O
+Busbahnhof	O	O
+existiert	O	O
+beim	O	O
+ZOB	O	O
+in	O	O
+Bossa	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-34
+# text = Bei dem existiert a Rendezvous-System , und de Bus hoitn aafgrund vo am Plotzmangl in beide Richtunga parallel .
+Bei	O	O
+dem	O	O
+existiert	O	O
+a	O	O
+Rendezvous-System	O	O
+,	O	O
+und	O	O
+de	O	O
+Bus	O	O
+hoitn	O	O
+aafgrund	O	O
+vo	O	O
+am	O	O
+Plotzmangl	O	O
+in	O	O
+beide	O	O
+Richtunga	O	O
+parallel	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-35
+# text = Er hot zwoa Zua- / Obfoahtn in beide Richtunga .
+Er	O	O
+hot	O	O
+zwoa	O	O
+Zua-	O	O
+/	O	O
+Obfoahtn	O	O
+in	O	O
+beide	O	O
+Richtunga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-36
+# text = Do er sowoi vo Süd ois aa vo Nord ogfahrn wern ko , braucht ma nua finf große Bussteig , und da ZOB werd nua vom Stodvakeah und vo in den Südwestn obgehande Regionoibuslinien ogfoahn .
+Do	O	O
+er	O	O
+sowoi	O	O
+vo	O	O
+Süd	O	O
+ois	O	O
+aa	O	O
+vo	O	O
+Nord	O	O
+ogfahrn	O	O
+wern	O	O
+ko	O	O
+,	O	O
+braucht	O	O
+ma	O	O
+nua	O	O
+finf	O	O
+große	O	O
+Bussteig	O	O
+,	O	O
+und	O	O
+da	O	O
+ZOB	O	O
+werd	O	O
+nua	O	O
+vom	O	O
+Stodvakeah	O	O
+und	O	O
+vo	O	O
+in	O	O
+den	O	O
+Südwestn	O	O
+obgehande	O	O
+Regionoibuslinien	O	O
+ogfoahn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-37
+# text = De Kaifoam is a bstimmte Bauweis vo da Parallelfoam , olladings mit dem Untaschied , dass dobei senktrecht zu de paralleln Busssteig da Wartebereich fia Fahrgäst gfiaht werd .
+De	O	O
+Kaifoam	O	O
+is	O	O
+a	O	O
+bstimmte	O	O
+Bauweis	O	O
+vo	O	O
+da	O	O
+Parallelfoam	O	O
+,	O	O
+olladings	O	O
+mit	O	O
+dem	O	O
+Untaschied	O	O
+,	O	O
+dass	O	O
+dobei	O	O
+senktrecht	O	O
+zu	O	O
+de	O	O
+paralleln	O	O
+Busssteig	O	O
+da	O	O
+Wartebereich	O	O
+fia	O	O
+Fahrgäst	O	O
+gfiaht	O	O
+werd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-38
+# text = Somit handlt's se dobei um Busbuchtn , in dene de Bus hoitn .
+Somit	O	O
+handlt's	O	O
+se	O	O
+dobei	O	O
+um	O	O
+Busbuchtn	O	O
+,	O	O
+in	O	O
+dene	O	O
+de	O	O
+Bus	O	O
+hoitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-39
+# text = De Kaifoam bsitzt den Voateil , dass ma sehr guad de Bschildarung lesn ko ; sie erfoadat's aba , dass de Bus beim Rausfahrn zrucksetzn miassn .
+De	O	O
+Kaifoam	O	O
+bsitzt	O	O
+den	O	O
+Voateil	O	O
+,	O	O
+dass	O	O
+ma	O	O
+sehr	O	O
+guad	O	O
+de	O	O
+Bschildarung	O	O
+lesn	O	O
+ko	O	O
+;	O	O
+sie	O	O
+erfoadat's	O	O
+aba	O	O
+,	O	O
+dass	O	O
+de	O	O
+Bus	O	O
+beim	O	O
+Rausfahrn	O	O
+zrucksetzn	O	O
+miassn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-40
+# text = Doher konn's ned im ÖPNV , sondarn nua im Fernbusvakeah eigsetzt wern .
+Doher	O	O
+konn's	O	O
+ned	O	O
+im	O	O
+ÖPNV	O	O
+,	O	O
+sondarn	O	O
+nua	O	O
+im	O	O
+Fernbusvakeah	O	O
+eigsetzt	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-41
+# text = Hundeknochafoam bedeit , dass de Bus in ana normoin Straß aaf Busspurn hoitn , ähnle da Längsparallelfoam , und hinta de Busspurn in am Kroasvakeah wendn .
+Hundeknochafoam	O	O
+bedeit	O	O
+,	O	O
+dass	O	O
+de	O	O
+Bus	O	O
+in	O	O
+ana	O	O
+normoin	O	O
+Straß	O	O
+aaf	O	O
+Busspurn	O	O
+hoitn	O	O
+,	O	O
+ähnle	O	O
+da	O	O
+Längsparallelfoam	O	O
+,	O	O
+und	O	O
+hinta	O	O
+de	O	O
+Busspurn	O	O
+in	O	O
+am	O	O
+Kroasvakeah	O	O
+wendn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-42
+# text = Do se de Kroasvakeah an beide Seitn bfindn , bsitzt da Busbahnhof aus da Voglperspektivn des Ausschaung vo am Hundeknocha oda na Hantl .
+Do	O	O
+se	O	O
+de	O	O
+Kroasvakeah	O	O
+an	O	O
+beide	O	O
+Seitn	O	O
+bfindn	O	O
+,	O	O
+bsitzt	O	O
+da	O	O
+Busbahnhof	O	O
+aus	O	O
+da	O	O
+Voglperspektivn	O	O
+des	O	O
+Ausschaung	O	O
+vo	O	O
+am	O	O
+Hundeknocha	O	O
+oda	O	O
+na	O	O
+Hantl	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-43
+# text = Da Plotzbedarf fia Busbahnheaf gengiba ana oanzalna Hoitestej is hoch , in enge Innanstodbereich muaa doher iba Oiatanativn nochdocht wern .
+Da	O	O
+Plotzbedarf	O	O
+fia	O	O
+Busbahnheaf	O	O
+gengiba	O	O
+ana	O	O
+oanzalna	O	O
+Hoitestej	O	O
+is	O	O
+hoch	O	O
+,	O	O
+in	O	O
+enge	O	O
+Innanstodbereich	O	O
+muaa	O	O
+doher	O	O
+iba	O	O
+Oiatanativn	O	O
+nochdocht	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-44
+# text = De Gstoitung vo am Stodbus-System biet dozua vaschiedane Meaglichkeitn : Oane in da Innanstod endande Buslinie beneatigt a Wendemeaglichkeit und Pausnhoitestej , a Duachmessalinie valagat ois zwoa in den städischn Außnbereich und beneatigt doher im Innenstodbereich wenga Plotz .
+De	O	O
+Gstoitung	O	O
+vo	O	O
+am	O	O
+Stodbus-System	O	O
+biet	O	O
+dozua	O	O
+vaschiedane	O	O
+Meaglichkeitn	O	O
+:	O	O
+Oane	O	O
+in	O	O
+da	O	O
+Innanstod	O	O
+endande	O	O
+Buslinie	O	O
+beneatigt	O	O
+a	O	O
+Wendemeaglichkeit	O	O
+und	O	O
+Pausnhoitestej	O	O
+,	O	O
+a	O	O
+Duachmessalinie	O	O
+valagat	O	O
+ois	O	O
+zwoa	O	O
+in	O	O
+den	O	O
+städischn	O	O
+Außnbereich	O	O
+und	O	O
+beneatigt	O	O
+doher	O	O
+im	O	O
+Innenstodbereich	O	O
+wenga	O	O
+Plotz	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-45
+# text = Soin direkte Oschlussmeaglichkeitn zwischn mehrare Linien bsteh , miassn de gleichzeite o- und kurze Zeit spada wieda obfahrn .
+Soin	O	O
+direkte	O	O
+Oschlussmeaglichkeitn	O	O
+zwischn	O	O
+mehrare	O	O
+Linien	O	O
+bsteh	O	O
+,	O	O
+miassn	O	O
+de	O	O
+gleichzeite	O	O
+o-	O	O
+und	O	O
+kurze	O	O
+Zeit	O	O
+spada	O	O
+wieda	O	O
+obfahrn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-46
+# text = Des Prinzip nennt ma Rendezvous-System .
+Des	O	O
+Prinzip	O	O
+nennt	O	O
+ma	O	O
+Rendezvous-System	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-47
+# text = Dozua beneatigt jede Linie a eigane Hoiteposition .
+Dozua	O	O
+beneatigt	O	O
+jede	O	O
+Linie	O	O
+a	O	O
+eigane	O	O
+Hoiteposition	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-48
+# text = Werd da Takt vo de Linienfahrplän jedo gegaeinanda vaschom , reicht bei fianf Minutn Taktobstand zwischn de oanzalna Ofoahtn oa Hoitestej fia bis zu zweif Linien aus .
+Werd	O	O
+da	O	O
+Takt	O	O
+vo	O	O
+de	O	O
+Linienfahrplän	O	O
+jedo	O	O
+gegaeinanda	O	O
+vaschom	O	O
+,	O	O
+reicht	O	O
+bei	O	O
+fianf	O	O
+Minutn	O	O
+Taktobstand	O	O
+zwischn	O	O
+de	O	O
+oanzalna	O	O
+Ofoahtn	O	O
+oa	O	O
+Hoitestej	O	O
+fia	O	O
+bis	O	O
+zu	O	O
+zweif	O	O
+Linien	O	O
+aus	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-49
+# text = De Woatezeit fia de Fahrgäst san bei vaschomne 20-Minutn-Takt gengiba am " Rendevouz-System " ned ibamäße länga , da Umsteig- und eventuell Wartezeitn aaf vaspadet eitreffade Bus emfois bis zu zehn Minutn in Opruch nehma keanna .
+De	O	O
+Woatezeit	O	O
+fia	O	O
+de	O	O
+Fahrgäst	O	O
+san	O	O
+bei	O	O
+vaschomne	O	O
+20-Minutn-Takt	O	O
+gengiba	O	O
+am	O	O
+"	O	O
+Rendevouz-System	O	O
+"	O	O
+ned	O	O
+ibamäße	O	O
+länga	O	O
+,	O	O
+da	O	O
+Umsteig-	O	O
+und	O	O
+eventuell	O	O
+Wartezeitn	O	O
+aaf	O	O
+vaspadet	O	O
+eitreffade	O	O
+Bus	O	O
+emfois	O	O
+bis	O	O
+zu	O	O
+zehn	O	O
+Minutn	O	O
+in	O	O
+Opruch	O	O
+nehma	O	O
+keanna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-50
+# text = In vui Fäll konn duach a ginstige Fahrplangstoitung ohne greaßare Nochteil fia de Fahrgäst aaf Busbahnheaf vazicht wern .
+In	O	O
+vui	O	O
+Fäll	O	O
+konn	O	O
+duach	O	O
+a	O	O
+ginstige	O	O
+Fahrplangstoitung	O	O
+ohne	O	O
+greaßare	O	O
+Nochteil	O	O
+fia	O	O
+de	O	O
+Fahrgäst	O	O
+aaf	O	O
+Busbahnheaf	O	O
+vazicht	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-51
+# text = In bsondarne Situationan entsteaht in Orte mit am zentroin Umsteigknotn im Zentrumsbereich und am zwoatn Knotn an am etwas vom Ortszentrum entfernt glengna Bahnhof .
+In	O	O
+bsondarne	O	O
+Situationan	O	O
+entsteaht	O	O
+in	O	O
+Orte	O	O
+mit	O	O
+am	O	O
+zentroin	O	O
+Umsteigknotn	O	O
+im	O	O
+Zentrumsbereich	O	O
+und	O	O
+am	O	O
+zwoatn	O	O
+Knotn	O	O
+an	O	O
+am	O	O
+etwas	O	O
+vom	O	O
+Ortszentrum	O	O
+entfernt	O	O
+glengna	O	O
+Bahnhof	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-52
+# text = Wenn do bei da Fahrplangstoitung ned aaf a Gleichwertigkeit vo beide Knotn gacht werd ( z. B. mit Durchmessalinien ) , kimmt's zu ana Vaeadung meistns vom Bahnhofknotn , wobei dann aa Bahnfahrgäst fia des Bussystem valorn genga .
+Wenn	O	O
+do	O	O
+bei	O	O
+da	O	O
+Fahrplangstoitung	O	O
+ned	O	O
+aaf	O	O
+a	O	O
+Gleichwertigkeit	O	O
+vo	O	O
+beide	O	O
+Knotn	O	O
+gacht	O	O
+werd	O	O
+(	O	O
+z.	O	O
+B.	O	O
+mit	O	O
+Durchmessalinien	O	O
+)	O	O
+,	O	O
+kimmt's	O	O
+zu	O	O
+ana	O	O
+Vaeadung	O	O
+meistns	O	O
+vom	O	O
+Bahnhofknotn	O	O
+,	O	O
+wobei	O	O
+dann	O	O
+aa	O	O
+Bahnfahrgäst	O	O
+fia	O	O
+des	O	O
+Bussystem	O	O
+valorn	O	O
+genga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-53
+# text = Oa Beispui dofia is Mindn .
+Oa	O	O
+Beispui	O	O
+dofia	O	O
+is	O	O
+Mindn	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-54
+# text = Do existiert a Stodbussystem , des ausschließle aus Radiallinien bsteht ; da Busbahnhof am Bahnhof werd dobei nua im 30-Minutn-Takt bedeant ( Linienendpunkt noch zwoa Stationan im Zentrum ) .
+Do	O	O
+existiert	O	O
+a	O	O
+Stodbussystem	O	O
+,	O	O
+des	O	O
+ausschließle	O	O
+aus	O	O
+Radiallinien	O	O
+bsteht	O	O
+;	O	O
+da	O	O
+Busbahnhof	O	O
+am	O	O
+Bahnhof	O	O
+werd	O	O
+dobei	O	O
+nua	O	O
+im	O	O
+30-Minutn-Takt	O	O
+bedeant	O	O
+(	O	O
+Linienendpunkt	O	O
+noch	O	O
+zwoa	O	O
+Stationan	O	O
+im	O	O
+Zentrum	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-55
+# text = Seit Somma 2005 , ois des Stodbus-System eigfiaht worn is , dient da ZOB Mindn in da Innenstod ois zentroia Umstiegshoitestej .
+Seit	O	O
+Somma	O	O
+2005	O	O
+,	O	O
+ois	O	O
+des	O	O
+Stodbus-System	O	O
+eigfiaht	O	O
+worn	O	O
+is	O	O
+,	O	O
+dient	O	O
+da	O	O
+ZOB	B-LOC	B-LOC
+Mindn	I-LOC	I-LOC
+in	O	O
+da	O	O
+Innenstod	O	O
+ois	O	O
+zentroia	O	O
+Umstiegshoitestej	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-56
+# text = Olle Linien , ausschießle de Linie 605 , wejche am Bahnhof endt , ham do eahna Endhoitestej .
+Olle	O	O
+Linien	O	O
+,	O	O
+ausschießle	O	O
+de	O	O
+Linie	B-MISC	O
+605	I-MISC	O
+,	O	O
+wejche	O	O
+am	O	O
+Bahnhof	O	O
+endt	O	O
+,	O	O
+ham	O	O
+do	O	O
+eahna	O	O
+Endhoitestej	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-57
+# text = Dobei is drauf gacht worn , dass de Bus XX : 40 am ZOB eitreffan und XX : 45 wieda obfahrn .
+Dobei	O	O
+is	O	O
+drauf	O	O
+gacht	O	O
+worn	O	O
+,	O	O
+dass	O	O
+de	O	O
+Bus	O	O
+XX	O	O
+:	O	O
+40	O	O
+am	O	O
+ZOB	O	O
+eitreffan	O	O
+und	O	O
+XX	O	O
+:	O	O
+45	O	O
+wieda	O	O
+obfahrn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-58
+# text = Aafgrund vo Linienlängan und Fahrzeitn keannan wenige Linien des Ideal ned eihoitn .
+Aafgrund	O	O
+vo	O	O
+Linienlängan	O	O
+und	O	O
+Fahrzeitn	O	O
+keannan	O	O
+wenige	O	O
+Linien	O	O
+des	O	O
+Ideal	O	O
+ned	O	O
+eihoitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-59
+# text = Ähnliche Situationan gibt's in Bocholt , Herford , Hanau und Gladbeck .
+Ähnliche	O	O
+Situationan	O	O
+gibt's	O	O
+in	O	O
+Bocholt	B-LOC	B-LOC
+,	O	O
+Herford	B-LOC	B-LOC
+,	O	O
+Hanau	B-LOC	B-LOC
+und	O	O
+Gladbeck	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-60
+# text = Aa Bossa hot de Sondasituation .
+Aa	O	O
+Bossa	B-LOC	B-LOC
+hot	O	O
+de	O	O
+Sondasituation	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-61
+# text = Es gibt an ZOB im Zentrum , der Nein Mittn vo Bossa , und an Hauptbahnhof am Europaplotz , der de Innnenstod noch Westn obgrenzt .
+Es	O	O
+gibt	O	O
+an	O	O
+ZOB	O	O
+im	O	O
+Zentrum	O	O
+,	O	O
+der	O	O
+Nein	B-MISC	B-LOC
+Mittn	I-MISC	I-LOC
+vo	I-MISC	O
+Bossa	I-MISC	B-LOC
+,	O	O
+und	O	O
+an	O	O
+Hauptbahnhof	O	O
+am	O	O
+Europaplotz	B-LOC	B-LOC
+,	O	O
+der	O	O
+de	O	O
+Innnenstod	O	O
+noch	O	O
+Westn	O	O
+obgrenzt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-62
+# text = Da ZOB is des Zentrum vom Stodvakeah , und de Linien fahrn noch Rendevous-System zur . 00.15 , .30 und .45 ob .
+Da	O	O
+ZOB	O	O
+is	O	O
+des	O	O
+Zentrum	O	O
+vom	O	O
+Stodvakeah	O	O
+,	O	O
+und	O	O
+de	O	O
+Linien	O	O
+fahrn	O	O
+noch	O	O
+Rendevous-System	O	O
+zur	O	O
+.	O	O
+00.15	O	O
+,	O	O
+.30	O	O
+und	O	O
+.45	O	O
+ob	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-63
+# text = Des Problem is aba gut gleast , do de Linian 8 , 9 , 10 , 11 , K4 und CITA den Hauptbahnhof mit dem ZOB vabindn und domit im 15-Minutn-Takt .
+Des	O	O
+Problem	O	O
+is	O	O
+aba	O	O
+gut	O	O
+gleast	O	O
+,	O	O
+do	O	O
+de	O	O
+Linian	B-MISC	O
+8	I-MISC	O
+,	O	O
+9	B-MISC	O
+,	O	O
+10	B-MISC	O
+,	O	O
+11	B-MISC	O
+,	O	O
+K4	B-MISC	O
+und	O	O
+CITA	B-MISC	O
+den	O	O
+Hauptbahnhof	O	O
+mit	O	O
+dem	O	O
+ZOB	O	O
+vabindn	O	O
+und	O	O
+domit	O	O
+im	O	O
+15-Minutn-Takt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-64
+# text = Außadem endn olle Regionoibuslinian vom RBO do und de Linian , di in den Südwest vom Bossaa Landkroas fahrn , fahrn aa den ZOB o.
+Außadem	O	O
+endn	O	O
+olle	O	O
+Regionoibuslinian	O	O
+vom	O	O
+RBO	B-ORG	B-ORG
+do	O	O
+und	O	O
+de	O	O
+Linian	O	O
+,	O	O
+di	O	O
+in	O	O
+den	O	O
+Südwest	O	O
+vom	O	O
+Bossaa	B-LOCderiv	B-LOCderiv
+Landkroas	O	O
+fahrn	O	O
+,	O	O
+fahrn	O	O
+aa	O	O
+den	O	O
+ZOB	O	O
+o.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-65
+# text = In Bünde is fia a neis Stodbussystem a ZOB im Zentrum aricht worn ; da Busbahnhof in da Näh vom Bahnhof is Endpunkt vo de Regionoibuslinian bliebn und werd aa vo da Linie 2 vom Stodvakeah bedeant .
+In	O	O
+Bünde	B-LOC	B-LOC
+is	O	O
+fia	O	O
+a	O	O
+neis	O	O
+Stodbussystem	O	O
+a	O	O
+ZOB	O	O
+im	O	O
+Zentrum	O	O
+aricht	O	O
+worn	O	O
+;	O	O
+da	O	O
+Busbahnhof	O	O
+in	O	O
+da	O	O
+Näh	O	O
+vom	O	O
+Bahnhof	O	O
+is	O	O
+Endpunkt	O	O
+vo	O	O
+de	O	O
+Regionoibuslinian	O	O
+bliebn	O	O
+und	O	O
+werd	O	O
+aa	O	O
+vo	O	O
+da	O	O
+Linie	B-MISC	O
+2	I-MISC	O
+vom	O	O
+Stodvakeah	O	O
+bedeant	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-66
+# text = Im Badn-Wiarttmbeagischn Tuttlinga gibt's a ähnliche Log , wo se da zentroie Umstiegspunkt ( gnannt " ZOB Stodmittn " ) befindt und jeweis zu de Minutn .00 , .15 , und .45 noch dem Rendezvous-Konzept mehrare Buslinian aafeinandatreffa ( olladings zu jedm Knotn vaschiedane , do de meistn Buslinian im Stundntakt vakehrn , es fahrn nua oanzalne Vadichta zum Hoibstundntakt ) .
+Im	O	O
+Badn-Wiarttmbeagischn	B-LOCderiv	B-LOC
+Tuttlinga	B-LOC	I-LOC
+gibt's	O	O
+a	O	O
+ähnliche	O	O
+Log	O	O
+,	O	O
+wo	O	O
+se	O	O
+da	O	O
+zentroie	O	O
+Umstiegspunkt	O	O
+(	O	O
+gnannt	O	O
+"	O	O
+ZOB	O	B-LOC
+Stodmittn	O	B-LOC
+"	O	O
+)	O	O
+befindt	O	O
+und	O	O
+jeweis	O	O
+zu	O	O
+de	O	O
+Minutn	O	O
+.00	O	O
+,	O	O
+.15	O	O
+,	O	O
+und	O	O
+.45	O	O
+noch	O	O
+dem	O	O
+Rendezvous-Konzept	O	O
+mehrare	O	O
+Buslinian	O	O
+aafeinandatreffa	O	O
+(	O	O
+olladings	O	O
+zu	O	O
+jedm	O	O
+Knotn	O	O
+vaschiedane	O	O
+,	O	O
+do	O	O
+de	O	O
+meistn	O	O
+Buslinian	O	O
+im	O	O
+Stundntakt	O	O
+vakehrn	O	O
+,	O	O
+es	O	O
+fahrn	O	O
+nua	O	O
+oanzalne	O	O
+Vadichta	O	O
+zum	O	O
+Hoibstundntakt	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-67
+# text = Vui vo dene Linian fahrn weida zum Busbahnhof am Bahnhof , so werd zum Beispui de Linie 50 , de vo Westn erst zum " ZOB Stodmittn " foaht , danoch no bis zum im Ostn liegandn Bahnhof gfiaht .
+Vui	O	O
+vo	O	O
+dene	O	O
+Linian	O	O
+fahrn	O	O
+weida	O	O
+zum	O	O
+Busbahnhof	O	O
+am	O	O
+Bahnhof	O	O
+,	O	O
+so	O	O
+werd	O	O
+zum	O	O
+Beispui	O	O
+de	O	O
+Linie	B-MISC	O
+50	I-MISC	O
+,	O	O
+de	O	O
+vo	O	O
+Westn	O	O
+erst	O	O
+zum	O	O
+"	O	O
+ZOB	O	B-LOC
+Stodmittn	O	I-LOC
+"	O	O
+foaht	O	O
+,	O	O
+danoch	O	O
+no	O	O
+bis	O	O
+zum	O	O
+im	O	O
+Ostn	O	O
+liegandn	O	O
+Bahnhof	O	O
+gfiaht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-68
+# text = Dobei schert's ob dem zentroin ZOB in den 15-Minutn-Takt ei , der in Kombination vo Regionoi- und Stodbus zwischn Zentrum und Bahnhof gfahrn werd , so dass es koane Wartezeitn iba 15 Minutn am Bahnhof gibt , beim Umsteing vom Zug auf'n Bus .
+Dobei	O	O
+schert's	O	O
+ob	O	O
+dem	O	O
+zentroin	O	O
+ZOB	O	O
+in	O	O
+den	O	O
+15-Minutn-Takt	O	O
+ei	O	O
+,	O	O
+der	O	O
+in	O	O
+Kombination	O	O
+vo	O	O
+Regionoi-	O	O
+und	O	O
+Stodbus	O	O
+zwischn	O	O
+Zentrum	O	O
+und	O	O
+Bahnhof	O	O
+gfahrn	O	O
+werd	O	O
+,	O	O
+so	O	O
+dass	O	O
+es	O	O
+koane	O	O
+Wartezeitn	O	O
+iba	O	O
+15	O	O
+Minutn	O	O
+am	O	O
+Bahnhof	O	O
+gibt	O	O
+,	O	O
+beim	O	O
+Umsteing	O	O
+vom	O	O
+Zug	O	O
+auf'n	O	O
+Bus	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-69
+# text = Gleich vahoit's se se mit de Linian 51 und 52 , de vo Trossinga beziehungsweis VS-Schwenningen aus'm Tuttlinga Westn kemman .
+Gleich	O	O
+vahoit's	O	O
+se	O	O
+se	O	O
+mit	O	O
+de	O	O
+Linian	B-MISC	O
+51	I-MISC	O
+und	O	O
+52	B-MISC	O
+,	O	O
+de	O	O
+vo	O	O
+Trossinga	B-LOC	B-LOC
+beziehungsweis	O	O
+VS-Schwenningen	B-LOC	B-LOC
+aus'm	O	O
+Tuttlinga	B-LOCderiv	B-LOCderiv
+Westn	O	O
+kemman	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-70
+# text = Des nehman zerst an kloana Umweg zum Busbahnhof zum Busbahnhof am Bahnhof , bevoa's de Stammstreck vom Tuttlinga Stodvakeah zum Zentrum fahrn .
+Des	O	O
+nehman	O	O
+zerst	O	O
+an	O	O
+kloana	O	O
+Umweg	O	O
+zum	O	O
+Busbahnhof	O	O
+zum	O	O
+Busbahnhof	O	O
+am	O	O
+Bahnhof	O	O
+,	O	O
+bevoa's	O	O
+de	O	O
+Stammstreck	O	O
+vom	O	O
+Tuttlinga	B-LOC	B-LOC
+Stodvakeah	O	O
+zum	O	O
+Zentrum	O	O
+fahrn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-71
+# text = Im nordrhein-westfälischn Ratingen , des gnau zwischn seim Nachborn Düsseldorf und Essen liegt , gibt's ebnfois de Situation , dass es an Busbahnhof im Innenstodbereich gibt ( Busbahnhof Ratingen Mittn und an Knotn am Rand vom Zentrum gleng Bahnhof Ratingen Ost .
+Im	O	O
+nordrhein-westfälischn	B-LOCderiv	B-LOC
+Ratingen	B-LOC	I-LOC
+,	O	O
+des	O	O
+gnau	O	O
+zwischn	O	O
+seim	O	O
+Nachborn	O	O
+Düsseldorf	B-LOC	B-LOC
+und	O	O
+Essen	B-LOC	B-LOC
+liegt	O	O
+,	O	O
+gibt's	O	O
+ebnfois	O	O
+de	O	O
+Situation	O	O
+,	O	O
+dass	O	O
+es	O	O
+an	O	O
+Busbahnhof	O	O
+im	O	O
+Innenstodbereich	O	O
+gibt	O	O
+(	O	O
+Busbahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Mittn	I-LOC	I-LOC
+und	O	O
+an	O	O
+Knotn	O	O
+am	O	O
+Rand	O	O
+vom	O	O
+Zentrum	O	O
+gleng	O	O
+Bahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Ost	I-LOC	I-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-72
+# text = Do is de Situation sehr guad gleast , do am Busbahnhof Ratingen Mittn ledigle Buslinian endn , de eahm aus eastliche Richtunga ofahrn , sodass de aus westliche Richtunga zum Bahnhof Ratingen Ost duachgebundn wern .
+Do	O	O
+is	O	O
+de	O	O
+Situation	O	O
+sehr	O	O
+guad	O	O
+gleast	O	O
+,	O	O
+do	O	O
+am	O	O
+Busbahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Mittn	I-LOC	I-LOC
+ledigle	O	O
+Buslinian	O	O
+endn	O	O
+,	O	O
+de	O	O
+eahm	O	O
+aus	O	O
+eastliche	O	O
+Richtunga	O	O
+ofahrn	O	O
+,	O	O
+sodass	O	O
+de	O	O
+aus	O	O
+westliche	O	O
+Richtunga	O	O
+zum	O	O
+Bahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Ost	I-LOC	I-LOC
+duachgebundn	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-73
+# text = De Buslinian aus eastliche Richtunga ( mit Ausnahm vo da Linie 753 ) vakehrn ebnso wia de Buslinian , de Ratingen Mittn aus westliche Richtunga erreicha , zum Bahnhof Ratingen Ost .
+De	O	O
+Buslinian	O	O
+aus	O	O
+eastliche	O	O
+Richtunga	O	O
+(	O	O
+mit	O	O
+Ausnahm	O	O
+vo	O	O
+da	O	O
+Linie	B-MISC	O
+753	I-MISC	O
+)	O	O
+vakehrn	O	O
+ebnso	O	O
+wia	O	O
+de	O	O
+Buslinian	O	O
+,	O	O
+de	O	O
+Ratingen	B-LOC	B-LOC
+Mittn	I-LOC	I-LOC
+aus	O	O
+westliche	O	O
+Richtunga	O	O
+erreicha	O	O
+,	O	O
+zum	O	O
+Bahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Ost	I-LOC	I-LOC
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-74
+# text = Do endn de Buslinian aus westliche Richtunga und de andarn vakeahn ins Umland weita .
+Do	O	O
+endn	O	O
+de	O	O
+Buslinian	O	O
+aus	O	O
+westliche	O	O
+Richtunga	O	O
+und	O	O
+de	O	O
+andarn	O	O
+vakeahn	O	O
+ins	O	O
+Umland	O	O
+weita	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-75
+# text = De Linie 749 buid ois Duachmessalinie vo Düssldorf-Kaiserswerth iba Ratingen-Mittn und Bahnhof Ratingen Ost noch Mettmann a Mischfoam vo de Buslinian aus westliche und eastliche Richtunga .
+De	O	O
+Linie	B-MISC	O
+749	I-MISC	O
+buid	O	O
+ois	O	O
+Duachmessalinie	O	O
+vo	O	O
+Düssldorf-Kaiserswerth	B-LOC	B-LOC
+iba	O	O
+Ratingen-Mittn	B-LOC	B-LOC
+und	O	O
+Bahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Ost	I-LOC	I-LOC
+noch	O	O
+Mettmann	B-LOC	B-LOC
+a	O	O
+Mischfoam	O	O
+vo	O	O
+de	O	O
+Buslinian	O	O
+aus	O	O
+westliche	O	O
+und	O	O
+eastliche	O	O
+Richtunga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-76
+# text = Olle Buslinian , de am Bahnhof Ratingen Ost vakeahrn , vakeahrn sejbst wiedarum zum Busbahnhof Ratingen Mittn mit Ausnahm vo da Linie 760 , wejche des Ratinga Zentrum neardle tangiert .
+Olle	O	O
+Buslinian	O	O
+,	O	O
+de	O	O
+am	O	O
+Bahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Ost	I-LOC	I-LOC
+vakeahrn	O	O
+,	O	O
+vakeahrn	O	O
+sejbst	O	O
+wiedarum	O	O
+zum	O	O
+Busbahnhof	B-LOC	B-LOC
+Ratingen	I-LOC	I-LOC
+Mittn	I-LOC	I-LOC
+mit	O	O
+Ausnahm	O	O
+vo	O	O
+da	O	O
+Linie	B-MISC	O
+760	I-MISC	O
+,	O	O
+wejche	O	O
+des	O	O
+Ratinga	B-LOCderiv	B-LOCderiv
+Zentrum	O	O
+neardle	O	O
+tangiert	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-77
+# text = Domit werd a sehr große Gsamtnetzwirkung erzuit , ohne dass oana vo de zwoa Busbahnheaf benochteiligt werd .
+Domit	O	O
+werd	O	O
+a	O	O
+sehr	O	O
+große	O	O
+Gsamtnetzwirkung	O	O
+erzuit	O	O
+,	O	O
+ohne	O	O
+dass	O	O
+oana	O	O
+vo	O	O
+de	O	O
+zwoa	O	O
+Busbahnheaf	O	O
+benochteiligt	O	O
+werd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-78
+# text = Im emfois nordrhein-westfälischn Hagen gibt's an Busbahnhof am Hauptbahnhof am Rand vo da Innenstod sowia oam in da Innenstod in da Näh vom Rothaus und da Sparkass ( " Sparkassnkarree / Stodmittn " ) .
+Im	O	O
+emfois	O	O
+nordrhein-westfälischn	B-LOCderiv	B-LOC
+Hagen	B-LOC	I-LOC
+gibt's	O	O
+an	O	O
+Busbahnhof	O	O
+am	O	O
+Hauptbahnhof	O	O
+am	O	O
+Rand	O	O
+vo	O	O
+da	O	O
+Innenstod	O	O
+sowia	O	O
+oam	O	O
+in	O	O
+da	O	O
+Innenstod	O	O
+in	O	O
+da	O	O
+Näh	O	O
+vom	O	O
+Rothaus	O	O
+und	O	O
+da	O	O
+Sparkass	B-ORG	B-ORG
+(	O	O
+"	O	O
+Sparkassnkarree	B-LOC	B-LOC
+/	I-LOC	I-LOC
+Stodmittn	I-LOC	I-LOC
+"	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-79
+# text = Zwischn de Busbahnheaf fahrn jeweils de Linian aus'm Nordn und Nordostn .
+Zwischn	O	O
+de	O	O
+Busbahnheaf	O	O
+fahrn	O	O
+jeweils	O	O
+de	O	O
+Linian	O	O
+aus'm	O	O
+Nordn	O	O
+und	O	O
+Nordostn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-80
+# text = Ausnahman dobei san de Regionoibuslinian 591 und 594 und de Casinobuslinie 544 , wejche olle nua den Hauptbahnhof bedienan und do aa endn .
+Ausnahman	O	O
+dobei	O	O
+san	O	O
+de	O	O
+Regionoibuslinian	B-MISC	O
+591	I-MISC	O
+und	O	O
+594	B-MISC	O
+und	O	O
+de	O	O
+Casinobuslinie	B-MISC	O
+544	I-MISC	O
+,	O	O
+wejche	O	O
+olle	O	O
+nua	O	O
+den	O	O
+Hauptbahnhof	O	O
+bedienan	O	O
+und	O	O
+do	O	O
+aa	O	O
+endn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-81
+# text = De Linie 522 endt im Gegnsatz dozua an da Sparkass ohne den Hauptbahnhof zum bediena .
+De	O	O
+Linie	B-MISC	O
+522	I-MISC	O
+endt	O	O
+im	O	O
+Gegnsatz	O	O
+dozua	O	O
+an	O	O
+da	O	O
+Sparkass	B-ORG	B-ORG
+ohne	O	O
+den	O	O
+Hauptbahnhof	O	O
+zum	O	O
+bediena	O	O
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-82
+# text = A weitare Bsondaheit stejn de Linian 521 und 525 do , wejche , vom Buschey kommand , zwischn de Busbahnheaf in oam vo de zwoa Hauptsträng eimündn und so nua an Busbahnhof , de 525 de Sparkass .
+A	O	O
+weitare	O	O
+Bsondaheit	O	O
+stejn	O	O
+de	O	O
+Linian	B-MISC	O
+521	I-MISC	O
+und	O	O
+525	B-MISC	O
+do	O	O
+,	O	O
+wejche	O	O
+,	O	O
+vom	O	O
+Buschey	B-LOC	B-LOC
+kommand	O	O
+,	O	O
+zwischn	O	O
+de	O	O
+Busbahnheaf	O	O
+in	O	O
+oam	O	O
+vo	O	O
+de	O	O
+zwoa	O	O
+Hauptsträng	O	O
+eimündn	O	O
+und	O	O
+so	O	O
+nua	O	O
+an	O	O
+Busbahnhof	O	O
+,	O	O
+de	O	O
+525	B-MISC	O
+de	O	O
+Sparkass	B-ORG	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Busbahnhof-83
+# text = Den Mittlpunkt vom Nachtexpressnetz stejn den Busbahnhof Sparkassnkarree / Stodmittn do. Urspring vo dem Netz findn se scho im Netz der 1976 eigstejtn Straßnbahn , de bereits a Dreiecksnetz bsessn ham , da wichtige Knotnpunkt neba dem Hauptbahn war aba ned de domalige Hoitestej " Rathaus " , sondarn de Station am Markt .
+Den	O	O
+Mittlpunkt	O	O
+vom	O	O
+Nachtexpressnetz	O	O
+stejn	O	O
+den	O	O
+Busbahnhof	B-LOC	B-LOC
+Sparkassnkarree	I-LOC	I-LOC
+/	I-LOC	I-LOC
+Stodmittn	I-LOC	I-LOC
+do.	O	O
+Urspring	O	O
+vo	O	O
+dem	O	O
+Netz	O	O
+findn	O	O
+se	O	O
+scho	O	O
+im	O	O
+Netz	O	O
+der	O	O
+1976	O	O
+eigstejtn	O	O
+Straßnbahn	O	O
+,	O	O
+de	O	O
+bereits	O	O
+a	O	O
+Dreiecksnetz	O	O
+bsessn	O	O
+ham	O	O
+,	O	O
+da	O	O
+wichtige	O	O
+Knotnpunkt	O	O
+neba	O	O
+dem	O	O
+Hauptbahn	O	O
+war	O	O
+aba	O	O
+ned	O	O
+de	O	O
+domalige	O	O
+Hoitestej	O	B-LOC
+"	O	I-LOC
+Rathaus	B-LOC	I-LOC
+"	O	I-LOC
+,	O	O
+sondarn	O	O
+de	O	O
+Station	O	O
+am	B-LOC	O
+Markt	I-LOC	O
+.	O	O
+

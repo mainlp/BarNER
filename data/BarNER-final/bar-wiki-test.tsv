@@ -1,0 +1,7982 @@
+# newdoc id = bar_wiki_Blackjack
+# sent_id = bar_wiki_Blackjack-1
+# text = Blackjack 
+Blackjack	B-MISC
+
+# sent_id = bar_wiki_Blackjack-2
+# text = De Regeln vo Blog Jog san internationoi nahezu einheitlich , de nochstehend Beschreibung folgt am Reglement , des fia den Schbuia am günstigsdn is . 
+De	O
+Regeln	O
+vo	O
+Blog	B-MISC
+Jog	I-MISC
+san	O
+internationoi	O
+nahezu	O
+einheitlich	O
+,	O
+de	O
+nochstehend	O
+Beschreibung	O
+folgt	O
+am	O
+Reglement	O
+,	O
+des	O
+fia	O
+den	O
+Schbuia	O
+am	O
+günstigsdn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-3
+# text = Dess Reglement gilt in den meisdn deitschn Casinos sowia in da Schbuibank vo Monte Carlo und den Schbuibankn da Casinos Austria . 
+Dess	O
+Reglement	O
+gilt	O
+in	O
+den	O
+meisdn	O
+deitschn	B-LOCderiv
+Casinos	O
+sowia	O
+in	O
+da	O
+Schbuibank	B-LOC
+vo	I-LOC
+Monte	I-LOC
+Carlo	I-LOC
+und	O
+den	O
+Schbuibankn	O
+da	O
+Casinos	B-ORG
+Austria	I-ORG
+.	O
+
+# sent_id = bar_wiki_Blackjack-4
+# text = Blog Jog werd an am onähernd hoibkreisförmign Disch geschbuit . 
+Blog	B-MISC
+Jog	I-MISC
+werd	O
+an	O
+am	O
+onähernd	O
+hoibkreisförmign	O
+Disch	O
+geschbuit	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-5
+# text = An da geradn Seitn des Dischs sitzt da Croupia ( Deala , Bankhoida , Kartengeba ) . 
+An	O
+da	O
+geradn	O
+Seitn	O
+des	O
+Dischs	O
+sitzt	O
+da	O
+Croupia	O
+(	O
+Deala	O
+,	O
+Bankhoida	O
+,	O
+Kartengeba	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-6
+# text = Eahm gegenüba befindn si de Plätze fia bis zua siebn Schbuia ( Pointeire ) . 
+Eahm	O
+gegenüba	O
+befindn	O
+si	O
+de	O
+Plätze	O
+fia	O
+bis	O
+zua	O
+siebn	O
+Schbuia	O
+(	O
+Pointeire	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-7
+# text = 's werd mid secks Pakedn franzesischa Schbuikardn zua 52 Blatt , oiso 312 Kardn geschbuit ? de Blog-Jog-Kartn hod Bridge-Foamad und drägt extra grouse Indexzeichn ( large index ) mid den englischn Bezeichnunga K , Q und J fia de Buida . 
+'s	O
+werd	O
+mid	O
+secks	O
+Pakedn	O
+franzesischa	B-LOCderiv
+Schbuikardn	O
+zua	O
+52	O
+Blatt	O
+,	O
+oiso	O
+312	O
+Kardn	O
+geschbuit	O
+?	O
+de	O
+Blog-Jog-Kartn	B-MISCpart
+hod	O
+Bridge-Foamad	O
+und	O
+drägt	O
+extra	O
+grouse	O
+Indexzeichn	O
+(	O
+large	O
+index	O
+)	O
+mid	O
+den	O
+englischn	B-LANGderiv
+Bezeichnunga	O
+K	O
+,	O
+Q	O
+und	O
+J	O
+fia	O
+de	O
+Buida	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-8
+# text = Zil des Schbuis is 's , mid zwoa oda mehr Kardn näha an 21 Punkte heranzukomma ois da Croupia , ohne dabei den Wert vo 21 Punkdn zua übaschreidn . 
+Zil	O
+des	O
+Schbuis	O
+is	O
+'s	O
+,	O
+mid	O
+zwoa	O
+oda	O
+mehr	O
+Kardn	O
+näha	O
+an	O
+21	O
+Punkte	O
+heranzukomma	O
+ois	O
+da	O
+Croupia	O
+,	O
+ohne	O
+dabei	O
+den	O
+Wert	O
+vo	O
+21	O
+Punkdn	O
+zua	O
+übaschreidn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-9
+# text = Voa Ofang eins Schbuis blotziern de Schbuia ihre Einsätze auf den bezeichnedn Fejdern ( boxs ) entsprechend den vom Casino festgesetzdn Einsatzlimits . 
+Voa	O
+Ofang	O
+eins	O
+Schbuis	O
+blotziern	O
+de	O
+Schbuia	O
+ihre	O
+Einsätze	O
+auf	O
+den	O
+bezeichnedn	O
+Fejdern	O
+(	O
+boxs	O
+)	O
+entsprechend	O
+den	O
+vom	O
+Casino	O
+festgesetzdn	O
+Einsatzlimits	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-10
+# text = In oana Box dürfa nebn am Boxeninhobr aa andere Schbuia mitsetzn ; mitsetzend Schbuia hom aba koa Mitspracherecht und miassn de Entscheidunga des Boxeninhobrs akzeptiern . 
+In	O
+oana	O
+Box	O
+dürfa	O
+nebn	O
+am	O
+Boxeninhobr	O
+aa	O
+andere	O
+Schbuia	O
+mitsetzn	O
+;	O
+mitsetzend	O
+Schbuia	O
+hom	O
+aba	O
+koa	O
+Mitspracherecht	O
+und	O
+miassn	O
+de	O
+Entscheidunga	O
+des	O
+Boxeninhobrs	O
+akzeptiern	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-11
+# text = Da Einsatz da mitsetzendn Schbuia deaf grod so houch sei , dass des vom Casino festgelegte Limit pro Box ned übaschritdn werd . 
+Da	O
+Einsatz	O
+da	O
+mitsetzendn	O
+Schbuia	O
+deaf	O
+grod	O
+so	O
+houch	O
+sei	O
+,	O
+dass	O
+des	O
+vom	O
+Casino	O
+festgelegte	O
+Limit	O
+pro	O
+Box	O
+ned	O
+übaschritdn	O
+werd	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-12
+# text = Hod da Boxinhobr bereits den maximoi möglichn Einsatz getätigt , deaf somit koa Mitschbuia mehr auf de Box mitsetzn . 
+Hod	O
+da	O
+Boxinhobr	O
+bereits	O
+den	O
+maximoi	O
+möglichn	O
+Einsatz	O
+getätigt	O
+,	O
+deaf	O
+somit	O
+koa	O
+Mitschbuia	O
+mehr	O
+auf	O
+de	O
+Box	O
+mitsetzn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-13
+# text = San de Einsätze getätigt , ofangt da Croupia de Kardn auszuteiln . 
+San	O
+de	O
+Einsätze	O
+getätigt	O
+,	O
+ofangt	O
+da	O
+Croupia	O
+de	O
+Kardn	O
+auszuteiln	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-14
+# text = Jeda Schbuia und da Croupia eahoidn zuaerst a offene Kartn , danoch eahält jeda Schbuia ? ned aba da Croupia ? a zwoate offene Kartn ( vgl. Regl-Variandn ) . 
+Jeda	O
+Schbuia	O
+und	O
+da	O
+Croupia	O
+eahoidn	O
+zuaerst	O
+a	O
+offene	O
+Kartn	O
+,	O
+danoch	O
+eahält	O
+jeda	O
+Schbuia	O
+?	O
+ned	O
+aba	O
+da	O
+Croupia	O
+?	O
+a	O
+zwoate	O
+offene	O
+Kartn	O
+(	O
+vgl.	O
+Regl-Variandn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-15
+# text = Ofangend mid am Schbuia zua Linkn des Croupiers konn jetz jeda Teilnehma solange weidere Kardn valangn ( hit , Kartn oda cartn ) , bis ea glaubt , nahe genug an 21 Punkte herankema zua sei und koa weidere Kartn mehr wui ( stay , Koa Kartn oda reste ) . 
+Ofangend	O
+mid	O
+am	O
+Schbuia	O
+zua	O
+Linkn	O
+des	O
+Croupiers	O
+konn	O
+jetz	O
+jeda	O
+Teilnehma	O
+solange	O
+weidere	O
+Kardn	O
+valangn	O
+(	O
+hit	O
+,	O
+Kartn	O
+oda	O
+cartn	O
+)	O
+,	O
+bis	O
+ea	O
+glaubt	O
+,	O
+nahe	O
+genug	O
+an	O
+21	O
+Punkte	O
+herankema	O
+zua	O
+sei	O
+und	O
+koa	O
+weidere	O
+Kartn	O
+mehr	O
+wui	O
+(	O
+stay	O
+,	O
+Koa	O
+Kartn	O
+oda	O
+reste	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-16
+# text = Wa jedoch mid sein Kardn den Wert 21 übaschreitet ( bust ) , hod si übakafft und valiad sofoat ; de Kardn und da Einsatz wern vom Croupia einzong . 
+Wa	O
+jedoch	O
+mid	O
+sein	O
+Kardn	O
+den	O
+Wert	O
+21	O
+übaschreitet	O
+(	O
+bust	O
+)	O
+,	O
+hod	O
+si	O
+übakafft	O
+und	O
+valiad	O
+sofoat	O
+;	O
+de	O
+Kardn	O
+und	O
+da	O
+Einsatz	O
+wern	O
+vom	O
+Croupia	O
+einzong	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-17
+# text = San olle Schbuia bedeant , ziagd da Croupia sei zwoate Kartn . 
+San	O
+olle	O
+Schbuia	O
+bedeant	O
+,	O
+ziagd	O
+da	O
+Croupia	O
+sei	O
+zwoate	O
+Kartn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-18
+# text = Hod ea 17 oda mehr Punkte , mua ea schdengan bleim , hod ea 16 oda wenga Punkte , mua ea a weidere Kartn ziang ( Deala must stand on 17 and must draw to 16 ) . 
+Hod	O
+ea	O
+17	O
+oda	O
+mehr	O
+Punkte	O
+,	O
+mua	O
+ea	O
+schdengan	O
+bleim	O
+,	O
+hod	O
+ea	O
+16	O
+oda	O
+wenga	O
+Punkte	O
+,	O
+mua	O
+ea	O
+a	O
+weidere	O
+Kartn	O
+ziang	O
+(	O
+Deala	O
+must	O
+stand	O
+on	O
+17	O
+and	O
+must	O
+draw	O
+to	O
+16	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-19
+# text = Dabei gilt foigende Regl : Da Croupia mua a Ass stets mid ejf Punkdn zähln , 's sei denn , ea würde auf de Weise den Wert 21 übaschreidn ; grod dann zählt ea des Ass mid am Punkt . 
+Dabei	O
+gilt	O
+foigende	O
+Regl	O
+:	O
+Da	O
+Croupia	O
+mua	O
+a	O
+Ass	O
+stets	O
+mid	O
+ejf	O
+Punkdn	O
+zähln	O
+,	O
+'s	O
+sei	O
+denn	O
+,	O
+ea	O
+würde	O
+auf	O
+de	O
+Weise	O
+den	O
+Wert	O
+21	O
+übaschreidn	O
+;	O
+grod	O
+dann	O
+zählt	O
+ea	O
+des	O
+Ass	O
+mid	O
+am	O
+Punkt	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-20
+# text = Hod da Croupia z. B. a Ass und a Secks , mua ea des Ass mid ejf und de Bratz mid siebzehn Punkdn bewerdn und deaf koa weidere Kartn ziang ( Deala stands on soft 17 ) . 
+Hod	O
+da	O
+Croupia	O
+z.	O
+B.	O
+a	O
+Ass	O
+und	O
+a	O
+Secks	O
+,	O
+mua	O
+ea	O
+des	O
+Ass	O
+mid	O
+ejf	O
+und	O
+de	O
+Bratz	O
+mid	O
+siebzehn	O
+Punkdn	O
+bewerdn	O
+und	O
+deaf	O
+koa	O
+weidere	O
+Kartn	O
+ziang	O
+(	O
+Deala	O
+stands	O
+on	O
+soft	O
+17	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-21
+# text = Wenn da Croupia 21 Punkte übaschreitet , hom olle no im Schbui vableibendn Teilnehma automadisch gwonna . 
+Wenn	O
+da	O
+Croupia	O
+21	O
+Punkte	O
+übaschreitet	O
+,	O
+hom	O
+olle	O
+no	O
+im	O
+Schbui	O
+vableibendn	O
+Teilnehma	O
+automadisch	O
+gwonna	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-22
+# text = Sonst gewinna grod jene Schbuia , dern Kartenwert näha an 21 Punkte heranreicht ois da des Croupiers . 
+Sonst	O
+gewinna	O
+grod	O
+jene	O
+Schbuia	O
+,	O
+dern	O
+Kartenwert	O
+näha	O
+an	O
+21	O
+Punkte	O
+heranreicht	O
+ois	O
+da	O
+des	O
+Croupiers	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-23
+# text = Hod a Schbuia gleich vui Punkte wia da Croupia , so is des Schbui unentschiedn ( stand off , push , tie , égalité , en carts ) , da Schbuia valiad nix , ea gwinnt aba aa nix . 
+Hod	O
+a	O
+Schbuia	O
+gleich	O
+vui	O
+Punkte	O
+wia	O
+da	O
+Croupia	O
+,	O
+so	O
+is	O
+des	O
+Schbui	O
+unentschiedn	O
+(	O
+stand	O
+off	O
+,	O
+push	O
+,	O
+tie	O
+,	O
+égalité	O
+,	O
+en	O
+carts	O
+)	O
+,	O
+da	O
+Schbuia	O
+valiad	O
+nix	O
+,	O
+ea	O
+gwinnt	O
+aba	O
+aa	O
+nix	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-24
+# text = Gwinnt a Schbuia , eahält ea oan Gewinn in da Hechn seis Einsatzs ( 1 : 1 , evn money ) ; in den beidn foigendn Fälln wern jedoch eahöhte Gewinne ausgeschüttnt . 
+Gwinnt	O
+a	O
+Schbuia	O
+,	O
+eahält	O
+ea	O
+oan	O
+Gewinn	O
+in	O
+da	O
+Hechn	O
+seis	O
+Einsatzs	O
+(	O
+1	O
+:	O
+1	O
+,	O
+evn	O
+money	O
+)	O
+;	O
+in	O
+den	O
+beidn	O
+foigendn	O
+Fälln	O
+wern	O
+jedoch	O
+eahöhte	O
+Gewinne	O
+ausgeschüttnt	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-25
+# text = Hod a Schbuia 21 Punkte bestehend aus drei Siebenern ( Driple sevn ) , gwinnt ea sofoat im Vahältnis 3 : 2 , unobhängig vo da Kartn des Croupiers . 
+Hod	O
+a	O
+Schbuia	O
+21	O
+Punkte	O
+bestehend	O
+aus	O
+drei	O
+Siebenern	O
+(	O
+Driple	O
+sevn	O
+)	O
+,	O
+gwinnt	O
+ea	O
+sofoat	O
+im	O
+Vahältnis	O
+3	O
+:	O
+2	O
+,	O
+unobhängig	O
+vo	O
+da	O
+Kartn	O
+des	O
+Croupiers	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-26
+# text = Des Schbui is fia de betreffend Box noch da Gewinnauszoiung beendt . 
+Des	O
+Schbui	O
+is	O
+fia	O
+de	O
+betreffend	O
+Box	O
+noch	O
+da	O
+Gewinnauszoiung	O
+beendt	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-27
+# text = ( De Regl is außerhoib Österreichs unüblich ; oierdings hod 's si aa in Deitschland und da Schweiz etobliad , dass da Gast in irgendoana Foam oan Bonus eahält . ) 
+(	O
+De	O
+Regl	O
+is	O
+außerhoib	O
+Österreichs	B-LOC
+unüblich	O
+;	O
+oierdings	O
+hod	O
+'s	O
+si	O
+aa	O
+in	O
+Deitschland	B-LOC
+und	O
+da	O
+Schweiz	B-LOC
+etobliad	O
+,	O
+dass	O
+da	O
+Gast	O
+in	O
+irgendoana	O
+Foam	O
+oan	O
+Bonus	O
+eahält	O
+.	O
+)	O
+
+# sent_id = bar_wiki_Blackjack-28
+# text = Noch am Simma-Drilling is Blog Jog , a Kombination vo 21 Punkdn , bestehend aus den easdn beidn Kardn ? oiso Ass und Zehn , bzw. Ass und Buidl ? , des beste Resultod . 
+Noch	O
+am	O
+Simma-Drilling	O
+is	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+a	O
+Kombination	O
+vo	O
+21	O
+Punkdn	O
+,	O
+bestehend	O
+aus	O
+den	O
+easdn	O
+beidn	O
+Kardn	O
+?	O
+oiso	O
+Ass	O
+und	O
+Zehn	O
+,	O
+bzw.	O
+Ass	O
+und	O
+Buidl	O
+?	O
+,	O
+des	O
+beste	O
+Resultod	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-29
+# text = Hod a Schbuia oan Blog Jog , ned aba da Croupia , so eahält da Schbuia oan 3 : 2-Gewinn ausbezoit ( Blog Jog pays 3 to 2 ) . 
+Hod	O
+a	O
+Schbuia	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+ned	O
+aba	O
+da	O
+Croupia	O
+,	O
+so	O
+eahält	O
+da	O
+Schbuia	O
+oan	O
+3	O
+:	O
+2-Gewinn	O
+ausbezoit	O
+(	O
+Blog	B-MISC
+Jog	I-MISC
+pays	O
+3	O
+to	O
+2	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-30
+# text = Hod da Croupia jedoch aa oan Blog Jog , is des Schbui unentschiedn . 
+Hod	O
+da	O
+Croupia	O
+jedoch	O
+aa	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+is	O
+des	O
+Schbui	O
+unentschiedn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-31
+# text = Hod da Croupia oan Blog Jog , valiarn olle no im Schbui befindlichn Teilnehma , ausgnomma dejenign , welche ebenfois oan Blog Jog besitzn ; insbesondere aa oi dejenign Schbuia , welche 21 Punkte in da Bratz hoidn . 
+Hod	O
+da	O
+Croupia	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+valiarn	O
+olle	O
+no	O
+im	O
+Schbui	O
+befindlichn	O
+Teilnehma	O
+,	O
+ausgnomma	O
+dejenign	O
+,	O
+welche	O
+ebenfois	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+besitzn	O
+;	O
+insbesondere	O
+aa	O
+oi	O
+dejenign	O
+Schbuia	O
+,	O
+welche	O
+21	O
+Punkte	O
+in	O
+da	O
+Bratz	O
+hoidn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-32
+# text = ( Hod a Schbuia oan Simma-Drilling , hod ea sein Gewinn scho eahoidn und is bereits aus am Schbui . ) 
+(	O
+Hod	O
+a	O
+Schbuia	O
+oan	O
+Simma-Drilling	O
+,	O
+hod	O
+ea	O
+sein	O
+Gewinn	O
+scho	O
+eahoidn	O
+und	O
+is	O
+bereits	O
+aus	O
+am	O
+Schbui	O
+.	O
+)	O
+
+# sent_id = bar_wiki_Blackjack-33
+# text = Hod da Croupia ois easte Kartn a Ass , so könna si de Schbuia gegn oan Blog Jog des Croupiers vasichern , indem sie oan entsprechendn Einsatz auf de Insurance line setzn . 
+Hod	O
+da	O
+Croupia	O
+ois	O
+easte	O
+Kartn	O
+a	O
+Ass	O
+,	O
+so	O
+könna	O
+si	O
+de	O
+Schbuia	O
+gegn	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+des	O
+Croupiers	O
+vasichern	O
+,	O
+indem	O
+sie	O
+oan	O
+entsprechendn	O
+Einsatz	O
+auf	O
+de	O
+Insurance	O
+line	O
+setzn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-34
+# text = Ziagd da Croupia ois zwoate Kartn a Zehn oda a Buidkartn , hod ea oan Blog Jog und de Vasicherung werd im Vahältnis 2 : 1 ausbezoit ( ? 
+Ziagd	O
+da	O
+Croupia	O
+ois	O
+zwoate	O
+Kartn	O
+a	O
+Zehn	O
+oda	O
+a	O
+Buidkartn	O
+,	O
+hod	O
+ea	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+und	O
+de	O
+Vasicherung	O
+werd	O
+im	O
+Vahältnis	O
+2	O
+:	O
+1	O
+ausbezoit	O
+(	O
+?	O
+
+# sent_id = bar_wiki_Blackjack-35
+# text = Insurance pays 2 to 1 ? ) . 
+Insurance	O
+pays	O
+2	O
+to	O
+1	O
+?	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-36
+# text = Hod da Croupia jedoch koan Blog Jog , werd de Vasicherungsprämie einzong . 
+Hod	O
+da	O
+Croupia	O
+jedoch	O
+koan	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+werd	O
+de	O
+Vasicherungsprämie	O
+einzong	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-37
+# text = Hod a Schbuia oan Blog Jog und da Croupia ois easte Kartn a Ass , so konn si da Schbuia oan 1 : 1-Gewinn auszoin lossn und des Schbui beendn . 
+Hod	O
+a	O
+Schbuia	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+und	O
+da	O
+Croupia	O
+ois	O
+easte	O
+Kartn	O
+a	O
+Ass	O
+,	O
+so	O
+konn	O
+si	O
+da	O
+Schbuia	O
+oan	O
+1	O
+:	O
+1-Gewinn	O
+auszoin	O
+lossn	O
+und	O
+des	O
+Schbui	O
+beendn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-38
+# text = Des entspricht grod am Obschluss oana Vasicherung , wobei da Schbuia de Häiftn seis ursprünglichn Einsatzs auf de Insurance line blotziad . 
+Des	O
+entspricht	O
+grod	O
+am	O
+Obschluss	O
+oana	O
+Vasicherung	O
+,	O
+wobei	O
+da	O
+Schbuia	O
+de	O
+Häiftn	O
+seis	O
+ursprünglichn	O
+Einsatzs	O
+auf	O
+de	O
+Insurance	O
+line	O
+blotziad	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-39
+# text = De Vasicherung gegn oan Blog Jog des Croupiers is im Grunde a Nebenwette , da Bankvoateil beträgt bei da Insurance ca. 1/13 = 7,692 % . 
+De	O
+Vasicherung	O
+gegn	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+des	O
+Croupiers	O
+is	O
+im	O
+Grunde	O
+a	O
+Nebenwette	O
+,	O
+da	O
+Bankvoateil	O
+beträgt	O
+bei	O
+da	O
+Insurance	O
+ca.	O
+1/13	O
+=	O
+7,692	O
+%	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-40
+# text = A Schbuia konn sei Bratz teiln ( split ) , wenn de easdn beidn Kardn gleichwertig san ( z. B. zwoa Sexa oda Bube und Dame ) ; ea schbuit dann mid ? geteilta Bratz ? mid zwoa getrenndn Einsätzn weida , wobei mehrfachs Teiln ( resplit ) möglich is ( in deitschn Schbuibankn is des mehrfache Teiln i. d. R. ned zualässig ) . 
+A	O
+Schbuia	O
+konn	O
+sei	O
+Bratz	O
+teiln	O
+(	O
+split	O
+)	O
+,	O
+wenn	O
+de	O
+easdn	O
+beidn	O
+Kardn	O
+gleichwertig	O
+san	O
+(	O
+z.	O
+B.	O
+zwoa	O
+Sexa	O
+oda	O
+Bube	O
+und	O
+Dame	O
+)	O
+;	O
+ea	O
+schbuit	O
+dann	O
+mid	O
+?	O
+geteilta	O
+Bratz	O
+?	O
+mid	O
+zwoa	O
+getrenndn	O
+Einsätzn	O
+weida	O
+,	O
+wobei	O
+mehrfachs	O
+Teiln	O
+(	O
+resplit	O
+)	O
+möglich	O
+is	O
+(	O
+in	O
+deitschn	B-LOCderiv
+Schbuibankn	O
+is	O
+des	O
+mehrfache	O
+Teiln	O
+i.	O
+d.	O
+R.	O
+ned	O
+zualässig	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-41
+# text = Fia jede geteilte Bratz is a weidera Einsatz in da Hechn des ursprünglichn Einsatzs zua leisdn . 
+Fia	O
+jede	O
+geteilte	O
+Bratz	O
+is	O
+a	O
+weidera	O
+Einsatz	O
+in	O
+da	O
+Hechn	O
+des	O
+ursprünglichn	O
+Einsatzs	O
+zua	O
+leisdn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-42
+# text = Da Schbuia eahält jetz in jeda geteildn Bratz beliabig vui Kardn . 
+Da	O
+Schbuia	O
+eahält	O
+jetz	O
+in	O
+jeda	O
+geteildn	O
+Bratz	O
+beliabig	O
+vui	O
+Kardn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-43
+# text = Ausnahme : Teilt a Schbuia zwoa Asse , so eahält ea auf jeds Ass grod mehr a weidere Kartn . 
+Ausnahme	O
+:	O
+Teilt	O
+a	O
+Schbuia	O
+zwoa	O
+Asse	O
+,	O
+so	O
+eahält	O
+ea	O
+auf	O
+jeds	O
+Ass	O
+grod	O
+mehr	O
+a	O
+weidere	O
+Kartn	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-44
+# text = Is de a weiders Ass , is a nochmaligs Teiln aba weiderhin möglich . 
+Is	O
+de	O
+a	O
+weiders	O
+Ass	O
+,	O
+is	O
+a	O
+nochmaligs	O
+Teiln	O
+aba	O
+weiderhin	O
+möglich	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-45
+# text = In oana geteildn Bratz gilt de Kombination Ass und Buidl bzw. Ass und Zehn jedoch ned ois Blog Jog , sondern ois 21 Punkte , do de Kartenkombination ned mid den easdn beidn Kardn eazielt wurde . 
+In	O
+oana	O
+geteildn	O
+Bratz	O
+gilt	O
+de	O
+Kombination	O
+Ass	O
+und	O
+Buidl	O
+bzw.	O
+Ass	O
+und	O
+Zehn	O
+jedoch	O
+ned	O
+ois	O
+Blog	B-MISC
+Jog	I-MISC
+,	O
+sondern	O
+ois	O
+21	O
+Punkte	O
+,	O
+do	O
+de	O
+Kartenkombination	O
+ned	O
+mid	O
+den	O
+easdn	O
+beidn	O
+Kardn	O
+eazielt	O
+wurde	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-46
+# text = A Schbuia konn , nochdem ea sei easdn beidn Kardn eahoidn hod , sein Einsatz vadoppeln ( double ) . 
+A	O
+Schbuia	O
+konn	O
+,	O
+nochdem	O
+ea	O
+sei	O
+easdn	O
+beidn	O
+Kardn	O
+eahoidn	O
+hod	O
+,	O
+sein	O
+Einsatz	O
+vadoppeln	O
+(	O
+double	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-47
+# text = Da Wert da beidn Kardn is dabei unerheblich ( Double down on oy two ) . 
+Da	O
+Wert	O
+da	O
+beidn	O
+Kardn	O
+is	O
+dabei	O
+unerheblich	O
+(	O
+Double	O
+down	O
+on	O
+oy	O
+two	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-48
+# text = Vadoppelt a Schbuia , werd eahm danoch no genau a Kartn zuageteilt . 
+Vadoppelt	O
+a	O
+Schbuia	O
+,	O
+werd	O
+eahm	O
+danoch	O
+no	O
+genau	O
+a	O
+Kartn	O
+zuageteilt	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-49
+# text = A Vadoppeln noch am Teiln is möglich ( Double down on split pairs ) ( vgl. Regl-Variandn ) . 
+A	O
+Vadoppeln	O
+noch	O
+am	O
+Teiln	O
+is	O
+möglich	O
+(	O
+Double	O
+down	O
+on	O
+split	O
+pairs	O
+)	O
+(	O
+vgl.	O
+Regl-Variandn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-50
+# text = A mitsetzendr Schbuia in oana Box konn grod dann vadoppeln , wenn aa da Boxinhobr sein Einsatz vadoppelt . 
+A	O
+mitsetzendr	O
+Schbuia	O
+in	O
+oana	O
+Box	O
+konn	O
+grod	O
+dann	O
+vadoppeln	O
+,	O
+wenn	O
+aa	O
+da	O
+Boxinhobr	O
+sein	O
+Einsatz	O
+vadoppelt	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-51
+# text = Bust 
+Bust	O
+
+# sent_id = bar_wiki_Blackjack-52
+# text = In vuin Schbuibankn konn a Schbuia voa Ofang da Kartenausgob darauf wetdn , dass si da Deala in dea Runde übakafft ( Deala busts oda kuaz Bust ) . 
+In	O
+vuin	O
+Schbuibankn	O
+konn	O
+a	O
+Schbuia	O
+voa	O
+Ofang	O
+da	O
+Kartenausgob	O
+darauf	O
+wetdn	O
+,	O
+dass	O
+si	O
+da	O
+Deala	O
+in	O
+dea	O
+Runde	O
+übakafft	O
+(	O
+Deala	O
+busts	O
+oda	O
+kuaz	O
+Bust	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-53
+# text = Soiad da Deala 22 oda mehr Augn eahoidn und si somit übakaffn , wos mid oana Wahrscheinlichkeit vo 28,16 % gschieht ? oiso im Middl in wos wenga ois zwoa vo siebn Fälln ? , werd de Nebenwette im Vahältnis 5 : 2 ausbezoit , andernfois werd da Einsatz auf de Wette einzong . 
+Soiad	O
+da	O
+Deala	O
+22	O
+oda	O
+mehr	O
+Augn	O
+eahoidn	O
+und	O
+si	O
+somit	O
+übakaffn	O
+,	O
+wos	O
+mid	O
+oana	O
+Wahrscheinlichkeit	O
+vo	O
+28,16	O
+%	O
+gschieht	O
+?	O
+oiso	O
+im	O
+Middl	O
+in	O
+wos	O
+wenga	O
+ois	O
+zwoa	O
+vo	O
+siebn	O
+Fälln	O
+?	O
+,	O
+werd	O
+de	O
+Nebenwette	O
+im	O
+Vahältnis	O
+5	O
+:	O
+2	O
+ausbezoit	O
+,	O
+andernfois	O
+werd	O
+da	O
+Einsatz	O
+auf	O
+de	O
+Wette	O
+einzong	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-54
+# text = Da Bankvoateil bei dea Wettart beträgt 1,44 % . 
+Da	O
+Bankvoateil	O
+bei	O
+dea	O
+Wettart	O
+beträgt	O
+1,44	O
+%	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-55
+# text = Vui Casinos schränkn de Woimöglichkeitn da Schbuia a. De am häufigsdn ozutreffendn Obweichunga vo den obign Regeln san : 
+Vui	O
+Casinos	O
+schränkn	O
+de	O
+Woimöglichkeitn	O
+da	O
+Schbuia	O
+a.	O
+De	O
+am	O
+häufigsdn	O
+ozutreffendn	O
+Obweichunga	O
+vo	O
+den	O
+obign	O
+Regeln	O
+san	O
+:	O
+
+# sent_id = bar_wiki_Blackjack-56
+# text = De Art da Kartenausgob is vuifach unterschiedlich , in den USA eahält da Croupia in da Regl sei zwoate Kartn unmiddlbar nochdem olle Schbuia ihre easdn beidn Kardn eahoidn hom ? oiso ned east , nochdem olle Schbuia si eaklärt hom und bedeant san . 
+De	O
+Art	O
+da	O
+Kartenausgob	O
+is	O
+vuifach	O
+unterschiedlich	O
+,	O
+in	O
+den	O
+USA	B-LOC
+eahält	O
+da	O
+Croupia	O
+in	O
+da	O
+Regl	O
+sei	O
+zwoate	O
+Kartn	O
+unmiddlbar	O
+nochdem	O
+olle	O
+Schbuia	O
+ihre	O
+easdn	O
+beidn	O
+Kardn	O
+eahoidn	O
+hom	O
+?	O
+oiso	O
+ned	O
+east	O
+,	O
+nochdem	O
+olle	O
+Schbuia	O
+si	O
+eaklärt	O
+hom	O
+und	O
+bedeant	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-57
+# text = In dem Foi werd de zwoate Kartn des Croupiers oierdings vadeckt gegem und east dann umgedreht , wenn da letzte Schbuia bedeant is . 
+In	O
+dem	O
+Foi	O
+werd	O
+de	O
+zwoate	O
+Kartn	O
+des	O
+Croupiers	O
+oierdings	O
+vadeckt	O
+gegem	O
+und	O
+east	O
+dann	O
+umgedreht	O
+,	O
+wenn	O
+da	O
+letzte	O
+Schbuia	O
+bedeant	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Blackjack-58
+# text = Zeigt de easte Kartn des Croupiers a Ass oda a Kartn mid am Wert zehn , prüft dea , ob ea oan Blog Jog hod ? dess Vafahrn hod fia den Schbuia den Voateil , dass ea bei am Blog Jog des Dealers in jedem Foi grod den oafachn Einsatz valiad und ned den duach Teiln oda Vadoppeln eahöhdn Einsatz . 
+Zeigt	O
+de	O
+easte	O
+Kartn	O
+des	O
+Croupiers	O
+a	O
+Ass	O
+oda	O
+a	O
+Kartn	O
+mid	O
+am	O
+Wert	O
+zehn	O
+,	O
+prüft	O
+dea	O
+,	O
+ob	O
+ea	O
+oan	O
+Blog	B-MISC
+Jog	I-MISC
+hod	O
+?	O
+dess	O
+Vafahrn	O
+hod	O
+fia	O
+den	O
+Schbuia	O
+den	O
+Voateil	O
+,	O
+dass	O
+ea	O
+bei	O
+am	O
+Blog	B-MISC
+Jog	I-MISC
+des	O
+Dealers	O
+in	O
+jedem	O
+Foi	O
+grod	O
+den	O
+oafachn	O
+Einsatz	O
+valiad	O
+und	O
+ned	O
+den	O
+duach	O
+Teiln	O
+oda	O
+Vadoppeln	O
+eahöhdn	O
+Einsatz	O
+.	O
+
+# newdoc id = bar_wiki_Google
+# sent_id = bar_wiki_Google-1
+# text = Google 
+Google	B-ORG
+
+# sent_id = bar_wiki_Google-2
+# text = Google bzw. Google Inc. is a Firma mid Haptsitz in Mountain View ( Santa Clara County , Kalifornien , USA ) , des wo bsundas duach de gleichnomige Suachmaschin „ Google “ bekonnt worn is . 
+Google	B-ORG
+bzw.	O
+Google	B-ORG
+Inc.	I-ORG
+is	O
+a	O
+Firma	O
+mid	O
+Haptsitz	O
+in	O
+Mountain	B-LOC
+View	I-LOC
+(	O
+Santa	B-LOC
+Clara	I-LOC
+County	I-LOC
+,	O
+Kalifornien	B-LOC
+,	O
+USA	B-LOC
+)	O
+,	O
+des	O
+wo	O
+bsundas	O
+duach	O
+de	O
+gleichnomige	O
+Suachmaschin	O
+„	O
+Google	B-ORG
+“	O
+bekonnt	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Google-3
+# text = De Firma is am 7. Septemba 1998 vom Larry Page und vom Sergey Brin grindt worn . 
+De	O
+Firma	O
+is	O
+am	O
+7.	O
+Septemba	O
+1998	O
+vom	O
+Larry	B-PER
+Page	I-PER
+und	O
+vom	O
+Sergey	B-PER
+Brin	I-PER
+grindt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-4
+# text = No am sejm Dog homs de easchte Testversion vo dem Programm afn Moakt brocht und no im sejm Joa is de Suachmaschin offiziej ans Netz ganga . 
+No	O
+am	O
+sejm	O
+Dog	O
+homs	O
+de	O
+easchte	O
+Testversion	O
+vo	O
+dem	O
+Programm	O
+afn	O
+Moakt	O
+brocht	O
+und	O
+no	O
+im	O
+sejm	O
+Joa	O
+is	O
+de	O
+Suachmaschin	O
+offiziej	O
+ans	O
+Netz	O
+ganga	O
+.	O
+
+# sent_id = bar_wiki_Google-5
+# text = De Firma bschreibt s Haptzui wia foigt : 
+De	O
+Firma	O
+bschreibt	O
+s	O
+Haptzui	O
+wia	O
+foigt	O
+:	O
+
+# sent_id = bar_wiki_Google-6
+# text = De Firma hod Ende 2010 24.400 Mitorwata bschäftigt . 
+De	O
+Firma	O
+hod	O
+Ende	O
+2010	O
+24.400	O
+Mitorwata	O
+bschäftigt	O
+.	O
+
+# sent_id = bar_wiki_Google-7
+# text = Google hod an moaktbeheaschndn Otei ( 80 % ) vo oin Suachofrong im Internetz ( Stond : 2010 ) . 
+Google	B-ORG
+hod	O
+an	O
+moaktbeheaschndn	O
+Otei	O
+(	O
+80	O
+%	O
+)	O
+vo	O
+oin	O
+Suachofrong	O
+im	O
+Internetz	O
+(	O
+Stond	O
+:	O
+2010	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-8
+# text = Noch da Moaktfoaschungsgruppm Millward Brown is Google mid am Weat vo rund 111.5 Milliardn US-Dollar ( uma 78 Milliardn Euro ) noch Apple de zwoatejdaste Markn vo da Wejd ( Stond : 2011 ) . 
+Noch	O
+da	O
+Moaktfoaschungsgruppm	O
+Millward	B-ORG
+Brown	I-ORG
+is	O
+Google	B-ORG
+mid	O
+am	O
+Weat	O
+vo	O
+rund	O
+111.5	O
+Milliardn	O
+US-Dollar	B-ORGpart
+(	O
+uma	O
+78	O
+Milliardn	O
+Euro	O
+)	O
+noch	O
+Apple	B-ORG
+de	O
+zwoatejdaste	O
+Markn	O
+vo	O
+da	O
+Wejd	O
+(	O
+Stond	O
+:	O
+2011	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-9
+# text = S Woat Google basiat af an Woatspui ( mange sogn sogoa , des warad bloss a Rechtschreibfehla ) mid da US-amerikanischn Aussproch vom Woat " googol " ( de englische Bezeichnung fia de Zoi formula_1 ) . 
+S	O
+Woat	O
+Google	B-ORG
+basiat	O
+af	O
+an	O
+Woatspui	O
+(	O
+mange	O
+sogn	O
+sogoa	O
+,	O
+des	O
+warad	O
+bloss	O
+a	O
+Rechtschreibfehla	O
+)	O
+mid	O
+da	O
+US-amerikanischn	B-LOCderiv
+Aussproch	O
+vom	O
+Woat	O
+"	O
+googol	O
+"	O
+(	O
+de	O
+englische	B-LANGderiv
+Bezeichnung	O
+fia	O
+de	O
+Zoi	O
+formula_1	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-10
+# text = De Google-Grinda hom an Begriff af an riesign Haffa vo Informationa iwatrong , de wo a Suachmaschin findn soit . 
+De	O
+Google-Grinda	B-ORGpart
+hom	O
+an	O
+Begriff	O
+af	O
+an	O
+riesign	O
+Haffa	O
+vo	O
+Informationa	O
+iwatrong	O
+,	O
+de	O
+wo	O
+a	O
+Suachmaschin	O
+findn	O
+soit	O
+.	O
+
+# sent_id = bar_wiki_Google-11
+# text = Da standarddeitsche Rechtschreib-Duden hod des Verb " googeln " ( sprich : [ ] „ guhg ( e ) ln “ ) 2004 in de 23. Aflog afgnumma . 
+Da	O
+standarddeitsche	O
+Rechtschreib-Duden	B-WOApart
+hod	O
+des	O
+Verb	O
+"	O
+googeln	B-ORGderiv
+"	O
+(	O
+sprich	O
+:	O
+[	O
+]	O
+„	O
+guhg	O
+(	O
+e	O
+)	O
+ln	O
+“	O
+)	O
+2004	O
+in	O
+de	O
+23.	O
+Aflog	O
+afgnumma	O
+.	O
+
+# sent_id = bar_wiki_Google-12
+# text = S Woat wiad in da Umgangssproch moast ned fias Suachn mid Google vawendt , sondan aa ois Synonym fia de Suacharei im Netz mid irgendana Suachmaschin ( " vgl. " Wiktionary , 
+S	O
+Woat	O
+wiad	O
+in	O
+da	O
+Umgangssproch	O
+moast	O
+ned	O
+fias	O
+Suachn	O
+mid	O
+Google	B-MISC
+vawendt	O
+,	O
+sondan	O
+aa	O
+ois	O
+Synonym	O
+fia	O
+de	O
+Suacharei	O
+im	O
+Netz	O
+mid	O
+irgendana	O
+Suachmaschin	O
+(	O
+"	O
+vgl.	O
+"	O
+Wiktionary	O
+,	O
+
+# sent_id = bar_wiki_Google-13
+# text = 1995 san da Page Larry und da Brin Sergey an da Stanford University ois Studentn zammatroffa . 
+1995	O
+san	O
+da	O
+Page	B-PER
+Larry	I-PER
+und	O
+da	O
+Brin	B-PER
+Sergey	I-PER
+an	O
+da	O
+Stanford	B-ORG
+University	I-ORG
+ois	O
+Studentn	O
+zammatroffa	O
+.	O
+
+# sent_id = bar_wiki_Google-14
+# text = . 
+.	O
+
+# sent_id = bar_wiki_Google-15
+# text = Se hom nacha de Suachmaschin " BackRub " konzipiat . 
+Se	O
+hom	O
+nacha	O
+de	O
+Suachmaschin	O
+"	O
+BackRub	B-MISC
+"	O
+konzipiat	O
+.	O
+
+# sent_id = bar_wiki_Google-16
+# text = Gnennt hom ses so zweng den Backlinks , noch dena de Wertigkeit vo oana Seitn bstimmt worn is . 
+Gnennt	O
+hom	O
+ses	O
+so	O
+zweng	O
+den	O
+Backlinks	O
+,	O
+noch	O
+dena	O
+de	O
+Wertigkeit	O
+vo	O
+oana	O
+Seitn	O
+bstimmt	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Google-17
+# text = 1998 hod se owa znagst neamd fia de nei entwicklte Suachtechnik interessiat . 
+1998	O
+hod	O
+se	O
+owa	O
+znagst	O
+neamd	O
+fia	O
+de	O
+nei	O
+entwicklte	O
+Suachtechnik	O
+interessiat	O
+.	O
+
+# sent_id = bar_wiki_Google-18
+# text = Im August 1998 hod da amerikanische Investor Andreas von Bechtolsheim noch oana Zehn-Minutn-Präsentation fia de Weidaentwicklung vo da Suachmaschin an Scheck iwa 100.000 US-Dollar ausgschdöd . 
+Im	O
+August	O
+1998	O
+hod	O
+da	O
+amerikanische	O
+Investor	O
+Andreas	B-PER
+von	I-PER
+Bechtolsheim	I-PER
+noch	O
+oana	O
+Zehn-Minutn-Präsentation	O
+fia	O
+de	O
+Weidaentwicklung	O
+vo	O
+da	O
+Suachmaschin	O
+an	O
+Scheck	O
+iwa	O
+100.000	O
+US-Dollar	B-ORGpart
+ausgschdöd	O
+.	O
+
+# sent_id = bar_wiki_Google-19
+# text = Wei da Bechtolsheim Andy ognumma hod , „ Google " warad da Nama vo da Firma , hoda ois Empfänga „ Google Inc. " afn Scheck eitrong . 
+Wei	O
+da	O
+Bechtolsheim	B-PER
+Andy	I-PER
+ognumma	O
+hod	O
+,	O
+„	O
+Google	B-ORG
+"	O
+warad	O
+da	O
+Nama	O
+vo	O
+da	O
+Firma	O
+,	O
+hoda	O
+ois	O
+Empfänga	O
+„	O
+Google	B-ORG
+Inc.	I-ORG
+"	O
+afn	O
+Scheck	O
+eitrong	O
+.	O
+
+# sent_id = bar_wiki_Google-20
+# text = De Firma hods domois owa no gor ned gem. Larry Page und Sergey Brin ließen das Unternehmen unter diesem Namen registrieren , damid der Scheck kassiad werden konnte . 
+De	O
+Firma	O
+hods	O
+domois	O
+owa	O
+no	O
+gor	O
+ned	O
+gem.	O
+Larry	B-PER
+Page	I-PER
+und	O
+Sergey	B-PER
+Brin	I-PER
+ließen	O
+das	O
+Unternehmen	O
+unter	O
+diesem	O
+Namen	O
+registrieren	O
+,	O
+damid	O
+der	O
+Scheck	O
+kassiad	O
+werden	O
+konnte	O
+.	O
+
+# sent_id = bar_wiki_Google-21
+# text = De " Google Inc " is nacha am 7. Septemba 1998 vo oana Garagn aus grindt worn . 
+De	O
+"	O
+Google	B-ORG
+Inc	I-ORG
+"	O
+is	O
+nacha	O
+am	O
+7.	O
+Septemba	O
+1998	O
+vo	O
+oana	O
+Garagn	O
+aus	O
+grindt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-22
+# text = Mit an Startkapital vo umgrechnt 810.000 Euro ( 1.100.000 Dollar , afbrocht vo de Famijn , Freind und vom Bechtolsheim Andy ) is de easchte Vasuachsversion vo dem Programm vaeffentlicht worn . 
+Mit	O
+an	O
+Startkapital	O
+vo	O
+umgrechnt	O
+810.000	O
+Euro	O
+(	O
+1.100.000	O
+Dollar	O
+,	O
+afbrocht	O
+vo	O
+de	O
+Famijn	O
+,	O
+Freind	O
+und	O
+vom	O
+Bechtolsheim	B-PER
+Andy	I-PER
+)	O
+is	O
+de	O
+easchte	O
+Vasuachsversion	O
+vo	O
+dem	O
+Programm	O
+vaeffentlicht	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-23
+# text = Fimf Monat spoda hod Google mid ocht Ogstejtn a Biro in Palo Alto bezong . 
+Fimf	O
+Monat	O
+spoda	O
+hod	O
+Google	B-ORG
+mid	O
+ocht	O
+Ogstejtn	O
+a	O
+Biro	O
+in	O
+Palo	B-LOC
+Alto	I-LOC
+bezong	O
+.	O
+
+# sent_id = bar_wiki_Google-24
+# text = Uma 500.000 Suachofrong san boid Tog fia Tog vazeichnt worn . 
+Uma	O
+500.000	O
+Suachofrong	O
+san	O
+boid	O
+Tog	O
+fia	O
+Tog	O
+vazeichnt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-25
+# text = Wia nacha im Septemba 1999 AOL und Netscape mid Google zammagorbat hom , san de Suachofrong glei afs Sechsfoche gstieng . 
+Wia	O
+nacha	O
+im	O
+Septemba	O
+1999	O
+AOL	B-ORG
+und	O
+Netscape	B-ORG
+mid	O
+Google	B-ORG
+zammagorbat	O
+hom	O
+,	O
+san	O
+de	O
+Suachofrong	O
+glei	O
+afs	O
+Sechsfoche	O
+gstieng	O
+.	O
+
+# sent_id = bar_wiki_Google-26
+# text = Im Joa 2005 is de " Google Inc. " zan easchtn Moi af da Forbes-Listn ogfiat ( Platz 38 ) . 
+Im	O
+Joa	O
+2005	O
+is	O
+de	O
+"	O
+Google	B-ORG
+Inc.	I-ORG
+"	O
+zan	O
+easchtn	O
+Moi	O
+af	O
+da	O
+Forbes-Listn	B-ORGpart
+ogfiat	O
+(	O
+Platz	O
+38	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-27
+# text = Dea Unternehmenswert is im Joa 2005 af uma 55 Milliardn Dollar gschätzt worn . 
+Dea	O
+Unternehmenswert	O
+is	O
+im	O
+Joa	O
+2005	O
+af	O
+uma	O
+55	O
+Milliardn	O
+Dollar	O
+gschätzt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-28
+# text = 2006 is Google zua einflussreichstn Markn vo 2005 gwejd worn . 
+2006	O
+is	O
+Google	B-ORG
+zua	O
+einflussreichstn	O
+Markn	O
+vo	O
+2005	O
+gwejd	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Google-29
+# text = Google deaf noch an Gerichtsurtei vom 14. Feba 2007 in Bejgien de Artikl vo nationaln Dogeszeidunga ned meah vaeffentlichn und hod 3,45 Mio. Euro Gejdstraf zoin miassn .. 
+Google	B-ORG
+deaf	O
+noch	O
+an	O
+Gerichtsurtei	O
+vom	O
+14.	O
+Feba	O
+2007	O
+in	O
+Bejgien	B-LOC
+de	O
+Artikl	O
+vo	O
+nationaln	O
+Dogeszeidunga	O
+ned	O
+meah	O
+vaeffentlichn	O
+und	O
+hod	O
+3,45	O
+Mio.	O
+Euro	O
+Gejdstraf	O
+zoin	O
+miassn	O
+..	O
+
+# sent_id = bar_wiki_Google-30
+# text = Am 23. Aprui is Google de weatvoiste Markn vo da Wejd - vor " General Electric " , Microsoft und Coca-Cola . 
+Am	O
+23.	O
+Aprui	O
+is	O
+Google	B-ORG
+de	O
+weatvoiste	O
+Markn	O
+vo	O
+da	O
+Wejd	O
+-	O
+vor	O
+"	O
+General	B-ORG
+Electric	I-ORG
+"	O
+,	O
+Microsoft	B-ORG
+und	O
+Coca-Cola	B-ORG
+.	O
+
+# sent_id = bar_wiki_Google-31
+# text = Drei Dog draf hod Google aa de moastn Bsuacha im Internet vor Microsoft , Yahoo , Time Warner , eBay und Wikipedia . 
+Drei	O
+Dog	O
+draf	O
+hod	O
+Google	B-ORG
+aa	O
+de	O
+moastn	O
+Bsuacha	O
+im	O
+Internet	O
+vor	O
+Microsoft	B-ORG
+,	O
+Yahoo	B-ORG
+,	O
+Time	B-ORG
+Warner	I-ORG
+,	O
+eBay	B-ORG
+und	O
+Wikipedia	B-ORG
+.	O
+
+# sent_id = bar_wiki_Google-32
+# text = Google wead exklusiva Sponsor vo oam Satellitn midn Nama " GeoEye-1 " , dea wo aktueje houchaflesnde Satellitnfotos fia Google Earth und Google Maps liefat . 
+Google	B-ORG
+wead	O
+exklusiva	O
+Sponsor	O
+vo	O
+oam	O
+Satellitn	O
+midn	O
+Nama	O
+"	O
+GeoEye-1	B-MISC
+"	O
+,	O
+dea	O
+wo	O
+aktueje	O
+houchaflesnde	O
+Satellitnfotos	O
+fia	O
+Google	B-MISC
+Earth	I-MISC
+und	O
+Google	B-MISC
+Maps	I-MISC
+liefat	O
+.	O
+
+# sent_id = bar_wiki_Google-33
+# text = Beim Start vo dem Satellitn woan de zwoa Google-Grinda Larry Page und Sergey Brin dabei . 
+Beim	O
+Start	O
+vo	O
+dem	O
+Satellitn	O
+woan	O
+de	O
+zwoa	O
+Google-Grinda	B-ORGpart
+Larry	B-PER
+Page	I-PER
+und	O
+Sergey	B-PER
+Brin	I-PER
+dabei	O
+.	O
+
+# sent_id = bar_wiki_Google-34
+# text = An Hauptsitz hod Google z Mountain View , in Kalifornien . 
+An	O
+Hauptsitz	O
+hod	O
+Google	B-ORG
+z	O
+Mountain	B-LOC
+View	I-LOC
+,	O
+in	O
+Kalifornien	B-LOC
+.	O
+
+# sent_id = bar_wiki_Google-35
+# text = Dazua gibts owa a Niedalossunga in da gonzn Wejd . 
+Dazua	O
+gibts	O
+owa	O
+a	O
+Niedalossunga	O
+in	O
+da	O
+gonzn	O
+Wejd	O
+.	O
+
+# sent_id = bar_wiki_Google-36
+# text = De Eiropa-Zentrale sitzt z Dublin , Irland und de Deitschland-Zentrale z Hamburg . 
+De	O
+Eiropa-Zentrale	B-LOCpart
+sitzt	O
+z	O
+Dublin	B-LOC
+,	O
+Irland	B-LOC
+und	O
+de	O
+Deitschland-Zentrale	B-LOCpart
+z	O
+Hamburg	B-LOC
+.	O
+
+# sent_id = bar_wiki_Google-37
+# text = Aa in Bayern gibts an Stondoat , nämli Minga . 
+Aa	O
+in	O
+Bayern	B-LOC
+gibts	O
+an	O
+Stondoat	O
+,	O
+nämli	O
+Minga	B-LOC
+.	O
+
+# sent_id = bar_wiki_Google-38
+# text = In Berlin wead a neies Foaschungsinstitut baut . 
+In	O
+Berlin	B-LOC
+wead	O
+a	O
+neies	O
+Foaschungsinstitut	O
+baut	O
+.	O
+
+# sent_id = bar_wiki_Google-39
+# text = Google vakafft fia beliabige Suachbegriffe s Einblendn gsponsata Links . 
+Google	B-ORG
+vakafft	O
+fia	O
+beliabige	O
+Suachbegriffe	O
+s	O
+Einblendn	O
+gsponsata	O
+Links	O
+.	O
+
+# sent_id = bar_wiki_Google-40
+# text = Des nenna se Google AdWords . 
+Des	O
+nenna	O
+se	O
+Google	B-MISC
+AdWords	I-MISC
+.	O
+
+# sent_id = bar_wiki_Google-41
+# text = Des is a reine Textweabung , de wo optisch speziej heavoaghom is , so doss da Nutza se vo de eigntlichn Suachergebnissn untascheidn ko . 
+Des	O
+is	O
+a	O
+reine	O
+Textweabung	O
+,	O
+de	O
+wo	O
+optisch	O
+speziej	O
+heavoaghom	O
+is	O
+,	O
+so	O
+doss	O
+da	O
+Nutza	O
+se	O
+vo	O
+de	O
+eigntlichn	O
+Suachergebnissn	O
+untascheidn	O
+ko	O
+.	O
+
+# sent_id = bar_wiki_Google-42
+# text = So wead a Werbung ozoagt , de wo inhoitli zua Suachofrog passt . 
+So	O
+wead	O
+a	O
+Werbung	O
+ozoagt	O
+,	O
+de	O
+wo	O
+inhoitli	O
+zua	O
+Suachofrog	O
+passt	O
+.	O
+
+# sent_id = bar_wiki_Google-43
+# text = Obgrechnt wead vo Google dann pro Klick . 
+Obgrechnt	O
+wead	O
+vo	O
+Google	B-ORG
+dann	O
+pro	O
+Klick	O
+.	O
+
+# sent_id = bar_wiki_Google-44
+# text = Dabei legt da Weabekunde sejm fest , wiavui ea fia an Klick zoin wui . 
+Dabei	O
+legt	O
+da	O
+Weabekunde	O
+sejm	O
+fest	O
+,	O
+wiavui	O
+ea	O
+fia	O
+an	O
+Klick	O
+zoin	O
+wui	O
+.	O
+
+# sent_id = bar_wiki_Google-45
+# text = De Häh vom Preis bstimmt owa de Position , wann meahrare Ozoagn af ana Seitn gibt ( je meah ma zoit , desto weida obm is ma ) . 
+De	O
+Häh	O
+vom	O
+Preis	O
+bstimmt	O
+owa	O
+de	O
+Position	O
+,	O
+wann	O
+meahrare	O
+Ozoagn	O
+af	O
+ana	O
+Seitn	O
+gibt	O
+(	O
+je	O
+meah	O
+ma	O
+zoit	O
+,	O
+desto	O
+weida	O
+obm	O
+is	O
+ma	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-46
+# text = Und wann ma beispuisweis a Monatslimit festglegt , des wo ma maximal ausgem wui , dann bstimmt da Preis aa , wia oft de Ozoag eascheint . 
+Und	O
+wann	O
+ma	O
+beispuisweis	O
+a	O
+Monatslimit	O
+festglegt	O
+,	O
+des	O
+wo	O
+ma	O
+maximal	O
+ausgem	O
+wui	O
+,	O
+dann	O
+bstimmt	O
+da	O
+Preis	O
+aa	O
+,	O
+wia	O
+oft	O
+de	O
+Ozoag	O
+eascheint	O
+.	O
+
+# sent_id = bar_wiki_Google-47
+# text = Adsense san de Google-Ozoagn , de wo a Webmoasta af seina Hoamseitn eibindn ko , des hoasst , de Ozoagn wean kontextobhängig eiblendt . 
+Adsense	B-MISC
+san	O
+de	O
+Google-Ozoagn	B-ORGpart
+,	O
+de	O
+wo	O
+a	O
+Webmoasta	O
+af	O
+seina	O
+Hoamseitn	O
+eibindn	O
+ko	O
+,	O
+des	O
+hoasst	O
+,	O
+de	O
+Ozoagn	O
+wean	O
+kontextobhängig	O
+eiblendt	O
+.	O
+
+# sent_id = bar_wiki_Google-48
+# text = Google hod okindigt , si middlfristig ned nua af Weabung im Internet beschränkn z woin , sondan aa driwa ausse z gähn . 
+Google	B-ORG
+hod	O
+okindigt	O
+,	O
+si	O
+middlfristig	O
+ned	O
+nua	O
+af	O
+Weabung	O
+im	O
+Internet	O
+beschränkn	O
+z	O
+woin	O
+,	O
+sondan	O
+aa	O
+driwa	O
+ausse	O
+z	O
+gähn	O
+.	O
+
+# sent_id = bar_wiki_Google-49
+# text = In de USA laffn scho diverse Kooparationa dazua . 
+In	O
+de	O
+USA	B-LOC
+laffn	O
+scho	O
+diverse	O
+Kooparationa	O
+dazua	O
+.	O
+
+# sent_id = bar_wiki_Google-50
+# text = Des is a Funkzion , de ma owalodn und inschdalian kau und mid de Browser Firefox und Internet Explorer funkzioniad und im Browser a zuasezliche Weakzaigleistn eifigt mid ana Google Suach-Box , am Phishing Schuz , Pop-Up Blocker und a da Meglichkait fia Leit mid eigena Intanetseitn , dosss ma Button mocha kau . 
+Des	O
+is	O
+a	O
+Funkzion	O
+,	O
+de	O
+ma	O
+owalodn	O
+und	O
+inschdalian	O
+kau	O
+und	O
+mid	O
+de	O
+Browser	O
+Firefox	B-MISC
+und	O
+Internet	B-MISC
+Explorer	I-MISC
+funkzioniad	O
+und	O
+im	O
+Browser	O
+a	O
+zuasezliche	O
+Weakzaigleistn	O
+eifigt	O
+mid	O
+ana	O
+Google	B-ORG
+Suach-Box	O
+,	O
+am	O
+Phishing	O
+Schuz	O
+,	O
+Pop-Up	O
+Blocker	O
+und	O
+a	O
+da	O
+Meglichkait	O
+fia	O
+Leit	O
+mid	O
+eigena	O
+Intanetseitn	O
+,	O
+dosss	O
+ma	O
+Button	O
+mocha	O
+kau	O
+.	O
+
+# sent_id = bar_wiki_Google-51
+# text = Des is an Online Kalenda zum Vawoitn fu de peasenlichn Teamine , mid Earinnarungsfunkzion . 
+Des	O
+is	O
+an	O
+Online	O
+Kalenda	O
+zum	O
+Vawoitn	O
+fu	O
+de	O
+peasenlichn	O
+Teamine	O
+,	O
+mid	O
+Earinnarungsfunkzion	O
+.	O
+
+# sent_id = bar_wiki_Google-52
+# text = Kau ma sogoa af Hendis vawendn . 
+Kau	O
+ma	O
+sogoa	O
+af	O
+Hendis	O
+vawendn	O
+.	O
+
+# sent_id = bar_wiki_Google-53
+# text = De Funkzion is owa datnschuzmessig umschdridn , wei natiali daun voi vui Infoamazion iwa oan söwa afn Google Server gschbaichat is . 
+De	O
+Funkzion	O
+is	O
+owa	O
+datnschuzmessig	O
+umschdridn	O
+,	O
+wei	O
+natiali	O
+daun	O
+voi	O
+vui	O
+Infoamazion	O
+iwa	O
+oan	O
+söwa	O
+afn	O
+Google	B-ORG
+Server	O
+gschbaichat	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Google-54
+# text = Des is an Owendung , wo ma söwa gschossne Fotos online schdön und Web Albums mocha kau . 
+Des	O
+is	O
+an	O
+Owendung	O
+,	O
+wo	O
+ma	O
+söwa	O
+gschossne	O
+Fotos	O
+online	O
+schdön	O
+und	O
+Web	O
+Albums	O
+mocha	O
+kau	O
+.	O
+
+# sent_id = bar_wiki_Google-55
+# text = Dea Service is in Google integriad worn , wia s 2004 de Fiama Picasa kafft haum . 
+Dea	O
+Service	O
+is	O
+in	O
+Google	B-ORG
+integriad	O
+worn	O
+,	O
+wia	O
+s	O
+2004	O
+de	O
+Fiama	O
+Picasa	B-ORG
+kafft	O
+haum	O
+.	O
+
+# sent_id = bar_wiki_Google-56
+# text = Des is a Sisdem zum Easchdön und Beoawatn fu Blogs , des 1999 fu da Fiama Pyra Labs eafundn worn is . 
+Des	O
+is	O
+a	O
+Sisdem	O
+zum	O
+Easchdön	O
+und	O
+Beoawatn	O
+fu	O
+Blogs	O
+,	O
+des	O
+1999	O
+fu	O
+da	O
+Fiama	O
+Pyra	B-ORG
+Labs	I-ORG
+eafundn	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Google-57
+# text = 2003 hod Google Pyra Labs kafft . 
+2003	O
+hod	O
+Google	B-ORG
+Pyra	B-ORG
+Labs	I-ORG
+kafft	O
+.	O
+
+# sent_id = bar_wiki_Google-58
+# text = 2006 is de neichasde Blogger Version in da Betawariantn aussakema , mid dea a endguitig olle User af de Serva vo Google tranfariad worn san . 
+2006	O
+is	O
+de	O
+neichasde	O
+Blogger	B-MISC
+Version	O
+in	O
+da	O
+Betawariantn	O
+aussakema	O
+,	O
+mid	O
+dea	O
+a	O
+endguitig	O
+olle	O
+User	O
+af	O
+de	O
+Serva	O
+vo	O
+Google	B-ORG
+tranfariad	O
+worn	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Google-59
+# text = Mid Blogger kau ma entweda Blogs af blogspot.com easchdön oda de Software benuzn fia Blogs , de ma auf eigne Domains hosted . 
+Mid	O
+Blogger	B-MISC
+kau	O
+ma	O
+entweda	O
+Blogs	O
+af	O
+blogspot.com	B-MISC
+easchdön	O
+oda	O
+de	O
+Software	O
+benuzn	O
+fia	O
+Blogs	O
+,	O
+de	O
+ma	O
+auf	O
+eigne	O
+Domains	O
+hosted	O
+.	O
+
+# sent_id = bar_wiki_Google-60
+# text = Google News is a Funkzion , mid dea ma de neichastn Nochrichtn aus online Zeidunga duachfoastn kau , bzw. seine eignen Intaressensgebiete eischdön kau , zu denan ma Infoamziona und Neiigkeitn hom mechad . 
+Google	B-MISC
+News	I-MISC
+is	O
+a	O
+Funkzion	O
+,	O
+mid	O
+dea	O
+ma	O
+de	O
+neichastn	O
+Nochrichtn	O
+aus	O
+online	O
+Zeidunga	O
+duachfoastn	O
+kau	O
+,	O
+bzw.	O
+seine	O
+eignen	O
+Intaressensgebiete	O
+eischdön	O
+kau	O
+,	O
+zu	O
+denan	O
+ma	O
+Infoamziona	O
+und	O
+Neiigkeitn	O
+hom	O
+mechad	O
+.	O
+
+# sent_id = bar_wiki_Google-61
+# text = Funkzionad a af Hendis . 
+Funkzionad	O
+a	O
+af	O
+Hendis	O
+.	O
+
+# sent_id = bar_wiki_Google-62
+# text = Des is a bsondare Suachfunkzion vu Google , mid dea ma schbeziej noch wissnschoftliche Artikl und uniweasiteare Zeidschriftn , Diplomoawaitn , Disseatazionen usw. suachn kau . 
+Des	O
+is	O
+a	O
+bsondare	O
+Suachfunkzion	O
+vu	O
+Google	B-ORG
+,	O
+mid	O
+dea	O
+ma	O
+schbeziej	O
+noch	O
+wissnschoftliche	O
+Artikl	O
+und	O
+uniweasiteare	O
+Zeidschriftn	O
+,	O
+Diplomoawaitn	O
+,	O
+Disseatazionen	O
+usw.	O
+suachn	O
+kau	O
+.	O
+
+# sent_id = bar_wiki_Google-63
+# text = Funkzioniad jez a af Deitsch . 
+Funkzioniad	O
+jez	O
+a	O
+af	O
+Deitsch	B-LANG
+.	O
+
+# sent_id = bar_wiki_Google-64
+# text = Gmail is da Webmail Service vu Google , dea am 1. Aprü 2004 gschdart worn is . 
+Gmail	B-MISC
+is	O
+da	O
+Webmail	O
+Service	O
+vu	O
+Google	B-ORG
+,	O
+dea	O
+am	O
+1.	O
+Aprü	O
+2004	O
+gschdart	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Google-65
+# text = Zu dea Zeid woan Hotmail und Yahoo-Mail de waidast vabroatadstn Webmail Services , und wia Google aunkündigt hod , dasa baim Gmail a jeda User a Gigabyte Webspace hod , haum de mearan Leit glaubt , des is a Aprüscheaz - voa oim , wei Google schau efda am 1. Aprü kloane Pflanzarein gmocht hod . 
+Zu	O
+dea	O
+Zeid	O
+woan	O
+Hotmail	B-MISC
+und	O
+Yahoo-Mail	B-MISC
+de	O
+waidast	O
+vabroatadstn	O
+Webmail	O
+Services	O
+,	O
+und	O
+wia	O
+Google	B-ORG
+aunkündigt	O
+hod	O
+,	O
+dasa	O
+baim	O
+Gmail	B-MISC
+a	O
+jeda	O
+User	O
+a	O
+Gigabyte	O
+Webspace	O
+hod	O
+,	O
+haum	O
+de	O
+mearan	O
+Leit	O
+glaubt	O
+,	O
+des	O
+is	O
+a	O
+Aprüscheaz	O
+-	O
+voa	O
+oim	O
+,	O
+wei	O
+Google	B-ORG
+schau	O
+efda	O
+am	O
+1.	O
+Aprü	O
+kloane	O
+Pflanzarein	O
+gmocht	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Google-66
+# text = Desmoi wo des owa eanst gmoand , und mitlaile hod jeda User sogoa zwoa Gigabyte Webspace gratis dabei ( fia Attachments , gschbaichate e-Mails , usw. ) 
+Desmoi	O
+wo	O
+des	O
+owa	O
+eanst	O
+gmoand	O
+,	O
+und	O
+mitlaile	O
+hod	O
+jeda	O
+User	O
+sogoa	O
+zwoa	O
+Gigabyte	O
+Webspace	O
+gratis	O
+dabei	O
+(	O
+fia	O
+Attachments	O
+,	O
+gschbaichate	O
+e-Mails	O
+,	O
+usw.	O
+)	O
+
+# sent_id = bar_wiki_Google-67
+# text = Google Talk is a Voice over IP Program , so eanli wia Skype . 
+Google	B-MISC
+Talk	I-MISC
+is	O
+a	O
+Voice	O
+over	O
+IP	O
+Program	O
+,	O
+so	O
+eanli	O
+wia	O
+Skype	B-MISC
+.	O
+
+# sent_id = bar_wiki_Google-68
+# text = Google Video is a gratis Hosting vu Videos und glaichzeitig aa a Suachmaschin fia ole Videos im gaunzn Intanet . 
+Google	B-MISC
+Video	I-MISC
+is	O
+a	O
+gratis	O
+Hosting	O
+vu	O
+Videos	O
+und	O
+glaichzeitig	O
+aa	O
+a	O
+Suachmaschin	O
+fia	O
+ole	O
+Videos	O
+im	O
+gaunzn	O
+Intanet	O
+.	O
+
+# sent_id = bar_wiki_Google-69
+# text = De Funkzion wü kloaraweis Youtube a weng in Eafoig schdraitig mochn und hod desweng a boa Voateij , domid s User aunlokn . 
+De	O
+Funkzion	O
+wü	O
+kloaraweis	O
+Youtube	B-MISC
+a	O
+weng	O
+in	O
+Eafoig	O
+schdraitig	O
+mochn	O
+und	O
+hod	O
+desweng	O
+a	O
+boa	O
+Voateij	O
+,	O
+domid	O
+s	O
+User	O
+aunlokn	O
+.	O
+
+# sent_id = bar_wiki_Google-70
+# text = Bei Google Video is de Auflesung gressa und ma kau lengare Videos afilodn ( bei Youtube is fia noamoie User des Limit zehn Minutn ) . 
+Bei	O
+Google	B-MISC
+Video	I-MISC
+is	O
+de	O
+Auflesung	O
+gressa	O
+und	O
+ma	O
+kau	O
+lengare	O
+Videos	O
+afilodn	O
+(	O
+bei	O
+Youtube	B-MISC
+is	O
+fia	O
+noamoie	O
+User	O
+des	O
+Limit	O
+zehn	O
+Minutn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Google-71
+# text = Im Nowemba 2006 hod Google Youtube iwahaupst komplet kafft undn Service in Google Video integriad . 
+Im	O
+Nowemba	O
+2006	O
+hod	O
+Google	B-ORG
+Youtube	B-MISC
+iwahaupst	O
+komplet	O
+kafft	O
+undn	O
+Service	O
+in	O
+Google	B-MISC
+Video	I-MISC
+integriad	O
+.	O
+
+# sent_id = bar_wiki_Google-72
+# text = Youtube is owa a waidahin nu unta seina Domain aufruafboa . 
+Youtube	B-MISC
+is	O
+owa	O
+a	O
+waidahin	O
+nu	O
+unta	O
+seina	O
+Domain	O
+aufruafboa	O
+.	O
+
+# sent_id = bar_wiki_Google-73
+# text = Meah unta Youtube . 
+Meah	O
+unta	O
+Youtube	B-MISC
+.	O
+
+# sent_id = bar_wiki_Google-74
+# text = Mid de Google Maps hod de Fiama zum easchtn Moi ogfongt , Laundkoatn und Satelitnfotos ois Service zum aunbitn . 
+Mid	O
+de	O
+Google	B-MISC
+Maps	I-MISC
+hod	O
+de	O
+Fiama	O
+zum	O
+easchtn	O
+Moi	O
+ogfongt	O
+,	O
+Laundkoatn	O
+und	O
+Satelitnfotos	O
+ois	O
+Service	O
+zum	O
+aunbitn	O
+.	O
+
+# sent_id = bar_wiki_Google-75
+# text = Google Maps funkzioniad im Intanet Browser und ma braucht koa Software owalodn und nix inschdalian . 
+Google	B-MISC
+Maps	I-MISC
+funkzioniad	O
+im	O
+Intanet	O
+Browser	O
+und	O
+ma	O
+braucht	O
+koa	O
+Software	O
+owalodn	O
+und	O
+nix	O
+inschdalian	O
+.	O
+
+# sent_id = bar_wiki_Google-76
+# text = Am Aufaung woa s Koatnmatrial af de USA bschrenkt , owa midlawei kau ma se de gaunze Wejd oschaun , teiweis in foa houcha Detailschdufn . 
+Am	O
+Aufaung	O
+woa	O
+s	O
+Koatnmatrial	O
+af	O
+de	O
+USA	B-LOC
+bschrenkt	O
+,	O
+owa	O
+midlawei	O
+kau	O
+ma	O
+se	O
+de	O
+gaunze	O
+Wejd	O
+oschaun	O
+,	O
+teiweis	O
+in	O
+foa	O
+houcha	O
+Detailschdufn	O
+.	O
+
+# sent_id = bar_wiki_Google-77
+# text = Seitdem s owa s Google Earth gibt , is des Intaresse on Google Maps a weng zrukgaunga . 
+Seitdem	O
+s	O
+owa	O
+s	O
+Google	O
+Earth	O
+gibt	O
+,	O
+is	O
+des	O
+Intaresse	O
+on	O
+Google	O
+Maps	O
+a	O
+weng	O
+zrukgaunga	O
+.	O
+
+# newdoc id = bar_wiki_Oberösterreichische-Nachrichten
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-1
+# text = Oberösterreichische Nachrichten 
+Oberösterreichische	B-ORG
+Nachrichten	I-ORG
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-2
+# text = De Oberösterreichische Nachrichten is a iwaregionale Togeszeidung mit Sitz in Linz . 
+De	O
+Oberösterreichische	B-ORG
+Nachrichten	I-ORG
+is	O
+a	O
+iwaregionale	O
+Togeszeidung	O
+mit	O
+Sitz	O
+in	O
+Linz	B-LOC
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-3
+# text = De Zeidung hod 5 Haubtredakzionen ( Rubrikn ) : Politik , Wiatschoft , Sport , Kuitua , Laund & Leid und mid am Lokalteu . 
+De	O
+Zeidung	O
+hod	O
+5	O
+Haubtredakzionen	O
+(	O
+Rubrikn	O
+)	O
+:	O
+Politik	O
+,	O
+Wiatschoft	O
+,	O
+Sport	O
+,	O
+Kuitua	O
+,	O
+Laund	O
+&	O
+Leid	O
+und	O
+mid	O
+am	O
+Lokalteu	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-4
+# text = Vom Lokalteu gibts 6 vaschiedane Versionan in 6 Regionan vo Owaösterreich . 
+Vom	O
+Lokalteu	O
+gibts	O
+6	O
+vaschiedane	O
+Versionan	O
+in	O
+6	O
+Regionan	O
+vo	O
+Owaösterreich	B-LOC
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-5
+# text = De Oberösterreichischn Nachrichten san ane da Wenign östareichischn Togeszeidungan de se ned zweng ana Auflognschteigarung em Boulevard vaschriebm hom. 
+De	O
+Oberösterreichischn	B-ORG
+Nachrichten	I-ORG
+san	O
+ane	O
+da	O
+Wenign	O
+östareichischn	B-LOCderiv
+Togeszeidungan	O
+de	O
+se	O
+ned	O
+zweng	O
+ana	O
+Auflognschteigarung	O
+em	O
+Boulevard	O
+vaschriebm	O
+hom.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-6
+# text = De Gschicht vo da Zeidung : 
+De	O
+Gschicht	O
+vo	O
+da	O
+Zeidung	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-7
+# text = 1843 : 
+1843	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-8
+# text = Da Buachdrucka " Josef Wimmer " ( 1808 - 1894 ) hod am 19 Oktowa 1843 vo sein vaschtuama Eheweiwal " Franziska " ( a friare " Weinmayr Witdibin " ) de Druckarei und des Haisl Herrnschtroßn 6 in Linz iwanumma . 
+Da	O
+Buachdrucka	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+(	O
+1808	O
+-	O
+1894	O
+)	O
+hod	O
+am	O
+19	O
+Oktowa	O
+1843	O
+vo	O
+sein	O
+vaschtuama	O
+Eheweiwal	O
+"	O
+Franziska	B-PER
+"	O
+(	O
+a	O
+friare	O
+"	O
+Weinmayr	B-PER
+Witdibin	O
+"	O
+)	O
+de	O
+Druckarei	O
+und	O
+des	O
+Haisl	O
+Herrnschtroßn	B-LOC
+6	O
+in	O
+Linz	B-LOC
+iwanumma	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-9
+# text = 1845 : 
+1845	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-10
+# text = Am 5 Mai hod da Josef Wimmer nuamoi gheirat . 
+Am	O
+5	O
+Mai	O
+hod	O
+da	O
+Josef	B-PER
+Wimmer	I-PER
+nuamoi	O
+gheirat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-11
+# text = Sei Ehefrau woa de " Antonia Kamptner " und de hod a ausehnlige Midgift in de Ehe eibrocht und mid Dera hod se de finanziöe Situazion vo da Druckarei schtoak bessad . 
+Sei	O
+Ehefrau	O
+woa	O
+de	O
+"	O
+Antonia	B-PER
+Kamptner	I-PER
+"	O
+und	O
+de	O
+hod	O
+a	O
+ausehnlige	O
+Midgift	O
+in	O
+de	O
+Ehe	O
+eibrocht	O
+und	O
+mid	O
+Dera	O
+hod	O
+se	O
+de	O
+finanziöe	O
+Situazion	O
+vo	O
+da	O
+Druckarei	O
+schtoak	O
+bessad	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-12
+# text = 1847 hod ma fia de Druckarei a modeane " Schnöpreß " augschoft . 
+1847	O
+hod	O
+ma	O
+fia	O
+de	O
+Druckarei	O
+a	O
+modeane	O
+"	O
+Schnöpreß	O
+"	O
+augschoft	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-13
+# text = 1848 : Des woa des Joah da " Voamäarzrevoluzion " . 
+1848	O
+:	O
+Des	O
+woa	O
+des	O
+Joah	O
+da	O
+"	O
+Voamäarzrevoluzion	B-EVENT
+"	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-14
+# text = In da Druckarei hod ma de Woihlistn druckt , fia den Frankfurta Reichstog in da " Paulikiacha " . 
+In	O
+da	O
+Druckarei	O
+hod	O
+ma	O
+de	O
+Woihlistn	O
+druckt	O
+,	O
+fia	O
+den	O
+Frankfurta	B-LOC
+Reichstog	I-LOC
+in	O
+da	O
+"	O
+Paulikiacha	B-LOC
+"	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-15
+# text = 1850 : 
+1850	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-16
+# text = Da Kundnkroas vo da Druckarei Wimmer is gach greßa wuan . 
+Da	O
+Kundnkroas	O
+vo	O
+da	O
+Druckarei	B-ORG
+Wimmer	I-ORG
+is	O
+gach	O
+greßa	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-17
+# text = Es san a de Schtootsbuachhoitung und de Polizeidirekzion ( a mid de Schteckbriaf ) zan Kundnkroas dazuakemma . 
+Es	O
+san	O
+a	O
+de	O
+Schtootsbuachhoitung	O
+und	O
+de	O
+Polizeidirekzion	O
+(	O
+a	O
+mid	O
+de	O
+Schteckbriaf	O
+)	O
+zan	O
+Kundnkroas	O
+dazuakemma	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-18
+# text = Owa a mera Aumta und de Rentnvawoitung . 
+Owa	O
+a	O
+mera	O
+Aumta	O
+und	O
+de	O
+Rentnvawoitung	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-19
+# text = Dahea hod ma den Maschinanpark oiweu vagreßad . 
+Dahea	O
+hod	O
+ma	O
+den	O
+Maschinanpark	O
+oiweu	O
+vagreßad	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-20
+# text = 1860 : 
+1860	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-21
+# text = Weu in Wean de Schtootsdruckarei oiweu mera Druckseitn , a fia de Lända , sowa druckt hod , san de Afträg bei de Druckareian a in Linz eibrocha . 
+Weu	O
+in	O
+Wean	B-LOC
+de	O
+Schtootsdruckarei	O
+oiweu	O
+mera	O
+Druckseitn	O
+,	O
+a	O
+fia	O
+de	O
+Lända	O
+,	O
+sowa	O
+druckt	O
+hod	O
+,	O
+san	O
+de	O
+Afträg	O
+bei	O
+de	O
+Druckareian	O
+a	O
+in	O
+Linz	B-LOC
+eibrocha	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-22
+# text = 1861 : 
+1861	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-23
+# text = Da " Kaisa Franz Josef " hod offiziä des " Eazheazogtum Owaöstareich ob da Enns " zan eignschtendign Kronlaund eahobm . 
+Da	O
+"	O
+Kaisa	O
+Franz	B-PER
+Josef	I-PER
+"	O
+hod	O
+offiziä	O
+des	O
+"	O
+Eazheazogtum	B-ORG
+Owaöstareich	I-ORG
+ob	I-ORG
+da	I-ORG
+Enns	I-ORG
+"	O
+zan	O
+eignschtendign	O
+Kronlaund	O
+eahobm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-24
+# text = Es is a da easchte Laundtog gwöht wuan . 
+Es	O
+is	O
+a	O
+da	O
+easchte	O
+Laundtog	O
+gwöht	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-25
+# text = 1863 : 
+1863	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-26
+# text = Am easchtn August hod da " Josef Wimmer " nebm dem Betrieb a kloans Goatngrundschtickl mid umma 38 Quadratklafter ( des san eppa 72 m² ) dazuakaft , fian an Ausbau vo da Druckarei . 
+Am	O
+easchtn	O
+August	O
+hod	O
+da	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+nebm	O
+dem	O
+Betrieb	O
+a	O
+kloans	O
+Goatngrundschtickl	O
+mid	O
+umma	O
+38	O
+Quadratklafter	O
+(	O
+des	O
+san	O
+eppa	O
+72	O
+m²	O
+)	O
+dazuakaft	O
+,	O
+fian	O
+an	O
+Ausbau	O
+vo	O
+da	O
+Druckarei	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-27
+# text = 1864 endscheids se da Josef Wimmer fia de Grindung ana Zeidung und faungd mid de Vuabereitungan au . 
+1864	O
+endscheids	O
+se	O
+da	O
+Josef	B-PER
+Wimmer	I-PER
+fia	O
+de	O
+Grindung	O
+ana	O
+Zeidung	O
+und	O
+faungd	O
+mid	O
+de	O
+Vuabereitungan	O
+au	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-28
+# text = Am 1 Jenna " 1865 " eascheind de easchte Ausgob vo da Tagespost . 
+Am	O
+1	O
+Jenna	O
+"	O
+1865	O
+"	O
+eascheind	O
+de	O
+easchte	O
+Ausgob	O
+vo	O
+da	O
+Tagespost	B-ORG
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-29
+# text = Am Aufaung hod ma nua 61 Abonnentn ghobd . 
+Am	O
+Aufaung	O
+hod	O
+ma	O
+nua	O
+61	O
+Abonnentn	O
+ghobd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-30
+# text = 1868 hod ma im Ischla Gscheft des Wochnbladdl " Echo aus den Bergen " aussabrocht , des schpoda zan " Ischler Wochenblatt " umtaufd wuan is . 
+1868	O
+hod	O
+ma	O
+im	O
+Ischla	B-LOC
+Gscheft	I-LOC
+des	O
+Wochnbladdl	O
+"	O
+Echo	B-ORG
+aus	I-ORG
+den	I-ORG
+Bergen	I-ORG
+"	O
+aussabrocht	O
+,	O
+des	O
+schpoda	O
+zan	O
+"	O
+Ischler	B-ORG
+Wochenblatt	I-ORG
+"	O
+umtaufd	O
+wuan	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-31
+# text = 1871 is de " Tagespost " mid ana Auflog vo 2000 Schtickl easchinan und ma hod a easchmolig , mid da Zeidungsaflog schwoaze Zoihn gschribm . 
+1871	O
+is	O
+de	O
+"	O
+Tagespost	B-ORG
+"	O
+mid	O
+ana	O
+Auflog	O
+vo	O
+2000	O
+Schtickl	O
+easchinan	O
+und	O
+ma	O
+hod	O
+a	O
+easchmolig	O
+,	O
+mid	O
+da	O
+Zeidungsaflog	O
+schwoaze	O
+Zoihn	O
+gschribm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-32
+# text = 1876 is da " Julius Wimmer " ( geb. 9. 3. 1856 ) , em " Josef Wimmer " sei ödasta Suhn a in Betrieb eigschtign . 
+1876	O
+is	O
+da	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+(	O
+geb.	O
+9.	O
+3.	O
+1856	O
+)	O
+,	O
+em	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+sei	O
+ödasta	O
+Suhn	O
+a	O
+in	O
+Betrieb	O
+eigschtign	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-33
+# text = 1878 is am 15 Oktowa easchtmolig den " Wimmers gelben Fahrplan " valegd und außagebm wuan . 
+1878	O
+is	O
+am	O
+15	O
+Oktowa	O
+easchtmolig	O
+den	O
+"	O
+Wimmers	B-MISC
+gelben	I-MISC
+Fahrplan	I-MISC
+"	O
+valegd	O
+und	O
+außagebm	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-34
+# text = 1880 hod ma in da Druckarei de Doppöschnöpreß afgschtöd und am 1 Aprü hod ma de Ausgob vo da Tagespost druckt . 
+1880	O
+hod	O
+ma	O
+in	O
+da	O
+Druckarei	O
+de	O
+Doppöschnöpreß	O
+afgschtöd	O
+und	O
+am	O
+1	O
+Aprü	O
+hod	O
+ma	O
+de	O
+Ausgob	O
+vo	O
+da	O
+Tagespost	B-ORG
+druckt	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-35
+# text = 1883 wiad nebm de fimf Schnöpreßn a Kroasbewegungsmaschin afgschtöd . 
+1883	O
+wiad	O
+nebm	O
+de	O
+fimf	O
+Schnöpreßn	O
+a	O
+Kroasbewegungsmaschin	O
+afgschtöd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-36
+# text = Iazt oawadn in da Druckarei drei Maschinmoasta und 22 Schriftsetza . 
+Iazt	O
+oawadn	O
+in	O
+da	O
+Druckarei	O
+drei	O
+Maschinmoasta	O
+und	O
+22	O
+Schriftsetza	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-37
+# text = Am 12 Mai 1885 wiad da Kaufvatrog fia des Haus Prommenade 23 in Linz untaschriebm . 
+Am	O
+12	O
+Mai	O
+1885	O
+wiad	O
+da	O
+Kaufvatrog	O
+fia	O
+des	O
+Haus	O
+Prommenade	B-LOC
+23	O
+in	O
+Linz	B-LOC
+untaschriebm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-38
+# text = Am easchtn Jenna 1889 hod da Hr. " Julius Wimmer " de Druckarei vo sein Vota iwanumma . 
+Am	O
+easchtn	O
+Jenna	O
+1889	O
+hod	O
+da	O
+Hr.	O
+"	O
+Julius	B-LOC
+Wimmer	I-LOC
+"	O
+de	O
+Druckarei	O
+vo	O
+sein	O
+Vota	O
+iwanumma	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-39
+# text = 1893 hod ma vian Druck vo da Tages-Post a ochtseitige Rotazionsmaschin afgschtöd . 
+1893	O
+hod	O
+ma	O
+vian	O
+Druck	O
+vo	O
+da	O
+Tages-Post	B-ORG
+a	O
+ochtseitige	O
+Rotazionsmaschin	O
+afgschtöd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-40
+# text = " 1894 " , im anafufzigstn Joah vo da " Druckarei Wimmer " is da Hr. " Josef Wimmer " am zworazwanzigstn Mai vaschtuam . 
+"	O
+1894	O
+"	O
+,	O
+im	O
+anafufzigstn	O
+Joah	O
+vo	O
+da	O
+"	O
+Druckarei	B-ORG
+Wimmer	I-ORG
+"	O
+is	O
+da	O
+Hr.	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+am	O
+zworazwanzigstn	O
+Mai	O
+vaschtuam	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-41
+# text = De easchtn Schreibmaschinan san " 1895 " im Büro vawendt wuan . 
+De	O
+easchtn	O
+Schreibmaschinan	O
+san	O
+"	O
+1895	O
+"	O
+im	O
+Büro	O
+vawendt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-42
+# text = 1897 is de Druckarei ans elektrische Netz vom " Linzer Elektrizitätswerk " augschloßn wuan . 
+1897	O
+is	O
+de	O
+Druckarei	O
+ans	O
+elektrische	O
+Netz	O
+vom	O
+"	O
+Linzer	B-ORG
+Elektrizitätswerk	I-ORG
+"	O
+augschloßn	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-43
+# text = 1903 hod ma mid zwoa ochtseitige Rotazionsmaschinan , ocht oafoche Schnöpreßn und drei Tiegldruckmaschinan in da Druckarei goawad . 
+1903	O
+hod	O
+ma	O
+mid	O
+zwoa	O
+ochtseitige	O
+Rotazionsmaschinan	O
+,	O
+ocht	O
+oafoche	O
+Schnöpreßn	O
+und	O
+drei	O
+Tiegldruckmaschinan	O
+in	O
+da	O
+Druckarei	O
+goawad	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-44
+# text = 1904 is de easchte Setzmaschin ( Linotyp ) afgschtöd wuan . 
+1904	O
+is	O
+de	O
+easchte	O
+Setzmaschin	O
+(	O
+Linotyp	B-MISC
+)	O
+afgschtöd	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-45
+# text = Am 16 Dezemba hod des technische Peasoneu an schtreik augfaungd , dea bis am 16 Feba dauad hod . 
+Am	O
+16	O
+Dezemba	O
+hod	O
+des	O
+technische	O
+Peasoneu	O
+an	O
+schtreik	O
+augfaungd	O
+,	O
+dea	O
+bis	O
+am	O
+16	O
+Feba	O
+dauad	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-46
+# text = 1913 is a 16 seitige Rotazionsmaschin augschoft wuan . 
+1913	O
+is	O
+a	O
+16	O
+seitige	O
+Rotazionsmaschin	O
+augschoft	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-47
+# text = De zwoa Ochtsoatign hod ma ois Reseav bhoitn . 
+De	O
+zwoa	O
+Ochtsoatign	O
+hod	O
+ma	O
+ois	O
+Reseav	O
+bhoitn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-48
+# text = Am 14 Juni 1914 hod ma de Oanzlfiama in a " Ges. m. b. H. " umgwaundld . 
+Am	O
+14	O
+Juni	O
+1914	O
+hod	O
+ma	O
+de	O
+Oanzlfiama	O
+in	O
+a	O
+"	O
+Ges.	O
+m.	O
+b.	O
+H.	O
+"	O
+umgwaundld	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-49
+# text = Da greßte Aunteu is beim " Julius Wimmer " vablibm . 
+Da	O
+greßte	O
+Aunteu	O
+is	O
+beim	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+vablibm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-50
+# text = Danebm haum den Rest sei Tochta " Grete Streit " und iah Mau " Oskar Streit " , da Bsitza vom Schloß Puchenau ; Da Chefredakteua da Tages-Post , " Dr. Karl Ritter von Görner " so wia da Technikdirektoa " Heinrich Schneeberger " und da Finanzdirektoa " Robert Ortner " und da " Franz Scheuringer " ghoidn . 
+Danebm	O
+haum	O
+den	O
+Rest	O
+sei	O
+Tochta	O
+"	O
+Grete	B-PER
+Streit	I-PER
+"	O
+und	O
+iah	O
+Mau	O
+"	O
+Oskar	B-PER
+Streit	I-PER
+"	O
+,	O
+da	O
+Bsitza	O
+vom	O
+Schloß	B-LOC
+Puchenau	I-LOC
+;	O
+Da	O
+Chefredakteua	O
+da	O
+Tages-Post	B-ORG
+,	O
+"	O
+Dr.	O
+Karl	B-PER
+Ritter	I-PER
+von	I-PER
+Görner	I-PER
+"	O
+so	O
+wia	O
+da	O
+Technikdirektoa	O
+"	O
+Heinrich	B-PER
+Schneeberger	I-PER
+"	O
+und	O
+da	O
+Finanzdirektoa	O
+"	O
+Robert	B-PER
+Ortner	I-PER
+"	O
+und	O
+da	O
+"	O
+Franz	B-PER
+Scheuringer	I-PER
+"	O
+ghoidn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-51
+# text = 1915 san wia narrisch Sundaausgobm und Extrabladln druckt wuan . 
+1915	O
+san	O
+wia	O
+narrisch	O
+Sundaausgobm	O
+und	O
+Extrabladln	O
+druckt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-52
+# text = De noameun Druckafträg san zwoa zrukgaunga , owa des hod ma midm Druck vo de Lebmsmiddlkoatn auffaunga kenna . 
+De	O
+noameun	O
+Druckafträg	O
+san	O
+zwoa	O
+zrukgaunga	O
+,	O
+owa	O
+des	O
+hod	O
+ma	O
+midm	O
+Druck	O
+vo	O
+de	O
+Lebmsmiddlkoatn	O
+auffaunga	O
+kenna	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-53
+# text = 1916 hod ma an de Mülitäavawoitung foßt 15 Tonnan Bleibuachstobn , aus da Setzarei olifan miaßn . 
+1916	O
+hod	O
+ma	O
+an	O
+de	O
+Mülitäavawoitung	O
+foßt	O
+15	O
+Tonnan	O
+Bleibuachstobn	O
+,	O
+aus	O
+da	O
+Setzarei	O
+olifan	O
+miaßn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-54
+# text = 1917 hod da Hr. " Julius Wimmer " olle Gscheftsauteu zruckghaft und wida Auteu an sei Tocht und em Schwigasuhn , da " Grete " und em " Oskar Streit " weidagebm . 
+1917	O
+hod	O
+da	O
+Hr.	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+olle	O
+Gscheftsauteu	O
+zruckghaft	O
+und	O
+wida	O
+Auteu	O
+an	O
+sei	O
+Tocht	O
+und	O
+em	O
+Schwigasuhn	O
+,	O
+da	O
+"	O
+Grete	B-PER
+"	O
+und	O
+em	O
+"	O
+Oskar	B-PER
+Streit	I-PER
+"	O
+weidagebm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-55
+# text = Am 11. 11. 1918 woa da easchte Wödkriag z`End . 
+Am	O
+11.	O
+11.	O
+1918	O
+woa	O
+da	O
+easchte	O
+Wödkriag	O
+z`End	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-56
+# text = 1919 hod ma zwaungsweis schtoak varingadn Schriftfamülin wida eagenzt und afgfüd . 
+1919	O
+hod	O
+ma	O
+zwaungsweis	O
+schtoak	O
+varingadn	O
+Schriftfamülin	O
+wida	O
+eagenzt	O
+und	O
+afgfüd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-57
+# text = Am easchtn Jenna " 1925 " is de " Ges. m. b. H. " in a " Kommanditgsöschoft " umgwaundlt wuan . 
+Am	O
+easchtn	O
+Jenna	O
+"	O
+1925	O
+"	O
+is	O
+de	O
+"	O
+Ges.	O
+m.	O
+b.	O
+H.	O
+"	O
+in	O
+a	O
+"	O
+Kommanditgsöschoft	O
+"	O
+umgwaundlt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-58
+# text = Da Hr. " Julius Wimmer " und sei Schwigasuhn da Hr. " Oskar Streit " woan de öffendlign Gsöschofta und sei Tochta de " Grete Streit " is a Kommandistin gwest . 
+Da	O
+Hr.	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+und	O
+sei	O
+Schwigasuhn	O
+da	O
+Hr.	O
+"	O
+Oskar	B-PER
+Streit	I-PER
+"	O
+woan	O
+de	O
+öffendlign	O
+Gsöschofta	O
+und	O
+sei	O
+Tochta	O
+de	O
+"	O
+Grete	B-PER
+Streit	I-PER
+"	O
+is	O
+a	O
+Kommandistin	O
+gwest	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-59
+# text = 1927 hod ma de Betriebsflechn vagreßad , weu ma den Goatn vom Haus Prommenade 23 vabaud hod . 
+1927	O
+hod	O
+ma	O
+de	O
+Betriebsflechn	O
+vagreßad	O
+,	O
+weu	O
+ma	O
+den	O
+Goatn	O
+vom	O
+Haus	O
+Prommenade	B-LOC
+23	O
+vabaud	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-60
+# text = 1929 is de easchte Zwoa-Foabm Offsetmaschine augschoft wuan . 
+1929	O
+is	O
+de	O
+easchte	O
+Zwoa-Foabm	O
+Offsetmaschine	O
+augschoft	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-61
+# text = 1936 is da " Julius Wimmer " zan Auloß vo sein ochzjaarign Gbuatstog ( 9. Merz ) und fia seine Vadeanst fia de Schtod , zan Eahrnbiaga vo Linz eanaunnt wuan . 
+1936	O
+is	O
+da	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+zan	O
+Auloß	O
+vo	O
+sein	O
+ochzjaarign	O
+Gbuatstog	O
+(	O
+9.	O
+Merz	O
+)	O
+und	O
+fia	O
+seine	O
+Vadeanst	O
+fia	O
+de	O
+Schtod	O
+,	O
+zan	O
+Eahrnbiaga	O
+vo	O
+Linz	B-LOC
+eanaunnt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-62
+# text = Am 12 März 1938 is da Auschluß vo da " Republik Österreich " an des " Großdeitsche Reich " voizogn wuan , vökarechtli woa des eha a Okupazion . 
+Am	O
+12	O
+März	O
+1938	O
+is	O
+da	O
+Auschluß	O
+vo	O
+da	O
+"	O
+Republik	B-ORG
+Österreich	I-ORG
+"	O
+an	O
+des	O
+"	O
+Großdeitsche	B-ORG
+Reich	I-ORG
+"	O
+voizogn	O
+wuan	O
+,	O
+vökarechtli	O
+woa	O
+des	O
+eha	O
+a	O
+Okupazion	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-63
+# text = De ehemolige " Amtliche Linzer Zeitung " is nochn Auschluß , vo 1938 - 1940 zan " Amtsblatt von Oberdonau " wuan . 
+De	O
+ehemolige	O
+"	O
+Amtliche	B-ORG
+Linzer	I-ORG
+Zeitung	I-ORG
+"	O
+is	O
+nochn	O
+Auschluß	O
+,	O
+vo	O
+1938	O
+-	O
+1940	O
+zan	O
+"	O
+Amtsblatt	B-ORG
+von	I-ORG
+Oberdonau	I-ORG
+"	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-64
+# text = De " Linzer Volksstimme " gegr. am 17 März 1926 is im Oktowa draf in " Volkstimme " gendat wuan . 
+De	O
+"	O
+Linzer	B-ORG
+Volksstimme	I-ORG
+"	O
+gegr.	O
+am	O
+17	O
+März	O
+1926	O
+is	O
+im	O
+Oktowa	O
+draf	O
+in	O
+"	O
+Volkstimme	B-ORG
+"	O
+gendat	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-65
+# text = De Zeidung woa des Presseorgan vo da schpodan " NSDAP " und is am 1 Jenna 1943 in " Oberdonau Zeitung " umtauft wuan . 
+De	O
+Zeidung	O
+woa	O
+des	O
+Presseorgan	O
+vo	O
+da	O
+schpodan	O
+"	O
+NSDAP	B-ORG
+"	O
+und	O
+is	O
+am	O
+1	O
+Jenna	O
+1943	O
+in	O
+"	O
+Oberdonau	B-ORG
+Zeitung	I-ORG
+"	O
+umtauft	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-66
+# text = In dea Zeidung is a des Amtsblatt von Oberdonau eigfloßn . 
+In	O
+dea	O
+Zeidung	O
+is	O
+a	O
+des	O
+Amtsblatt	B-ORG
+von	I-ORG
+Oberdonau	I-ORG
+eigfloßn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-67
+# text = Des Bladl is am 3 Mai 1945 eigschtöd wuan , weu scho am 5. Mai in de Schtod Linz de amerikanischn Paunza vo da " 11 US Paunzadivision " eigfoahn san . 
+Des	O
+Bladl	O
+is	O
+am	O
+3	O
+Mai	O
+1945	O
+eigschtöd	O
+wuan	O
+,	O
+weu	O
+scho	O
+am	O
+5.	O
+Mai	O
+in	O
+de	O
+Schtod	O
+Linz	B-LOC
+de	O
+amerikanischn	B-ORGderiv
+Paunza	O
+vo	O
+da	O
+"	O
+11	B-ORG
+US	I-ORG
+Paunzadivision	I-ORG
+"	O
+eigfoahn	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-68
+# text = Am 5 Novemba hod in " Julius Wimmer " sei Enkal de " Ilse Streit " em " Antonio Cuturi " gheirat . 
+Am	O
+5	O
+Novemba	O
+hod	O
+in	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+sei	O
+Enkal	O
+de	O
+"	O
+Ilse	B-PER
+Streit	I-PER
+"	O
+em	O
+"	O
+Antonio	B-PER
+Cuturi	I-PER
+"	O
+gheirat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-69
+# text = Eahna Suhn da Hr. " Rudolf Andreas Cuturi " is da heidige Bsitza vo de " Oberösterreichischn Nachrichtn " . 
+Eahna	O
+Suhn	O
+da	O
+Hr.	O
+"	O
+Rudolf	B-PER
+Andreas	I-PER
+Cuturi	I-PER
+"	O
+is	O
+da	O
+heidige	O
+Bsitza	O
+vo	O
+de	O
+"	O
+Oberösterreichischn	B-ORG
+Nachrichtn	I-ORG
+"	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-70
+# text = 1945 : Glei nochm Kriagsend hod ma da Famülie Kollaborazion mid em nazionalsozialischtischn Regime viagwuaffa . 
+1945	O
+:	O
+Glei	O
+nochm	O
+Kriagsend	O
+hod	O
+ma	O
+da	O
+Famülie	O
+Kollaborazion	O
+mid	O
+em	O
+nazionalsozialischtischn	O
+Regime	O
+viagwuaffa	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-71
+# text = Da Linza Biagamoasta " Ernst Koref " hod em " Franz Lettner " in Aftrog gebm a Zeidung zdrucka , em ehemolign Chefredakteua vom " Tagblatt " , des woa de Poatei-Zeidung vo de Sozialdemokratn , . 
+Da	O
+Linza	B-LOCderiv
+Biagamoasta	O
+"	O
+Ernst	B-PER
+Koref	I-PER
+"	O
+hod	O
+em	O
+"	O
+Franz	B-PER
+Lettner	I-PER
+"	O
+in	O
+Aftrog	O
+gebm	O
+a	O
+Zeidung	O
+zdrucka	O
+,	O
+em	O
+ehemolign	O
+Chefredakteua	O
+vom	O
+"	O
+Tagblatt	B-ORG
+"	O
+,	O
+des	O
+woa	O
+de	O
+Poatei-Zeidung	O
+vo	O
+de	O
+Sozialdemokratn	O
+,	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-72
+# text = Da amerikanischn Besotzungsmocht , de sidli da Donau Owaöstareich bsezt ghobd hod , woas owa recht Wichti , das via de Bevökarung wida a unobhengige Zeidung afglegd wiad . 
+Da	O
+amerikanischn	B-ORGderiv
+Besotzungsmocht	O
+,	O
+de	O
+sidli	O
+da	O
+Donau	B-LOC
+Owaöstareich	B-LOC
+bsezt	O
+ghobd	O
+hod	O
+,	O
+woas	O
+owa	O
+recht	O
+Wichti	O
+,	O
+das	O
+via	O
+de	O
+Bevökarung	O
+wida	O
+a	O
+unobhengige	O
+Zeidung	O
+afglegd	O
+wiad	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-73
+# text = Da " Franz Lettner " hod den Aftrog ghobd , a unobhengige , da Demokrtie vapflichtade Togeszeidung außazgebn . 
+Da	O
+"	O
+Franz	B-PER
+Lettner	I-PER
+"	O
+hod	O
+den	O
+Aftrog	O
+ghobd	O
+,	O
+a	O
+unobhengige	O
+,	O
+da	O
+Demokrtie	O
+vapflichtade	O
+Togeszeidung	O
+außazgebn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-74
+# text = Am 8. Septemba is da Hr. " Julius Wimmer " vaschtuam . 
+Am	O
+8.	O
+Septemba	O
+is	O
+da	O
+Hr.	O
+"	O
+Julius	B-PER
+Wimmer	I-PER
+"	O
+vaschtuam	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-75
+# text = 1946 : De " Famülien Wimmer und Streit " is vo da Besotzungsmocht beschtätigt wuan daß nia Nazi gwest san und a koanalei Eifluß in da Nazizeid afn Druckareibetriab vo da Tages-Post ghobd hobm . 
+1946	O
+:	O
+De	O
+"	O
+Famülien	B-ORG
+Wimmer	I-ORG
+und	O
+Streit	B-ORG
+"	O
+is	O
+vo	O
+da	O
+Besotzungsmocht	O
+beschtätigt	O
+wuan	O
+daß	O
+nia	O
+Nazi	B-ORGderiv
+gwest	O
+san	O
+und	O
+a	O
+koanalei	O
+Eifluß	O
+in	O
+da	O
+Nazizeid	B-ORGpart
+afn	O
+Druckareibetriab	O
+vo	O
+da	O
+Tages-Post	B-ORG
+ghobd	O
+hobm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-76
+# text = 1947 hod ma da Famülie " Wimmer-Streit-Cuturi " de Ealaubnis gebm , das de Zeidung " Tagespost " wida außabringa deafn . 
+1947	O
+hod	O
+ma	O
+da	O
+Famülie	O
+"	O
+Wimmer-Streit-Cuturi	B-ORG
+"	O
+de	O
+Ealaubnis	O
+gebm	O
+,	O
+das	O
+de	O
+Zeidung	O
+"	O
+Tagespost	B-ORG
+"	O
+wida	O
+außabringa	O
+deafn	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-77
+# text = Und a de Zwaungsvapflichtung vo da Druckarei is afghobm wuan . 
+Und	O
+a	O
+de	O
+Zwaungsvapflichtung	O
+vo	O
+da	O
+Druckarei	O
+is	O
+afghobm	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-78
+# text = Am 11. Juni 1945 is vo de Amerikana de " Demokratischen Druck- und Verlagsgesellschaft m. b. H. " gründ wuan , de a zglei de Lizenz fian Druck und da Ausgob vo ana Togeszeidung ghobd hod . 
+Am	O
+11.	O
+Juni	O
+1945	O
+is	O
+vo	O
+de	O
+Amerikana	B-LOCderiv
+de	O
+"	O
+Demokratischen	B-ORG
+Druck-	I-ORG
+und	I-ORG
+Verlagsgesellschaft	I-ORG
+m.	I-ORG
+b.	I-ORG
+H.	I-ORG
+"	O
+gründ	O
+wuan	O
+,	O
+de	O
+a	O
+zglei	O
+de	O
+Lizenz	O
+fian	O
+Druck	O
+und	O
+da	O
+Ausgob	O
+vo	O
+ana	O
+Togeszeidung	O
+ghobd	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-79
+# text = De neiche Zeidung hod en Naum " Oberösterreichische Nachrichten " kriagd . 
+De	O
+neiche	O
+Zeidung	O
+hod	O
+en	O
+Naum	O
+"	O
+Oberösterreichische	B-ORG
+Nachrichten	I-ORG
+"	O
+kriagd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-80
+# text = Da Chefradekteua " Franz Lettner " hod vuan Druck olle Atükön em " US . 
+Da	O
+Chefradekteua	O
+"	O
+Franz	B-PER
+Lettner	I-PER
+"	O
+hod	O
+vuan	O
+Druck	O
+olle	O
+Atükön	O
+em	O
+"	O
+US	B-ORG
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-81
+# text = Presseoffizia " vialegn miaßn , bevua mas drucka hod deaffa . 
+Presseoffizia	O
+"	O
+vialegn	O
+miaßn	O
+,	O
+bevua	O
+mas	O
+drucka	O
+hod	O
+deaffa	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-82
+# text = Zan End vo de 40 Joah hod mas nu mid ana Obndausgob und mid ana Sunnda-Zeidung probiat . 
+Zan	O
+End	O
+vo	O
+de	O
+40	O
+Joah	O
+hod	O
+mas	O
+nu	O
+mid	O
+ana	O
+Obndausgob	O
+und	O
+mid	O
+ana	O
+Sunnda-Zeidung	O
+probiat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-83
+# text = Des hod ma owa zweng da Unwiatschoftligkeid boid wida afgebm . 
+Des	O
+hod	O
+ma	O
+owa	O
+zweng	O
+da	O
+Unwiatschoftligkeid	O
+boid	O
+wida	O
+afgebm	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-84
+# text = 1947 is de Zwaungsvapochtung vo da " Druckarei Wimmer " afghobm wuan , owa de " Oberösterreichischen Nachrichten " san weidahi af da Rotazionsmaschin vo da Druckarei Wimmer druckt wuan . 
+1947	O
+is	O
+de	O
+Zwaungsvapochtung	O
+vo	O
+da	O
+"	O
+Druckarei	B-ORG
+Wimmer	I-ORG
+"	O
+afghobm	O
+wuan	O
+,	O
+owa	O
+de	O
+"	O
+Oberösterreichischen	B-ORG
+Nachrichten	I-ORG
+"	O
+san	O
+weidahi	O
+af	O
+da	O
+Rotazionsmaschin	O
+vo	O
+da	O
+Druckarei	B-ORG
+Wimmer	I-ORG
+druckt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-85
+# text = 1952 is da Druckauftrog fia de OÖ Nachrichtn afkündigt woan , weu ma de Rotazionsmaschin wida söwa braucht hod . 
+1952	O
+is	O
+da	O
+Druckauftrog	O
+fia	O
+de	O
+OÖ	B-ORG
+Nachrichtn	I-ORG
+afkündigt	O
+woan	O
+,	O
+weu	O
+ma	O
+de	O
+Rotazionsmaschin	O
+wida	O
+söwa	O
+braucht	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-86
+# text = Fia de Neichausgob vo da " Tagespost " . 
+Fia	O
+de	O
+Neichausgob	O
+vo	O
+da	O
+"	O
+Tagespost	B-ORG
+"	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-87
+# text = 1953 : De nochm Tod vom Oskar Streit neiche Gscheftsfiahrung vo da J. Wimmer KG . woa : De Widdibin " Grete Streit " und ihr Tochta de " Ilse Cuturi " und deran Kinda . 
+1953	O
+:	O
+De	O
+nochm	O
+Tod	O
+vom	O
+Oskar	B-PER
+Streit	I-PER
+neiche	O
+Gscheftsfiahrung	O
+vo	O
+da	O
+J.	B-ORG
+Wimmer	I-ORG
+KG	I-ORG
+.	O
+woa	O
+:	O
+De	O
+Widdibin	O
+"	O
+Grete	B-PER
+Streit	I-PER
+"	O
+und	O
+ihr	O
+Tochta	O
+de	O
+"	O
+Ilse	B-PER
+Cuturi	I-PER
+"	O
+und	O
+deran	O
+Kinda	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-88
+# text = Da " Harald Stobitzer " is zan Gsöschofta und Komplementäa bschtimmt woan . 
+Da	O
+"	O
+Harald	B-PER
+Stobitzer	I-PER
+"	O
+is	O
+zan	O
+Gsöschofta	O
+und	O
+Komplementäa	O
+bschtimmt	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-89
+# text = 1955 am 3. Jenna is des easchte Moi de Zeidung mid an neichn Titl außakema . 
+1955	O
+am	O
+3.	O
+Jenna	O
+is	O
+des	O
+easchte	O
+Moi	O
+de	O
+Zeidung	O
+mid	O
+an	O
+neichn	O
+Titl	O
+außakema	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-90
+# text = Ois Gebuatstogsgschenk zan Hundata hod ma " 1965 " a neiche 64-Seitige Rotazionsmaschin augschoft . 
+Ois	O
+Gebuatstogsgschenk	O
+zan	O
+Hundata	O
+hod	O
+ma	O
+"	O
+1965	O
+"	O
+a	O
+neiche	O
+64-Seitige	O
+Rotazionsmaschin	O
+augschoft	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-91
+# text = 1973 hod da Urenkl vom " Josef Wimmer " , da Hr. " Rudolf Andreas Cuturi " de Gscheftsfiahrung iwanumma und hod damid augfaungt de Zeidung za Modeanisian . 
+1973	O
+hod	O
+da	O
+Urenkl	O
+vom	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+,	O
+da	O
+Hr.	O
+"	O
+Rudolf	B-PER
+Andreas	I-PER
+Cuturi	I-PER
+"	O
+de	O
+Gscheftsfiahrung	O
+iwanumma	O
+und	O
+hod	O
+damid	O
+augfaungt	O
+de	O
+Zeidung	O
+za	O
+Modeanisian	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-92
+# text = " 1976 " hod ma augfaungt vom Blei- afn Fotosotz umzschtön . 
+"	O
+1976	O
+"	O
+hod	O
+ma	O
+augfaungt	O
+vom	O
+Blei-	O
+afn	O
+Fotosotz	O
+umzschtön	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-93
+# text = In de nextn 15 Joah is im Betriab vü Um- und Zuabaud wuan . 
+In	O
+de	O
+nextn	O
+15	O
+Joah	O
+is	O
+im	O
+Betriab	O
+vü	O
+Um-	O
+und	O
+Zuabaud	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-94
+# text = 1978 is da Hr. " Rudolf Andreas Cuturi " Haubtgsöschofta vom Zeidungsvalog wuan . 
+1978	O
+is	O
+da	O
+Hr.	O
+"	O
+Rudolf	B-PER
+Andreas	I-PER
+Cuturi	I-PER
+"	O
+Haubtgsöschofta	O
+vom	O
+Zeidungsvalog	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-95
+# text = Da Valogsleita is bis 1998 da Hr. " Werner Schrotta " bschtöd wuan . 
+Da	O
+Valogsleita	O
+is	O
+bis	O
+1998	O
+da	O
+Hr.	O
+"	O
+Werner	B-PER
+Schrotta	I-PER
+"	O
+bschtöd	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-96
+# text = Ob 1981 is de Linza " Druckarei Feichtinger " in Ratn iwanumma und bis 1985 mid da Druckerei " J. Wimmer " fusioniat woan . 
+Ob	O
+1981	O
+is	O
+de	O
+Linza	B-LOCderiv
+"	O
+Druckarei	B-ORG
+Feichtinger	I-ORG
+"	O
+in	O
+Ratn	O
+iwanumma	O
+und	O
+bis	O
+1985	O
+mid	O
+da	O
+Druckerei	B-ORG
+"	I-ORG
+J.	I-ORG
+Wimmer	I-ORG
+"	I-ORG
+fusioniat	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-97
+# text = 1986 hod da Hr. " Dr. Alfred Maletta " seine 26 % Fiamananteu an em Hr. " Rudolf Andreas Cuturi " vakaft . 
+1986	O
+hod	O
+da	O
+Hr.	O
+"	O
+Dr.	O
+Alfred	B-PER
+Maletta	I-PER
+"	O
+seine	O
+26	O
+%	O
+Fiamananteu	O
+an	O
+em	O
+Hr.	O
+"	O
+Rudolf	B-PER
+Andreas	I-PER
+Cuturi	I-PER
+"	O
+vakaft	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-98
+# text = Somid woan noch dreißg Joah wida olle Fiamananteu bei da Famülie Wimmer . 
+Somid	O
+woan	O
+noch	O
+dreißg	O
+Joah	O
+wida	O
+olle	O
+Fiamananteu	O
+bei	O
+da	O
+Famülie	B-ORG
+Wimmer	I-ORG
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-99
+# text = Obm 1. Jenna 1990 is de Zeidung af da neichn 48 seitign Rollenoffset-Rotazionsmaschin in an neichm Bau druckt wuan . 
+Obm	O
+1.	O
+Jenna	O
+1990	O
+is	O
+de	O
+Zeidung	O
+af	O
+da	O
+neichn	O
+48	O
+seitign	O
+Rollenoffset-Rotazionsmaschin	O
+in	O
+an	O
+neichm	O
+Bau	O
+druckt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-100
+# text = De Umschtöllung hod umma 150 Müllionan Schilling ( eppa 11 Müllionan € ) kost . 
+De	O
+Umschtöllung	O
+hod	O
+umma	O
+150	O
+Müllionan	O
+Schilling	O
+(	O
+eppa	O
+11	O
+Müllionan	O
+€	O
+)	O
+kost	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-101
+# text = 1992 : Da Druck vom " Wimmers gelber Fahrplan " wiad noch 114 Joah eigschtöd . 
+1992	O
+:	O
+Da	O
+Druck	O
+vom	O
+"	O
+Wimmers	B-MISC
+gelber	I-MISC
+Fahrplan	I-MISC
+"	O
+wiad	O
+noch	O
+114	O
+Joah	O
+eigschtöd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-102
+# text = Easchmolig is a am 15 Oktowa 1878 afglegd wuan . 
+Easchmolig	O
+is	O
+a	O
+am	O
+15	O
+Oktowa	O
+1878	O
+afglegd	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-103
+# text = Des bliabde Heftl hod 1913 mid 215.000 Schtickl de hechste Aflog ghobd . 
+Des	O
+bliabde	O
+Heftl	O
+hod	O
+1913	O
+mid	O
+215.000	O
+Schtickl	O
+de	O
+hechste	O
+Aflog	O
+ghobd	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-104
+# text = 1993 is da Zeidungsvasaund ausbaud wuan und de Firma hod ia hundatfufzgjaarigs Juwileum gfeiat . 
+1993	O
+is	O
+da	O
+Zeidungsvasaund	O
+ausbaud	O
+wuan	O
+und	O
+de	O
+Firma	O
+hod	O
+ia	O
+hundatfufzgjaarigs	O
+Juwileum	O
+gfeiat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-105
+# text = 1995 
+1995	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-106
+# text = Im großn Hangar vom Flughofn " Hörsching " ( bei Linz ) hod ma des 50 jaarige Juwileum vo de " Oberösterreichischen Nachrichten " gfeiat . 
+Im	O
+großn	O
+Hangar	O
+vom	O
+Flughofn	O
+"	O
+Hörsching	B-LOC
+"	O
+(	O
+bei	O
+Linz	B-LOC
+)	O
+hod	O
+ma	O
+des	O
+50	O
+jaarige	O
+Juwileum	O
+vo	O
+de	O
+"	O
+Oberösterreichischen	B-ORG
+Nachrichten	I-ORG
+"	O
+gfeiat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-107
+# text = 1996 is de Zeidung mid an neichan modeanan Ausgschau außakema . 
+1996	O
+is	O
+de	O
+Zeidung	O
+mid	O
+an	O
+neichan	O
+modeanan	O
+Ausgschau	O
+außakema	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-108
+# text = 1997 is da Fiamantitl vo " Druckerei und Zeitungshaus J. Wimmer Gmbh " in " J. Wimmer Gmbh " gendat woan . 
+1997	O
+is	O
+da	O
+Fiamantitl	O
+vo	O
+"	O
+Druckerei	B-ORG
+und	I-ORG
+Zeitungshaus	I-ORG
+J.	I-ORG
+Wimmer	I-ORG
+Gmbh	I-ORG
+"	O
+in	O
+"	O
+J.	B-ORG
+Wimmer	I-ORG
+Gmbh	I-ORG
+"	O
+gendat	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-109
+# text = Fia de Intaressiatn vom regionalm Fuaßboi ( de untan Ligan ) hod ma 1999 a eigne Beilog im Kloafoamat , zan praktischn Außanehma eigfiat . 
+Fia	O
+de	O
+Intaressiatn	O
+vom	O
+regionalm	O
+Fuaßboi	O
+(	O
+de	O
+untan	O
+Ligan	O
+)	O
+hod	O
+ma	O
+1999	O
+a	O
+eigne	O
+Beilog	O
+im	O
+Kloafoamat	O
+,	O
+zan	O
+praktischn	O
+Außanehma	O
+eigfiat	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-110
+# text = Septemba 2003 is in Pasching des neibaude Druckzentrum eaeffned woan . 
+Septemba	O
+2003	O
+is	O
+in	O
+Pasching	B-LOC
+des	O
+neibaude	O
+Druckzentrum	O
+eaeffned	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-111
+# text = Doat wean af neiche Maschienan , nebn da Oberösterreichischen Nachrichten a de Zeidungan druckt : " Tips " • " Superanzeiger " • " Wiatschoftskaummanochrichtn " • " Kitzbühler Anzeiger " • " Lagerhauszeitung " • " Ypstaler " • " PlusCity News " • " BZ Bürmoos " • und ob 2006 a de Gratiszeidung " Oberösterreichs Neue " dazuakema .. 
+Doat	O
+wean	O
+af	O
+neiche	O
+Maschienan	O
+,	O
+nebn	O
+da	O
+Oberösterreichischen	B-ORG
+Nachrichten	I-ORG
+a	O
+de	O
+Zeidungan	O
+druckt	O
+:	O
+"	O
+Tips	B-ORG
+"	O
+•	O
+"	O
+Superanzeiger	B-ORG
+"	O
+•	O
+"	O
+Wiatschoftskaummanochrichtn	B-ORG
+"	O
+•	O
+"	O
+Kitzbühler	B-ORG
+Anzeiger	I-ORG
+"	O
+•	O
+"	O
+Lagerhauszeitung	B-ORG
+"	O
+•	O
+"	O
+Ypstaler	B-ORG
+"	O
+•	O
+"	O
+PlusCity	B-ORG
+News	I-ORG
+"	O
+•	O
+"	O
+BZ	B-ORG
+Bürmoos	I-ORG
+"	O
+•	O
+und	O
+ob	O
+2006	O
+a	O
+de	O
+Gratiszeidung	O
+"	O
+Oberösterreichs	B-ORG
+Neue	I-ORG
+"	O
+dazuakema	O
+..	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-112
+# text = Iwa 40 vaschiedane Zeidungan wean do druckt . 
+Iwa	O
+40	O
+vaschiedane	O
+Zeidungan	O
+wean	O
+do	O
+druckt	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-113
+# text = 2006 is de Gratiszeidung " Oberösterreichs Neue " easchtmolig außakema . 
+2006	O
+is	O
+de	O
+Gratiszeidung	O
+"	O
+Oberösterreichs	B-ORG
+Neue	I-ORG
+"	O
+easchtmolig	O
+außakema	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-114
+# text = 2007 is de Elektronik afn neichastn Schtaund brocht woan . 
+2007	O
+is	O
+de	O
+Elektronik	O
+afn	O
+neichastn	O
+Schtaund	O
+brocht	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-115
+# text = Am 12. Septmba 2008 is im Beisei vom Laundeshaubtmau Hr. Josef Pühringer und seim Vize Hr. Haider des umbaude Haubthaus gfeiat woan . 
+Am	O
+12.	O
+Septmba	O
+2008	O
+is	O
+im	O
+Beisei	O
+vom	O
+Laundeshaubtmau	O
+Hr.	O
+Josef	B-PER
+Pühringer	I-PER
+und	O
+seim	O
+Vize	O
+Hr.	O
+Haider	B-PER
+des	O
+umbaude	O
+Haubthaus	O
+gfeiat	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-116
+# text = Seid em 15. Jenna " 2009 " eascheinan de " Schärdinger Volkszeitung " , de " Braunauer Warthe am Inn " und de " Rieder Volkszeitung " jedn Donnastog ois eigne Beilog vo da " Oberösterreichischen Nachrichten " in de Regionan . 
+Seid	O
+em	O
+15.	O
+Jenna	O
+"	O
+2009	O
+"	O
+eascheinan	O
+de	O
+"	O
+Schärdinger	B-ORG
+Volkszeitung	I-ORG
+"	O
+,	O
+de	O
+"	O
+Braunauer	B-ORG
+Warthe	I-ORG
+am	I-ORG
+Inn	I-ORG
+"	O
+und	O
+de	O
+"	O
+Rieder	B-ORG
+Volkszeitung	I-ORG
+"	O
+jedn	O
+Donnastog	O
+ois	O
+eigne	O
+Beilog	O
+vo	O
+da	O
+"	O
+Oberösterreichischen	B-ORG
+Nachrichten	I-ORG
+"	O
+in	O
+de	O
+Regionan	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-117
+# text = Josef Wimmer : 
+Josef	B-PER
+Wimmer	I-PER
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-118
+# text = Geboan 27. 4. 1808 , gschtoam 22. 5. 1894 woa aa in da Schtod Linz Gmoarot . 
+Geboan	O
+27.	O
+4.	O
+1808	O
+,	O
+gschtoam	O
+22.	O
+5.	O
+1894	O
+woa	O
+aa	O
+in	O
+da	O
+Schtod	O
+Linz	B-LOC
+Gmoarot	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-119
+# text = Julius Wimmer : 
+Julius	B-PER
+Wimmer	I-PER
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-120
+# text = Geboan 9. 03. 1856 , gschtuam 8. 09. 1945 woa nebmbei a da President vo da " Linza Schpoakassa " und a vom linza Museum Francisco-Carolinum . 
+Geboan	O
+9.	O
+03.	O
+1856	O
+,	O
+gschtuam	O
+8.	O
+09.	O
+1945	O
+woa	O
+nebmbei	O
+a	O
+da	O
+President	O
+vo	O
+da	O
+"	O
+Linza	B-LOCderiv
+Schpoakassa	B-ORG
+"	O
+und	O
+a	O
+vom	O
+linza	B-LOCderiv
+Museum	O
+Francisco-Carolinum	B-LOC
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-121
+# text = Do woa a aa 65 Joah Midglied vom owaöstareichischn Musealvareins und hod a de Museen mid weatvoi Fund intaschtizt . 
+Do	O
+woa	O
+a	O
+aa	O
+65	O
+Joah	O
+Midglied	O
+vom	O
+owaöstareichischn	B-ORG
+Musealvareins	I-ORG
+und	O
+hod	O
+a	O
+de	O
+Museen	O
+mid	O
+weatvoi	O
+Fund	O
+intaschtizt	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-122
+# text = Rudolf Andreas Cuturi : 
+Rudolf	B-PER
+Andreas	I-PER
+Cuturi	I-PER
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-123
+# text = In da fimftn Genarazion , Nochfuiga vom Fiamangrinda Hr. " Josef Wimmer " . 
+In	O
+da	O
+fimftn	O
+Genarazion	O
+,	O
+Nochfuiga	O
+vom	O
+Fiamangrinda	O
+Hr.	O
+"	O
+Josef	B-PER
+Wimmer	I-PER
+"	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-124
+# text = Dr. Alfred Maleta : 
+Dr.	O
+Alfred	B-PER
+Maleta	I-PER
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-125
+# text = Geboan am 15. 01. 1906 in Mödling , vaschtuam am 16. 01. 1990 in Soizbuag , Jurist . 
+Geboan	O
+am	O
+15.	O
+01.	O
+1906	O
+in	O
+Mödling	B-LOC
+,	O
+vaschtuam	O
+am	O
+16.	O
+01.	O
+1990	O
+in	O
+Soizbuag	B-LOC
+,	O
+Jurist	O
+.	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-126
+# text = Medienhaus Wimmer : 
+Medienhaus	O
+Wimmer	B-ORG
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-127
+# text = Tips : 
+Tips	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-128
+# text = Die Welt der Kindernachrichten : 
+Die	B-ORG
+Welt	I-ORG
+der	I-ORG
+Kindernachrichten	I-ORG
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-129
+# text = Genossenschofta vo da APA : 
+Genossenschofta	O
+vo	O
+da	O
+APA	B-ORG
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-130
+# text = Live Radio : 
+Live	O
+Radio	O
+:	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-131
+# text = Oberdonau Zeitung : 
+Oberdonau	B-ORG
+Zeitung	I-ORG
+:	O
+
+# newdoc id = bar_wiki_Viakanthof
+# sent_id = bar_wiki_Viakanthof-1
+# text = Viakanthof 
+Viakanthof	O
+
+# sent_id = bar_wiki_Viakanthof-2
+# text = A Viakanthof , aa Vierkanthof oder Viakanta is a bsundare Form vo an Bauanhof . 
+A	O
+Viakanthof	O
+,	O
+aa	O
+Vierkanthof	O
+oder	O
+Viakanta	O
+is	O
+a	O
+bsundare	O
+Form	O
+vo	O
+an	O
+Bauanhof	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-3
+# text = Se san im gaunz bairischn Raum auztreffn . 
+Se	O
+san	O
+im	O
+gaunz	O
+bairischn	B-LOCderiv
+Raum	O
+auztreffn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-4
+# text = Oba niagans so haiffi wia im niedaöstarreichischn Mostviatl und in Owaöstareich im Traun- und im Hausruckviatl . 
+Oba	O
+niagans	O
+so	O
+haiffi	O
+wia	O
+im	O
+niedaöstarreichischn	B-LOCderiv
+Mostviatl	B-LOC
+und	O
+in	O
+Owaöstareich	B-LOC
+im	O
+Traun-	B-LOC
+und	O
+im	O
+Hausruckviatl	B-LOC
+.	O
+
+# sent_id = bar_wiki_Viakanthof-5
+# text = Se san scho recht wuchtige Auwesn , mid bis 365 Fensta ( Viajohreszeidnhof , St. Florian ) . 
+Se	O
+san	O
+scho	O
+recht	O
+wuchtige	O
+Auwesn	O
+,	O
+mid	O
+bis	O
+365	O
+Fensta	O
+(	O
+Viajohreszeidnhof	O
+,	O
+St.	B-LOC
+Florian	I-LOC
+)	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-6
+# text = Se hom a Seitnläng vo umma 30 m bis üwa 60 m . 
+Se	O
+hom	O
+a	O
+Seitnläng	O
+vo	O
+umma	O
+30	O
+m	O
+bis	O
+üwa	O
+60	O
+m	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-7
+# text = De Greßtn hom a Hofflächn vo foßt an Hekta , des san uma 5000 m² . 
+De	O
+Greßtn	O
+hom	O
+a	O
+Hofflächn	O
+vo	O
+foßt	O
+an	O
+Hekta	O
+,	O
+des	O
+san	O
+uma	O
+5000	O
+m²	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-8
+# text = De Baufuam hod se eascht schpot entwückid . 
+De	O
+Baufuam	O
+hod	O
+se	O
+eascht	O
+schpot	O
+entwückid	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-9
+# text = De Höf woan zeascht " Boahöf " oda " Hocknhöf " und de Moastn san eascht noch da Bauanbefreiung umbaut woan . 
+De	O
+Höf	O
+woan	O
+zeascht	O
+"	O
+Boahöf	O
+"	O
+oda	O
+"	O
+Hocknhöf	O
+"	O
+und	O
+de	O
+Moastn	O
+san	O
+eascht	O
+noch	O
+da	O
+Bauanbefreiung	B-EVENT
+umbaut	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-10
+# text = De Ödan woan woascheinli de Meiahöf vo de Kleschta und de Schtift und san so vo umma 1770 umbaut woan . 
+De	O
+Ödan	O
+woan	O
+woascheinli	O
+de	O
+Meiahöf	O
+vo	O
+de	O
+Kleschta	O
+und	O
+de	O
+Schtift	O
+und	O
+san	O
+so	O
+vo	O
+umma	O
+1770	O
+umbaut	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-11
+# text = Ogseng vo Tiroi und Vuaarlberg , wo de Bauan frei woan , hod in de aundan Kronlända vo Östarreich eascht Middn vom 18. Joahundat de Ohängigkeit , da Bauan vo de Grundherrn ( Kleschta , Adl , Klerus , reiche Städta .. ) laungsam aufkeat . 
+Ogseng	O
+vo	O
+Tiroi	B-LOC
+und	O
+Vuaarlberg	B-LOC
+,	O
+wo	O
+de	O
+Bauan	O
+frei	O
+woan	O
+,	O
+hod	O
+in	O
+de	O
+aundan	O
+Kronlända	O
+vo	O
+Östarreich	B-LOC
+eascht	O
+Middn	O
+vom	O
+18.	O
+Joahundat	O
+de	O
+Ohängigkeit	O
+,	O
+da	O
+Bauan	O
+vo	O
+de	O
+Grundherrn	O
+(	O
+Kleschta	O
+,	O
+Adl	O
+,	O
+Klerus	O
+,	O
+reiche	O
+Städta	O
+..	O
+)	O
+laungsam	O
+aufkeat	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-12
+# text = Noch da Revoluzion vo " 1848 " is daun in Östareich des Feudalsystem komplet ogschoft woan . 
+Noch	O
+da	O
+Revoluzion	B-EVENT
+vo	I-EVENT
+"	I-EVENT
+1848	I-EVENT
+"	I-EVENT
+is	O
+daun	O
+in	O
+Östareich	B-LOC
+des	O
+Feudalsystem	O
+komplet	O
+ogschoft	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-13
+# text = De meistn Bauanheisa san oiso escht noch da Bauanbefreiung , ob da Mittn vun 18 Joahundat oda aa eascht im 19. Joahundat umbaud woan . 
+De	O
+meistn	O
+Bauanheisa	O
+san	O
+oiso	O
+escht	O
+noch	O
+da	O
+Bauanbefreiung	B-EVENT
+,	O
+ob	O
+da	O
+Mittn	O
+vun	O
+18	O
+Joahundat	O
+oda	O
+aa	O
+eascht	O
+im	O
+19.	O
+Joahundat	O
+umbaud	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-14
+# text = S`Fiabüd woan woascheinli de Kloschta- oda Schlessabautn , oba da Grund dafia woa owa aa a Wiatschoftliga . 
+S`Fiabüd	O
+woan	O
+woascheinli	O
+de	O
+Kloschta-	O
+oda	O
+Schlessabautn	O
+,	O
+oba	O
+da	O
+Grund	O
+dafia	O
+woa	O
+owa	O
+aa	O
+a	O
+Wiatschoftliga	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-15
+# text = Ma hod ois in an Bau ghobd und woa a in da koidn Zeit im Innanhof voan Wedda bessa gschizt . 
+Ma	O
+hod	O
+ois	O
+in	O
+an	O
+Bau	O
+ghobd	O
+und	O
+woa	O
+a	O
+in	O
+da	O
+koidn	O
+Zeit	O
+im	O
+Innanhof	O
+voan	O
+Wedda	O
+bessa	O
+gschizt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-16
+# text = Das mas zweng da Weahoftigkeit so baut häd , hoid i fia an Bledsin . 
+Das	O
+mas	O
+zweng	O
+da	O
+Weahoftigkeit	O
+so	O
+baut	O
+häd	O
+,	O
+hoid	O
+i	O
+fia	O
+an	O
+Bledsin	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-17
+# text = Den ois Schuz voa de " Ungarn " oda de " Panduan " , do san de Haisl z`schpot umbaud woan . 
+Den	O
+ois	O
+Schuz	O
+voa	O
+de	O
+"	O
+Ungarn	B-LOCderiv
+"	O
+oda	O
+de	O
+"	O
+Panduan	O
+"	O
+,	O
+do	O
+san	O
+de	O
+Haisl	O
+z`schpot	O
+umbaud	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-18
+# text = Und Zwoatns , homs jo a nu laung de Schtodlseitn ( Scheunenseitn ) nua mid Hoizlottna ( Loawänd zweng an Heitrokna ) zuagmocht ghobd . 
+Und	O
+Zwoatns	O
+,	O
+homs	O
+jo	O
+a	O
+nu	O
+laung	O
+de	O
+Schtodlseitn	O
+(	O
+Scheunenseitn	O
+)	O
+nua	O
+mid	O
+Hoizlottna	O
+(	O
+Loawänd	O
+zweng	O
+an	O
+Heitrokna	O
+)	O
+zuagmocht	O
+ghobd	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-19
+# text = Und wia hed ma de Bretlwaund vateidign soin ? 
+Und	O
+wia	O
+hed	O
+ma	O
+de	O
+Bretlwaund	O
+vateidign	O
+soin	O
+?	O
+
+# sent_id = bar_wiki_Viakanthof-20
+# text = Des bsundare Mekmoi vo de Höf is , das eana Fuam a Rechteck büt , mid via Eckn , es oiso a oanziga , rundum gschlossena Bauköapa is . 
+Des	O
+bsundare	O
+Mekmoi	O
+vo	O
+de	O
+Höf	O
+is	O
+,	O
+das	O
+eana	O
+Fuam	O
+a	O
+Rechteck	O
+büt	O
+,	O
+mid	O
+via	O
+Eckn	O
+,	O
+es	O
+oiso	O
+a	O
+oanziga	O
+,	O
+rundum	O
+gschlossena	O
+Bauköapa	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-21
+# text = Es gibt so ehnliche Bauanhöf , wia de Dreiseithöf , de Eispringa oda a Doppöeispringa , de reglmassign und unreglmassign Viaseithöf oder de " offna Viaseithöf " . 
+Es	O
+gibt	O
+so	O
+ehnliche	O
+Bauanhöf	O
+,	O
+wia	O
+de	O
+Dreiseithöf	O
+,	O
+de	O
+Eispringa	O
+oda	O
+a	O
+Doppöeispringa	O
+,	O
+de	O
+reglmassign	O
+und	O
+unreglmassign	O
+Viaseithöf	O
+oder	O
+de	O
+"	O
+offna	O
+Viaseithöf	O
+"	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-22
+# text = Owa des san olle koane richtign Viakanta . 
+Owa	O
+des	O
+san	O
+olle	O
+koane	O
+richtign	O
+Viakanta	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-23
+# text = Weu de Bauan im eatrogreichn Oipnvualaund imma reicha wuan san , homs de oidn Höf umbaut . 
+Weu	O
+de	O
+Bauan	O
+im	O
+eatrogreichn	O
+Oipnvualaund	B-LOC
+imma	O
+reicha	O
+wuan	O
+san	O
+,	O
+homs	O
+de	O
+oidn	O
+Höf	O
+umbaut	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-24
+# text = Se woitn a ois in an Heisl hom , dahea hods umma 1880 in Owaöstarreich rund 8500 Viakanta gebn . 
+Se	O
+woitn	O
+a	O
+ois	O
+in	O
+an	O
+Heisl	O
+hom	O
+,	O
+dahea	O
+hods	O
+umma	O
+1880	O
+in	O
+Owaöstarreich	B-LOC
+rund	O
+8500	O
+Viakanta	O
+gebn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-25
+# text = Bis in `Mittn von 20. Joahundat san nua umma 2000 dazuakema . 
+Bis	O
+in	O
+`Mittn	O
+von	O
+20.	O
+Joahundat	O
+san	O
+nua	O
+umma	O
+2000	O
+dazuakema	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-26
+# text = Da Baufuascha " Rudolf Heckl " hods amoi " " ois oane vo de erfoigreichstn Ghöftfuaman da Wöd bezeichnt . " " 
+Da	O
+Baufuascha	O
+"	O
+Rudolf	B-PER
+Heckl	I-PER
+"	O
+hods	O
+amoi	O
+"	O
+"	O
+ois	O
+oane	O
+vo	O
+de	O
+erfoigreichstn	O
+Ghöftfuaman	O
+da	O
+Wöd	O
+bezeichnt	O
+.	O
+"	O
+"	O
+
+# sent_id = bar_wiki_Viakanthof-27
+# text = De Seitn vo de Wohn- und Oawadsteu woan mid an tiafn Kölla untabaut . 
+De	O
+Seitn	O
+vo	O
+de	O
+Wohn-	O
+und	O
+Oawadsteu	O
+woan	O
+mid	O
+an	O
+tiafn	O
+Kölla	O
+untabaut	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-28
+# text = De Kölla san ois Vuarotsräum gnuzt wuan . 
+De	O
+Kölla	O
+san	O
+ois	O
+Vuarotsräum	O
+gnuzt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-29
+# text = Da hod ma de Eadöpfö glogat , des " Kraut " und Sauakraut , de eiglogatn Öpfi und " Bian " , de Müch und in Budda ( Buddai ) , und aa des " Gsöchte " . 
+Da	O
+hod	O
+ma	O
+de	O
+Eadöpfö	O
+glogat	O
+,	O
+des	O
+"	O
+Kraut	O
+"	O
+und	O
+Sauakraut	O
+,	O
+de	O
+eiglogatn	O
+Öpfi	O
+und	O
+"	O
+Bian	O
+"	O
+,	O
+de	O
+Müch	O
+und	O
+in	O
+Budda	O
+(	O
+Buddai	O
+)	O
+,	O
+und	O
+aa	O
+des	O
+"	O
+Gsöchte	O
+"	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-30
+# text = Und gaunz wichti , aa de grossn Mostfassl . 
+Und	O
+gaunz	O
+wichti	O
+,	O
+aa	O
+de	O
+grossn	O
+Mostfassl	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-31
+# text = De Bauanhaisa , de Wohn- und Oaweitsteu , woan mid zwoa Stockweak afbaut , de mid Tramdeckn odeud wuan san . 
+De	O
+Bauanhaisa	O
+,	O
+de	O
+Wohn-	O
+und	O
+Oaweitsteu	O
+,	O
+woan	O
+mid	O
+zwoa	O
+Stockweak	O
+afbaut	O
+,	O
+de	O
+mid	O
+Tramdeckn	O
+odeud	O
+wuan	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-32
+# text = Draf san Fischbödn glegt woan ( fei grodkobite Hoizlottna ) . 
+Draf	O
+san	O
+Fischbödn	O
+glegt	O
+woan	O
+(	O
+fei	O
+grodkobite	O
+Hoizlottna	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-33
+# text = Owahoib von Wohnteu haums , am Dochbodn , af de Fischbretta aa Loambett aflegn miaßn , in den " Loam " san daun brennde Ziagln eiglegd woan . 
+Owahoib	O
+von	O
+Wohnteu	O
+haums	O
+,	O
+am	O
+Dochbodn	O
+,	O
+af	O
+de	O
+Fischbretta	O
+aa	O
+Loambett	O
+aflegn	O
+miaßn	O
+,	O
+in	O
+den	O
+"	O
+Loam	O
+"	O
+san	O
+daun	O
+brennde	O
+Ziagln	O
+eiglegd	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-34
+# text = Fois da Dochschtui brennad woan is , daun woan de Wohnkaumman duach de Ziaglbodn bessa gschizt . 
+Fois	O
+da	O
+Dochschtui	O
+brennad	O
+woan	O
+is	O
+,	O
+daun	O
+woan	O
+de	O
+Wohnkaumman	O
+duach	O
+de	O
+Ziaglbodn	O
+bessa	O
+gschizt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-35
+# text = Des Doch woa mid Schtroh deckt . 
+Des	O
+Doch	O
+woa	O
+mid	O
+Schtroh	O
+deckt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-36
+# text = Af Ziagldeckung is ma eascht so uma d`Joahundatwend vom 19. afs 20. umgstiegn . 
+Af	O
+Ziagldeckung	O
+is	O
+ma	O
+eascht	O
+so	O
+uma	O
+d`Joahundatwend	O
+vom	O
+19.	O
+afs	O
+20.	O
+umgstiegn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-37
+# text = Bei maunche Höf is da Schtodlteu no Heid midm Schtroh deckt . 
+Bei	O
+maunche	O
+Höf	O
+is	O
+da	O
+Schtodlteu	O
+no	O
+Heid	O
+midm	O
+Schtroh	O
+deckt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-38
+# text = Im großn Innanhof san d`Ross augschiat woan , Wagn be- und afglod woan . 
+Im	O
+großn	O
+Innanhof	O
+san	O
+d`Ross	O
+augschiat	O
+woan	O
+,	O
+Wagn	O
+be-	O
+und	O
+afglod	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-39
+# text = Ma hod aa iwan Hof ausn Stodl und aus da Wognhalle foan kena . 
+Ma	O
+hod	O
+aa	O
+iwan	O
+Hof	O
+ausn	O
+Stodl	O
+und	O
+aus	O
+da	O
+Wognhalle	O
+foan	O
+kena	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-40
+# text = Bei de greßan Viakanta is a aa Göplhittn im Hof gschtaundn , unta dea ma a bei an schlechtan Wedda Maschinan oschtön hod kena . 
+Bei	O
+de	O
+greßan	O
+Viakanta	O
+is	O
+a	O
+aa	O
+Göplhittn	O
+im	O
+Hof	O
+gschtaundn	O
+,	O
+unta	O
+dea	O
+ma	O
+a	O
+bei	O
+an	O
+schlechtan	O
+Wedda	O
+Maschinan	O
+oschtön	O
+hod	O
+kena	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-41
+# text = Wichti woa a das a Brunn midm Beckn drinwoa . 
+Wichti	O
+woa	O
+a	O
+das	O
+a	O
+Brunn	O
+midm	O
+Beckn	O
+drinwoa	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-42
+# text = Wossa zan Rossoschwoam , oda zan Buzn . 
+Wossa	O
+zan	O
+Rossoschwoam	O
+,	O
+oda	O
+zan	O
+Buzn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-43
+# text = Da Droad- oda Schüttbodn , untam Doch hod gmauade Wand und an Estrich oda Ziaglbodn kobt , ois Schuz vuam Maisfross . 
+Da	O
+Droad-	O
+oda	O
+Schüttbodn	O
+,	O
+untam	O
+Doch	O
+hod	O
+gmauade	O
+Wand	O
+und	O
+an	O
+Estrich	O
+oda	O
+Ziaglbodn	O
+kobt	O
+,	O
+ois	O
+Schuz	O
+vuam	O
+Maisfross	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-44
+# text = Maunche hom a nu Foiblech fua de Fensta zu de Droad- oda Schüttbodn ghobt . 
+Maunche	O
+hom	O
+a	O
+nu	O
+Foiblech	O
+fua	O
+de	O
+Fensta	O
+zu	O
+de	O
+Droad-	O
+oda	O
+Schüttbodn	O
+ghobt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-45
+# text = Ois Schutz vuan Funkflug oda an Dreg . 
+Ois	O
+Schutz	O
+vuan	O
+Funkflug	O
+oda	O
+an	O
+Dreg	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-46
+# text = Den da Eanteeatrog hod gschizt wean miassn und gaunz bsundas de Aussaat fias nagste Joa . 
+Den	O
+da	O
+Eanteeatrog	O
+hod	O
+gschizt	O
+wean	O
+miassn	O
+und	O
+gaunz	O
+bsundas	O
+de	O
+Aussaat	O
+fias	O
+nagste	O
+Joa	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-47
+# text = In Stodl hod mas Wintafuade fia " d`Viecha " glogad . 
+In	O
+Stodl	O
+hod	O
+mas	O
+Wintafuade	O
+fia	O
+"	O
+d`Viecha	O
+"	O
+glogad	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-48
+# text = Bei oanige Viakanta isa a heid nu ned gmauad , sundan es san de Wand mid Loawend ( Lattnwand ) zugmocht . 
+Bei	O
+oanige	O
+Viakanta	O
+isa	O
+a	O
+heid	O
+nu	O
+ned	O
+gmauad	O
+,	O
+sundan	O
+es	O
+san	O
+de	O
+Wand	O
+mid	O
+Loawend	O
+(	O
+Lattnwand	O
+)	O
+zugmocht	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-49
+# text = Wauns Megli woa , is de Schtodlseitn nochm Sidn hi ausgricht gwest , zweng da Sunnaseitn zan bessan Trikan vom Hei ( em trickadn Gros ) . 
+Wauns	O
+Megli	O
+woa	O
+,	O
+is	O
+de	O
+Schtodlseitn	O
+nochm	O
+Sidn	O
+hi	O
+ausgricht	O
+gwest	O
+,	O
+zweng	O
+da	O
+Sunnaseitn	O
+zan	O
+bessan	O
+Trikan	O
+vom	O
+Hei	O
+(	O
+em	O
+trickadn	O
+Gros	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-50
+# text = De großn Viakanta midn meran Grund , san moast Meiahöf vo Schtift oda Kleschta gwest . 
+De	O
+großn	O
+Viakanta	O
+midn	O
+meran	O
+Grund	O
+,	O
+san	O
+moast	O
+Meiahöf	O
+vo	O
+Schtift	O
+oda	O
+Kleschta	O
+gwest	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-51
+# text = Dahea woans a fria , nu befuas Viakanta wuan san , oft a fia aa klone Gegand da Zehenthof . 
+Dahea	O
+woans	O
+a	O
+fria	O
+,	O
+nu	O
+befuas	O
+Viakanta	O
+wuan	O
+san	O
+,	O
+oft	O
+a	O
+fia	O
+aa	O
+klone	O
+Gegand	O
+da	O
+Zehenthof	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-52
+# text = Wo de aundan Bauan eanane Obgobn hibringa hom miassn . 
+Wo	O
+de	O
+aundan	O
+Bauan	O
+eanane	O
+Obgobn	O
+hibringa	O
+hom	O
+miassn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-53
+# text = Dahea steht a nu maunchmoi a Zehenthaisal nebm dem Viakanta . 
+Dahea	O
+steht	O
+a	O
+nu	O
+maunchmoi	O
+a	O
+Zehenthaisal	O
+nebm	O
+dem	O
+Viakanta	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-54
+# text = Neman Hof woa a aa Haunfschtum zan Woimocha . 
+Neman	O
+Hof	O
+woa	O
+a	O
+aa	O
+Haunfschtum	O
+zan	O
+Woimocha	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-55
+# text = Es kenan a Haisal fia de Eantehöffa a Wengal oseits gschtandn sei . 
+Es	O
+kenan	O
+a	O
+Haisal	O
+fia	O
+de	O
+Eantehöffa	O
+a	O
+Wengal	O
+oseits	O
+gschtandn	O
+sei	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-56
+# text = Wia ma nu vom Funkflug mera Aungst ghobd hod , is a da Bockofn weida vom Viakanta weggwen . 
+Wia	O
+ma	O
+nu	O
+vom	O
+Funkflug	O
+mera	O
+Aungst	O
+ghobd	O
+hod	O
+,	O
+is	O
+a	O
+da	O
+Bockofn	O
+weida	O
+vom	O
+Viakanta	O
+weggwen	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-57
+# text = Jo , und bei de greßan Viakanta hod natiali a Kapön a ned föin deaffa . 
+Jo	O
+,	O
+und	O
+bei	O
+de	O
+greßan	O
+Viakanta	O
+hod	O
+natiali	O
+a	O
+Kapön	O
+a	O
+ned	O
+föin	O
+deaffa	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-58
+# text = Ma hod zwoa scho Maschinan ghobt owa es woa de Oawad recht Aufwendi und zweng Dem hod ma a mera Deanstbotn brauchd . 
+Ma	O
+hod	O
+zwoa	O
+scho	O
+Maschinan	O
+ghobt	O
+owa	O
+es	O
+woa	O
+de	O
+Oawad	O
+recht	O
+Aufwendi	O
+und	O
+zweng	O
+Dem	O
+hod	O
+ma	O
+a	O
+mera	O
+Deanstbotn	O
+brauchd	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-59
+# text = Bevua de Technisiarung af de Bauanhöf eigsezt hod , woan 1910 umma 20 Knecht und 
+Bevua	O
+de	O
+Technisiarung	O
+af	O
+de	O
+Bauanhöf	O
+eigsezt	O
+hod	O
+,	O
+woan	O
+1910	O
+umma	O
+20	O
+Knecht	O
+und	O
+
+# sent_id = bar_wiki_Viakanthof-60
+# text = Mögd und dazua no eppa 10 Kloahaisla augstöd . 
+Mögd	O
+und	O
+dazua	O
+no	O
+eppa	O
+10	O
+Kloahaisla	O
+augstöd	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-61
+# text = Dazua san za de Eantn nu Saisonoawata aus de Kronlända keman . 
+Dazua	O
+san	O
+za	O
+de	O
+Eantn	O
+nu	O
+Saisonoawata	O
+aus	O
+de	O
+Kronlända	O
+keman	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-62
+# text = Zwegn Dem hods a aussahoib vom Viakanta Kaummanhaisl gem , zan Schloffa fia de Eantehöffa . 
+Zwegn	O
+Dem	O
+hods	O
+a	O
+aussahoib	O
+vom	O
+Viakanta	O
+Kaummanhaisl	O
+gem	O
+,	O
+zan	O
+Schloffa	O
+fia	O
+de	O
+Eantehöffa	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-63
+# text = Da Rossknecht hod sei Kaumma glei neman Rossschtoi ghobd und dahinta haum de Rossbuam gschloffa . 
+Da	O
+Rossknecht	O
+hod	O
+sei	O
+Kaumma	O
+glei	O
+neman	O
+Rossschtoi	O
+ghobd	O
+und	O
+dahinta	O
+haum	O
+de	O
+Rossbuam	O
+gschloffa	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-64
+# text = De Köchin woa in da Menschakauma glei nebn da Kuchi , den se hod jo scho zeidig auhoazn miassen . 
+De	O
+Köchin	O
+woa	O
+in	O
+da	O
+Menschakauma	O
+glei	O
+nebn	O
+da	O
+Kuchi	O
+,	O
+den	O
+se	O
+hod	O
+jo	O
+scho	O
+zeidig	O
+auhoazn	O
+miassen	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-65
+# text = Dahinta san a de aundan Menschakaumman glegn . 
+Dahinta	O
+san	O
+a	O
+de	O
+aundan	O
+Menschakaumman	O
+glegn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-66
+# text = Anan Beischpü vom Sumarauerhof . 
+Anan	O
+Beischpü	O
+vom	O
+Sumarauerhof	B-LOC
+.	O
+
+# sent_id = bar_wiki_Viakanthof-67
+# text = Dea hod a Grundflächn vo uma 3200 m² , 50 x 64 m . 
+Dea	O
+hod	O
+a	O
+Grundflächn	O
+vo	O
+uma	O
+3200	O
+m²	O
+,	O
+50	O
+x	O
+64	O
+m	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-68
+# text = De Heandl- , oiso de Rindvecha hod ma zan eignan Nuzn gfuadat . 
+De	O
+Heandl-	O
+,	O
+oiso	O
+de	O
+Rindvecha	O
+hod	O
+ma	O
+zan	O
+eignan	O
+Nuzn	O
+gfuadat	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-69
+# text = Beckarei 
+Beckarei	O
+
+# sent_id = bar_wiki_Viakanthof-70
+# text = Bockn is , je noch Leid am Hof , olle zwoa bis drei Wochan woan . 
+Bockn	O
+is	O
+,	O
+je	O
+noch	O
+Leid	O
+am	O
+Hof	O
+,	O
+olle	O
+zwoa	O
+bis	O
+drei	O
+Wochan	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-71
+# text = Und do san bis uma 70. Kg Brotloab bockt wuan . 
+Und	O
+do	O
+san	O
+bis	O
+uma	O
+70.	O
+Kg	O
+Brotloab	O
+bockt	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-72
+# text = Fleischarei ( Mezgarei ) 
+Fleischarei	O
+(	O
+Mezgarei	O
+)	O
+
+# sent_id = bar_wiki_Viakanthof-73
+# text = Zan Eignvabrauch san so uma zwoazg Sau und aa nu Fackln gfuadat wuan . 
+Zan	O
+Eignvabrauch	O
+san	O
+so	O
+uma	O
+zwoazg	O
+Sau	O
+und	O
+aa	O
+nu	O
+Fackln	O
+gfuadat	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-74
+# text = De hod ma söwa gschlogn , puzt , zteud , vawuascht und gsöcht . 
+De	O
+hod	O
+ma	O
+söwa	O
+gschlogn	O
+,	O
+puzt	O
+,	O
+zteud	O
+,	O
+vawuascht	O
+und	O
+gsöcht	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-75
+# text = Mostmocha 
+Mostmocha	O
+
+# sent_id = bar_wiki_Viakanthof-76
+# text = De Öpfe und " Bian " san af de eignan Schtreiobstwiesna gwochsn . 
+De	O
+Öpfe	O
+und	O
+"	O
+Bian	O
+"	O
+san	O
+af	O
+de	O
+eignan	O
+Schtreiobstwiesna	O
+gwochsn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-77
+# text = Des Obst is gwoschn und daun midm " Rollnursch " zmanschkad wuan . 
+Des	O
+Obst	O
+is	O
+gwoschn	O
+und	O
+daun	O
+midm	O
+"	O
+Rollnursch	O
+"	O
+zmanschkad	O
+wuan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-78
+# text = Aus da " Meischn " hod ma in Siaßmost mit de Zwaungpreßn aussadruckt . 
+Aus	O
+da	O
+"	O
+Meischn	O
+"	O
+hod	O
+ma	O
+in	O
+Siaßmost	O
+mit	O
+de	O
+Zwaungpreßn	O
+aussadruckt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-79
+# text = Vom Presshaus is da Mostsoft in den druntaligandn Mostkölla kema , wo ea daun zan Most reifn hod kena . 
+Vom	O
+Presshaus	O
+is	O
+da	O
+Mostsoft	O
+in	O
+den	O
+druntaligandn	O
+Mostkölla	O
+kema	O
+,	O
+wo	O
+ea	O
+daun	O
+zan	O
+Most	O
+reifn	O
+hod	O
+kena	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-80
+# text = Fua da Mechanisierung hod ma ois Autrieb nu de Rössa ghobd . 
+Fua	O
+da	O
+Mechanisierung	O
+hod	O
+ma	O
+ois	O
+Autrieb	O
+nu	O
+de	O
+Rössa	O
+ghobd	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-81
+# text = Obs in Göpl draht hom , de Wagn oda in Pflug zogn , des Hoiz ausn Woid gruckt hom. Dazua Hods stoake Rößa braucht . 
+Obs	O
+in	O
+Göpl	O
+draht	O
+hom	O
+,	O
+de	O
+Wagn	O
+oda	O
+in	O
+Pflug	O
+zogn	O
+,	O
+des	O
+Hoiz	O
+ausn	O
+Woid	O
+gruckt	O
+hom.	O
+Dazua	O
+Hods	O
+stoake	O
+Rößa	O
+braucht	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-82
+# text = So san am Hof mindestens 8 " Norika " gschtaundn . 
+So	O
+san	O
+am	O
+Hof	O
+mindestens	O
+8	O
+"	O
+Norika	O
+"	O
+gschtaundn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-83
+# text = Und fian Bauan seine Ausfoatn , midm Steirawagal , woa a nua a ungarischs Hoibbluad am Hof . 
+Und	O
+fian	O
+Bauan	O
+seine	O
+Ausfoatn	O
+,	O
+midm	O
+Steirawagal	O
+,	O
+woa	O
+a	O
+nua	O
+a	O
+ungarischs	B-LOCderiv
+Hoibbluad	O
+am	O
+Hof	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-84
+# text = Gnua " Hendln " weans a ghobt hom. Sauan homa scho eawend . 
+Gnua	O
+"	O
+Hendln	O
+"	O
+weans	O
+a	O
+ghobt	O
+hom.	O
+Sauan	O
+homa	O
+scho	O
+eawend	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-85
+# text = Zua Zeid vo da " Kaiserin Maria Theresia " hods af den massign Hof nua 6. Müllikiah gebm und dazua a nu " Koibm " und " Kaiwal " , 6 Roß , 9 Schof und 9 Sau . 
+Zua	O
+Zeid	O
+vo	O
+da	O
+"	O
+Kaiserin	O
+Maria	B-PER
+Theresia	I-PER
+"	O
+hods	O
+af	O
+den	O
+massign	O
+Hof	O
+nua	O
+6.	O
+Müllikiah	O
+gebm	O
+und	O
+dazua	O
+a	O
+nu	O
+"	O
+Koibm	O
+"	O
+und	O
+"	O
+Kaiwal	O
+"	O
+,	O
+6	O
+Roß	O
+,	O
+9	O
+Schof	O
+und	O
+9	O
+Sau	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-86
+# text = Da ma am Aufaung vom 20 Johundat de pasteurisiate Mülli weida wega liafan hod kena , san a de Kiah am Hof mera woan . 
+Da	O
+ma	O
+am	O
+Aufaung	O
+vom	O
+20	O
+Johundat	O
+de	O
+pasteurisiate	O
+Mülli	O
+weida	O
+wega	O
+liafan	O
+hod	O
+kena	O
+,	O
+san	O
+a	O
+de	O
+Kiah	O
+am	O
+Hof	O
+mera	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-87
+# text = Bis zan easchtn Wödkriag woans scho uma 50 Müchkiah , und nu Koibm und Kaibal , owa ma hod a 13 Roß ghoidn . 
+Bis	O
+zan	O
+easchtn	B-EVENT
+Wödkriag	I-EVENT
+woans	O
+scho	O
+uma	O
+50	O
+Müchkiah	O
+,	O
+und	O
+nu	O
+Koibm	O
+und	O
+Kaibal	O
+,	O
+owa	O
+ma	O
+hod	O
+a	O
+13	O
+Roß	O
+ghoidn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-88
+# text = Friara hod mas Moaste nu händisch mocha miaßn . 
+Friara	O
+hod	O
+mas	O
+Moaste	O
+nu	O
+händisch	O
+mocha	O
+miaßn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-89
+# text = D`Wiesna und s`Droad san nu mid da " Sengs " gschniddn woan , " s`Hei " hod ma zan Vuatruckna midn Rechn gwendt , und " s`Stroh " hod ma med de " Schlegln " droschn . 
+D`Wiesna	O
+und	O
+s`Droad	O
+san	O
+nu	O
+mid	O
+da	O
+"	O
+Sengs	O
+"	O
+gschniddn	O
+woan	O
+,	O
+"	O
+s`Hei	O
+"	O
+hod	O
+ma	O
+zan	O
+Vuatruckna	O
+midn	O
+Rechn	O
+gwendt	O
+,	O
+und	O
+"	O
+s`Stroh	O
+"	O
+hod	O
+ma	O
+med	O
+de	O
+"	O
+Schlegln	O
+"	O
+droschn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-90
+# text = De Bauan vo de großn Viakanta hod ma a de Herrnbauan gnennd . 
+De	O
+Bauan	O
+vo	O
+de	O
+großn	O
+Viakanta	O
+hod	O
+ma	O
+a	O
+de	O
+Herrnbauan	O
+gnennd	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-91
+# text = Se hom an eignen Stand büt den ma quasi den Bauanadel gnennd hod . 
+Se	O
+hom	O
+an	O
+eignen	O
+Stand	O
+büt	O
+den	O
+ma	O
+quasi	O
+den	O
+Bauanadel	O
+gnennd	O
+hod	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-92
+# text = Das wos ghobt hom des homs a zoagt . 
+Das	O
+wos	O
+ghobt	O
+hom	O
+des	O
+homs	O
+a	O
+zoagt	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-93
+# text = 1842 hod da Roasschriftstölla Johann Georg Kuchl üwa den gean bsuachtn Hof , Mayer in da Tann gschrim . 
+1842	O
+hod	O
+da	O
+Roasschriftstölla	O
+Johann	B-PER
+Georg	I-PER
+Kuchl	I-PER
+üwa	O
+den	O
+gean	O
+bsuachtn	O
+Hof	O
+,	O
+Mayer	B-LOC
+in	I-LOC
+da	I-LOC
+Tann	I-LOC
+gschrim	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-94
+# text = Weida hod a gschrim : 
+Weida	O
+hod	O
+a	O
+gschrim	O
+:	O
+
+# sent_id = bar_wiki_Viakanthof-95
+# text = In da Laudsgschicht is gschrim : 
+In	O
+da	O
+Laudsgschicht	O
+is	O
+gschrim	O
+:	O
+
+# sent_id = bar_wiki_Viakanthof-96
+# text = Wos ökonomisch oamoi a Idealfoi woa , is heid a Fassl mid koan Bodn . 
+Wos	O
+ökonomisch	O
+oamoi	O
+a	O
+Idealfoi	O
+woa	O
+,	O
+is	O
+heid	O
+a	O
+Fassl	O
+mid	O
+koan	O
+Bodn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-97
+# text = De Laundwiatschoft is stoak mechanisiat woan , des vüle Gsind und de Oxn und de Ressa brauchts heid neamma . 
+De	O
+Laundwiatschoft	O
+is	O
+stoak	O
+mechanisiat	O
+woan	O
+,	O
+des	O
+vüle	O
+Gsind	O
+und	O
+de	O
+Oxn	O
+und	O
+de	O
+Ressa	O
+brauchts	O
+heid	O
+neamma	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-98
+# text = Da jo de greßan Höf moaßt a nu untan Denkmoischutz schtengan is a aundare Nutzung oft nua recht Eigschrengd megli . 
+Da	O
+jo	O
+de	O
+greßan	O
+Höf	O
+moaßt	O
+a	O
+nu	O
+untan	O
+Denkmoischutz	O
+schtengan	O
+is	O
+a	O
+aundare	O
+Nutzung	O
+oft	O
+nua	O
+recht	O
+Eigschrengd	O
+megli	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-99
+# text = A boa Bauan biatn , ois Zuaafbessarung , Urlaub am Bauanhof au , oda hom an Reitschtoi eigricht . 
+A	O
+boa	O
+Bauan	O
+biatn	O
+,	O
+ois	O
+Zuaafbessarung	O
+,	O
+Urlaub	O
+am	O
+Bauanhof	O
+au	O
+,	O
+oda	O
+hom	O
+an	O
+Reitschtoi	O
+eigricht	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-100
+# text = Vaoanzlt gibt’s a Seminaräum zan mietn . 
+Vaoanzlt	O
+gibt’s	O
+a	O
+Seminaräum	O
+zan	O
+mietn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-101
+# text = Jezt is de Bauan a gstott , Teu vom Hof aa aun Fremdfiaman za vapochtn . 
+Jezt	O
+is	O
+de	O
+Bauan	O
+a	O
+gstott	O
+,	O
+Teu	O
+vom	O
+Hof	O
+aa	O
+aun	O
+Fremdfiaman	O
+za	O
+vapochtn	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-102
+# text = Des is a notwendi , den de bäualichn Kuituabautn san a Woazeichn insara Homat und zian und putzn unsa Landl oadandli af . 
+Des	O
+is	O
+a	O
+notwendi	O
+,	O
+den	O
+de	O
+bäualichn	O
+Kuituabautn	O
+san	O
+a	O
+Woazeichn	O
+insara	O
+Homat	O
+und	O
+zian	O
+und	O
+putzn	O
+unsa	O
+Landl	O
+oadandli	O
+af	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-103
+# text = Ois 1971 de lezt Bsizarin gstuam is , hod des Laund Owaöstareich den Hof ghaft und a Freiliachtmuseum drausgmocht . 
+Ois	O
+1971	O
+de	O
+lezt	O
+Bsizarin	O
+gstuam	O
+is	O
+,	O
+hod	O
+des	O
+Laund	O
+Owaöstareich	B-ORG
+den	O
+Hof	O
+ghaft	O
+und	O
+a	O
+Freiliachtmuseum	O
+drausgmocht	O
+.	O
+
+# sent_id = bar_wiki_Viakanthof-104
+# text = Da Hof ligt im " Moakt St. Florian , Beziak Linz-Laund " und kead oiso zan " Traunviatl " . 
+Da	O
+Hof	O
+ligt	O
+im	O
+"	O
+Moakt	O
+St.	B-LOC
+Florian	I-LOC
+,	O
+Beziak	O
+Linz-Laund	B-LOC
+"	O
+und	O
+kead	O
+oiso	O
+zan	O
+"	O
+Traunviatl	B-LOC
+"	O
+.	O
+

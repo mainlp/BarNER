@@ -1,0 +1,11261 @@
+# newdoc id = de_wiki_Einen-Jux-will-er-sich-machen
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-1
+# text = Einen Jux will er sich machen 
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-2
+# text = Einen Jux will er sich machen ist eine Posse mit Gesang in vier Aufzügen von Johann Nestroy und wurde am 10. März 1842 im Theater an der Wien als Benefizvorstellung für den Dichter uraufgeführt . 
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+ist	O
+eine	O
+Posse	O
+mit	O
+Gesang	O
+in	O
+vier	O
+Aufzügen	O
+von	O
+Johann	B-PER
+Nestroy	I-PER
+und	O
+wurde	O
+am	O
+10.	O
+März	O
+1842	O
+im	O
+Theater	B-LOC
+an	I-LOC
+der	I-LOC
+Wien	I-LOC
+als	O
+Benefizvorstellung	O
+für	O
+den	O
+Dichter	O
+uraufgeführt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-3
+# text = Als der von der Einförmigkeit seines Alltags frustrierte Kommis Weinberl von seinem Chef Zangler in Aussicht gestellt bekommt , Associé ( Kompagnon , Mitinhaber ) in dessen Gemischtwarenladen werden zu können , räsoniert er über sein bisheriges Leben : 
+Als	O
+der	O
+von	O
+der	O
+Einförmigkeit	O
+seines	O
+Alltags	O
+frustrierte	O
+Kommis	O
+Weinberl	B-PER
+von	O
+seinem	O
+Chef	O
+Zangler	B-PER
+in	O
+Aussicht	O
+gestellt	O
+bekommt	O
+,	O
+Associé	B-PER
+(	O
+Kompagnon	O
+,	O
+Mitinhaber	O
+)	O
+in	O
+dessen	O
+Gemischtwarenladen	O
+werden	O
+zu	O
+können	O
+,	O
+räsoniert	O
+er	O
+über	O
+sein	O
+bisheriges	O
+Leben	O
+:	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-4
+# text = Anstatt wie aufgetragen , in Zanglers Abwesenheit auf das Gwölb aufzupassen , begibt Weinberl sich mit dem Lehrling Christoph in die nahe gelegene Hauptstadt , um endlich einmal ein " „ verfluchter Kerl “ " zu sein . 
+Anstatt	O
+wie	O
+aufgetragen	O
+,	O
+in	O
+Zanglers	B-PER
+Abwesenheit	O
+auf	O
+das	O
+Gwölb	O
+aufzupassen	O
+,	O
+begibt	O
+Weinberl	B-PER
+sich	O
+mit	O
+dem	O
+Lehrling	O
+Christoph	B-PER
+in	O
+die	O
+nahe	O
+gelegene	O
+Hauptstadt	O
+,	O
+um	O
+endlich	O
+einmal	O
+ein	O
+"	O
+„	O
+verfluchter	O
+Kerl	O
+“	O
+"	O
+zu	O
+sein	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-5
+# text = Dort laufen sie beinahe Zangler in die Arme , der seine zukünftige Gattin besucht . 
+Dort	O
+laufen	O
+sie	O
+beinahe	O
+Zangler	B-PER
+in	O
+die	O
+Arme	O
+,	O
+der	O
+seine	O
+zukünftige	O
+Gattin	O
+besucht	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-6
+# text = Sie flüchten ins Modewarengeschäft der Madame Knorr , treffen dort Frau von Fischer , später auch noch Marie , Zanglers Mündel , die mit ihrem vom Vormund nicht goutierten Liebhaber August Sonders fliehen will ( " „ Das schickt sich nicht “ " ) und den neuen Hausdiener Melchior ( " „ Das is classisch “ " ) . 
+Sie	O
+flüchten	O
+ins	O
+Modewarengeschäft	O
+der	O
+Madame	O
+Knorr	B-PER
+,	O
+treffen	O
+dort	O
+Frau	O
+von	B-PER
+Fischer	I-PER
+,	O
+später	O
+auch	O
+noch	O
+Marie	B-PER
+,	O
+Zanglers	B-PER
+Mündel	O
+,	O
+die	O
+mit	O
+ihrem	O
+vom	O
+Vormund	O
+nicht	O
+goutierten	O
+Liebhaber	O
+August	B-PER
+Sonders	I-PER
+fliehen	O
+will	O
+(	O
+"	O
+„	O
+Das	O
+schickt	O
+sich	O
+nicht	O
+“	O
+"	O
+)	O
+und	O
+den	O
+neuen	O
+Hausdiener	O
+Melchior	B-PER
+(	O
+"	O
+„	O
+Das	O
+is	O
+classisch	O
+“	O
+"	O
+)	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-7
+# text = Bei Zanglers Schwägerin Fräulein Blumenblatt geben sie sich schließlich als Marie und August aus , bis diese beiden , sowie Zangler , Madame Knorr und Frau von Fischer ebenfalls dort eintreffen . 
+Bei	O
+Zanglers	B-PER
+Schwägerin	O
+Fräulein	O
+Blumenblatt	B-PER
+geben	O
+sie	O
+sich	O
+schließlich	O
+als	O
+Marie	B-PER
+und	O
+August	B-PER
+aus	O
+,	O
+bis	O
+diese	O
+beiden	O
+,	O
+sowie	O
+Zangler	B-PER
+,	O
+Madame	O
+Knorr	B-PER
+und	O
+Frau	O
+von	B-PER
+Fischer	I-PER
+ebenfalls	O
+dort	O
+eintreffen	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-8
+# text = Mit knapper Not entkommen Weinberl und Christoph und kehren zum Geschäft zurück . 
+Mit	O
+knapper	O
+Not	O
+entkommen	O
+Weinberl	B-PER
+und	O
+Christoph	B-PER
+und	O
+kehren	O
+zum	O
+Geschäft	O
+zurück	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-9
+# text = Dort ertappen sie die Einbrecher Rab und Kraps auf frischer Tat und werden dafür von Zangler belobigt . 
+Dort	O
+ertappen	O
+sie	O
+die	O
+Einbrecher	O
+Rab	B-PER
+und	O
+Kraps	B-PER
+auf	O
+frischer	O
+Tat	O
+und	O
+werden	O
+dafür	O
+von	O
+Zangler	B-PER
+belobigt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-10
+# text = Auch Marie und August dürfen einander endlich in die Arme schließen . 
+Auch	O
+Marie	B-PER
+und	O
+August	B-PER
+dürfen	O
+einander	O
+endlich	O
+in	O
+die	O
+Arme	O
+schließen	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-11
+# text = Aber Weinberl , der Frau von Fischer einen – erfolgreichen – Heiratsantrag macht , ist von seiner Sehnsucht geheilt : 
+Aber	O
+Weinberl	B-PER
+,	O
+der	O
+Frau	O
+von	B-PER
+Fischer	I-PER
+einen	O
+–	O
+erfolgreichen	O
+–	O
+Heiratsantrag	O
+macht	O
+,	O
+ist	O
+von	O
+seiner	O
+Sehnsucht	O
+geheilt	O
+:	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-12
+# text = Trotz der Doppelbelastung , auf zwei Bühnen spielen zu müssen – Theater an der Wien und Carltheater wurden eine Zeit lang von Direktor Carl Carl nebeneinander geführt – schrieb Johann Nestroy 1842 mit " Einen Jux will er sich machen " sein zweites großes Erfolgsstück nach dem " Lumpacivagabundus " ( 1833 ) . 
+Trotz	O
+der	O
+Doppelbelastung	O
+,	O
+auf	O
+zwei	O
+Bühnen	O
+spielen	O
+zu	O
+müssen	O
+–	O
+Theater	B-LOC
+an	I-LOC
+der	I-LOC
+Wien	I-LOC
+und	O
+Carltheater	B-LOC
+wurden	O
+eine	O
+Zeit	O
+lang	O
+von	O
+Direktor	O
+Carl	B-PER
+Carl	I-PER
+nebeneinander	O
+geführt	O
+–	O
+schrieb	O
+Johann	B-PER
+Nestroy	I-PER
+1842	O
+mit	O
+"	O
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+"	O
+sein	O
+zweites	O
+großes	O
+Erfolgsstück	O
+nach	O
+dem	O
+"	O
+Lumpacivagabundus	B-WOA
+"	O
+(	O
+1833	O
+)	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-13
+# text = Er wiederholte dabei seine Klage über den eintönig-gleichförmigen Tagesablauf , die er im " Talisman " ( 1840 ) schon einmal formuliert hatte – dort dem Titus Feuerfuchs mit fast der gleichen Formulierung in den Mund gelegt . 
+Er	O
+wiederholte	O
+dabei	O
+seine	O
+Klage	O
+über	O
+den	O
+eintönig-gleichförmigen	O
+Tagesablauf	O
+,	O
+die	O
+er	O
+im	O
+"	O
+Talisman	B-WOA
+"	O
+(	O
+1840	O
+)	O
+schon	O
+einmal	O
+formuliert	O
+hatte	O
+–	O
+dort	O
+dem	O
+Titus	B-PER
+Feuerfuchs	I-PER
+mit	O
+fast	O
+der	O
+gleichen	O
+Formulierung	O
+in	O
+den	O
+Mund	O
+gelegt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-14
+# text = Lange Zeit blieb die Vorlage für Nestroys Stück unbekannt , erst 1923 wurde sie vom österreichischen Literaturhistoriker Robert Franz Arnold ( 1872 – 1938 ) ausfindig gemacht und dies im " Literarischen Echo " ( 1. August 1923 , 25. Jahrgang ) publiziert . 
+Lange	O
+Zeit	O
+blieb	O
+die	O
+Vorlage	O
+für	O
+Nestroys	B-PER
+Stück	O
+unbekannt	O
+,	O
+erst	O
+1923	O
+wurde	O
+sie	O
+vom	O
+österreichischen	B-LOCderiv
+Literaturhistoriker	O
+Robert	B-PER
+Franz	I-PER
+Arnold	I-PER
+(	O
+1872	O
+–	O
+1938	O
+)	O
+ausfindig	O
+gemacht	O
+und	O
+dies	O
+im	O
+"	O
+Literarischen	B-WOA
+Echo	I-WOA
+"	O
+(	O
+1.	O
+August	O
+1923	O
+,	O
+25.	O
+Jahrgang	O
+)	O
+publiziert	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-15
+# text = Das Stück basiert auf der Farce " A Day well spent " von John Oxenford ( 1812 – 1877 ) aus dem Jahr 1834 , einer Verwechslungskomödie . 
+Das	O
+Stück	O
+basiert	O
+auf	O
+der	O
+Farce	O
+"	O
+A	B-WOA
+Day	I-WOA
+well	I-WOA
+spent	I-WOA
+"	O
+von	O
+John	B-PER
+Oxenford	I-PER
+(	O
+1812	O
+–	O
+1877	O
+)	O
+aus	O
+dem	O
+Jahr	O
+1834	O
+,	O
+einer	O
+Verwechslungskomödie	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-16
+# text = Sie wurde erstmals im New English Opera House am 4. April 1834 aufgeführt . 
+Sie	O
+wurde	O
+erstmals	O
+im	O
+New	B-LOC
+English	I-LOC
+Opera	I-LOC
+House	I-LOC
+am	O
+4.	O
+April	O
+1834	O
+aufgeführt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-17
+# text = Nestroy ging jedoch über die stereotypen Verwechslungen und Zufälle hinaus und steigerte sie ins Absurde , die Dramenelemente waren ihm lediglich eine Grundlage für sein Spiel mit Gesellschaftsklischees . 
+Nestroy	B-PER
+ging	O
+jedoch	O
+über	O
+die	O
+stereotypen	O
+Verwechslungen	O
+und	O
+Zufälle	O
+hinaus	O
+und	O
+steigerte	O
+sie	O
+ins	O
+Absurde	O
+,	O
+die	O
+Dramenelemente	O
+waren	O
+ihm	O
+lediglich	O
+eine	O
+Grundlage	O
+für	O
+sein	O
+Spiel	O
+mit	O
+Gesellschaftsklischees	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-18
+# text = Otto Rommel schrieb , Nestroys Werk verhalte sich zum Original wie " „ eine reife Durcharbeitung zu einer Skizze “ " . 
+Otto	B-PER
+Rommel	I-PER
+schrieb	O
+,	O
+Nestroys	B-PER
+Werk	O
+verhalte	O
+sich	O
+zum	O
+Original	O
+wie	O
+"	O
+„	O
+eine	O
+reife	O
+Durcharbeitung	O
+zu	O
+einer	O
+Skizze	O
+“	O
+"	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-19
+# text = Johann Nestroy spielte den Weinberl , Wenzel Scholz den Melchior und Alois Grois alternierend mit Ignaz Stahl den Zangler , Nestroys Nichte ( die Tochter seiner ebenfalls schauspielernden Schwester Maria Franziska [ 1803 – 1866 ] , die auf dem Theaterzettel als Dlle . 
+Johann	B-PER
+Nestroy	I-PER
+spielte	O
+den	O
+Weinberl	B-PER
+,	O
+Wenzel	B-PER
+Scholz	I-PER
+den	O
+Melchior	B-PER
+und	O
+Alois	B-PER
+Grois	I-PER
+alternierend	O
+mit	O
+Ignaz	B-PER
+Stahl	I-PER
+den	O
+Zangler	B-PER
+,	O
+Nestroys	B-PER
+Nichte	O
+(	O
+die	O
+Tochter	O
+seiner	O
+ebenfalls	O
+schauspielernden	O
+Schwester	O
+Maria	B-PER
+Franziska	I-PER
+[	O
+1803	O
+–	O
+1866	O
+]	O
+,	O
+die	O
+auf	O
+dem	O
+Theaterzettel	O
+als	O
+Dlle	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-20
+# text = Nestroy angekündigt wurde ) die Marie . 
+Nestroy	B-PER
+angekündigt	O
+wurde	O
+)	O
+die	O
+Marie	B-PER
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-21
+# text = Das Stück erlebte bis zum Oktober 1842 schon 50 Aufführungen , Gastspiele in Prag , Brünn und Berlin mit Nestroys Mitwirkung erfolgten noch im Jahre 1842 . 
+Das	O
+Stück	O
+erlebte	O
+bis	O
+zum	O
+Oktober	O
+1842	O
+schon	O
+50	O
+Aufführungen	O
+,	O
+Gastspiele	O
+in	O
+Prag	B-LOC
+,	O
+Brünn	B-LOC
+und	O
+Berlin	B-LOC
+mit	O
+Nestroys	B-PER
+Mitwirkung	O
+erfolgten	O
+noch	O
+im	O
+Jahre	O
+1842	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-22
+# text = Eine Ehrung der außergewöhnlichen Art erfuhr Nestroys Stück am 14. Oktober 1842 : Die Posse " Die falschen Engländer , oder : Die unterbrochene Verlobung " , verfasst von Eduard Breier ( 1811 – 1886 ) und uraufgeführt im Theater an der Wien , fiel durch . 
+Eine	O
+Ehrung	O
+der	O
+außergewöhnlichen	O
+Art	O
+erfuhr	O
+Nestroys	B-PER
+Stück	O
+am	O
+14.	O
+Oktober	O
+1842	O
+:	O
+Die	O
+Posse	O
+"	O
+Die	B-WOA
+falschen	I-WOA
+Engländer	I-WOA
+,	O
+oder	O
+:	O
+Die	B-WOA
+unterbrochene	I-WOA
+Verlobung	I-WOA
+"	O
+,	O
+verfasst	O
+von	O
+Eduard	B-PER
+Breier	I-PER
+(	O
+1811	O
+–	O
+1886	O
+)	O
+und	O
+uraufgeführt	O
+im	O
+Theater	B-LOC
+an	I-LOC
+der	I-LOC
+Wien	I-LOC
+,	O
+fiel	O
+durch	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-23
+# text = Das Publikum verlangte an diesem Abend lautstark und erfolgreich von Direktor Carl als Entschädigung einen Nachschlag in Form des ersten Aktes von " Einen Jux will er sich machen ! " 
+Das	O
+Publikum	O
+verlangte	O
+an	O
+diesem	O
+Abend	O
+lautstark	O
+und	O
+erfolgreich	O
+von	O
+Direktor	O
+Carl	B-PER
+als	O
+Entschädigung	O
+einen	O
+Nachschlag	O
+in	O
+Form	O
+des	O
+ersten	O
+Aktes	O
+von	O
+"	O
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+!	I-WOA
+"	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-24
+# text = Eine eigenhändige Handschrift Nestroys mit dem Titel " Ein Jux " ist erhalten , ebenso eine eigenhändige Partitur von Adolf Müller mit dem Titel " Einen Jux will er sich machen . 
+Eine	O
+eigenhändige	O
+Handschrift	O
+Nestroys	B-PER
+mit	O
+dem	O
+Titel	O
+"	O
+Ein	B-WOA
+Jux	I-WOA
+"	O
+ist	O
+erhalten	O
+,	O
+ebenso	O
+eine	O
+eigenhändige	O
+Partitur	O
+von	O
+Adolf	B-PER
+Müller	I-PER
+mit	O
+dem	O
+Titel	O
+"	O
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+.	I-WOA
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-25
+# text = Posse mit Gesang in vier Ak [ ten ] von Joh . 
+Posse	B-WOA
+mit	I-WOA
+Gesang	I-WOA
+in	I-WOA
+vier	I-WOA
+Ak	I-WOA
+[	I-WOA
+ten	I-WOA
+]	I-WOA
+von	I-WOA
+Joh	I-WOA
+.	I-WOA
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-26
+# text = Nestroy . 
+Nestroy	B-PER
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-27
+# text = Musik von Adolf Müller Capellmst . 
+Musik	O
+von	O
+Adolf	B-PER
+Müller	I-PER
+Capellmst	I-PER
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-28
+# text = 1842 . " 
+1842	O
+.	O
+"	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-29
+# text = Thornton Wilders Komödie " The Merchant of Yonkers " ( 1938 ) , auf Nestroys Stück basierend , wurde 1954 , vom Autor stark überarbeitet , als " The Matchmaker " wiederveröffentlicht und diente 1964 als Vorlage für das Musical " Hello , Dolly ! " . 
+Thornton	B-PER
+Wilders	I-PER
+Komödie	O
+"	O
+The	B-WOA
+Merchant	I-WOA
+of	I-WOA
+Yonkers	I-WOA
+"	O
+(	O
+1938	O
+)	O
+,	O
+auf	O
+Nestroys	B-PER
+Stück	O
+basierend	O
+,	O
+wurde	O
+1954	O
+,	O
+vom	O
+Autor	O
+stark	O
+überarbeitet	O
+,	O
+als	O
+"	O
+The	B-WOA
+Matchmaker	I-WOA
+"	O
+wiederveröffentlicht	O
+und	O
+diente	O
+1964	O
+als	O
+Vorlage	O
+für	O
+das	O
+Musical	O
+"	O
+Hello	B-WOA
+,	I-WOA
+Dolly	I-WOA
+!	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-30
+# text = 1981 veröffentlichte der britische Dramatiker Tom Stoppard unter dem Titel " On the Razzle " eine Bearbeitung des Stückes , die im selben Jahr am Royal National Theatre in London uraufgeführt wurde . 
+1981	O
+veröffentlichte	O
+der	O
+britische	B-LOCderiv
+Dramatiker	O
+Tom	B-PER
+Stoppard	I-PER
+unter	O
+dem	O
+Titel	O
+"	O
+On	B-WOA
+the	I-WOA
+Razzle	I-WOA
+"	O
+eine	O
+Bearbeitung	O
+des	O
+Stückes	O
+,	O
+die	O
+im	O
+selben	O
+Jahr	O
+am	O
+Royal	B-LOC
+National	I-LOC
+Theatre	I-LOC
+in	O
+London	B-LOC
+uraufgeführt	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-31
+# text = Während vom Publikum die Aufführungen von Anfang an bejubelt wurden , war die Kritik manchmal etwas verhalten , wohl auch beeinflusst durch den zeitgleichen großen Erfolg von Franz Xaver Tolds Libretto für Anton Emil Titls Oper " Der Zauberschleier " , uraufgeführt am 11. Februar 1842 im Theater in der Josefstadt , das mit Ferdinand Raimunds " Der Verschwender " verglichen wurde . 
+Während	O
+vom	O
+Publikum	O
+die	O
+Aufführungen	O
+von	O
+Anfang	O
+an	O
+bejubelt	O
+wurden	O
+,	O
+war	O
+die	O
+Kritik	O
+manchmal	O
+etwas	O
+verhalten	O
+,	O
+wohl	O
+auch	O
+beeinflusst	O
+durch	O
+den	O
+zeitgleichen	O
+großen	O
+Erfolg	O
+von	O
+Franz	B-PER
+Xaver	I-PER
+Tolds	I-PER
+Libretto	O
+für	O
+Anton	B-PER
+Emil	I-PER
+Titls	I-PER
+Oper	O
+"	O
+Der	B-WOA
+Zauberschleier	I-WOA
+"	O
+,	O
+uraufgeführt	O
+am	O
+11.	O
+Februar	O
+1842	O
+im	O
+Theater	B-LOC
+in	I-LOC
+der	I-LOC
+Josefstadt	I-LOC
+,	O
+das	O
+mit	O
+Ferdinand	B-PER
+Raimunds	I-PER
+"	O
+Der	B-WOA
+Verschwender	I-WOA
+"	O
+verglichen	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-32
+# text = In der " Wiener Theaterzeitung " schrieb der Herausgeber Adolf Bäuerle selbst am 12. März ( Nr. 61 , S. 276 f . ) nach einer ausführlichen Inhaltsangabe : 
+In	O
+der	O
+"	O
+Wiener	B-WOA
+Theaterzeitung	I-WOA
+"	O
+schrieb	O
+der	O
+Herausgeber	O
+Adolf	B-PER
+Bäuerle	I-PER
+selbst	O
+am	O
+12.	O
+März	O
+(	O
+Nr.	O
+61	O
+,	O
+S.	O
+276	O
+f	O
+.	O
+)	O
+nach	O
+einer	O
+ausführlichen	O
+Inhaltsangabe	O
+:	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-33
+# text = Hervorgehoben wurden besonders die ausgezeichneten Darstellungen durch Nestroy und Scholz . 
+Hervorgehoben	O
+wurden	O
+besonders	O
+die	O
+ausgezeichneten	O
+Darstellungen	O
+durch	O
+Nestroy	B-PER
+und	O
+Scholz	B-PER
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-34
+# text = Im " Österreichischen Morgenblatt " ( Nr. 31 ) wurde auf die englische Vorlage verwiesen und Nestroys Bearbeitung derselben zu seinen besten Possen gezählt . 
+Im	O
+"	O
+Österreichischen	B-WOA
+Morgenblatt	I-WOA
+"	O
+(	O
+Nr.	O
+31	O
+)	O
+wurde	O
+auf	O
+die	O
+englische	B-LANGderiv
+Vorlage	O
+verwiesen	O
+und	O
+Nestroys	B-PER
+Bearbeitung	O
+derselben	O
+zu	O
+seinen	O
+besten	O
+Possen	O
+gezählt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-35
+# text = " Der Wanderer " ( 12. März , Nr. 61 ) vermutete trotzdem , es sei ein " „ Originalstück “ " des Dichters und dieser habe sich keiner Vorlage bedient . 
+"	O
+Der	B-WOA
+Wanderer	I-WOA
+"	O
+(	O
+12.	O
+März	O
+,	O
+Nr.	O
+61	O
+)	O
+vermutete	O
+trotzdem	O
+,	O
+es	O
+sei	O
+ein	O
+"	O
+„	O
+Originalstück	O
+“	O
+"	O
+des	O
+Dichters	O
+und	O
+dieser	O
+habe	O
+sich	O
+keiner	O
+Vorlage	O
+bedient	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-36
+# text = Seine satirische Betrachtung der " „ modernen Zustände “ " des Handelsstandes durch die Rolle des Weinberl wurde sehr gelobt . 
+Seine	O
+satirische	O
+Betrachtung	O
+der	O
+"	O
+„	O
+modernen	O
+Zustände	O
+“	O
+"	O
+des	O
+Handelsstandes	O
+durch	O
+die	O
+Rolle	O
+des	O
+Weinberl	B-PER
+wurde	O
+sehr	O
+gelobt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-37
+# text = Auch " Der Sammler " ( Nr. 41 ) nahm ein Originalwerk an und hob seine " „ Doppelleistung als Dichter wie als Komiker “ " hervor , daneben ebenfalls Scholz als Melchior , obwohl oder gerade weil diese Rolle eigentlich " „ immer nur stagnierend in den Gang der Handlung “ " eingreife . 
+Auch	O
+"	O
+Der	B-WOA
+Sammler	I-WOA
+"	O
+(	O
+Nr.	O
+41	O
+)	O
+nahm	O
+ein	O
+Originalwerk	O
+an	O
+und	O
+hob	O
+seine	O
+"	O
+„	O
+Doppelleistung	O
+als	O
+Dichter	O
+wie	O
+als	O
+Komiker	O
+“	O
+"	O
+hervor	O
+,	O
+daneben	O
+ebenfalls	O
+Scholz	B-PER
+als	O
+Melchior	B-PER
+,	O
+obwohl	O
+oder	O
+gerade	O
+weil	O
+diese	O
+Rolle	O
+eigentlich	O
+"	O
+„	O
+immer	O
+nur	O
+stagnierend	O
+in	O
+den	O
+Gang	O
+der	O
+Handlung	O
+“	O
+"	O
+eingreife	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-38
+# text = Moritz Gottlieb Saphir , der stets Nestroy-kritische Satiriker , war diesmal in seiner Zeitschrift " Der Humorist " ( Nr. 51 ) einigermaßen positiv , nahm ebenfalls eine Eigenschöpfung des Dichters an und störte sich lediglich an der Kompliziertheit der Handlung des letzten Aktes : 
+Moritz	B-PER
+Gottlieb	I-PER
+Saphir	I-PER
+,	O
+der	O
+stets	O
+Nestroy-kritische	B-PERpart
+Satiriker	O
+,	O
+war	O
+diesmal	O
+in	O
+seiner	O
+Zeitschrift	O
+"	O
+Der	B-WOA
+Humorist	I-WOA
+"	O
+(	O
+Nr.	O
+51	O
+)	O
+einigermaßen	O
+positiv	O
+,	O
+nahm	O
+ebenfalls	O
+eine	O
+Eigenschöpfung	O
+des	O
+Dichters	O
+an	O
+und	O
+störte	O
+sich	O
+lediglich	O
+an	O
+der	O
+Kompliziertheit	O
+der	O
+Handlung	O
+des	O
+letzten	O
+Aktes	O
+:	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-39
+# text = Als einer der ganz wenigen sehr kritisch war Anton Johann Gross-Hoffinger in der Zeitschrift " Der Adler " ( Nr. 61 ) , wo er anmerkte , dieses Werk stehe insofern hinter den " „ sonstigen Schöpfungen “ " Nestroys , weil die " „ drastische Zeichnung der Charaktere [ … ] in Hogarths Manier “ " diesmal fehle , als " „ flüchtige Arbeit “ " müsse es " „ unbedingt zu den schwächeren Arbeiten Nestroys “ gezählt werden . " 
+Als	O
+einer	O
+der	O
+ganz	O
+wenigen	O
+sehr	O
+kritisch	O
+war	O
+Anton	B-PER
+Johann	I-PER
+Gross-Hoffinger	I-PER
+in	O
+der	O
+Zeitschrift	O
+"	O
+Der	B-WOA
+Adler	I-WOA
+"	O
+(	O
+Nr.	O
+61	O
+)	O
+,	O
+wo	O
+er	O
+anmerkte	O
+,	O
+dieses	O
+Werk	O
+stehe	O
+insofern	O
+hinter	O
+den	O
+"	O
+„	O
+sonstigen	O
+Schöpfungen	O
+“	O
+"	O
+Nestroys	B-PER
+,	O
+weil	O
+die	O
+"	O
+„	O
+drastische	O
+Zeichnung	O
+der	O
+Charaktere	O
+[	O
+…	O
+]	O
+in	O
+Hogarths	B-PER
+Manier	O
+“	O
+"	O
+diesmal	O
+fehle	O
+,	O
+als	O
+"	O
+„	O
+flüchtige	O
+Arbeit	O
+“	O
+"	O
+müsse	O
+es	O
+"	O
+„	O
+unbedingt	O
+zu	O
+den	O
+schwächeren	O
+Arbeiten	O
+Nestroys	B-PER
+“	O
+gezählt	O
+werden	O
+.	O
+"	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-40
+# text = Auch andere Rezensenten zeigten zumindest eine zwiespältige Haltung zum Stück , beispielsweise in den " Sonntags-Blättern für heimathliche Interessen " ( 13. März , Nr. 11 ) , in der " Wiener Zeitschrift " ( 14. März , Nr. 52 ) , in der " Wiener Musik-Zeitung " ( 15. März , Nr. 32 ) , im " Zuschauer " ( 16. März , Nr. 32 ) – in allen Blättern , wie auch teilweise in der modernen Forschungsliteratur , wurde Unsicherheit gegenüber der satirischen Absicht und deren Umsetzung durch den Dichter angesprochen . 
+Auch	O
+andere	O
+Rezensenten	O
+zeigten	O
+zumindest	O
+eine	O
+zwiespältige	O
+Haltung	O
+zum	O
+Stück	O
+,	O
+beispielsweise	O
+in	O
+den	O
+"	O
+Sonntags-Blättern	B-WOA
+für	I-WOA
+heimathliche	I-WOA
+Interessen	I-WOA
+"	O
+(	O
+13.	O
+März	O
+,	O
+Nr.	O
+11	O
+)	O
+,	O
+in	O
+der	O
+"	O
+Wiener	B-WOA
+Zeitschrift	I-WOA
+"	O
+(	O
+14.	O
+März	O
+,	O
+Nr.	O
+52	O
+)	O
+,	O
+in	O
+der	O
+"	O
+Wiener	B-WOA
+Musik-Zeitung	I-WOA
+"	O
+(	O
+15.	O
+März	O
+,	O
+Nr.	O
+32	O
+)	O
+,	O
+im	O
+"	O
+Zuschauer	B-WOA
+"	O
+(	O
+16.	O
+März	O
+,	O
+Nr.	O
+32	O
+)	O
+–	O
+in	O
+allen	O
+Blättern	O
+,	O
+wie	O
+auch	O
+teilweise	O
+in	O
+der	O
+modernen	O
+Forschungsliteratur	O
+,	O
+wurde	O
+Unsicherheit	O
+gegenüber	O
+der	O
+satirischen	O
+Absicht	O
+und	O
+deren	O
+Umsetzung	O
+durch	O
+den	O
+Dichter	O
+angesprochen	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-41
+# text = Dennoch beschrieben die Rezensenten den begeisterten Jubel im Theater an der Wien und diese Reaktion des Publikums wurde dabei stets zu Recht als Beweis des großen Erfolges gesehen , wie in der " Theaterzeitung " vom 16. März ( Nr. 64 , S. 290 ) zu lesen war : 
+Dennoch	O
+beschrieben	O
+die	O
+Rezensenten	O
+den	O
+begeisterten	O
+Jubel	O
+im	O
+Theater	B-LOC
+an	I-LOC
+der	I-LOC
+Wien	I-LOC
+und	O
+diese	O
+Reaktion	O
+des	O
+Publikums	O
+wurde	O
+dabei	O
+stets	O
+zu	O
+Recht	O
+als	O
+Beweis	O
+des	O
+großen	O
+Erfolges	O
+gesehen	O
+,	O
+wie	O
+in	O
+der	O
+"	O
+Theaterzeitung	B-WOA
+"	O
+vom	O
+16.	O
+März	O
+(	O
+Nr.	O
+64	O
+,	O
+S.	O
+290	O
+)	O
+zu	O
+lesen	O
+war	O
+:	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-42
+# text = Die Nestroyforschung war sich einig , dass " Einen Jux will er sich machen " im Aufbau eine Meisterleistung wäre , aber früher sehr häufig nicht als gesellschaftskritische Satire , sondern lediglich verharmlosend als reiner „ Jux “ verstanden worden sei . 
+Die	O
+Nestroyforschung	B-PERpart
+war	O
+sich	O
+einig	O
+,	O
+dass	O
+"	O
+Einen	B-WOA
+Jux	I-WOA
+will	I-WOA
+er	I-WOA
+sich	I-WOA
+machen	I-WOA
+"	O
+im	O
+Aufbau	O
+eine	O
+Meisterleistung	O
+wäre	O
+,	O
+aber	O
+früher	O
+sehr	O
+häufig	O
+nicht	O
+als	O
+gesellschaftskritische	O
+Satire	O
+,	O
+sondern	O
+lediglich	O
+verharmlosend	O
+als	O
+reiner	O
+„	O
+Jux	O
+“	O
+verstanden	O
+worden	O
+sei	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-43
+# text = Von Otto Basil ( 1901 – 1983 ) wird das Werk zu den „ Paradestücken der österreichischen Nationalliteratur “ gezählt . 
+Von	O
+Otto	B-PER
+Basil	I-PER
+(	O
+1901	O
+–	O
+1983	O
+)	O
+wird	O
+das	O
+Werk	O
+zu	O
+den	O
+„	O
+Paradestücken	O
+der	O
+österreichischen	B-LOCderiv
+Nationalliteratur	O
+“	O
+gezählt	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-44
+# text = Nach Hans Mayer ( 1907 – 2001 ) zeige das Werk in satirischer Form " „ eine von oben bis unten nichtswürdige Ordnung , der Nestroy am Schluss mit drei albernen Hochzeiten , die gar nichts ändern , vollends den Garaus mache “ " . 
+Nach	O
+Hans	B-PER
+Mayer	I-PER
+(	O
+1907	O
+–	O
+2001	O
+)	O
+zeige	O
+das	O
+Werk	O
+in	O
+satirischer	O
+Form	O
+"	O
+„	O
+eine	O
+von	O
+oben	O
+bis	O
+unten	O
+nichtswürdige	O
+Ordnung	O
+,	O
+der	O
+Nestroy	B-PER
+am	O
+Schluss	O
+mit	O
+drei	O
+albernen	O
+Hochzeiten	O
+,	O
+die	O
+gar	O
+nichts	O
+ändern	O
+,	O
+vollends	O
+den	O
+Garaus	O
+mache	O
+“	O
+"	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-45
+# text = Jürgen Hein ( 1942 – 2014 ) verweist 1983 auf Nestroys Spielwitz , der sich im " „ spielerisch-satirischen Schwebezustand des Happy-Ends “ " zeige . 
+Jürgen	B-PER
+Hein	I-PER
+(	O
+1942	O
+–	O
+2014	O
+)	O
+verweist	O
+1983	O
+auf	O
+Nestroys	B-PER
+Spielwitz	O
+,	O
+der	O
+sich	O
+im	O
+"	O
+„	O
+spielerisch-satirischen	O
+Schwebezustand	O
+des	O
+Happy-Ends	O
+“	O
+"	O
+zeige	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-46
+# text = Bei Fritz Brukner und Otto Rommel wird besonders die englische Vorlage mit Nestroys Werk verglichen , das dabei in allen Punkten besser abschneidet . 
+Bei	O
+Fritz	B-PER
+Brukner	I-PER
+und	O
+Otto	B-PER
+Rommel	I-PER
+wird	O
+besonders	O
+die	O
+englische	B-LANG
+Vorlage	O
+mit	O
+Nestroys	B-PER
+Werk	O
+verglichen	O
+,	O
+das	O
+dabei	O
+in	O
+allen	O
+Punkten	O
+besser	O
+abschneidet	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-47
+# text = Oxenfords Stück , um zwei Drittel kürzer als der " Jux " , wird als glatter , schneller und nüchterner im Dialog beschrieben . 
+Oxenfords	B-PER
+Stück	O
+,	O
+um	O
+zwei	O
+Drittel	O
+kürzer	O
+als	O
+der	O
+"	O
+Jux	B-WOA
+"	O
+,	O
+wird	O
+als	O
+glatter	O
+,	O
+schneller	O
+und	O
+nüchterner	O
+im	O
+Dialog	O
+beschrieben	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-48
+# text = Die von Nestroy eingefügten Szenen und Personen – der „ klassische “ Hausknecht Melchior , die Haushälterin Frau Gertrud , große Teile der Gasthausszene , das Zusammentreffen der Handelnden bei Fräulein von Blumenblatt ( im Original Miss Chargeley ) und weitere – fehlen , aus einem vereinzelten " „ Shocking , indeed ! “ " der farblosen Miss Harriet machte Nestroy das stereotype " „ Es schickt sich nicht ! “ " seiner köstlich karikierten Marie . 
+Die	O
+von	O
+Nestroy	B-PER
+eingefügten	O
+Szenen	O
+und	O
+Personen	O
+–	O
+der	O
+„	O
+klassische	O
+“	O
+Hausknecht	O
+Melchior	B-PER
+,	O
+die	O
+Haushälterin	O
+Frau	O
+Gertrud	B-PER
+,	O
+große	O
+Teile	O
+der	O
+Gasthausszene	O
+,	O
+das	O
+Zusammentreffen	O
+der	O
+Handelnden	O
+bei	O
+Fräulein	O
+von	B-PER
+Blumenblatt	I-PER
+(	O
+im	O
+Original	O
+Miss	O
+Chargeley	B-PER
+)	O
+und	O
+weitere	O
+–	O
+fehlen	O
+,	O
+aus	O
+einem	O
+vereinzelten	O
+"	O
+„	O
+Shocking	O
+,	O
+indeed	O
+!	O
+“	O
+"	O
+der	O
+farblosen	O
+Miss	O
+Harriet	B-PER
+machte	O
+Nestroy	B-PER
+das	O
+stereotype	O
+"	O
+„	O
+Es	O
+schickt	O
+sich	O
+nicht	O
+!	O
+“	O
+"	O
+seiner	O
+köstlich	O
+karikierten	O
+Marie	B-PER
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-49
+# text = Zusammengefasst wird gesagt , Oxenfords Charaktere seien nur farblose Rollen , Nestroys Gegenstücke farbenfroh gezeichnete Bühnenfiguren . 
+Zusammengefasst	O
+wird	O
+gesagt	O
+,	O
+Oxenfords	B-PER
+Charaktere	O
+seien	O
+nur	O
+farblose	O
+Rollen	O
+,	O
+Nestroys	B-PER
+Gegenstücke	O
+farbenfroh	O
+gezeichnete	O
+Bühnenfiguren	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-50
+# text = Franz H. Mautner stellt fest , hier sei eine schwankhafte und knappe , dennoch eindringliche Milieuschilderung , rasch umrissene Charaktere und ein faschingshaft fröhliches Geschehen zu erleben , gebremst und gleichzeitig angetrieben durch geschickt herbeigeführte und ebenso geschickt aufgelöste Verwicklungen . 
+Franz	B-PER
+H.	I-PER
+Mautner	I-PER
+stellt	O
+fest	O
+,	O
+hier	O
+sei	O
+eine	O
+schwankhafte	O
+und	O
+knappe	O
+,	O
+dennoch	O
+eindringliche	O
+Milieuschilderung	O
+,	O
+rasch	O
+umrissene	O
+Charaktere	O
+und	O
+ein	O
+faschingshaft	O
+fröhliches	O
+Geschehen	O
+zu	O
+erleben	O
+,	O
+gebremst	O
+und	O
+gleichzeitig	O
+angetrieben	O
+durch	O
+geschickt	O
+herbeigeführte	O
+und	O
+ebenso	O
+geschickt	O
+aufgelöste	O
+Verwicklungen	O
+.	O
+
+# sent_id = de_wiki_Einen-Jux-will-er-sich-machen-51
+# text = Flucht und Verfolgung , Auftauchen gefürchteter und Verschwinden gesuchter Personen seien ein Vorgriff auf die späteren Slapstick-Filmkomödien . 
+Flucht	O
+und	O
+Verfolgung	O
+,	O
+Auftauchen	O
+gefürchteter	O
+und	O
+Verschwinden	O
+gesuchter	O
+Personen	O
+seien	O
+ein	O
+Vorgriff	O
+auf	O
+die	O
+späteren	O
+Slapstick-Filmkomödien	O
+.	O
+
+# newdoc id = de_wiki_Fotografie
+# sent_id = de_wiki_Fotografie-1
+# text = Fotografie 
+Fotografie	O
+
+# sent_id = de_wiki_Fotografie-2
+# text = Fotografie oder Photographie ( aus " phōs " , im Genitiv " photós " ‚ Licht ‘ und " graphein " ‚ schreiben ‘ , ‚ malen ‘ , ‚ zeichnen ‘ , also „ zeichnen mit Licht “ ) bezeichnet : 
+Fotografie	O
+oder	O
+Photographie	O
+(	O
+aus	O
+"	O
+phōs	O
+"	O
+,	O
+im	O
+Genitiv	O
+"	O
+photós	O
+"	O
+‚	O
+Licht	O
+‘	O
+und	O
+"	O
+graphein	O
+"	O
+‚	O
+schreiben	O
+‘	O
+,	O
+‚	O
+malen	O
+‘	O
+,	O
+‚	O
+zeichnen	O
+‘	O
+,	O
+also	O
+„	O
+zeichnen	O
+mit	O
+Licht	O
+“	O
+)	O
+bezeichnet	O
+:	O
+
+# sent_id = de_wiki_Fotografie-3
+# text = Bis ins 20. Jahrhundert bezeichnete Fotografie alle Bilder , welche rein durch Licht auf einer Oberfläche entstehen . 
+Bis	O
+ins	O
+20.	O
+Jahrhundert	O
+bezeichnete	O
+Fotografie	O
+alle	O
+Bilder	O
+,	O
+welche	O
+rein	O
+durch	O
+Licht	O
+auf	O
+einer	O
+Oberfläche	O
+entstehen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-4
+# text = Bereits im Duden 1929 wurde die Schreibweise „ Fotografie “ zugelassen und seit 1973 empfohlen , was sich jedoch bis heute noch nicht ganz durchsetzen konnte . 
+Bereits	O
+im	O
+Duden	B-WOA
+1929	O
+wurde	O
+die	O
+Schreibweise	O
+„	O
+Fotografie	O
+“	O
+zugelassen	O
+und	O
+seit	O
+1973	O
+empfohlen	O
+,	O
+was	O
+sich	O
+jedoch	O
+bis	O
+heute	O
+noch	O
+nicht	O
+ganz	O
+durchsetzen	O
+konnte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-5
+# text = Die Kurzform „ Foto “ und das Verb „ fotografieren “ gelten als vollständig in die deutsche Sprache integriert und sollen seit der deutschen Rechtschreibreform 1996 nicht mehr mit „ ph “ geschrieben werden . 
+Die	O
+Kurzform	O
+„	O
+Foto	O
+“	O
+und	O
+das	O
+Verb	O
+„	O
+fotografieren	O
+“	O
+gelten	O
+als	O
+vollständig	O
+in	O
+die	O
+deutsche	B-LOCderiv
+Sprache	O
+integriert	O
+und	O
+sollen	O
+seit	O
+der	O
+deutschen	B-EVENT
+Rechtschreibreform	I-EVENT
+1996	I-EVENT
+nicht	O
+mehr	O
+mit	O
+„	O
+ph	O
+“	O
+geschrieben	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-6
+# text = Gemischte Schreibungen wie „ Fotographie “ oder „ Photografie “ sowie daraus abgewandelte Adjektive oder Substantive waren jedoch zu jeder Zeit falsche Schreibweisen . 
+Gemischte	O
+Schreibungen	O
+wie	O
+„	O
+Fotographie	O
+“	O
+oder	O
+„	O
+Photografie	O
+“	O
+sowie	O
+daraus	O
+abgewandelte	O
+Adjektive	O
+oder	O
+Substantive	O
+waren	O
+jedoch	O
+zu	O
+jeder	O
+Zeit	O
+falsche	O
+Schreibweisen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-7
+# text = Die " Fotografie " ist ein Medium , das in sehr verschiedenen Zusammenhängen eingesetzt wird . 
+Die	O
+"	O
+Fotografie	O
+"	O
+ist	O
+ein	O
+Medium	O
+,	O
+das	O
+in	O
+sehr	O
+verschiedenen	O
+Zusammenhängen	O
+eingesetzt	O
+wird	O
+.	O
+
+# sent_id = de_wiki_Fotografie-8
+# text = Fotografische Abbildungen können beispielsweise Gegenstände mit primär künstlerischem ( künstlerische Fotografie ) oder primär kommerziellem Charakter sein ( Industriefotografie , Werbe- und Modefotografie ) . 
+Fotografische	O
+Abbildungen	O
+können	O
+beispielsweise	O
+Gegenstände	O
+mit	O
+primär	O
+künstlerischem	O
+(	O
+künstlerische	O
+Fotografie	O
+)	O
+oder	O
+primär	O
+kommerziellem	O
+Charakter	O
+sein	O
+(	O
+Industriefotografie	O
+,	O
+Werbe-	O
+und	O
+Modefotografie	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-9
+# text = Die Fotografie kann unter künstlerischen , technischen ( Fototechnik ) , ökonomischen ( Fotowirtschaft ) und gesellschaftlich-sozialen ( Amateur- , Arbeiter- und Dokumentarfotografie ) Aspekten betrachtet werden . 
+Die	O
+Fotografie	O
+kann	O
+unter	O
+künstlerischen	O
+,	O
+technischen	O
+(	O
+Fototechnik	O
+)	O
+,	O
+ökonomischen	O
+(	O
+Fotowirtschaft	O
+)	O
+und	O
+gesellschaftlich-sozialen	O
+(	O
+Amateur-	O
+,	O
+Arbeiter-	O
+und	O
+Dokumentarfotografie	O
+)	O
+Aspekten	O
+betrachtet	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-10
+# text = Des Weiteren werden Fotografien im Journalismus und in der Medizin verwendet . 
+Des	O
+Weiteren	O
+werden	O
+Fotografien	O
+im	O
+Journalismus	O
+und	O
+in	O
+der	O
+Medizin	O
+verwendet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-11
+# text = Die Fotografie ist teilweise ein Gegenstand der Forschung und Lehre in der Kunstgeschichte und der noch jungen Bildwissenschaft . 
+Die	O
+Fotografie	O
+ist	O
+teilweise	O
+ein	O
+Gegenstand	O
+der	O
+Forschung	O
+und	O
+Lehre	O
+in	O
+der	O
+Kunstgeschichte	O
+und	O
+der	O
+noch	O
+jungen	O
+Bildwissenschaft	O
+.	O
+
+# sent_id = de_wiki_Fotografie-12
+# text = Der mögliche Kunstcharakter der Fotografie war lange Zeit umstritten , ist jedoch seit der fotografischen Stilrichtung des Piktorialismus um die Wende zum 20. Jahrhundert letztlich nicht mehr bestritten . 
+Der	O
+mögliche	O
+Kunstcharakter	O
+der	O
+Fotografie	O
+war	O
+lange	O
+Zeit	O
+umstritten	O
+,	O
+ist	O
+jedoch	O
+seit	O
+der	O
+fotografischen	O
+Stilrichtung	O
+des	O
+Piktorialismus	O
+um	O
+die	O
+Wende	O
+zum	O
+20.	O
+Jahrhundert	O
+letztlich	O
+nicht	O
+mehr	O
+bestritten	O
+.	O
+
+# sent_id = de_wiki_Fotografie-13
+# text = Einige Forschungsrichtungen ordnen die Fotografie der Medien- oder Kommunikationswissenschaft zu , auch diese Zuordnung ist umstritten . 
+Einige	O
+Forschungsrichtungen	O
+ordnen	O
+die	O
+Fotografie	O
+der	O
+Medien-	O
+oder	O
+Kommunikationswissenschaft	O
+zu	O
+,	O
+auch	O
+diese	O
+Zuordnung	O
+ist	O
+umstritten	O
+.	O
+
+# sent_id = de_wiki_Fotografie-14
+# text = Im Zuge der technologischen Weiterentwicklung fand zu Beginn des 21. Jahrhunderts allmählich der Wandel von der klassischen analogen ( Silber- ) Fotografie hin zur Digitalfotografie statt . 
+Im	O
+Zuge	O
+der	O
+technologischen	O
+Weiterentwicklung	O
+fand	O
+zu	O
+Beginn	O
+des	O
+21.	O
+Jahrhunderts	O
+allmählich	O
+der	O
+Wandel	O
+von	O
+der	O
+klassischen	O
+analogen	O
+(	O
+Silber-	O
+)	O
+Fotografie	O
+hin	O
+zur	O
+Digitalfotografie	O
+statt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-15
+# text = Der weltweite Zusammenbruch der damit in Zusammenhang stehenden Industrie für analoge Kameras aber auch für Verbrauchsmaterialien ( Filme , Fotopapier , Fotochemie , Laborgeräte ) führt dazu , dass die Fotografie mehr und mehr auch unter kulturwissenschaftlicher und kulturhistorischer Sicht erforscht wird . 
+Der	O
+weltweite	O
+Zusammenbruch	O
+der	O
+damit	O
+in	O
+Zusammenhang	O
+stehenden	O
+Industrie	O
+für	O
+analoge	O
+Kameras	O
+aber	O
+auch	O
+für	O
+Verbrauchsmaterialien	O
+(	O
+Filme	O
+,	O
+Fotopapier	O
+,	O
+Fotochemie	O
+,	O
+Laborgeräte	O
+)	O
+führt	O
+dazu	O
+,	O
+dass	O
+die	O
+Fotografie	O
+mehr	O
+und	O
+mehr	O
+auch	O
+unter	O
+kulturwissenschaftlicher	O
+und	O
+kulturhistorischer	O
+Sicht	O
+erforscht	O
+wird	O
+.	O
+
+# sent_id = de_wiki_Fotografie-16
+# text = Allgemein kulturelle Aspekte in der Forschung sind z. B. Betrachtungen über den Erhalt und die Dokumentation der praktischen Kenntnis der fotografischen Verfahren für Aufnahme und Verarbeitung aber auch der Wandel im Umgang mit der Fotografie im Alltag . 
+Allgemein	O
+kulturelle	O
+Aspekte	O
+in	O
+der	O
+Forschung	O
+sind	O
+z.	O
+B.	O
+Betrachtungen	O
+über	O
+den	O
+Erhalt	O
+und	O
+die	O
+Dokumentation	O
+der	O
+praktischen	O
+Kenntnis	O
+der	O
+fotografischen	O
+Verfahren	O
+für	O
+Aufnahme	O
+und	O
+Verarbeitung	O
+aber	O
+auch	O
+der	O
+Wandel	O
+im	O
+Umgang	O
+mit	O
+der	O
+Fotografie	O
+im	O
+Alltag	O
+.	O
+
+# sent_id = de_wiki_Fotografie-17
+# text = Zunehmend kulturhistorisch interessant werden die Archivierungs- und Erhaltungstechniken für analoge Aufnahmen aber auch die systemunabhängige langfristige digitale Datenspeicherung . 
+Zunehmend	O
+kulturhistorisch	O
+interessant	O
+werden	O
+die	O
+Archivierungs-	O
+und	O
+Erhaltungstechniken	O
+für	O
+analoge	O
+Aufnahmen	O
+aber	O
+auch	O
+die	O
+systemunabhängige	O
+langfristige	O
+digitale	O
+Datenspeicherung	O
+.	O
+
+# sent_id = de_wiki_Fotografie-18
+# text = Die Fotografie unterliegt dem komplexen und vielschichtigen Fotorecht ; bei der Nutzung von vorhandenen Fotografien müssen die Bildrechte beachtet werden . 
+Die	O
+Fotografie	O
+unterliegt	O
+dem	O
+komplexen	O
+und	O
+vielschichtigen	O
+Fotorecht	O
+;	O
+bei	O
+der	O
+Nutzung	O
+von	O
+vorhandenen	O
+Fotografien	O
+müssen	O
+die	O
+Bildrechte	O
+beachtet	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-19
+# text = Die Gesetzgebungen in verschiedenen Ländern unterscheiden sich teilweise stark . 
+Die	O
+Gesetzgebungen	O
+in	O
+verschiedenen	O
+Ländern	O
+unterscheiden	O
+sich	O
+teilweise	O
+stark	O
+.	O
+
+# sent_id = de_wiki_Fotografie-20
+# text = Prinzipiell wird meist mit Hilfe eines optischen Systems , in vielen Fällen einem Objektiv , fotografiert . 
+Prinzipiell	O
+wird	O
+meist	O
+mit	O
+Hilfe	O
+eines	O
+optischen	O
+Systems	O
+,	O
+in	O
+vielen	O
+Fällen	O
+einem	O
+Objektiv	O
+,	O
+fotografiert	O
+.	O
+
+# sent_id = de_wiki_Fotografie-21
+# text = Dieses wirft das von einem Objekt ausgesendete oder reflektierte Licht auf die lichtempfindliche Schicht einer Fotoplatte , eines Films oder auf einen fotoelektrischen Wandler , einen Bildsensor . 
+Dieses	O
+wirft	O
+das	O
+von	O
+einem	O
+Objekt	O
+ausgesendete	O
+oder	O
+reflektierte	O
+Licht	O
+auf	O
+die	O
+lichtempfindliche	O
+Schicht	O
+einer	O
+Fotoplatte	O
+,	O
+eines	O
+Films	O
+oder	O
+auf	O
+einen	O
+fotoelektrischen	O
+Wandler	O
+,	O
+einen	O
+Bildsensor	O
+.	O
+
+# sent_id = de_wiki_Fotografie-22
+# text = Der fotografischen Aufnahme dient eine fotografische Apparatur ( Kamera ) . 
+Der	O
+fotografischen	O
+Aufnahme	O
+dient	O
+eine	O
+fotografische	O
+Apparatur	O
+(	O
+Kamera	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-23
+# text = Durch Manipulation / Veränderung des optischen Systems ( unter anderem die Einstellung der Blendenzahl , Scharfstellung , Farbfilterung , die Wahl der Belichtungszeit , der Objektivbrennweite , der Beleuchtung und nicht zuletzt des Aufnahmematerials ) stehen einem Fotografen zahlreiche Gestaltungsmöglichkeiten offen . 
+Durch	O
+Manipulation	O
+/	O
+Veränderung	O
+des	O
+optischen	O
+Systems	O
+(	O
+unter	O
+anderem	O
+die	O
+Einstellung	O
+der	O
+Blendenzahl	O
+,	O
+Scharfstellung	O
+,	O
+Farbfilterung	O
+,	O
+die	O
+Wahl	O
+der	O
+Belichtungszeit	O
+,	O
+der	O
+Objektivbrennweite	O
+,	O
+der	O
+Beleuchtung	O
+und	O
+nicht	O
+zuletzt	O
+des	O
+Aufnahmematerials	O
+)	O
+stehen	O
+einem	O
+Fotografen	O
+zahlreiche	O
+Gestaltungsmöglichkeiten	O
+offen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-24
+# text = Als vielseitigste Fotoapparatbauform hat sich sowohl im Analog- als auch im Digitalbereich die Spiegelreflexkamera durchgesetzt . 
+Als	O
+vielseitigste	O
+Fotoapparatbauform	O
+hat	O
+sich	O
+sowohl	O
+im	O
+Analog-	O
+als	O
+auch	O
+im	O
+Digitalbereich	O
+die	O
+Spiegelreflexkamera	O
+durchgesetzt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-25
+# text = Für viele Aufgaben werden weiterhin die verschiedensten Spezialkameras benötigt und eingesetzt . 
+Für	O
+viele	O
+Aufgaben	O
+werden	O
+weiterhin	O
+die	O
+verschiedensten	O
+Spezialkameras	O
+benötigt	O
+und	O
+eingesetzt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-26
+# text = Bei der Digitalfotografie besteht das Äquivalent der lichtempfindlichen Schicht aus Chips wie CCD- oder CMOS-Sensoren . 
+Bei	O
+der	O
+Digitalfotografie	O
+besteht	O
+das	O
+Äquivalent	O
+der	O
+lichtempfindlichen	O
+Schicht	O
+aus	O
+Chips	O
+wie	O
+CCD-	O
+oder	O
+CMOS-Sensoren	O
+.	O
+
+# sent_id = de_wiki_Fotografie-27
+# text = Bei der filmbasierten Fotografie ( z. B. Silber-Fotografie ) ist die lichtempfindliche Schicht auf der Bildebene eine Dispersion ( im allgemeinen Sprachgebrauch Emulsion ) . 
+Bei	O
+der	O
+filmbasierten	O
+Fotografie	O
+(	O
+z.	O
+B.	O
+Silber-Fotografie	O
+)	O
+ist	O
+die	O
+lichtempfindliche	O
+Schicht	O
+auf	O
+der	O
+Bildebene	O
+eine	O
+Dispersion	O
+(	O
+im	O
+allgemeinen	O
+Sprachgebrauch	O
+Emulsion	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-28
+# text = Sie besteht aus einem Gel , in dem gleichmäßig kleine Körnchen eines Silberhalogenids ( zum Beispiel Silberbromid ) verteilt sind . 
+Sie	O
+besteht	O
+aus	O
+einem	O
+Gel	O
+,	O
+in	O
+dem	O
+gleichmäßig	O
+kleine	O
+Körnchen	O
+eines	O
+Silberhalogenids	O
+(	O
+zum	O
+Beispiel	O
+Silberbromid	O
+)	O
+verteilt	O
+sind	O
+.	O
+
+# sent_id = de_wiki_Fotografie-29
+# text = Je kleiner die Körnung ist , umso weniger lichtempfindlich ist die Schicht ( " siehe " ISO-5800 -Standard ) , umso besser ist allerdings die Auflösung ( „ Korn “ ) . 
+Je	O
+kleiner	O
+die	O
+Körnung	O
+ist	O
+,	O
+umso	O
+weniger	O
+lichtempfindlich	O
+ist	O
+die	O
+Schicht	O
+(	O
+"	O
+siehe	O
+"	O
+ISO-5800	O
+-Standard	O
+)	O
+,	O
+umso	O
+besser	O
+ist	O
+allerdings	O
+die	O
+Auflösung	O
+(	O
+„	O
+Korn	O
+“	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-30
+# text = Dieser lichtempfindlichen Schicht wird durch einen Träger Stabilität verliehen . 
+Dieser	O
+lichtempfindlichen	O
+Schicht	O
+wird	O
+durch	O
+einen	O
+Träger	O
+Stabilität	O
+verliehen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-31
+# text = Trägermaterialien sind Zelluloseacetat , früher diente dazu Zellulosenitrat ( Zelluloid ) , Kunststofffolien , Metallplatten , Glasplatten und sogar Textilien " ( siehe Fotoplatte und Film ) " . 
+Trägermaterialien	O
+sind	O
+Zelluloseacetat	O
+,	O
+früher	O
+diente	O
+dazu	O
+Zellulosenitrat	O
+(	O
+Zelluloid	O
+)	O
+,	O
+Kunststofffolien	O
+,	O
+Metallplatten	O
+,	O
+Glasplatten	O
+und	O
+sogar	O
+Textilien	O
+"	O
+(	O
+siehe	O
+Fotoplatte	O
+und	O
+Film	O
+)	O
+"	O
+.	O
+
+# sent_id = de_wiki_Fotografie-32
+# text = Mit Ausnahme von Rohdaten ( RAW-Dateien ) müssen digitale Bilddateien nicht entwickelt werden , um sie am Monitor betrachten oder verarbeiten zu können ; sie werden elektronisch gespeichert und können anschließend mit der elektronischen Bildbearbeitung am Computer bearbeitet und bei Bedarf auf Fotopapier ausbelichtet oder beispielsweise mit einem Tintenstrahldrucker ausgedruckt werden . 
+Mit	O
+Ausnahme	O
+von	O
+Rohdaten	O
+(	O
+RAW-Dateien	O
+)	O
+müssen	O
+digitale	O
+Bilddateien	O
+nicht	O
+entwickelt	O
+werden	O
+,	O
+um	O
+sie	O
+am	O
+Monitor	O
+betrachten	O
+oder	O
+verarbeiten	O
+zu	O
+können	O
+;	O
+sie	O
+werden	O
+elektronisch	O
+gespeichert	O
+und	O
+können	O
+anschließend	O
+mit	O
+der	O
+elektronischen	O
+Bildbearbeitung	O
+am	O
+Computer	O
+bearbeitet	O
+und	O
+bei	O
+Bedarf	O
+auf	O
+Fotopapier	O
+ausbelichtet	O
+oder	O
+beispielsweise	O
+mit	O
+einem	O
+Tintenstrahldrucker	O
+ausgedruckt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-33
+# text = Rohdaten werden vorab mittels spezieller Entwicklungssoftware oder RAW-Konvertern am Computer in nutzbare Formate ( z. B. JPG , TIF ) gebracht , was als digitale Entwicklung bezeichnet wird . 
+Rohdaten	O
+werden	O
+vorab	O
+mittels	O
+spezieller	O
+Entwicklungssoftware	O
+oder	O
+RAW-Konvertern	O
+am	O
+Computer	O
+in	O
+nutzbare	O
+Formate	O
+(	O
+z.	O
+B.	O
+JPG	O
+,	O
+TIF	O
+)	O
+gebracht	O
+,	O
+was	O
+als	O
+digitale	O
+Entwicklung	O
+bezeichnet	O
+wird	O
+.	O
+
+# sent_id = de_wiki_Fotografie-34
+# text = Durch das Entwickeln bei der filmbasierten Fotografie wird auf chemischem Wege das latente Bild sichtbar gemacht . 
+Durch	O
+das	O
+Entwickeln	O
+bei	O
+der	O
+filmbasierten	O
+Fotografie	O
+wird	O
+auf	O
+chemischem	O
+Wege	O
+das	O
+latente	O
+Bild	O
+sichtbar	O
+gemacht	O
+.	O
+
+# sent_id = de_wiki_Fotografie-35
+# text = Beim Fixieren werden die nicht belichteten Silberhalogenid-Körnchen wasserlöslich gemacht und anschließend mit Wasser herausgewaschen , sodass ein Bild bei Tageslicht betrachtet werden kann , ohne dass es nachdunkelt . 
+Beim	O
+Fixieren	O
+werden	O
+die	O
+nicht	O
+belichteten	O
+Silberhalogenid-Körnchen	O
+wasserlöslich	O
+gemacht	O
+und	O
+anschließend	O
+mit	O
+Wasser	O
+herausgewaschen	O
+,	O
+sodass	O
+ein	O
+Bild	O
+bei	O
+Tageslicht	O
+betrachtet	O
+werden	O
+kann	O
+,	O
+ohne	O
+dass	O
+es	O
+nachdunkelt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-36
+# text = Ein weiteres älteres Verfahren ist das Staubverfahren , mit dem sich einbrennbare Bilder auf Glas und Porzellan herstellen lassen . 
+Ein	O
+weiteres	O
+älteres	O
+Verfahren	O
+ist	O
+das	O
+Staubverfahren	O
+,	O
+mit	O
+dem	O
+sich	O
+einbrennbare	O
+Bilder	O
+auf	O
+Glas	O
+und	O
+Porzellan	O
+herstellen	O
+lassen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-37
+# text = Als Abzug bezeichnet man das Ergebnis einer " Kontaktkopie " , einer " Vergrößerung " oder einer " Ausbelichtung " ; dabei entsteht in der Regel ein Papierbild . 
+Als	O
+Abzug	O
+bezeichnet	O
+man	O
+das	O
+Ergebnis	O
+einer	O
+"	O
+Kontaktkopie	O
+"	O
+,	O
+einer	O
+"	O
+Vergrößerung	O
+"	O
+oder	O
+einer	O
+"	O
+Ausbelichtung	O
+"	O
+;	O
+dabei	O
+entsteht	O
+in	O
+der	O
+Regel	O
+ein	O
+Papierbild	O
+.	O
+
+# sent_id = de_wiki_Fotografie-38
+# text = Abzüge können von Filmen ( Negativ oder Dia ) oder von Dateien gefertigt werden . 
+Abzüge	O
+können	O
+von	O
+Filmen	O
+(	O
+Negativ	O
+oder	O
+Dia	O
+)	O
+oder	O
+von	O
+Dateien	O
+gefertigt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-39
+# text = Abzüge als Kontaktkopie haben dieselbe Größe wie die Abmessungen des Aufnahmeformats ; wird eine Vergrößerung vom Negativ oder Positiv angefertigt , beträgt die Größe des entstehenden Bildes ein Vielfaches der Größe der Vorlage , dabei wird jedoch in der Regel das Seitenverhältnis beibehalten , das bei der klassischen Fotografie bei 1,5 bzw. 3 : 2 oder in USA 5 : 4 liegt . 
+Abzüge	O
+als	O
+Kontaktkopie	O
+haben	O
+dieselbe	O
+Größe	O
+wie	O
+die	O
+Abmessungen	O
+des	O
+Aufnahmeformats	O
+;	O
+wird	O
+eine	O
+Vergrößerung	O
+vom	O
+Negativ	O
+oder	O
+Positiv	O
+angefertigt	O
+,	O
+beträgt	O
+die	O
+Größe	O
+des	O
+entstehenden	O
+Bildes	O
+ein	O
+Vielfaches	O
+der	O
+Größe	O
+der	O
+Vorlage	O
+,	O
+dabei	O
+wird	O
+jedoch	O
+in	O
+der	O
+Regel	O
+das	O
+Seitenverhältnis	O
+beibehalten	O
+,	O
+das	O
+bei	O
+der	O
+klassischen	O
+Fotografie	O
+bei	O
+1,5	O
+bzw.	O
+3	O
+:	O
+2	O
+oder	O
+in	O
+USA	B-LOC
+5	O
+:	O
+4	O
+liegt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-40
+# text = Eine Ausnahme davon stellt die Ausschnittvergrößerung dar , deren Seitenverhältnis in der Bühne eines Vergrößerers beliebig festgelegt werden kann ; allerdings wird auch die Ausschnittvergrößerung in der Regel auf ein Papierformat mit bestimmten Abmessungen belichtet . 
+Eine	O
+Ausnahme	O
+davon	O
+stellt	O
+die	O
+Ausschnittvergrößerung	O
+dar	O
+,	O
+deren	O
+Seitenverhältnis	O
+in	O
+der	O
+Bühne	O
+eines	O
+Vergrößerers	O
+beliebig	O
+festgelegt	O
+werden	O
+kann	O
+;	O
+allerdings	O
+wird	O
+auch	O
+die	O
+Ausschnittvergrößerung	O
+in	O
+der	O
+Regel	O
+auf	O
+ein	O
+Papierformat	O
+mit	O
+bestimmten	O
+Abmessungen	O
+belichtet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-41
+# text = Der Abzug ist eine häufig gewählte Präsentationsform der Amateurfotografie , die in speziellen Kassetten oder Alben gesammelt werden . 
+Der	O
+Abzug	O
+ist	O
+eine	O
+häufig	O
+gewählte	O
+Präsentationsform	O
+der	O
+Amateurfotografie	O
+,	O
+die	O
+in	O
+speziellen	O
+Kassetten	O
+oder	O
+Alben	O
+gesammelt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-42
+# text = Bei der Präsentationsform der Diaprojektion wurde in der Regel mit dem Original-Diapositiv , also einem Unikat gearbeitet , während es sich bei Abzügen " immer " um Kopien handelt . 
+Bei	O
+der	O
+Präsentationsform	O
+der	O
+Diaprojektion	O
+wurde	O
+in	O
+der	O
+Regel	O
+mit	O
+dem	O
+Original-Diapositiv	O
+,	O
+also	O
+einem	O
+Unikat	O
+gearbeitet	O
+,	O
+während	O
+es	O
+sich	O
+bei	O
+Abzügen	O
+"	O
+immer	O
+"	O
+um	O
+Kopien	O
+handelt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-43
+# text = Der Name Kamera leitet sich vom Vorläufer der Fotografie , der Camera obscura ( „ Dunkle Kammer “ ) ab , die bereits seit dem 11. Jahrhundert bekannt ist und Ende des 13. Jahrhunderts von Astronomen zur Sonnenbeobachtung eingesetzt wurde . 
+Der	O
+Name	O
+Kamera	O
+leitet	O
+sich	O
+vom	O
+Vorläufer	O
+der	O
+Fotografie	O
+,	O
+der	O
+Camera	O
+obscura	O
+(	O
+„	O
+Dunkle	O
+Kammer	O
+“	O
+)	O
+ab	O
+,	O
+die	O
+bereits	O
+seit	O
+dem	O
+11.	O
+Jahrhundert	O
+bekannt	O
+ist	O
+und	O
+Ende	O
+des	O
+13.	O
+Jahrhunderts	O
+von	O
+Astronomen	O
+zur	O
+Sonnenbeobachtung	O
+eingesetzt	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Fotografie-44
+# text = Anstelle einer Linse weist diese Kamera nur ein kleines Loch auf , durch das die Lichtstrahlen auf eine Projektionsfläche fallen , von der das auf dem Kopf stehende , seitenverkehrte Bild abgezeichnet werden kann . 
+Anstelle	O
+einer	O
+Linse	O
+weist	O
+diese	O
+Kamera	O
+nur	O
+ein	O
+kleines	O
+Loch	O
+auf	O
+,	O
+durch	O
+das	O
+die	O
+Lichtstrahlen	O
+auf	O
+eine	O
+Projektionsfläche	O
+fallen	O
+,	O
+von	O
+der	O
+das	O
+auf	O
+dem	O
+Kopf	O
+stehende	O
+,	O
+seitenverkehrte	O
+Bild	O
+abgezeichnet	O
+werden	O
+kann	O
+.	O
+
+# sent_id = de_wiki_Fotografie-45
+# text = In Edinburgh und Greenwich bei London sind begehbare , raumgroße Camerae obscurae eine Touristenattraktion . 
+In	O
+Edinburgh	B-LOC
+und	O
+Greenwich	B-LOC
+bei	O
+London	B-LOC
+sind	O
+begehbare	O
+,	O
+raumgroße	O
+Camerae	O
+obscurae	O
+eine	O
+Touristenattraktion	O
+.	O
+
+# sent_id = de_wiki_Fotografie-46
+# text = Auch das Deutsche Filmmuseum hat eine Camera obscura , in der ein Bild des gegenüberliegenden Mainufers projiziert wird . 
+Auch	O
+das	O
+Deutsche	B-LOC
+Filmmuseum	I-LOC
+hat	O
+eine	O
+Camera	O
+obscura	O
+,	O
+in	O
+der	O
+ein	O
+Bild	O
+des	O
+gegenüberliegenden	O
+Mainufers	B-LOC
+projiziert	O
+wird	O
+.	O
+
+# sent_id = de_wiki_Fotografie-47
+# text = Ein Durchbruch war 1550 die Wiedererfindung der Linse , mit der hellere und gleichzeitig schärfere Bilder erzeugt werden können . 
+Ein	O
+Durchbruch	O
+war	O
+1550	O
+die	O
+Wiedererfindung	O
+der	O
+Linse	O
+,	O
+mit	O
+der	O
+hellere	O
+und	O
+gleichzeitig	O
+schärfere	O
+Bilder	O
+erzeugt	O
+werden	O
+können	O
+.	O
+
+# sent_id = de_wiki_Fotografie-48
+# text = 1685 wurde der Ablenkspiegel erfunden , mit dem ein Abbild auf Papier gezeichnet werden konnte . 
+1685	O
+wurde	O
+der	O
+Ablenkspiegel	O
+erfunden	O
+,	O
+mit	O
+dem	O
+ein	O
+Abbild	O
+auf	O
+Papier	O
+gezeichnet	O
+werden	O
+konnte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-49
+# text = Im 18. Jahrhundert kamen die Laterna magica , das Panorama und das Diorama auf . 
+Im	O
+18.	O
+Jahrhundert	O
+kamen	O
+die	O
+Laterna	O
+magica	O
+,	O
+das	O
+Panorama	O
+und	O
+das	O
+Diorama	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Fotografie-50
+# text = Chemiker wie Humphry Davy begannen bereits , lichtempfindliche Stoffe zu untersuchen und nach Fixiermitteln zu suchen . 
+Chemiker	O
+wie	O
+Humphry	B-PER
+Davy	I-PER
+begannen	O
+bereits	O
+,	O
+lichtempfindliche	O
+Stoffe	O
+zu	O
+untersuchen	O
+und	O
+nach	O
+Fixiermitteln	O
+zu	O
+suchen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-51
+# text = Die vermutlich erste Fotografie der Welt „ Blick aus dem Arbeitszimmer “ wurde im Frühherbst 1826 durch Joseph Nicéphore Niépce im Heliografie-Verfahren angefertigt . 
+Die	O
+vermutlich	O
+erste	O
+Fotografie	O
+der	O
+Welt	O
+„	O
+Blick	O
+aus	O
+dem	O
+Arbeitszimmer	O
+“	O
+wurde	O
+im	O
+Frühherbst	O
+1826	O
+durch	O
+Joseph	B-PER
+Nicéphore	I-PER
+Niépce	I-PER
+im	O
+Heliografie-Verfahren	O
+angefertigt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-52
+# text = 1837 benutzte Louis Jacques Mandé Daguerre ein besseres Verfahren , das auf der Entwicklung der Fotos mit Hilfe von Quecksilberdämpfen und anschließender Fixierung in einer heißen Kochsalzlösung oder einer normal temperierten Natriumthiosulfatlösung beruhte . 
+1837	O
+benutzte	O
+Louis	B-PER
+Jacques	I-PER
+Mandé	I-PER
+Daguerre	I-PER
+ein	O
+besseres	O
+Verfahren	O
+,	O
+das	O
+auf	O
+der	O
+Entwicklung	O
+der	O
+Fotos	O
+mit	O
+Hilfe	O
+von	O
+Quecksilberdämpfen	O
+und	O
+anschließender	O
+Fixierung	O
+in	O
+einer	O
+heißen	O
+Kochsalzlösung	O
+oder	O
+einer	O
+normal	O
+temperierten	O
+Natriumthiosulfatlösung	O
+beruhte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-53
+# text = Die auf diese Weise hergestellten Bilder , allesamt Unikate auf versilberten Kupferplatten , wurden als Daguerreotypien bezeichnet . 
+Die	O
+auf	O
+diese	O
+Weise	O
+hergestellten	O
+Bilder	O
+,	O
+allesamt	O
+Unikate	O
+auf	O
+versilberten	O
+Kupferplatten	O
+,	O
+wurden	O
+als	O
+Daguerreotypien	B-PERpart
+bezeichnet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-54
+# text = Bereits 1835 hatte der Engländer William Fox Talbot das Negativ-Positiv-Verfahren erfunden . 
+Bereits	O
+1835	O
+hatte	O
+der	O
+Engländer	B-LOCderiv
+William	B-PER
+Fox	I-PER
+Talbot	I-PER
+das	O
+Negativ-Positiv-Verfahren	O
+erfunden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-55
+# text = Auch heute werden noch manche der historischen Verfahren als Edeldruckverfahren in der Bildenden Kunst und künstlerischen Fotografie verwendet . 
+Auch	O
+heute	O
+werden	O
+noch	O
+manche	O
+der	O
+historischen	O
+Verfahren	O
+als	O
+Edeldruckverfahren	O
+in	O
+der	O
+Bildenden	O
+Kunst	O
+und	O
+künstlerischen	O
+Fotografie	O
+verwendet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-56
+# text = Am 13. April 1839 , vier Monate vor Daguerre , veröffentlichten Carl August von Steinheil und Franz Ritter von Kobell das von ihnen entwickelte " Steinheil-Verfahren " . 
+Am	O
+13.	O
+April	O
+1839	O
+,	O
+vier	O
+Monate	O
+vor	O
+Daguerre	B-PER
+,	O
+veröffentlichten	O
+Carl	B-PER
+August	I-PER
+von	I-PER
+Steinheil	I-PER
+und	O
+Franz	B-PER
+Ritter	I-PER
+von	I-PER
+Kobell	I-PER
+das	O
+von	O
+ihnen	O
+entwickelte	O
+"	O
+Steinheil-Verfahren	B-PERpart
+"	O
+.	O
+
+# sent_id = de_wiki_Fotografie-57
+# text = Sie verwendeten dazu als lichtempfindliches Material Chlorsilberpapier . 
+Sie	O
+verwendeten	O
+dazu	O
+als	O
+lichtempfindliches	O
+Material	O
+Chlorsilberpapier	O
+.	O
+
+# sent_id = de_wiki_Fotografie-58
+# text = Die aufgenommenen Negative fotografierten sie nochmals ab und erhielten dadurch Positive . 
+Die	O
+aufgenommenen	O
+Negative	O
+fotografierten	O
+sie	O
+nochmals	O
+ab	O
+und	O
+erhielten	O
+dadurch	O
+Positive	O
+.	O
+
+# sent_id = de_wiki_Fotografie-59
+# text = Ihre ersten Fotos zeigten unter anderem die Glyptothek und die Türme der Münchner Frauenkirche . 
+Ihre	O
+ersten	O
+Fotos	O
+zeigten	O
+unter	O
+anderem	O
+die	O
+Glyptothek	B-LOC
+und	O
+die	O
+Türme	O
+der	O
+Münchner	B-LOCderiv
+Frauenkirche	B-LOC
+.	O
+
+# sent_id = de_wiki_Fotografie-60
+# text = Im Jahr 1883 erschien in der bedeutenden Leipziger Wochenzeitschrift " Illustrirte Zeitung " zum ersten Mal in einer deutschen Publikation ein gerastertes Foto in Form einer Autotypie , die Georg Meisenbach etwa 1880 erfunden hatte . 
+Im	O
+Jahr	O
+1883	O
+erschien	O
+in	O
+der	O
+bedeutenden	O
+Leipziger	B-LOCderiv
+Wochenzeitschrift	O
+"	O
+Illustrirte	B-ORG
+Zeitung	I-ORG
+"	O
+zum	O
+ersten	O
+Mal	O
+in	O
+einer	O
+deutschen	B-LOCderiv
+Publikation	O
+ein	O
+gerastertes	O
+Foto	O
+in	O
+Form	O
+einer	O
+Autotypie	O
+,	O
+die	O
+Georg	B-PER
+Meisenbach	I-PER
+etwa	O
+1880	O
+erfunden	O
+hatte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-61
+# text = Der amerikanische Baptistenprediger und Daguerrotypist Levi Hill beanspruchte um 1850/1851 als erster die Erfindung der Farbfotografie für sich . 
+Der	O
+amerikanische	B-LOCderiv
+Baptistenprediger	O
+und	O
+Daguerrotypist	B-PERpart
+Levi	B-PER
+Hill	I-PER
+beanspruchte	O
+um	O
+1850/1851	O
+als	O
+erster	O
+die	O
+Erfindung	O
+der	O
+Farbfotografie	O
+für	O
+sich	O
+.	O
+
+# sent_id = de_wiki_Fotografie-62
+# text = Hill weigerte sich allerdings , die Funktionsweise seines Verfahrens offenzulegen . 
+Hill	B-PER
+weigerte	O
+sich	O
+allerdings	O
+,	O
+die	O
+Funktionsweise	O
+seines	O
+Verfahrens	O
+offenzulegen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-63
+# text = 1860 arbeitete Niépce de Saint-Victor an einem Verfahren , alle Farben auf einer einzigen lichtempfindlichen Schicht aufzuzeichnen ( Heliochromie ) . 
+1860	O
+arbeitete	O
+Niépce	B-PER
+de	I-PER
+Saint-Victor	I-PER
+an	O
+einem	O
+Verfahren	O
+,	O
+alle	O
+Farben	O
+auf	O
+einer	O
+einzigen	O
+lichtempfindlichen	O
+Schicht	O
+aufzuzeichnen	O
+(	O
+Heliochromie	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-64
+# text = Eine Abbildung von James Clerk Maxwell 1861 gilt als die erste Farbfotografie . 
+Eine	O
+Abbildung	O
+von	O
+James	B-PER
+Clerk	I-PER
+Maxwell	I-PER
+1861	O
+gilt	O
+als	O
+die	O
+erste	O
+Farbfotografie	O
+.	O
+
+# sent_id = de_wiki_Fotografie-65
+# text = Zwei Jahre nach der Erfindung der Fotografie wurden ab 1840/41 die ersten Fotoateliers eröffnet . 
+Zwei	O
+Jahre	O
+nach	O
+der	O
+Erfindung	O
+der	O
+Fotografie	O
+wurden	O
+ab	O
+1840/41	O
+die	O
+ersten	O
+Fotoateliers	O
+eröffnet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-66
+# text = Von Friedrich Wilhelm Schelling und Alexander von Humboldt wurden noch in deren hohem Alter Fotografien aufgenommen . 
+Von	O
+Friedrich	B-PER
+Wilhelm	I-PER
+Schelling	I-PER
+und	O
+Alexander	B-PER
+von	I-PER
+Humboldt	I-PER
+wurden	O
+noch	O
+in	O
+deren	O
+hohem	O
+Alter	O
+Fotografien	O
+aufgenommen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-67
+# text = Bilder von Herrschern entstanden , darunter Abraham Lincoln , Otto von Bismarck und Kaiser Wilhelm I. Sie wurden in zahllosen Kopien in privaten Wohnungen gehalten , aber erst mit dem Aufkommen der Presse als Massenartikel ab den 1880er Jahren verbreitet . 
+Bilder	O
+von	O
+Herrschern	O
+entstanden	O
+,	O
+darunter	O
+Abraham	B-PER
+Lincoln	I-PER
+,	O
+Otto	B-PER
+von	I-PER
+Bismarck	I-PER
+und	O
+Kaiser	B-PER
+Wilhelm	I-PER
+I.	I-PER
+Sie	O
+wurden	O
+in	O
+zahllosen	O
+Kopien	O
+in	O
+privaten	O
+Wohnungen	O
+gehalten	O
+,	O
+aber	O
+erst	O
+mit	O
+dem	O
+Aufkommen	O
+der	O
+Presse	O
+als	O
+Massenartikel	O
+ab	O
+den	O
+1880er	O
+Jahren	O
+verbreitet	O
+.	O
+
+# sent_id = de_wiki_Fotografie-68
+# text = Parallel entstanden dokumentarische Fotografien , etwa von Naturereignissen . 
+Parallel	O
+entstanden	O
+dokumentarische	O
+Fotografien	O
+,	O
+etwa	O
+von	O
+Naturereignissen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-69
+# text = Der erste deutsche Fotograf Hermann Biow fotografierte den Großbrand im Hamburger Alsterbezirk vom Mai 1842 . 
+Der	O
+erste	O
+deutsche	B-LOCderiv
+Fotograf	O
+Hermann	B-PER
+Biow	I-PER
+fotografierte	O
+den	O
+Großbrand	O
+im	O
+Hamburger	B-LOCderiv
+Alsterbezirk	B-LOC
+vom	O
+Mai	O
+1842	O
+.	O
+
+# sent_id = de_wiki_Fotografie-70
+# text = Fotografien entstanden in allen nachfolgenden Kriegen , so im Krimkrieg ( 1853 – 1856 ) und im amerikanischen Bürgerkrieg ( 1861 – 1865 ) . 
+Fotografien	O
+entstanden	O
+in	O
+allen	O
+nachfolgenden	O
+Kriegen	O
+,	O
+so	O
+im	O
+Krimkrieg	B-EVENT
+(	O
+1853	O
+–	O
+1856	O
+)	O
+und	O
+im	O
+amerikanischen	B-EVENT
+Bürgerkrieg	I-EVENT
+(	O
+1861	O
+–	O
+1865	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-71
+# text = Der Kunstcharakter der Fotografie stand zu Beginn hinter ihrem dokumentarischen , technisch-objektivierenden Anspruch . 
+Der	O
+Kunstcharakter	O
+der	O
+Fotografie	O
+stand	O
+zu	O
+Beginn	O
+hinter	O
+ihrem	O
+dokumentarischen	O
+,	O
+technisch-objektivierenden	O
+Anspruch	O
+.	O
+
+# sent_id = de_wiki_Fotografie-72
+# text = In den Naturwissenschaften fand die Fotografie frühen Einzug , darunter der Astronomie oder der Medizin ( Röntgen ) . 
+In	O
+den	O
+Naturwissenschaften	O
+fand	O
+die	O
+Fotografie	O
+frühen	O
+Einzug	O
+,	O
+darunter	O
+der	O
+Astronomie	O
+oder	O
+der	O
+Medizin	O
+(	O
+Röntgen	O
+)	O
+.	O
+
+# sent_id = de_wiki_Fotografie-73
+# text = Die Arbeitswelt wurde ab den 1860er Jahren fotografiert , die Reisefotografie entstand . 
+Die	O
+Arbeitswelt	O
+wurde	O
+ab	O
+den	O
+1860er	O
+Jahren	O
+fotografiert	O
+,	O
+die	O
+Reisefotografie	O
+entstand	O
+.	O
+
+# sent_id = de_wiki_Fotografie-74
+# text = Die Reisefotografie brachte den Menschen bis dahin wenig bekannte Regionen der Erde in neuer Form nahe . 
+Die	O
+Reisefotografie	O
+brachte	O
+den	O
+Menschen	O
+bis	O
+dahin	O
+wenig	O
+bekannte	O
+Regionen	O
+der	O
+Erde	O
+in	O
+neuer	O
+Form	O
+nahe	O
+.	O
+
+# sent_id = de_wiki_Fotografie-75
+# text = Das achtbändige Prachtwerk „ The Peoples of India “ ( 1865 – 1875 ) zeigte 460 Aufnahmen . 
+Das	O
+achtbändige	O
+Prachtwerk	O
+„	O
+The	B-WOA
+Peoples	I-WOA
+of	I-WOA
+India	I-WOA
+“	O
+(	O
+1865	O
+–	O
+1875	O
+)	O
+zeigte	O
+460	O
+Aufnahmen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-76
+# text = Das vierbändige " Illustration of China and Its People " ( 1873 ) dokumentierte ein damals den Europäern unbekanntes Land . 
+Das	O
+vierbändige	O
+"	O
+Illustration	B-WOA
+of	I-WOA
+China	I-WOA
+and	I-WOA
+Its	I-WOA
+People	I-WOA
+"	O
+(	O
+1873	O
+)	O
+dokumentierte	O
+ein	O
+damals	O
+den	O
+Europäern	B-LOCderiv
+unbekanntes	O
+Land	O
+.	O
+
+# sent_id = de_wiki_Fotografie-77
+# text = Derselbe Fotograf , John Thomson richtete später seine Kamera auf die Armen in London . 
+Derselbe	O
+Fotograf	O
+,	O
+John	B-PER
+Thomson	I-PER
+richtete	O
+später	O
+seine	O
+Kamera	O
+auf	O
+die	O
+Armen	O
+in	O
+London	B-LOC
+.	O
+
+# sent_id = de_wiki_Fotografie-78
+# text = In den großen Städten entstanden Fotostudios . 
+In	O
+den	O
+großen	O
+Städten	O
+entstanden	O
+Fotostudios	O
+.	O
+
+# sent_id = de_wiki_Fotografie-79
+# text = Gegen Ende des 19. Jahrhunderts gehörte das Familienbild oder das Gruppenfoto am Arbeitsplatz längst zur kulturellen Grundausstattung . 
+Gegen	O
+Ende	O
+des	O
+19.	O
+Jahrhunderts	O
+gehörte	O
+das	O
+Familienbild	O
+oder	O
+das	O
+Gruppenfoto	O
+am	O
+Arbeitsplatz	O
+längst	O
+zur	O
+kulturellen	O
+Grundausstattung	O
+.	O
+
+# sent_id = de_wiki_Fotografie-80
+# text = Die Fotografie war in das Alltagsgeschehen vorgedrungen , dazu zählen Werbung , Propaganda , Bildpostkarte und Ansichtskarte . 
+Die	O
+Fotografie	O
+war	O
+in	O
+das	O
+Alltagsgeschehen	O
+vorgedrungen	O
+,	O
+dazu	O
+zählen	O
+Werbung	O
+,	O
+Propaganda	O
+,	O
+Bildpostkarte	O
+und	O
+Ansichtskarte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-81
+# text = Schließlich wurde die private Nutzung der Fotografie durch die Rollfilmkamera stark gefördert . 
+Schließlich	O
+wurde	O
+die	O
+private	O
+Nutzung	O
+der	O
+Fotografie	O
+durch	O
+die	O
+Rollfilmkamera	O
+stark	O
+gefördert	O
+.	O
+
+# sent_id = de_wiki_Fotografie-82
+# text = Fotografien konnten zunächst nur als Unikate hergestellt werden , mit der Einführung des Negativ-Positiv-Verfahrens war eine Vervielfältigung im Kontaktverfahren möglich . 
+Fotografien	O
+konnten	O
+zunächst	O
+nur	O
+als	O
+Unikate	O
+hergestellt	O
+werden	O
+,	O
+mit	O
+der	O
+Einführung	O
+des	O
+Negativ-Positiv-Verfahrens	O
+war	O
+eine	O
+Vervielfältigung	O
+im	O
+Kontaktverfahren	O
+möglich	O
+.	O
+
+# sent_id = de_wiki_Fotografie-83
+# text = Die Größe des fertigen Fotos entsprach in beiden Fällen dem Aufnahmeformat , was sehr große , unhandliche Kameras erforderte . 
+Die	O
+Größe	O
+des	O
+fertigen	O
+Fotos	O
+entsprach	O
+in	O
+beiden	O
+Fällen	O
+dem	O
+Aufnahmeformat	O
+,	O
+was	O
+sehr	O
+große	O
+,	O
+unhandliche	O
+Kameras	O
+erforderte	O
+.	O
+
+# sent_id = de_wiki_Fotografie-84
+# text = Mit dem Rollfilm und insbesondere der von Oskar Barnack bei den Leitz Werken entwickelten und 1924 eingeführten Kleinbildkamera , die den herkömmlichen 35-mm-Kinofilm verwendete , entstanden völlig neue Möglichkeiten für eine mobile , schnelle Fotografie . 
+Mit	O
+dem	O
+Rollfilm	O
+und	O
+insbesondere	O
+der	O
+von	O
+Oskar	B-PER
+Barnack	I-PER
+bei	O
+den	O
+Leitz	B-ORG
+Werken	I-ORG
+entwickelten	O
+und	O
+1924	O
+eingeführten	O
+Kleinbildkamera	O
+,	O
+die	O
+den	O
+herkömmlichen	O
+35-mm-Kinofilm	O
+verwendete	O
+,	O
+entstanden	O
+völlig	O
+neue	O
+Möglichkeiten	O
+für	O
+eine	O
+mobile	O
+,	O
+schnelle	O
+Fotografie	O
+.	O
+
+# sent_id = de_wiki_Fotografie-85
+# text = Obwohl , durch das kleine Format bedingt , zusätzliche Geräte zur Vergrößerung erforderlich wurden und die Bildqualität mit den großen Formaten bei Weitem nicht mithalten konnte , setzte sich das Kleinbild in den meisten Bereichen der Fotografie als Standardformat durch . 
+Obwohl	O
+,	O
+durch	O
+das	O
+kleine	O
+Format	O
+bedingt	O
+,	O
+zusätzliche	O
+Geräte	O
+zur	O
+Vergrößerung	O
+erforderlich	O
+wurden	O
+und	O
+die	O
+Bildqualität	O
+mit	O
+den	O
+großen	O
+Formaten	O
+bei	O
+Weitem	O
+nicht	O
+mithalten	O
+konnte	O
+,	O
+setzte	O
+sich	O
+das	O
+Kleinbild	O
+in	O
+den	O
+meisten	O
+Bereichen	O
+der	O
+Fotografie	O
+als	O
+Standardformat	O
+durch	O
+.	O
+
+# sent_id = de_wiki_Fotografie-86
+# text = Die Digitalfotografie , in den 1990er Jahren technologisch eingeleitet , ab den 2000er Jahren sich im professionellen Bereich , später auch bei Amateurfotografen adaptiert , veränderte die Fotografie nachhaltig . 
+Die	O
+Digitalfotografie	O
+,	O
+in	O
+den	O
+1990er	O
+Jahren	O
+technologisch	O
+eingeleitet	O
+,	O
+ab	O
+den	O
+2000er	O
+Jahren	O
+sich	O
+im	O
+professionellen	O
+Bereich	O
+,	O
+später	O
+auch	O
+bei	O
+Amateurfotografen	O
+adaptiert	O
+,	O
+veränderte	O
+die	O
+Fotografie	O
+nachhaltig	O
+.	O
+
+# sent_id = de_wiki_Fotografie-87
+# text = Sie veränderte als ein disruptiver Prozess die Fotoindustrie , die Bearbeitungskette und vor allem die Nutzung . 
+Sie	O
+veränderte	O
+als	O
+ein	O
+disruptiver	O
+Prozess	O
+die	O
+Fotoindustrie	O
+,	O
+die	O
+Bearbeitungskette	O
+und	O
+vor	O
+allem	O
+die	O
+Nutzung	O
+.	O
+
+# sent_id = de_wiki_Fotografie-88
+# text = Statt eines chemischen Films war nun ein Bildsensor Speicher der Fotografie . 
+Statt	O
+eines	O
+chemischen	O
+Films	O
+war	O
+nun	O
+ein	O
+Bildsensor	O
+Speicher	O
+der	O
+Fotografie	O
+.	O
+
+# sent_id = de_wiki_Fotografie-89
+# text = Digitale Bilder können nun beliebig auf den Computer übertragen werden und auch mit digitalen Bildbearbeitungsprogrammen bearbeitet ( oder manipuliert ) werden . 
+Digitale	O
+Bilder	O
+können	O
+nun	O
+beliebig	O
+auf	O
+den	O
+Computer	O
+übertragen	O
+werden	O
+und	O
+auch	O
+mit	O
+digitalen	O
+Bildbearbeitungsprogrammen	O
+bearbeitet	O
+(	O
+oder	O
+manipuliert	O
+)	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-90
+# text = Dies dürfte auch die Qualität der Bilder beeinflusst haben , denn Kameraautomatik oder nachträgliche Bildbearbeitungen konnten nun Fehler beim Entstehen der Aufnahme ausgleichen . 
+Dies	O
+dürfte	O
+auch	O
+die	O
+Qualität	O
+der	O
+Bilder	O
+beeinflusst	O
+haben	O
+,	O
+denn	O
+Kameraautomatik	O
+oder	O
+nachträgliche	O
+Bildbearbeitungen	O
+konnten	O
+nun	O
+Fehler	O
+beim	O
+Entstehen	O
+der	O
+Aufnahme	O
+ausgleichen	O
+.	O
+
+# sent_id = de_wiki_Fotografie-91
+# text = Die Technik führte zu einer ungeheuerlichen Bilderflut und massenhaften Bildautorenschaften , die in sich noch gesteigert wurde durch die Verbreitung in sozialen Plattformen oder auch durch die Smartphone-Fotografie , bei der die Kamerafunktion nur noch einen Teil von vielen Funktionalitäten darstellt . 
+Die	O
+Technik	O
+führte	O
+zu	O
+einer	O
+ungeheuerlichen	O
+Bilderflut	O
+und	O
+massenhaften	O
+Bildautorenschaften	O
+,	O
+die	O
+in	O
+sich	O
+noch	O
+gesteigert	O
+wurde	O
+durch	O
+die	O
+Verbreitung	O
+in	O
+sozialen	O
+Plattformen	O
+oder	O
+auch	O
+durch	O
+die	O
+Smartphone-Fotografie	O
+,	O
+bei	O
+der	O
+die	O
+Kamerafunktion	O
+nur	O
+noch	O
+einen	O
+Teil	O
+von	O
+vielen	O
+Funktionalitäten	O
+darstellt	O
+.	O
+
+# sent_id = de_wiki_Fotografie-92
+# text = Unabhängig von der Amateurfotografie als Massenmarkt , hat die Digitalfotografie auch die Arbeit von Profifotografen verändert . 
+Unabhängig	O
+von	O
+der	O
+Amateurfotografie	O
+als	O
+Massenmarkt	O
+,	O
+hat	O
+die	O
+Digitalfotografie	O
+auch	O
+die	O
+Arbeit	O
+von	O
+Profifotografen	O
+verändert	O
+.	O
+
+# sent_id = de_wiki_Fotografie-93
+# text = Deren Bilder können heute unter technischen Gesichtspunkten wesentlich in der Qualität gesteigert werden . 
+Deren	O
+Bilder	O
+können	O
+heute	O
+unter	O
+technischen	O
+Gesichtspunkten	O
+wesentlich	O
+in	O
+der	O
+Qualität	O
+gesteigert	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Fotografie-94
+# text = Zugleich kann bei Auftragsarbeiten die Zeit zwischen Aufnahme durch den Fotografen und Nutzung durch den Auftraggeber auf ein Minimum reduziert werden . 
+Zugleich	O
+kann	O
+bei	O
+Auftragsarbeiten	O
+die	O
+Zeit	O
+zwischen	O
+Aufnahme	O
+durch	O
+den	O
+Fotografen	O
+und	O
+Nutzung	O
+durch	O
+den	O
+Auftraggeber	O
+auf	O
+ein	O
+Minimum	O
+reduziert	O
+werden	O
+.	O
+
+# newdoc id = de_wiki_Kaffee
+# sent_id = de_wiki_Kaffee-1
+# text = Kaffee 
+Kaffee	O
+
+# sent_id = de_wiki_Kaffee-2
+# text = Kaffee ( Standardaussprache in Deutschland : [ ] ; in Österreich und in der Schweiz : [ ] ; umgangssprachlich in Norddeutschland auch [ ] ; von arabisch " qahwa " für „ anregendes Getränk “ ) ist ein je nach Röstgrad braunes bis schwarzes , psychotropes , diuretisches , koffeinhaltiges Getränk , das aus gerösteten und gemahlenen Kaffeebohnen , den Samen der Frucht der Kaffeepflanze , und heißem Wasser hergestellt wird . 
+Kaffee	O
+(	O
+Standardaussprache	O
+in	O
+Deutschland	B-LOC
+:	O
+[	O
+]	O
+;	O
+in	O
+Österreich	B-LOC
+und	O
+in	O
+der	O
+Schweiz	B-LOC
+:	O
+[	O
+]	O
+;	O
+umgangssprachlich	O
+in	O
+Norddeutschland	B-LOC
+auch	O
+[	O
+]	O
+;	O
+von	O
+arabisch	B-LANGderiv
+"	O
+qahwa	O
+"	O
+für	O
+„	O
+anregendes	O
+Getränk	O
+“	O
+)	O
+ist	O
+ein	O
+je	O
+nach	O
+Röstgrad	O
+braunes	O
+bis	O
+schwarzes	O
+,	O
+psychotropes	O
+,	O
+diuretisches	O
+,	O
+koffeinhaltiges	O
+Getränk	O
+,	O
+das	O
+aus	O
+gerösteten	O
+und	O
+gemahlenen	O
+Kaffeebohnen	O
+,	O
+den	O
+Samen	O
+der	O
+Frucht	O
+der	O
+Kaffeepflanze	O
+,	O
+und	O
+heißem	O
+Wasser	O
+hergestellt	O
+wird	O
+.	O
+
+# sent_id = de_wiki_Kaffee-3
+# text = Röst- und Mahlgrad variieren je nach Zubereitungsart . 
+Röst-	O
+und	O
+Mahlgrad	O
+variieren	O
+je	O
+nach	O
+Zubereitungsart	O
+.	O
+
+# sent_id = de_wiki_Kaffee-4
+# text = Kaffee enthält das Vitamin Niacin . 
+Kaffee	O
+enthält	O
+das	O
+Vitamin	O
+Niacin	O
+.	O
+
+# sent_id = de_wiki_Kaffee-5
+# text = Die Bezeichnung „ Bohnenkaffee “ bedeutet nicht , dass der Kaffee noch ungemahlen ist , sondern bezieht sich auf die Reinheit des Produkts ( arabisch " bunn " „ Kaffeebohnen “ , „ Kaffee “ ) und dient der Unterscheidung von Ersatzkaffee ( aus Zichorien , Gerstenmalz usw. ) . 
+Die	O
+Bezeichnung	O
+„	O
+Bohnenkaffee	O
+“	O
+bedeutet	O
+nicht	O
+,	O
+dass	O
+der	O
+Kaffee	O
+noch	O
+ungemahlen	O
+ist	O
+,	O
+sondern	O
+bezieht	O
+sich	O
+auf	O
+die	O
+Reinheit	O
+des	O
+Produkts	O
+(	O
+arabisch	B-LANG
+"	O
+bunn	O
+"	O
+„	O
+Kaffeebohnen	O
+“	O
+,	O
+„	O
+Kaffee	O
+“	O
+)	O
+und	O
+dient	O
+der	O
+Unterscheidung	O
+von	O
+Ersatzkaffee	O
+(	O
+aus	O
+Zichorien	O
+,	O
+Gerstenmalz	O
+usw.	O
+)	O
+.	O
+
+# sent_id = de_wiki_Kaffee-6
+# text = Kaffee ist ein Genussmittel . 
+Kaffee	O
+ist	O
+ein	O
+Genussmittel	O
+.	O
+
+# sent_id = de_wiki_Kaffee-7
+# text = Die Kaffeebohnen werden aus Steinfrüchten verschiedener Pflanzenarten aus der Familie der Rubiaceae gewonnen . 
+Die	O
+Kaffeebohnen	O
+werden	O
+aus	O
+Steinfrüchten	O
+verschiedener	O
+Pflanzenarten	O
+aus	O
+der	O
+Familie	O
+der	O
+Rubiaceae	O
+gewonnen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-8
+# text = Die beiden wichtigsten Arten der Kaffeepflanze sind " Coffea arabica " ( Arabica-Kaffee ) und " Coffea canephora " ( Robusta-Kaffee ) mit vielen Sorten und Varietäten . 
+Die	O
+beiden	O
+wichtigsten	O
+Arten	O
+der	O
+Kaffeepflanze	O
+sind	O
+"	O
+Coffea	O
+arabica	O
+"	O
+(	O
+Arabica-Kaffee	O
+)	O
+und	O
+"	O
+Coffea	O
+canephora	O
+"	O
+(	O
+Robusta-Kaffee	O
+)	O
+mit	O
+vielen	O
+Sorten	O
+und	O
+Varietäten	O
+.	O
+
+# sent_id = de_wiki_Kaffee-9
+# text = Je nach Sorte und Anbauort gibt es unterschiedliche Qualitätsstufen . 
+Je	O
+nach	O
+Sorte	O
+und	O
+Anbauort	O
+gibt	O
+es	O
+unterschiedliche	O
+Qualitätsstufen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-10
+# text = Kaffee wird in über 50 Ländern weltweit angebaut . 
+Kaffee	O
+wird	O
+in	O
+über	O
+50	O
+Ländern	O
+weltweit	O
+angebaut	O
+.	O
+
+# sent_id = de_wiki_Kaffee-11
+# text = Es existieren 124 wilde Kaffee-Arten , von denen etwa 60 % als gefährdet gelten . 
+Es	O
+existieren	O
+124	O
+wilde	O
+Kaffee-Arten	O
+,	O
+von	O
+denen	O
+etwa	O
+60	O
+%	O
+als	O
+gefährdet	O
+gelten	O
+.	O
+
+# sent_id = de_wiki_Kaffee-12
+# text = Die Kaffeepflanze stammt aus Afrika . 
+Die	O
+Kaffeepflanze	O
+stammt	O
+aus	O
+Afrika	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-13
+# text = Nach einer Legende soll Mohammed die anregende Wirkung des Kaffees zuerst entdeckt haben , nachdem ihm der Engel Gabriel eine Tasse heißer , dunkler Flüssigkeit dargeboten habe . 
+Nach	O
+einer	O
+Legende	O
+soll	O
+Mohammed	B-PER
+die	O
+anregende	O
+Wirkung	O
+des	O
+Kaffees	O
+zuerst	O
+entdeckt	O
+haben	O
+,	O
+nachdem	O
+ihm	O
+der	O
+Engel	B-PER
+Gabriel	I-PER
+eine	O
+Tasse	O
+heißer	O
+,	O
+dunkler	O
+Flüssigkeit	O
+dargeboten	O
+habe	O
+.	O
+
+# sent_id = de_wiki_Kaffee-14
+# text = Laut u. a. Brockhaus jedoch ist zwischen dem 9. und 15. Jahrhundert der Kaffee entdeckt worden : Nach einer 1671 von Antonius Faustus Naironus ( 1636 – 1707 ) in seinem Buch " De saluberrima potione cahve " zu Papier gebrachten Legende soll im Jahr 1440 Hirten aus dem im Südwesten des heutigen Äthiopien liegenden Königreich Kaffa aufgefallen sein , dass ein Teil der Ziegenherde , der von einem Strauch mit weißen Blüten und roten Früchten gefressen hatte , bis in die Nacht hinein munter umhersprang , während die anderen Tiere müde waren . 
+Laut	O
+u.	O
+a.	O
+Brockhaus	B-WOA
+jedoch	O
+ist	O
+zwischen	O
+dem	O
+9.	O
+und	O
+15.	O
+Jahrhundert	O
+der	O
+Kaffee	O
+entdeckt	O
+worden	O
+:	O
+Nach	O
+einer	O
+1671	O
+von	O
+Antonius	B-PER
+Faustus	I-PER
+Naironus	I-PER
+(	O
+1636	O
+–	O
+1707	O
+)	O
+in	O
+seinem	O
+Buch	O
+"	O
+De	B-WOA
+saluberrima	I-WOA
+potione	I-WOA
+cahve	I-WOA
+"	O
+zu	O
+Papier	O
+gebrachten	O
+Legende	O
+soll	O
+im	O
+Jahr	O
+1440	O
+Hirten	O
+aus	O
+dem	O
+im	O
+Südwesten	B-LOC
+des	O
+heutigen	O
+Äthiopien	B-LOC
+liegenden	O
+Königreich	B-LOC
+Kaffa	I-LOC
+aufgefallen	O
+sein	O
+,	O
+dass	O
+ein	O
+Teil	O
+der	O
+Ziegenherde	O
+,	O
+der	O
+von	O
+einem	O
+Strauch	O
+mit	O
+weißen	O
+Blüten	O
+und	O
+roten	O
+Früchten	O
+gefressen	O
+hatte	O
+,	O
+bis	O
+in	O
+die	O
+Nacht	O
+hinein	O
+munter	O
+umhersprang	O
+,	O
+während	O
+die	O
+anderen	O
+Tiere	O
+müde	O
+waren	O
+.	O
+
+# sent_id = de_wiki_Kaffee-15
+# text = Die Hirten ( nach anderer Version ein jemenitischer Hirte ) beklagten sich darüber bei Mönchen des nahe gelegenen Klosters . 
+Die	O
+Hirten	O
+(	O
+nach	O
+anderer	O
+Version	O
+ein	O
+jemenitischer	B-LOCderiv
+Hirte	O
+)	O
+beklagten	O
+sich	O
+darüber	O
+bei	O
+Mönchen	O
+des	O
+nahe	O
+gelegenen	O
+Klosters	O
+.	O
+
+# sent_id = de_wiki_Kaffee-16
+# text = Als ein abessinischer Hirte ( dessen Name oft mit " Kaldi " angegeben wird ) selbst die Früchte des Strauchs probierte , stellte er bei sich eine belebende Wirkung fest . 
+Als	O
+ein	O
+abessinischer	B-LOCderiv
+Hirte	O
+(	O
+dessen	O
+Name	O
+oft	O
+mit	O
+"	O
+Kaldi	O
+"	O
+angegeben	O
+wird	O
+)	O
+selbst	O
+die	O
+Früchte	O
+des	O
+Strauchs	O
+probierte	O
+,	O
+stellte	O
+er	O
+bei	O
+sich	O
+eine	O
+belebende	O
+Wirkung	O
+fest	O
+.	O
+
+# sent_id = de_wiki_Kaffee-17
+# text = Bei Nachforschungen an der Grasungsstelle entdeckten die Mönche einige dunkelgrüne Pflanzen mit kirschenartigen Früchten . 
+Bei	O
+Nachforschungen	O
+an	O
+der	O
+Grasungsstelle	O
+entdeckten	O
+die	O
+Mönche	O
+einige	O
+dunkelgrüne	O
+Pflanzen	O
+mit	O
+kirschenartigen	O
+Früchten	O
+.	O
+
+# sent_id = de_wiki_Kaffee-18
+# text = Sie bereiteten daraus einen Aufguss und konnten fortan bis tief in die Nacht hinein wach bleiben , beten und miteinander reden und sollen mit der Pflanze dann Handel getrieben haben . 
+Sie	O
+bereiteten	O
+daraus	O
+einen	O
+Aufguss	O
+und	O
+konnten	O
+fortan	O
+bis	O
+tief	O
+in	O
+die	O
+Nacht	O
+hinein	O
+wach	O
+bleiben	O
+,	O
+beten	O
+und	O
+miteinander	O
+reden	O
+und	O
+sollen	O
+mit	O
+der	O
+Pflanze	O
+dann	O
+Handel	O
+getrieben	O
+haben	O
+.	O
+
+# sent_id = de_wiki_Kaffee-19
+# text = Andere Quellen besagen , der Hirte habe die im rohen Zustand ungenießbaren Früchte angewidert ins Feuer gespuckt , woraufhin Düfte freigesetzt wurden ; so entstand die Idee des Röstens . 
+Andere	O
+Quellen	O
+besagen	O
+,	O
+der	O
+Hirte	O
+habe	O
+die	O
+im	O
+rohen	O
+Zustand	O
+ungenießbaren	O
+Früchte	O
+angewidert	O
+ins	O
+Feuer	O
+gespuckt	O
+,	O
+woraufhin	O
+Düfte	O
+freigesetzt	O
+wurden	O
+;	O
+so	O
+entstand	O
+die	O
+Idee	O
+des	O
+Röstens	O
+.	O
+
+# sent_id = de_wiki_Kaffee-20
+# text = Es wird angenommen , dass die Region Kaffa im Südwesten Äthiopiens das Ursprungsgebiet des Kaffees ist . 
+Es	O
+wird	O
+angenommen	O
+,	O
+dass	O
+die	O
+Region	O
+Kaffa	B-LOC
+im	O
+Südwesten	B-LOC
+Äthiopiens	I-LOC
+das	O
+Ursprungsgebiet	O
+des	O
+Kaffees	O
+ist	O
+.	O
+
+# sent_id = de_wiki_Kaffee-21
+# text = Dort wurde er bereits im 9. Jahrhundert erwähnt . 
+Dort	O
+wurde	O
+er	O
+bereits	O
+im	O
+9.	O
+Jahrhundert	O
+erwähnt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-22
+# text = Von Äthiopien gelangte der Kaffee vermutlich im 14. Jahrhundert durch Sklavenhändler in den Jemen auf der Arabischen Halbinsel . 
+Von	O
+Äthiopien	B-LOC
+gelangte	O
+der	O
+Kaffee	O
+vermutlich	O
+im	O
+14.	O
+Jahrhundert	O
+durch	O
+Sklavenhändler	O
+in	O
+den	O
+Jemen	B-LOC
+auf	O
+der	O
+Arabischen	B-LOC
+Halbinsel	I-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-23
+# text = In der heute üblichen Zubereitungsart mit gerösteten , gemahlenen oder zerstampften und gekochten Bohnen wurde er dort aber wahrscheinlich erst ab Mitte des 15. Jahrhunderts getrunken . 
+In	O
+der	O
+heute	O
+üblichen	O
+Zubereitungsart	O
+mit	O
+gerösteten	O
+,	O
+gemahlenen	O
+oder	O
+zerstampften	O
+und	O
+gekochten	O
+Bohnen	O
+wurde	O
+er	O
+dort	O
+aber	O
+wahrscheinlich	O
+erst	O
+ab	O
+Mitte	O
+des	O
+15.	O
+Jahrhunderts	O
+getrunken	O
+.	O
+
+# sent_id = de_wiki_Kaffee-24
+# text = Der Kaffeeanbau brachte Arabien eine Monopolrolle ein . 
+Der	O
+Kaffeeanbau	O
+brachte	O
+Arabien	B-LOC
+eine	O
+Monopolrolle	O
+ein	O
+.	O
+
+# sent_id = de_wiki_Kaffee-25
+# text = Handelszentrum war die Hafenstadt Mocha , auch Mokka genannt , das heutige al-Mukha im Jemen. 
+Handelszentrum	O
+war	O
+die	O
+Hafenstadt	O
+Mocha	B-LOC
+,	O
+auch	O
+Mokka	B-LOC
+genannt	O
+,	O
+das	O
+heutige	O
+al-Mukha	B-LOC
+im	O
+Jemen.	B-LOC
+
+# sent_id = de_wiki_Kaffee-26
+# text = Vielen Völkern in den Regionen Äthiopiens , in denen der Kaffee wild wuchs , war er als Nutzpflanze früher unbekannt oder er wurde gänzlich anders zubereitet . 
+Vielen	O
+Völkern	O
+in	O
+den	O
+Regionen	O
+Äthiopiens	B-LOC
+,	O
+in	O
+denen	O
+der	O
+Kaffee	O
+wild	O
+wuchs	O
+,	O
+war	O
+er	O
+als	O
+Nutzpflanze	O
+früher	O
+unbekannt	O
+oder	O
+er	O
+wurde	O
+gänzlich	O
+anders	O
+zubereitet	O
+.	O
+
+# sent_id = de_wiki_Kaffee-27
+# text = Die Zubereitungsmethode und Kaffeetradition der Amharen ist wohl die bekannteste im Hochland von Äthiopien , wird aber erst seit Ende des 19. Jahrhunderts praktiziert . 
+Die	O
+Zubereitungsmethode	O
+und	O
+Kaffeetradition	O
+der	O
+Amharen	B-MISC
+ist	O
+wohl	O
+die	O
+bekannteste	O
+im	O
+Hochland	O
+von	O
+Äthiopien	B-LOC
+,	O
+wird	O
+aber	O
+erst	O
+seit	O
+Ende	O
+des	O
+19.	O
+Jahrhunderts	O
+praktiziert	O
+.	O
+
+# sent_id = de_wiki_Kaffee-28
+# text = Zuvor hatten die christlichen Amharen ebenso wie Tabak den Kaffee als ein Genussmittel der Muslime abgelehnt . 
+Zuvor	O
+hatten	O
+die	O
+christlichen	B-MISC
+Amharen	I-MISC
+ebenso	O
+wie	O
+Tabak	O
+den	O
+Kaffee	O
+als	O
+ein	O
+Genussmittel	O
+der	O
+Muslime	B-MISC
+abgelehnt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-29
+# text = Nach dem Rösten der Bohnen in einer großen Eisenpfanne mahlen die Amharen diese grob oder zerstampfen sie im Mörser . 
+Nach	O
+dem	O
+Rösten	O
+der	O
+Bohnen	O
+in	O
+einer	O
+großen	O
+Eisenpfanne	O
+mahlen	O
+die	O
+Amharen	B-MISC
+diese	O
+grob	O
+oder	O
+zerstampfen	O
+sie	O
+im	O
+Mörser	O
+.	O
+
+# sent_id = de_wiki_Kaffee-30
+# text = Das Mahlgut wird mit Wasser und Zucker in der sogenannten Jabana , einem bauchigen Tonkrug ähnlich einer Karaffe , aufgekocht und in kleinen Schalen serviert . 
+Das	O
+Mahlgut	O
+wird	O
+mit	O
+Wasser	O
+und	O
+Zucker	O
+in	O
+der	O
+sogenannten	O
+Jabana	O
+,	O
+einem	O
+bauchigen	O
+Tonkrug	O
+ähnlich	O
+einer	O
+Karaffe	O
+,	O
+aufgekocht	O
+und	O
+in	O
+kleinen	O
+Schalen	O
+serviert	O
+.	O
+
+# sent_id = de_wiki_Kaffee-31
+# text = Das Wort Kaffee lässt sich bis auf das arabische  " qahwa " zurückverfolgen , das neben „ Kaffee “ auch wie ursprünglich „ Wein “ bezeichnen kann . 
+Das	O
+Wort	O
+Kaffee	O
+lässt	O
+sich	O
+bis	O
+auf	O
+das	O
+arabische	B-LANGderiv	?
+"	O
+qahwa	O
+"	O
+zurückverfolgen	O
+,	O
+das	O
+neben	O
+„	O
+Kaffee	O
+“	O
+auch	O
+wie	O
+ursprünglich	O
+„	O
+Wein	O
+“	O
+bezeichnen	O
+kann	O
+.	O
+
+# sent_id = de_wiki_Kaffee-32
+# text = Über das Türkische " kahve " gelangte es ins Italienische ( " caffè " von " cahue " ) und von dort ins Französische , dessen Wortform " café " ohne große lautliche Änderungen ins Deutsche übernommen und nur in der Schreibweise angepasst wurde . 
+Über	O
+das	O
+Türkische	B-LANG
+"	O
+kahve	O
+"	O
+gelangte	O
+es	O
+ins	O
+Italienische	B-LANG
+(	O
+"	O
+caffè	O
+"	O
+von	O
+"	O
+cahue	O
+"	O
+)	O
+und	O
+von	O
+dort	O
+ins	O
+Französische	B-LANG
+,	O
+dessen	O
+Wortform	O
+"	O
+café	O
+"	O
+ohne	O
+große	O
+lautliche	O
+Änderungen	O
+ins	O
+Deutsche	B-LANG
+übernommen	O
+und	O
+nur	O
+in	O
+der	O
+Schreibweise	O
+angepasst	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Kaffee-33
+# text = Der vornehmen Gesellschaft von Versailles soll der türkische Gesandte Soliman Aga 1669 erstmals Kaffee serviert haben , die ersten Kaffeehäuser in Deutschland entstanden 1673 in Bremen , 1677 in Hamburg und 1686 in Regensburg . 
+Der	O
+vornehmen	O
+Gesellschaft	O
+von	O
+Versailles	B-LOC
+soll	O
+der	O
+türkische	B-ORGderiv
+Gesandte	O
+Soliman	B-PER
+Aga	I-PER
+1669	O
+erstmals	O
+Kaffee	O
+serviert	O
+haben	O
+,	O
+die	O
+ersten	O
+Kaffeehäuser	O
+in	O
+Deutschland	B-LOC
+entstanden	O
+1673	O
+in	O
+Bremen	B-LOC
+,	O
+1677	O
+in	O
+Hamburg	B-LOC
+und	O
+1686	O
+in	O
+Regensburg	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-34
+# text = Im deutschen Sprachraum dominierte anfangs die Wortform " Coffee " aus dem Englischen oder Niederländischen , erst im Laufe des 18. Jahrhunderts setzte sich " Kaffee " nach dem französischen " café " durch . 
+Im	O
+deutschen	B-LANGderiv
+Sprachraum	O
+dominierte	O
+anfangs	O
+die	O
+Wortform	O
+"	O
+Coffee	O
+"	O
+aus	O
+dem	O
+Englischen	B-LANG
+oder	O
+Niederländischen	B-LANG
+,	O
+erst	O
+im	O
+Laufe	O
+des	O
+18.	O
+Jahrhunderts	O
+setzte	O
+sich	O
+"	O
+Kaffee	O
+"	O
+nach	O
+dem	O
+französischen	B-LANGderiv
+"	O
+café	O
+"	O
+durch	O
+.	O
+
+# sent_id = de_wiki_Kaffee-35
+# text = Aus der Wortähnlichkeit von Kaffee und dem Namen der äthiopischen Region Kaffa ergibt sich keine plausible Etymologie . 
+Aus	O
+der	O
+Wortähnlichkeit	O
+von	O
+Kaffee	O
+und	O
+dem	O
+Namen	O
+der	O
+äthiopischen	B-LOCderiv
+Region	O
+Kaffa	B-LOC
+ergibt	O
+sich	O
+keine	O
+plausible	O
+Etymologie	O
+.	O
+
+# sent_id = de_wiki_Kaffee-36
+# text = Von Johann Wolfgang von Goethe stammte die Idee , man solle die Bohnen destillieren . 
+Von	O
+Johann	B-PER
+Wolfgang	I-PER
+von	I-PER
+Goethe	I-PER
+stammte	O
+die	O
+Idee	O
+,	O
+man	O
+solle	O
+die	O
+Bohnen	O
+destillieren	O
+.	O
+
+# sent_id = de_wiki_Kaffee-37
+# text = Beim Umsetzen des Gedankens entdeckte der Chemiker Friedlieb Ferdinand Runge das Koffein . 
+Beim	O
+Umsetzen	O
+des	O
+Gedankens	O
+entdeckte	O
+der	O
+Chemiker	O
+Friedlieb	B-PER
+Ferdinand	I-PER
+Runge	I-PER
+das	O
+Koffein	O
+.	O
+
+# sent_id = de_wiki_Kaffee-38
+# text = Im 16. Jahrhundert eroberte der Kaffee das persische Safawiden-Reich sowie das Osmanische Reich . 
+Im	O
+16.	O
+Jahrhundert	O
+eroberte	O
+der	O
+Kaffee	O
+das	O
+persische	B-LOCderiv
+Safawiden-Reich	B-LOC
+sowie	O
+das	O
+Osmanische	B-LOC
+Reich	I-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-39
+# text = Um 1511 entstanden in Mekka die ersten Kaffeehäuser , die nachfolgend für einige Zeit aufgrund eines mit schweren Strafen belegten Kaffeeverbotes wieder geschlossen wurden . 
+Um	O
+1511	O
+entstanden	O
+in	O
+Mekka	B-LOC
+die	O
+ersten	O
+Kaffeehäuser	O
+,	O
+die	O
+nachfolgend	O
+für	O
+einige	O
+Zeit	O
+aufgrund	O
+eines	O
+mit	O
+schweren	O
+Strafen	O
+belegten	O
+Kaffeeverbotes	O
+wieder	O
+geschlossen	O
+wurden	O
+.	O
+
+# sent_id = de_wiki_Kaffee-40
+# text = Für Kairo ist das Getränk erstmals 1532 verbürgt , daneben verbreitete es sich in Syrien und Kleinasien . 
+Für	O
+Kairo	B-LOC
+ist	O
+das	O
+Getränk	O
+erstmals	O
+1532	O
+verbürgt	O
+,	O
+daneben	O
+verbreitete	O
+es	O
+sich	O
+in	O
+Syrien	B-LOC
+und	O
+Kleinasien	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-41
+# text = Einen besonderen Aufschwung nahm der Kaffeekonsum nach der osmanischen Annexion des Jemen und der gegenüberliegenden Küste im Jahre 1538 . 
+Einen	O
+besonderen	O
+Aufschwung	O
+nahm	O
+der	O
+Kaffeekonsum	O
+nach	O
+der	O
+osmanischen	B-ORGderiv
+Annexion	O
+des	O
+Jemen	B-LOC
+und	O
+der	O
+gegenüberliegenden	O
+Küste	O
+im	O
+Jahre	O
+1538	O
+.	O
+
+# sent_id = de_wiki_Kaffee-42
+# text = 1554 schließlich wurde – nach heftiger Opposition des islamischen Klerus wie auch der staatlichen Gewalten – das erste Kaffeehaus in der Hauptstadt Istanbul eröffnet . 
+1554	O
+schließlich	O
+wurde	O
+–	O
+nach	O
+heftiger	O
+Opposition	O
+des	O
+islamischen	O
+Klerus	O
+wie	O
+auch	O
+der	O
+staatlichen	O
+Gewalten	O
+–	O
+das	O
+erste	O
+Kaffeehaus	O
+in	O
+der	O
+Hauptstadt	O
+Istanbul	B-LOC
+eröffnet	O
+.	O
+
+# sent_id = de_wiki_Kaffee-43
+# text = Murad III. erließ Ende des 16. Jahrhunderts ein Kaffeeverbot , welches jedoch zunächst nur wenig kontrolliert wurde . 
+Murad	B-PER
+III.	I-PER
+erließ	O
+Ende	O
+des	O
+16.	O
+Jahrhunderts	O
+ein	O
+Kaffeeverbot	O
+,	O
+welches	O
+jedoch	O
+zunächst	O
+nur	O
+wenig	O
+kontrolliert	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Kaffee-44
+# text = Erst unter Murad IV. wurden Kaffeehäuser niedergerissen und Kaffeetrinker starker Verfolgung ausgesetzt . 
+Erst	O
+unter	O
+Murad	B-PER
+IV.	I-PER
+wurden	O
+Kaffeehäuser	O
+niedergerissen	O
+und	O
+Kaffeetrinker	O
+starker	O
+Verfolgung	O
+ausgesetzt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-45
+# text = Kaffeehaus-Besitzer tarnten ihre Lokale deshalb bisweilen als Barbierläden . 
+Kaffeehaus-Besitzer	O
+tarnten	O
+ihre	O
+Lokale	O
+deshalb	O
+bisweilen	O
+als	O
+Barbierläden	O
+.	O
+
+# sent_id = de_wiki_Kaffee-46
+# text = Endgültig anerkannt wurde das Getränk schließlich im Zuge der Reformpolitik der Tanzimat ab 1839 . 
+Endgültig	O
+anerkannt	O
+wurde	O
+das	O
+Getränk	O
+schließlich	O
+im	O
+Zuge	O
+der	O
+Reformpolitik	O
+der	O
+Tanzimat	B-EVENT
+ab	O
+1839	O
+.	O
+
+# sent_id = de_wiki_Kaffee-47
+# text = Der Augsburger Arzt Leonhard Rauwolf lernte schon 1573 in Aleppo den Genuss des laut Rauwolf von den Einwohnern Aleppos „ Chaube “ genannten Kaffee-Getränks kennen und berichtete 1582 darüber . 
+Der	O
+Augsburger	O
+Arzt	O
+Leonhard	B-PER
+Rauwolf	I-PER
+lernte	O
+schon	O
+1573	O
+in	O
+Aleppo	B-LOC
+den	O
+Genuss	O
+des	O
+laut	O
+Rauwolf	B-PER
+von	O
+den	O
+Einwohnern	O
+Aleppos	B-LOC
+„	O
+Chaube	O
+“	O
+genannten	O
+Kaffee-Getränks	O
+kennen	O
+und	O
+berichtete	O
+1582	O
+darüber	O
+.	O
+
+# sent_id = de_wiki_Kaffee-48
+# text = Weitere Nachrichten über den Kaffee gelangten durch Prospero Alpino 1592 nach Italien. 1645 verfügte Venedig , 1650 Oxford und 1652 London über Kaffeehäuser . 
+Weitere	O
+Nachrichten	O
+über	O
+den	O
+Kaffee	O
+gelangten	O
+durch	O
+Prospero	B-PER
+Alpino	I-PER
+1592	O
+nach	O
+Italien.	B-LOC
+1645	O
+verfügte	O
+Venedig	B-LOC
+,	O
+1650	O
+Oxford	B-LOC
+und	O
+1652	O
+London	B-LOC
+über	O
+Kaffeehäuser	O
+.	O
+
+# sent_id = de_wiki_Kaffee-49
+# text = In Frankreich entstanden um 1659 solche Einrichtungen in Marseille . 
+In	O
+Frankreich	B-LOC
+entstanden	O
+um	O
+1659	O
+solche	O
+Einrichtungen	O
+in	O
+Marseille	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-50
+# text = 1672 eröffnete ein Armenier in St. Germain eine Kaffeebude . 
+1672	O
+eröffnete	O
+ein	O
+Armenier	B-MISC
+in	O
+St.	B-LOC
+Germain	I-LOC
+eine	O
+Kaffeebude	O
+.	O
+
+# sent_id = de_wiki_Kaffee-51
+# text = Als erstes Pariser Café gilt das Café Procope , das um 1689 von dem Sizilianer Francesco Procopio dei Coltelli eröffnet wurde . 
+Als	O
+erstes	O
+Pariser	B-LOCderiv
+Café	O
+gilt	O
+das	O
+Café	B-LOC
+Procope	I-LOC
+,	O
+das	O
+um	O
+1689	O
+von	O
+dem	O
+Sizilianer	B-MISC
+Francesco	B-PER
+Procopio	I-PER
+dei	I-PER
+Coltelli	I-PER
+eröffnet	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Kaffee-52
+# text = Die Verbreitung des Kaffees als Genussmittel in Europa ging im 17. Jahrhundert vor allem vom Hof Ludwig XIV. und Ludwig XV. in Frankreich aus . 
+Die	O
+Verbreitung	O
+des	O
+Kaffees	O
+als	O
+Genussmittel	O
+in	O
+Europa	B-LOC
+ging	O
+im	O
+17.	O
+Jahrhundert	O
+vor	O
+allem	O
+vom	O
+Hof	O
+Ludwig	B-PER
+XIV.	I-PER
+und	O
+Ludwig	B-PER
+XV.	I-PER
+in	O
+Frankreich	B-LOC
+aus	O
+.	O
+
+# sent_id = de_wiki_Kaffee-53
+# text = Das Luxusgut wurde dort heiß und gezuckert getrunken . 
+Das	O
+Luxusgut	O
+wurde	O
+dort	O
+heiß	O
+und	O
+gezuckert	O
+getrunken	O
+.	O
+
+# sent_id = de_wiki_Kaffee-54
+# text = Die wesentliche Verbreitung des Kaffees erfolgte durch die Etablierung der zunächst im 16. Jahrhundert von den Arabern , dann von den Osmanen und schließlich im 17. Jahrhundert in Europa eingerichteten Kaffeehäuser . 
+Die	O
+wesentliche	O
+Verbreitung	O
+des	O
+Kaffees	O
+erfolgte	O
+durch	O
+die	O
+Etablierung	O
+der	O
+zunächst	O
+im	O
+16.	O
+Jahrhundert	O
+von	O
+den	O
+Arabern	B-MISC
+,	O
+dann	O
+von	O
+den	O
+Osmanen	B-MISC
+und	O
+schließlich	O
+im	O
+17.	O
+Jahrhundert	O
+in	O
+Europa	B-LOC
+eingerichteten	O
+Kaffeehäuser	O
+.	O
+
+# sent_id = de_wiki_Kaffee-55
+# text = Das erste Wiener Kaffeehaus eröffnete 1685 . 
+Das	O
+erste	O
+Wiener	B-LOCderiv
+Kaffeehaus	O
+eröffnete	O
+1685	O
+.	O
+
+# sent_id = de_wiki_Kaffee-56
+# text = Es war ein Armenier namens Johannes Theodat , der 1685 von den Stadtoberen das Privileg erhielt , 20 Jahre lang als einziger Händler der Stadt Kaffee als Getränk verkaufen zu dürfen . 
+Es	O
+war	O
+ein	O
+Armenier	B-MISC
+namens	O
+Johannes	B-PER
+Theodat	I-PER
+,	O
+der	O
+1685	O
+von	O
+den	O
+Stadtoberen	O
+das	O
+Privileg	O
+erhielt	O
+,	O
+20	O
+Jahre	O
+lang	O
+als	O
+einziger	O
+Händler	O
+der	O
+Stadt	O
+Kaffee	O
+als	O
+Getränk	O
+verkaufen	O
+zu	O
+dürfen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-57
+# text = Dass der Pole Georg Franz Kolschitzky mit 500 Sack Kaffee , die durch den Sieg über die Türken vor Wien 1683 erbeutet worden wären , das erste Kaffeehaus eröffnet hätte , ist ins Reich der Legenden zu verweisen . 
+Dass	O
+der	O
+Pole	B-MISC
+Georg	B-PER
+Franz	I-PER
+Kolschitzky	I-PER
+mit	O
+500	O
+Sack	O
+Kaffee	O
+,	O
+die	O
+durch	O
+den	O
+Sieg	O
+über	O
+die	O
+Türken	B-EVENT
+vor	I-EVENT
+Wien	I-EVENT
+1683	O
+erbeutet	O
+worden	O
+wären	O
+,	O
+das	O
+erste	O
+Kaffeehaus	O
+eröffnet	O
+hätte	O
+,	O
+ist	O
+ins	O
+Reich	O
+der	O
+Legenden	O
+zu	O
+verweisen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-58
+# text = Der Piarist Gottfried Uhlich setzte diese 1783 in seiner Chronik " Geschichte der zweyten türkischen Belagerung Wiens , bey der hundertjährigen Gedächtnißfeyer " in die Welt . 
+Der	O
+Piarist	O
+Gottfried	B-PER
+Uhlich	I-PER
+setzte	O
+diese	O
+1783	O
+in	O
+seiner	O
+Chronik	O
+"	O
+Geschichte	B-WOA
+der	I-WOA
+zweyten	I-WOA
+türkischen	I-WOA
+Belagerung	I-WOA
+Wiens	I-WOA
+,	I-WOA
+bey	I-WOA
+der	I-WOA
+hundertjährigen	I-WOA
+Gedächtnißfeyer	I-WOA
+"	O
+in	O
+die	O
+Welt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-59
+# text = In den deutschen Sprachraum war der Kaffee bereits vorher gelangt . 
+In	O
+den	O
+deutschen	B-LANGderiv
+Sprachraum	O
+war	O
+der	O
+Kaffee	O
+bereits	O
+vorher	O
+gelangt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-60
+# text = 1673 wurde in Bremen ein Kaffeehaus eröffnet und im selben Jahr eine Ausschankgenehmigung an einen Holländer erteilt . 
+1673	O
+wurde	O
+in	O
+Bremen	B-LOC
+ein	O
+Kaffeehaus	O
+eröffnet	O
+und	O
+im	O
+selben	O
+Jahr	O
+eine	O
+Ausschankgenehmigung	O
+an	O
+einen	O
+Holländer	B-MISC
+erteilt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-61
+# text = In Hamburg eröffnete 1677 ein Engländer ein Kaffee- und Teehaus nach Londoner Vorbild , nachdem bereits erstmals 1668 Kaffee im Eimbeckschen Haus ausgeschenkt worden sein soll . 
+In	O
+Hamburg	B-LOC
+eröffnete	O
+1677	O
+ein	O
+Engländer	B-MISC
+ein	O
+Kaffee-	O
+und	O
+Teehaus	O
+nach	O
+Londoner	B-LOCderiv
+Vorbild	O
+,	O
+nachdem	O
+bereits	O
+erstmals	O
+1668	O
+Kaffee	O
+im	O
+Eimbeckschen	B-LOC
+Haus	I-LOC
+ausgeschenkt	O
+worden	O
+sein	O
+soll	O
+.	O
+
+# sent_id = de_wiki_Kaffee-62
+# text = Bald folgte ein niederländischer Konkurrent , und 1694 gab es in Hamburg bereits vier Kaffeehäuser . 
+Bald	O
+folgte	O
+ein	O
+niederländischer	B-LOCderiv
+Konkurrent	O
+,	O
+und	O
+1694	O
+gab	O
+es	O
+in	O
+Hamburg	B-LOC
+bereits	O
+vier	O
+Kaffeehäuser	O
+.	O
+
+# sent_id = de_wiki_Kaffee-63
+# text = 1686 folgte Regensburg und 1694 Leipzig . 
+1686	O
+folgte	O
+Regensburg	B-LOC
+und	O
+1694	O
+Leipzig	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-64
+# text = 1697 entstand das Kaffeehaus im Bremer Schütting . 
+1697	O
+entstand	O
+das	O
+Kaffeehaus	O
+im	O
+Bremer	B-LOC
+Schütting	I-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-65
+# text = Im selben Jahr gründete der Beutetürke Mehmet Sadullah Pascha , 1695 getauft im Juliusspital auf den Namen Johann Ernst Nicolauß Strauß , ein Kaffeehaus in Würzburg . 
+Im	O
+selben	O
+Jahr	O
+gründete	O
+der	O
+Beutetürke	B-MISC
+Mehmet	B-PER
+Sadullah	I-PER
+Pascha	I-PER
+,	O
+1695	O
+getauft	O
+im	O
+Juliusspital	B-LOC
+auf	O
+den	O
+Namen	O
+Johann	B-PER
+Ernst	I-PER
+Nicolauß	I-PER
+Strauß	I-PER
+,	O
+ein	O
+Kaffeehaus	O
+in	O
+Würzburg	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-66
+# text = 1675 kannte man Kaffee bereits am Hofe des Großen Kurfürsten in Berlin ; im Jahre 1703 soll in Augsburg , 1712 dann in Stuttgart das erste Kaffeehaus errichtet worden sein ; in Berlin schließlich wurde 1721 das erste Kaffeehaus eröffnet . 
+1675	O
+kannte	O
+man	O
+Kaffee	O
+bereits	O
+am	O
+Hofe	O
+des	O
+Großen	B-PER
+Kurfürsten	I-PER
+in	O
+Berlin	B-LOC
+;	O
+im	O
+Jahre	O
+1703	O
+soll	O
+in	O
+Augsburg	B-LOC
+,	O
+1712	O
+dann	O
+in	O
+Stuttgart	B-LOC
+das	O
+erste	O
+Kaffeehaus	O
+errichtet	O
+worden	O
+sein	O
+;	O
+in	O
+Berlin	B-LOC
+schließlich	O
+wurde	O
+1721	O
+das	O
+erste	O
+Kaffeehaus	O
+eröffnet	O
+.	O
+
+# sent_id = de_wiki_Kaffee-67
+# text = Im 17. Jahrhundert wurde die Kaffeepflanze in niederländischen Kolonien wie Java verbreitet , die damals " Batavia " hießen , und sicherte den Vereinigten Niederlanden eine Vormachtstellung im Handel . 
+Im	O
+17.	O
+Jahrhundert	O
+wurde	O
+die	O
+Kaffeepflanze	O
+in	O
+niederländischen	B-ORGderiv
+Kolonien	O
+wie	O
+Java	B-LOC
+verbreitet	O
+,	O
+die	O
+damals	O
+"	O
+Batavia	B-LOC
+"	O
+hießen	O
+,	O
+und	O
+sicherte	O
+den	O
+Vereinigten	B-ORG
+Niederlanden	I-ORG
+eine	O
+Vormachtstellung	O
+im	O
+Handel	O
+.	O
+
+# sent_id = de_wiki_Kaffee-68
+# text = Schnell breitete sich der Kaffeekonsum in immer weitere Gesellschaftskreise aus . 
+Schnell	O
+breitete	O
+sich	O
+der	O
+Kaffeekonsum	O
+in	O
+immer	O
+weitere	O
+Gesellschaftskreise	O
+aus	O
+.	O
+
+# sent_id = de_wiki_Kaffee-69
+# text = Der Kaffeeimport und seine Regulierung erlangten insbesondere im merkantilistischen Wirtschaftssystem große Bedeutung . 
+Der	O
+Kaffeeimport	O
+und	O
+seine	O
+Regulierung	O
+erlangten	O
+insbesondere	O
+im	O
+merkantilistischen	O
+Wirtschaftssystem	O
+große	O
+Bedeutung	O
+.	O
+
+# sent_id = de_wiki_Kaffee-70
+# text = So verbot Friedrich der Große 1766 die private Einfuhr und den privaten Handel mit Kaffee . 
+So	O
+verbot	O
+Friedrich	B-PER
+der	I-PER
+Große	I-PER
+1766	O
+die	O
+private	O
+Einfuhr	O
+und	O
+den	O
+privaten	O
+Handel	O
+mit	O
+Kaffee	O
+.	O
+
+# sent_id = de_wiki_Kaffee-71
+# text = Lediglich der preußische Staat durfte mit Kaffee handeln . 
+Lediglich	O
+der	O
+preußische	B-ORG
+Staat	I-ORG
+durfte	O
+mit	O
+Kaffee	O
+handeln	O
+.	O
+
+# sent_id = de_wiki_Kaffee-72
+# text = Dadurch sollte der Abfluss des Kapitals ins Ausland unterbunden und die Staatskasse gefüllt werden . 
+Dadurch	O
+sollte	O
+der	O
+Abfluss	O
+des	O
+Kapitals	O
+ins	O
+Ausland	O
+unterbunden	O
+und	O
+die	O
+Staatskasse	O
+gefüllt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_Kaffee-73
+# text = Das Verbot machte den Schmuggel von Kaffeebohnen äußerst lukrativ . 
+Das	O
+Verbot	O
+machte	O
+den	O
+Schmuggel	O
+von	O
+Kaffeebohnen	O
+äußerst	O
+lukrativ	O
+.	O
+
+# sent_id = de_wiki_Kaffee-74
+# text = 1781 wurde in Preußen auch das Rösten des Kaffees für Privatleute verboten . 
+1781	O
+wurde	O
+in	O
+Preußen	B-LOC
+auch	O
+das	O
+Rösten	O
+des	O
+Kaffees	O
+für	O
+Privatleute	O
+verboten	O
+.	O
+
+# sent_id = de_wiki_Kaffee-75
+# text = Zur Überwachung dieses Verbots wurden sogenannte „ Kaffeeriecher “ , ehemalige französische Soldaten , eingestellt . 
+Zur	O
+Überwachung	O
+dieses	O
+Verbots	O
+wurden	O
+sogenannte	O
+„	O
+Kaffeeriecher	O
+“	O
+,	O
+ehemalige	O
+französische	B-ORGderiv
+Soldaten	O
+,	O
+eingestellt	O
+.	O
+
+# sent_id = de_wiki_Kaffee-76
+# text = Diese sollten in den preußischen Kommunen die illegale Kaffeerösterei durch ihren Geruchssinn feststellen . 
+Diese	O
+sollten	O
+in	O
+den	O
+preußischen	B-LOCderiv
+Kommunen	O
+die	O
+illegale	O
+Kaffeerösterei	O
+durch	O
+ihren	O
+Geruchssinn	O
+feststellen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-77
+# text = 1787 , also nach dem Tod Friedrichs des Großen , schaffte sein Nachfolger die Kaffeeriecher und damit das staatliche Kaffeemonopol wieder ab . 
+1787	O
+,	O
+also	O
+nach	O
+dem	O
+Tod	O
+Friedrichs	B-PER
+des	I-PER
+Großen	I-PER
+,	O
+schaffte	O
+sein	O
+Nachfolger	O
+die	O
+Kaffeeriecher	O
+und	O
+damit	O
+das	O
+staatliche	O
+Kaffeemonopol	O
+wieder	O
+ab	O
+.	O
+
+# sent_id = de_wiki_Kaffee-78
+# text = Es hatte sich die Einsicht durchgesetzt , dass auch eine extrem hohe Besteuerung nicht den Schaden ausgleichen konnten , den der Kaffeeschmuggel für die Staatskasse bedeutet hatte . 
+Es	O
+hatte	O
+sich	O
+die	O
+Einsicht	O
+durchgesetzt	O
+,	O
+dass	O
+auch	O
+eine	O
+extrem	O
+hohe	O
+Besteuerung	O
+nicht	O
+den	O
+Schaden	O
+ausgleichen	O
+konnten	O
+,	O
+den	O
+der	O
+Kaffeeschmuggel	O
+für	O
+die	O
+Staatskasse	O
+bedeutet	O
+hatte	O
+.	O
+
+# sent_id = de_wiki_Kaffee-79
+# text = Waren die Kaffeepflanzen zunächst nur in Afrika und Arabien verbreitet , so kam man bald auf die Idee , sie in anderen geeigneten Regionen zu kultivieren . 
+Waren	O
+die	O
+Kaffeepflanzen	O
+zunächst	O
+nur	O
+in	O
+Afrika	B-LOC
+und	O
+Arabien	B-LOC
+verbreitet	O
+,	O
+so	O
+kam	O
+man	O
+bald	O
+auf	O
+die	O
+Idee	O
+,	O
+sie	O
+in	O
+anderen	O
+geeigneten	O
+Regionen	O
+zu	O
+kultivieren	O
+.	O
+
+# sent_id = de_wiki_Kaffee-80
+# text = Die erste Anpflanzung außerhalb Afrikas und Arabiens geschah durch van Hoorn , der als Gouverneur von Niederländisch-Indien 1690 ( nach anderen Quellen bereits 1658 ) in Ceylon und 1696 ( oder 1699 ) auf Java erste Versuche anstellen ließ . 
+Die	O
+erste	O
+Anpflanzung	O
+außerhalb	O
+Afrikas	B-LOC
+und	O
+Arabiens	B-LOC
+geschah	O
+durch	O
+van	B-PER
+Hoorn	I-PER
+,	O
+der	O
+als	O
+Gouverneur	O
+von	O
+Niederländisch-Indien	B-LOC
+1690	O
+(	O
+nach	O
+anderen	O
+Quellen	O
+bereits	O
+1658	O
+)	O
+in	O
+Ceylon	B-LOC
+und	O
+1696	O
+(	O
+oder	O
+1699	O
+)	O
+auf	O
+Java	B-LOC
+erste	O
+Versuche	O
+anstellen	O
+ließ	O
+.	O
+
+# sent_id = de_wiki_Kaffee-81
+# text = Die dort verwendeten Pflanzen stammten aus Arabien . 
+Die	O
+dort	O
+verwendeten	O
+Pflanzen	O
+stammten	O
+aus	O
+Arabien	B-LOC
+.	O
+
+# sent_id = de_wiki_Kaffee-82
+# text = Von diesen Plantagen gelangten 1710 mehrere Exemplare nach Europa und wurden hier in mehreren botanischen Gärten kultiviert , zum Beispiel in Amsterdam , wo erstmals ein Kaffeestrauch auf europäischem Boden gezogen wurde . 
+Von	O
+diesen	O
+Plantagen	O
+gelangten	O
+1710	O
+mehrere	O
+Exemplare	O
+nach	O
+Europa	B-LOC
+und	O
+wurden	O
+hier	O
+in	O
+mehreren	O
+botanischen	O
+Gärten	O
+kultiviert	O
+,	O
+zum	O
+Beispiel	O
+in	O
+Amsterdam	B-LOC
+,	O
+wo	O
+erstmals	O
+ein	O
+Kaffeestrauch	O
+auf	O
+europäischem	B-LOCderiv
+Boden	O
+gezogen	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Kaffee-83
+# text = 1718 brachten die Holländer den Kaffee nach Surinam , die Franzosen 1725 nach Cayenne , 1720/1723 nach Martinique , 1730 nach Guadeloupe , und durch die Portugiesen gelangten 1727 die ersten Kaffeepflanzen nach Brasilien , wo wie überall in der lateinamerikanischen Plantagenwirtschaft afrikanische Sklaven arbeiten mussten . 
+1718	O
+brachten	O
+die	O
+Holländer	B-MISC
+den	O
+Kaffee	O
+nach	O
+Surinam	B-LOC
+,	O
+die	O
+Franzosen	B-MISC
+1725	O
+nach	O
+Cayenne	B-LOC
+,	O
+1720/1723	O
+nach	O
+Martinique	B-LOC
+,	O
+1730	O
+nach	O
+Guadeloupe	B-LOC
+,	O
+und	O
+durch	O
+die	O
+Portugiesen	B-MISC
+gelangten	O
+1727	O
+die	O
+ersten	O
+Kaffeepflanzen	O
+nach	O
+Brasilien	B-LOC
+,	O
+wo	O
+wie	O
+überall	O
+in	O
+der	O
+lateinamerikanischen	B-LOCderiv
+Plantagenwirtschaft	O
+afrikanische	B-ORGderiv
+Sklaven	O
+arbeiten	O
+mussten	O
+.	O
+
+# sent_id = de_wiki_Kaffee-84
+# text = Bereits gegen Ende des 18. Jahrhunderts gehörte der Kaffee zu den am weitesten verbreiteten Kulturpflanzen in den Tropen . 
+Bereits	O
+gegen	O
+Ende	O
+des	O
+18.	O
+Jahrhunderts	O
+gehörte	O
+der	O
+Kaffee	O
+zu	O
+den	O
+am	O
+weitesten	O
+verbreiteten	O
+Kulturpflanzen	O
+in	O
+den	O
+Tropen	O
+.	O
+
+# sent_id = de_wiki_Kaffee-85
+# text = Dies ist auch auf die Ausbreitung der europäischen Kolonien zurückzuführen , ohne die die heutige weltweite Verbreitung des Kaffees nicht zu verstehen ist . 
+Dies	O
+ist	O
+auch	O
+auf	O
+die	O
+Ausbreitung	O
+der	O
+europäischen	B-ORGderiv
+Kolonien	O
+zurückzuführen	O
+,	O
+ohne	O
+die	O
+die	O
+heutige	O
+weltweite	O
+Verbreitung	O
+des	O
+Kaffees	O
+nicht	O
+zu	O
+verstehen	O
+ist	O
+.	O
+
+# sent_id = de_wiki_Kaffee-86
+# text = Auf den lateinamerikanischen und karibischen Kaffeeplantagen wurden bis zur allmählichen Abschaffung der Sklaverei und des Sklavenhandels afrikanische Sklaven ausgebeutet . 
+Auf	O
+den	O
+lateinamerikanischen	B-LOCderiv
+und	O
+karibischen	B-LOCderiv
+Kaffeeplantagen	O
+wurden	O
+bis	O
+zur	O
+allmählichen	O
+Abschaffung	O
+der	O
+Sklaverei	O
+und	O
+des	O
+Sklavenhandels	O
+afrikanische	B-ORGderiv
+Sklaven	O
+ausgebeutet	O
+.	O
+
+# sent_id = de_wiki_Kaffee-87
+# text = Die Lebensbedingungen der Kaffeepflanzer in Niederländisch-Ostindien beschrieb der niederländische Autor Eduard Douwes Dekker in seinem Werk " Max Havelaar " . 
+Die	O
+Lebensbedingungen	O
+der	O
+Kaffeepflanzer	O
+in	O
+Niederländisch-Ostindien	B-LOC
+beschrieb	O
+der	O
+niederländische	B-LOCderiv
+Autor	O
+Eduard	B-PER
+Douwes	I-PER
+Dekker	I-PER
+in	O
+seinem	O
+Werk	O
+"	O
+Max	B-WOA
+Havelaar	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Kaffee-88
+# text = Schließlich exportierten die Europäer den aus den Überseekolonien bezogenen Kaffee sogar in das Osmanische Reich , von wo aus er ursprünglich seinen Siegeszug um die Welt angetreten hatte ; dementsprechend ging dort der Anteil jemenitischen Kaffees zurück . 
+Schließlich	O
+exportierten	O
+die	O
+Europäer	B-MISC
+den	O
+aus	O
+den	O
+Überseekolonien	O
+bezogenen	O
+Kaffee	O
+sogar	O
+in	O
+das	O
+Osmanische	B-LOC
+Reich	I-LOC
+,	O
+von	O
+wo	O
+aus	O
+er	O
+ursprünglich	O
+seinen	O
+Siegeszug	O
+um	O
+die	O
+Welt	O
+angetreten	O
+hatte	O
+;	O
+dementsprechend	O
+ging	O
+dort	O
+der	O
+Anteil	O
+jemenitischen	B-LOCderiv
+Kaffees	O
+zurück	O
+.	O
+
+# newdoc id = de_wiki_MDMA
+# sent_id = de_wiki_MDMA-1
+# text = MDMA 
+MDMA	O
+
+# sent_id = de_wiki_MDMA-2
+# text = MDMA steht für die chirale chemische Verbindung 3 , 4-Methylendioxy- " N " -methylamphetamin . 
+MDMA	O
+steht	O
+für	O
+die	O
+chirale	O
+chemische	O
+Verbindung	O
+3	O
+,	O
+4-Methylendioxy-	O
+"	O
+N	O
+"	O
+-methylamphetamin	O
+.	O
+
+# sent_id = de_wiki_MDMA-3
+# text = Es gehört strukturell zur Gruppe der Methylendioxyamphetamine und ist insbesondere als weltweit verbreitete Partydroge bekannt . 
+Es	O
+gehört	O
+strukturell	O
+zur	O
+Gruppe	O
+der	O
+Methylendioxyamphetamine	O
+und	O
+ist	O
+insbesondere	O
+als	O
+weltweit	O
+verbreitete	O
+Partydroge	O
+bekannt	O
+.	O
+
+# sent_id = de_wiki_MDMA-4
+# text = MDMA war in den 1980er Jahren mit der Droge Ecstasy – auch kurz E genannt – synonym und ist es in der Wahrnehmung vieler Konsumenten sowie in der Medienberichterstattung bis heute . 
+MDMA	O
+war	O
+in	O
+den	O
+1980er	O
+Jahren	O
+mit	O
+der	O
+Droge	O
+Ecstasy	O
+–	O
+auch	O
+kurz	O
+E	O
+genannt	O
+–	O
+synonym	O
+und	O
+ist	O
+es	O
+in	O
+der	O
+Wahrnehmung	O
+vieler	O
+Konsumenten	O
+sowie	O
+in	O
+der	O
+Medienberichterstattung	O
+bis	O
+heute	O
+.	O
+
+# sent_id = de_wiki_MDMA-5
+# text = Tatsächlich werden aber seit den 1990er Jahren in zunehmendem Maße Pillen unter dem Namen „ Ecstasy “ gehandelt , die wenig oder gar kein MDMA , sondern auch andere Inhaltsstoffe beigemischt haben , wenngleich über die Hälfte der „ Ecstasy “ -Pillen , verschiedenen Untersuchungen zufolge , weiterhin MDMA enthalten . 
+Tatsächlich	O
+werden	O
+aber	O
+seit	O
+den	O
+1990er	O
+Jahren	O
+in	O
+zunehmendem	O
+Maße	O
+Pillen	O
+unter	O
+dem	O
+Namen	O
+„	O
+Ecstasy	O
+“	O
+gehandelt	O
+,	O
+die	O
+wenig	O
+oder	O
+gar	O
+kein	O
+MDMA	O
+,	O
+sondern	O
+auch	O
+andere	O
+Inhaltsstoffe	O
+beigemischt	O
+haben	O
+,	O
+wenngleich	O
+über	O
+die	O
+Hälfte	O
+der	O
+„	O
+Ecstasy	O
+“	O
+-Pillen	O
+,	O
+verschiedenen	O
+Untersuchungen	O
+zufolge	O
+,	O
+weiterhin	O
+MDMA	O
+enthalten	O
+.	O
+
+# sent_id = de_wiki_MDMA-6
+# text = In jüngster Zeit wird auch Molly wie auch Emma bei Konsumenten und in der Berichterstattung ( insbesondere in den USA ) synonym mit MDMA in pulverisierter Form verstanden , obwohl auch diese mit anderen Stoffen gestreckt sind oder auch gar kein MDMA enthalten . 
+In	O
+jüngster	O
+Zeit	O
+wird	O
+auch	O
+Molly	O
+wie	O
+auch	O
+Emma	O
+bei	O
+Konsumenten	O
+und	O
+in	O
+der	O
+Berichterstattung	O
+(	O
+insbesondere	O
+in	O
+den	O
+USA	B-LOC
+)	O
+synonym	O
+mit	O
+MDMA	O
+in	O
+pulverisierter	O
+Form	O
+verstanden	O
+,	O
+obwohl	O
+auch	O
+diese	O
+mit	O
+anderen	O
+Stoffen	O
+gestreckt	O
+sind	O
+oder	O
+auch	O
+gar	O
+kein	O
+MDMA	O
+enthalten	O
+.	O
+
+# sent_id = de_wiki_MDMA-7
+# text = Manche Drogenkonsumenten gehen daher dazu über , MDMA nicht mehr in Pillenform ( als „ Ecstasy “ ) oder pulverisiert ( als „ Molly “ ) , sondern in Form von Kristallen zu konsumieren , in der Hoffnung , dadurch die unerwünschte Streckung des Wirkstoffs vermeiden zu können . 
+Manche	O
+Drogenkonsumenten	O
+gehen	O
+daher	O
+dazu	O
+über	O
+,	O
+MDMA	O
+nicht	O
+mehr	O
+in	O
+Pillenform	O
+(	O
+als	O
+„	O
+Ecstasy	O
+“	O
+)	O
+oder	O
+pulverisiert	O
+(	O
+als	O
+„	O
+Molly	O
+“	O
+)	O
+,	O
+sondern	O
+in	O
+Form	O
+von	O
+Kristallen	O
+zu	O
+konsumieren	O
+,	O
+in	O
+der	O
+Hoffnung	O
+,	O
+dadurch	O
+die	O
+unerwünschte	O
+Streckung	O
+des	O
+Wirkstoffs	O
+vermeiden	O
+zu	O
+können	O
+.	O
+
+# sent_id = de_wiki_MDMA-8
+# text = Die Anfang der 1990er Jahre publik gewordene Behauptung , Fritz Haber hätte im Zuge seiner Doktorarbeit MDMA hergestellt , konnte nicht bestätigt werden . 
+Die	O
+Anfang	O
+der	O
+1990er	O
+Jahre	O
+publik	O
+gewordene	O
+Behauptung	O
+,	O
+Fritz	B-PER
+Haber	I-PER
+hätte	O
+im	O
+Zuge	O
+seiner	O
+Doktorarbeit	O
+MDMA	O
+hergestellt	O
+,	O
+konnte	O
+nicht	O
+bestätigt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_MDMA-9
+# text = Die Prüfung der Dissertation aus dem Jahr 1891 ergab keine entsprechenden Anhaltspunkte . 
+Die	O
+Prüfung	O
+der	O
+Dissertation	O
+aus	O
+dem	O
+Jahr	O
+1891	O
+ergab	O
+keine	O
+entsprechenden	O
+Anhaltspunkte	O
+.	O
+
+# sent_id = de_wiki_MDMA-10
+# text = Der Chemiker Anton Köllisch synthetisierte im Labor des Pharmakonzerns E. Merck erstmals MDMA ( damals als " Methylsafrylamin " bezeichnet ) als Zwischenprodukt der Synthese von Hydrastinin und dessen Derivaten . 
+Der	O
+Chemiker	O
+Anton	B-PER
+Köllisch	I-PER
+synthetisierte	O
+im	O
+Labor	O
+des	O
+Pharmakonzerns	O
+E.	B-ORG
+Merck	I-ORG
+erstmals	O
+MDMA	O
+(	O
+damals	O
+als	O
+"	O
+Methylsafrylamin	O
+"	O
+bezeichnet	O
+)	O
+als	O
+Zwischenprodukt	O
+der	O
+Synthese	O
+von	O
+Hydrastinin	O
+und	O
+dessen	O
+Derivaten	O
+.	O
+
+# sent_id = de_wiki_MDMA-11
+# text = Am 24. Dezember 1912 beantragte die Firma Merck hierfür das Patent , das am 16. Mai 1914 erteilt wurde . 
+Am	O
+24.	O
+Dezember	O
+1912	O
+beantragte	O
+die	O
+Firma	O
+Merck	B-ORG
+hierfür	O
+das	O
+Patent	O
+,	O
+das	O
+am	O
+16.	O
+Mai	O
+1914	O
+erteilt	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_MDMA-12
+# text = Es beschreibt im Wesentlichen einen generellen Syntheseweg diverser Amphetamine mit sauerstoffgebundenen Substituenten am Benzolring . 
+Es	O
+beschreibt	O
+im	O
+Wesentlichen	O
+einen	O
+generellen	O
+Syntheseweg	O
+diverser	O
+Amphetamine	O
+mit	O
+sauerstoffgebundenen	O
+Substituenten	O
+am	O
+Benzolring	O
+.	O
+
+# sent_id = de_wiki_MDMA-13
+# text = MDMA war ein Zwischenprodukt auf der Suche nach einem Hydrastinin-Analogon . 
+MDMA	O
+war	O
+ein	O
+Zwischenprodukt	O
+auf	O
+der	O
+Suche	O
+nach	O
+einem	O
+Hydrastinin-Analogon	O
+.	O
+
+# sent_id = de_wiki_MDMA-14
+# text = Diese wurden damals als „ Hämostatika “ ( blutstillende , gefäßzusammenziehende Mittel ) bezeichnet . 
+Diese	O
+wurden	O
+damals	O
+als	O
+„	O
+Hämostatika	O
+“	O
+(	O
+blutstillende	O
+,	O
+gefäßzusammenziehende	O
+Mittel	O
+)	O
+bezeichnet	O
+.	O
+
+# sent_id = de_wiki_MDMA-15
+# text = Aus MDMA als Synthese-Zwischenprodukt resultierte das Merck-Präparat " Methylhydrastinin " . 
+Aus	O
+MDMA	O
+als	O
+Synthese-Zwischenprodukt	O
+resultierte	O
+das	O
+Merck-Präparat	B-ORGpart
+"	O
+Methylhydrastinin	O
+"	O
+.	O
+
+# sent_id = de_wiki_MDMA-16
+# text = Die Vermutung , MDMA sei als Appetitzügler ( Anorektikum ) entwickelt bzw. vertrieben worden , wurde nicht bestätigt . 
+Die	O
+Vermutung	O
+,	O
+MDMA	O
+sei	O
+als	O
+Appetitzügler	O
+(	O
+Anorektikum	O
+)	O
+entwickelt	O
+bzw.	O
+vertrieben	O
+worden	O
+,	O
+wurde	O
+nicht	O
+bestätigt	O
+.	O
+
+# sent_id = de_wiki_MDMA-17
+# text = 1927 nahm der Merck-Chemiker Max Oberlin vermutlich die ersten pharmakologischen Tests ohne Versuche am Menschen vor . 
+1927	O
+nahm	O
+der	O
+Merck-Chemiker	B-ORGpart
+Max	B-PER
+Oberlin	I-PER
+vermutlich	O
+die	O
+ersten	O
+pharmakologischen	O
+Tests	O
+ohne	O
+Versuche	O
+am	O
+Menschen	O
+vor	O
+.	O
+
+# sent_id = de_wiki_MDMA-18
+# text = Er stellte die Forschung daran wieder ein , mit dem Vermerk , dass man die Substanz „ im Auge behalten “ sollte . 
+Er	O
+stellte	O
+die	O
+Forschung	O
+daran	O
+wieder	O
+ein	O
+,	O
+mit	O
+dem	O
+Vermerk	O
+,	O
+dass	O
+man	O
+die	O
+Substanz	O
+„	O
+im	O
+Auge	O
+behalten	O
+“	O
+sollte	O
+.	O
+
+# sent_id = de_wiki_MDMA-19
+# text = Der Begriff MDMA wurde 1937 erstmals genannt , als Beschreibung der zufällig entdeckten , spezifischen Wirkung des Amphetamins . 
+Der	O
+Begriff	O
+MDMA	O
+wurde	O
+1937	O
+erstmals	O
+genannt	O
+,	O
+als	O
+Beschreibung	O
+der	O
+zufällig	O
+entdeckten	O
+,	O
+spezifischen	O
+Wirkung	O
+des	O
+Amphetamins	O
+.	O
+
+# sent_id = de_wiki_MDMA-20
+# text = 1952 unternahm der Merck-Chemiker Albert van Schoor toxikologische Experimente mit Fliegen und notierte : „ Nach 30 Minuten 6 Fliegen tot “ . 
+1952	O
+unternahm	O
+der	O
+Merck-Chemiker	B-ORGpart
+Albert	B-PER
+van	I-PER
+Schoor	I-PER
+toxikologische	O
+Experimente	O
+mit	O
+Fliegen	O
+und	O
+notierte	O
+:	O
+„	O
+Nach	O
+30	O
+Minuten	O
+6	O
+Fliegen	O
+tot	O
+“	O
+.	O
+
+# sent_id = de_wiki_MDMA-21
+# text = Eine wissenschaftliche Publikation folgte daraus nicht . 
+Eine	O
+wissenschaftliche	O
+Publikation	O
+folgte	O
+daraus	O
+nicht	O
+.	O
+
+# sent_id = de_wiki_MDMA-22
+# text = 1965 synthetisierte der Chemiker Alexander Shulgin die Substanz nach eigenen Angaben erstmals selbst , nachdem er ab 1962 mit den verwandten Substanzen MMDA und MDA experimentiert und durch Selbstversuche deren psychoaktives Potential erforscht hatte . 
+1965	O
+synthetisierte	O
+der	O
+Chemiker	O
+Alexander	B-PER
+Shulgin	I-PER
+die	O
+Substanz	O
+nach	O
+eigenen	O
+Angaben	O
+erstmals	O
+selbst	O
+,	O
+nachdem	O
+er	O
+ab	O
+1962	O
+mit	O
+den	O
+verwandten	O
+Substanzen	O
+MMDA	O
+und	O
+MDA	O
+experimentiert	O
+und	O
+durch	O
+Selbstversuche	O
+deren	O
+psychoaktives	O
+Potential	O
+erforscht	O
+hatte	O
+.	O
+
+# sent_id = de_wiki_MDMA-23
+# text = MDA war zwischenzeitlich in den 1960er Jahren in Teilen der Hippiekultur in San Francisco als sogenannte „ Liebesdroge “ ( oder auch „ hug drug “ ) bekannt geworden . 
+MDA	O
+war	O
+zwischenzeitlich	O
+in	O
+den	O
+1960er	O
+Jahren	O
+in	O
+Teilen	O
+der	O
+Hippiekultur	O
+in	O
+San	B-LOC
+Francisco	I-LOC
+als	O
+sogenannte	O
+„	O
+Liebesdroge	O
+“	O
+(	O
+oder	O
+auch	O
+„	O
+hug	O
+drug	O
+“	O
+)	O
+bekannt	O
+geworden	O
+.	O
+
+# sent_id = de_wiki_MDMA-24
+# text = Ob Shulgin die Substanz zu diesem Zeitpunkt selbst getestet hat , ist unklar , ebenso wie der Zeitpunkt , wann genau ein Mensch erstmals MDMA konsumiert hat . 
+Ob	O
+Shulgin	B-PER
+die	O
+Substanz	O
+zu	O
+diesem	O
+Zeitpunkt	O
+selbst	O
+getestet	O
+hat	O
+,	O
+ist	O
+unklar	O
+,	O
+ebenso	O
+wie	O
+der	O
+Zeitpunkt	O
+,	O
+wann	O
+genau	O
+ein	O
+Mensch	O
+erstmals	O
+MDMA	O
+konsumiert	O
+hat	O
+.	O
+
+# sent_id = de_wiki_MDMA-25
+# text = Ab 1970 beschlagnahmte die US-Polizei die ersten MDMA-Konsumeinheiten . 
+Ab	O
+1970	O
+beschlagnahmte	O
+die	O
+US-Polizei	B-LOCpart
+die	O
+ersten	O
+MDMA-Konsumeinheiten	O
+.	O
+
+# sent_id = de_wiki_MDMA-26
+# text = Shulgin wurde prominent in der Geschichte des MDMAs , als er 1978 zusammen mit dem US-Pharmakologen David Nichols die erste psychopharmakologische Studie zu MDMA veröffentlichte . 
+Shulgin	B-PER
+wurde	O
+prominent	O
+in	O
+der	O
+Geschichte	O
+des	O
+MDMAs	O
+,	O
+als	O
+er	O
+1978	O
+zusammen	O
+mit	O
+dem	O
+US-Pharmakologen	B-LOCpart
+David	B-PER
+Nichols	I-PER
+die	O
+erste	O
+psychopharmakologische	O
+Studie	O
+zu	O
+MDMA	O
+veröffentlichte	O
+.	O
+
+# sent_id = de_wiki_MDMA-27
+# text = MDMA wurde in den nachfolgenden Jahren von einigen Psychotherapeuten in ihrer Praxis bis zum Verbot durch die Drug Enforcement Administration ( DEA ) im Juli 1985 benutzt . 
+MDMA	O
+wurde	O
+in	O
+den	O
+nachfolgenden	O
+Jahren	O
+von	O
+einigen	O
+Psychotherapeuten	O
+in	O
+ihrer	O
+Praxis	O
+bis	O
+zum	O
+Verbot	O
+durch	O
+die	O
+Drug	B-ORG
+Enforcement	I-ORG
+Administration	I-ORG
+(	O
+DEA	B-ORG
+)	O
+im	O
+Juli	O
+1985	O
+benutzt	O
+.	O
+
+# sent_id = de_wiki_MDMA-28
+# text = Seit die DEA 2001 die therapeutische Anwendung von MDMA , begrenzt auf die Indikation der posttraumatischen Belastungsstörung ( " post traumatic stress disorder " ) , erlaubte , greift eine kleine Zahl amerikanischer Psychotherapeuten während der Therapie ( Exploration ) , jedoch nicht als Medikament , mittlerweile wieder darauf zurück . 
+Seit	O
+die	O
+DEA	B-ORG
+2001	O
+die	O
+therapeutische	O
+Anwendung	O
+von	O
+MDMA	O
+,	O
+begrenzt	O
+auf	O
+die	O
+Indikation	O
+der	O
+posttraumatischen	O
+Belastungsstörung	O
+(	O
+"	O
+post	O
+traumatic	O
+stress	O
+disorder	O
+"	O
+)	O
+,	O
+erlaubte	O
+,	O
+greift	O
+eine	O
+kleine	O
+Zahl	O
+amerikanischer	B-LOCderiv
+Psychotherapeuten	O
+während	O
+der	O
+Therapie	O
+(	O
+Exploration	O
+)	O
+,	O
+jedoch	O
+nicht	O
+als	O
+Medikament	O
+,	O
+mittlerweile	O
+wieder	O
+darauf	O
+zurück	O
+.	O
+
+# sent_id = de_wiki_MDMA-29
+# text = Bis Mitte der 1980er-Jahre war MDMA uneingeschränkt verkehrsfähig . 
+Bis	O
+Mitte	O
+der	O
+1980er-Jahre	O
+war	O
+MDMA	O
+uneingeschränkt	O
+verkehrsfähig	O
+.	O
+
+# sent_id = de_wiki_MDMA-30
+# text = Die Verwendung als Rausch- oder Freizeitdroge ( " recreational drug " ) wurde zuerst in einigen Yuppiebars in Dallas , Texas beobachtet , es verbreitete sich dann in der schwulen Tanzszene New Yorks und schließlich , mit anderen Substanzen gemischt , in den Raveclubs . 
+Die	O
+Verwendung	O
+als	O
+Rausch-	O
+oder	O
+Freizeitdroge	O
+(	O
+"	O
+recreational	O
+drug	O
+"	O
+)	O
+wurde	O
+zuerst	O
+in	O
+einigen	O
+Yuppiebars	O
+in	O
+Dallas	B-LOC
+,	O
+Texas	B-LOC
+beobachtet	O
+,	O
+es	O
+verbreitete	O
+sich	O
+dann	O
+in	O
+der	O
+schwulen	O
+Tanzszene	O
+New	B-LOC
+Yorks	I-LOC
+und	O
+schließlich	O
+,	O
+mit	O
+anderen	O
+Substanzen	O
+gemischt	O
+,	O
+in	O
+den	O
+Raveclubs	O
+.	O
+
+# sent_id = de_wiki_MDMA-31
+# text = Zu dieser Zeit wurde die amerikanische Drug Enforcement Administration ( DEA ) auf MDMA aufmerksam . 
+Zu	O
+dieser	O
+Zeit	O
+wurde	O
+die	O
+amerikanische	B-LOCderiv
+Drug	B-ORG
+Enforcement	I-ORG
+Administration	I-ORG
+(	O
+DEA	B-ORG
+)	O
+auf	O
+MDMA	O
+aufmerksam	O
+.	O
+
+# sent_id = de_wiki_MDMA-32
+# text = Sie verbot die Droge 1985 in den USA ; ein Jahr später folgte ein weltweites Verbot durch die Weltgesundheitsorganisation WHO . 
+Sie	O
+verbot	O
+die	O
+Droge	O
+1985	O
+in	O
+den	O
+USA	B-LOC
+;	O
+ein	O
+Jahr	O
+später	O
+folgte	O
+ein	O
+weltweites	O
+Verbot	O
+durch	O
+die	O
+Weltgesundheitsorganisation	B-ORG
+WHO	B-ORG
+.	O
+
+# sent_id = de_wiki_MDMA-33
+# text = Parallel zur wachsenden Popularität der Ravekultur wuchs die Verbreitung von Ecstasy / MDMA in den 1990er-Jahren . 
+Parallel	O
+zur	O
+wachsenden	O
+Popularität	O
+der	O
+Ravekultur	O
+wuchs	O
+die	O
+Verbreitung	O
+von	O
+Ecstasy	O
+/	O
+MDMA	O
+in	O
+den	O
+1990er-Jahren	O
+.	O
+
+# sent_id = de_wiki_MDMA-34
+# text = Während des Second Summer of Love 1988 wurde Ecstasy / MDMA im Rahmen der britischen Acid-House-Bewegung auch in Europa populär und entwickelte sich zur Droge der aufkommenden Ravekultur . 
+Während	O
+des	O
+Second	B-EVENT
+Summer	I-EVENT
+of	I-EVENT
+Love	I-EVENT
+1988	O
+wurde	O
+Ecstasy	O
+/	O
+MDMA	O
+im	O
+Rahmen	O
+der	O
+britischen	B-LOCderiv
+Acid-House-Bewegung	O
+auch	O
+in	O
+Europa	B-LOC
+populär	O
+und	O
+entwickelte	O
+sich	O
+zur	O
+Droge	O
+der	O
+aufkommenden	O
+Ravekultur	O
+.	O
+
+# sent_id = de_wiki_MDMA-35
+# text = Das Nachrichtenmagazin " Der Spiegel " berichtete erstmals am 22. Juni 1987 folgendermaßen über den neuen Trend : 
+Das	O
+Nachrichtenmagazin	O
+"	O
+Der	B-ORG
+Spiegel	I-ORG
+"	O
+berichtete	O
+erstmals	O
+am	O
+22.	O
+Juni	O
+1987	O
+folgendermaßen	O
+über	O
+den	O
+neuen	O
+Trend	O
+:	O
+
+# sent_id = de_wiki_MDMA-36
+# text = Seit den 1990er Jahren gehört MDMA neben Cannabis , Kokain und Amphetamin ( inklusive Methamphetamin ) zu den meistverbreiteten illegalen Drogen . 
+Seit	O
+den	O
+1990er	O
+Jahren	O
+gehört	O
+MDMA	O
+neben	O
+Cannabis	O
+,	O
+Kokain	O
+und	O
+Amphetamin	O
+(	O
+inklusive	O
+Methamphetamin	O
+)	O
+zu	O
+den	O
+meistverbreiteten	O
+illegalen	O
+Drogen	O
+.	O
+
+# sent_id = de_wiki_MDMA-37
+# text = Ecstasy , auch XTC , ist ein um 1980 entstandener Begriff für sogenannte „ Partypillen “ , die zunächst fast ausschließlich MDMA enthielten . 
+Ecstasy	O
+,	O
+auch	O
+XTC	O
+,	O
+ist	O
+ein	O
+um	O
+1980	O
+entstandener	O
+Begriff	O
+für	O
+sogenannte	O
+„	O
+Partypillen	O
+“	O
+,	O
+die	O
+zunächst	O
+fast	O
+ausschließlich	O
+MDMA	O
+enthielten	O
+.	O
+
+# sent_id = de_wiki_MDMA-38
+# text = Heute ist Ecstasy faktisch die Sammelbezeichnung für eine Vielzahl von Phenylethylaminen – in der Wahrnehmung vieler Konsumenten aber im „ Idealfall “ weiterhin allein für MDMA . 
+Heute	O
+ist	O
+Ecstasy	O
+faktisch	O
+die	O
+Sammelbezeichnung	O
+für	O
+eine	O
+Vielzahl	O
+von	O
+Phenylethylaminen	O
+–	O
+in	O
+der	O
+Wahrnehmung	O
+vieler	O
+Konsumenten	O
+aber	O
+im	O
+„	O
+Idealfall	O
+“	O
+weiterhin	O
+allein	O
+für	O
+MDMA	O
+.	O
+
+# sent_id = de_wiki_MDMA-39
+# text = Ecstasy wird in der Regel in Tabletten- oder Kapselform produziert und ist mit einem Trägermittel vermengt . 
+Ecstasy	O
+wird	O
+in	O
+der	O
+Regel	O
+in	O
+Tabletten-	O
+oder	O
+Kapselform	O
+produziert	O
+und	O
+ist	O
+mit	O
+einem	O
+Trägermittel	O
+vermengt	O
+.	O
+
+# sent_id = de_wiki_MDMA-40
+# text = Ecstasytabletten werden in der Szene häufig als " Es " , " Pillen " und " Teile " bezeichnet . 
+Ecstasytabletten	O
+werden	O
+in	O
+der	O
+Szene	O
+häufig	O
+als	O
+"	O
+Es	O
+"	O
+,	O
+"	O
+Pillen	O
+"	O
+und	O
+"	O
+Teile	O
+"	O
+bezeichnet	O
+.	O
+
+# sent_id = de_wiki_MDMA-41
+# text = Pro Stück wird derzeit etwa ein Marktpreis von fünf bis zehn Euro erzielt , die Produktionskosten liegen unterhalb eines Euros . 
+Pro	O
+Stück	O
+wird	O
+derzeit	O
+etwa	O
+ein	O
+Marktpreis	O
+von	O
+fünf	O
+bis	O
+zehn	O
+Euro	O
+erzielt	O
+,	O
+die	O
+Produktionskosten	O
+liegen	O
+unterhalb	O
+eines	O
+Euros	O
+.	O
+
+# sent_id = de_wiki_MDMA-42
+# text = Die Deutsche Beobachtungsstelle für Drogen und Drogensucht hat für 2013 einen leicht erhöhten Marktpreis von durchschnittlich 8,50 Euro ermittelt , nach 8 Euro im Vorjahr . 
+Die	O
+Deutsche	B-ORG
+Beobachtungsstelle	I-ORG
+für	I-ORG
+Drogen	I-ORG
+und	I-ORG
+Drogensucht	I-ORG
+hat	O
+für	O
+2013	O
+einen	O
+leicht	O
+erhöhten	O
+Marktpreis	O
+von	O
+durchschnittlich	O
+8,50	O
+Euro	O
+ermittelt	O
+,	O
+nach	O
+8	O
+Euro	O
+im	O
+Vorjahr	O
+.	O
+
+# sent_id = de_wiki_MDMA-43
+# text = Die EMCDDA maß europaweit Preise zwischen 4 und 17 Euro pro Pille mit einer Häufung zwischen 5 und 9 Euro . 
+Die	O
+EMCDDA	B-ORG
+maß	O
+europaweit	B-LOCpart
+Preise	O
+zwischen	O
+4	O
+und	O
+17	O
+Euro	O
+pro	O
+Pille	O
+mit	O
+einer	O
+Häufung	O
+zwischen	O
+5	O
+und	O
+9	O
+Euro	O
+.	O
+
+# sent_id = de_wiki_MDMA-44
+# text = In der Praxis konsumieren manche Abnehmer eine Pille , die ihnen als „ Ecstasy “ angeboten wird und möglicherweise tatsächlich MDMA enthält , und verbinden damit dann eine entsprechende Erfahrung , wobei die nächste Pille einen vollkommen anderen Wirkstoff oder eine andere Konzentration enthalten und daher auch zu vollkommen anderen Reaktionen führen kann . 
+In	O
+der	O
+Praxis	O
+konsumieren	O
+manche	O
+Abnehmer	O
+eine	O
+Pille	O
+,	O
+die	O
+ihnen	O
+als	O
+„	O
+Ecstasy	O
+“	O
+angeboten	O
+wird	O
+und	O
+möglicherweise	O
+tatsächlich	O
+MDMA	O
+enthält	O
+,	O
+und	O
+verbinden	O
+damit	O
+dann	O
+eine	O
+entsprechende	O
+Erfahrung	O
+,	O
+wobei	O
+die	O
+nächste	O
+Pille	O
+einen	O
+vollkommen	O
+anderen	O
+Wirkstoff	O
+oder	O
+eine	O
+andere	O
+Konzentration	O
+enthalten	O
+und	O
+daher	O
+auch	O
+zu	O
+vollkommen	O
+anderen	O
+Reaktionen	O
+führen	O
+kann	O
+.	O
+
+# sent_id = de_wiki_MDMA-45
+# text = Deswegen ist in manchen Kreisen die Nutzung des Begriffs " Ecstasy " bzw. der angebotenen Pillen regelrecht verpönt , weil zu unspezifisch , sofern MDMA konsumiert werden soll . 
+Deswegen	O
+ist	O
+in	O
+manchen	O
+Kreisen	O
+die	O
+Nutzung	O
+des	O
+Begriffs	O
+"	O
+Ecstasy	O
+"	O
+bzw.	O
+der	O
+angebotenen	O
+Pillen	O
+regelrecht	O
+verpönt	O
+,	O
+weil	O
+zu	O
+unspezifisch	O
+,	O
+sofern	O
+MDMA	O
+konsumiert	O
+werden	O
+soll	O
+.	O
+
+# sent_id = de_wiki_MDMA-46
+# text = Manche Nutzer verwenden einen Drogentest wie die Marquis-Reaktion , um zu prüfen , ob eine ihnen angebotene Pille zumindest MDMA enthalten " kann " . 
+Manche	O
+Nutzer	O
+verwenden	O
+einen	O
+Drogentest	O
+wie	O
+die	O
+Marquis-Reaktion	O
+,	O
+um	O
+zu	O
+prüfen	O
+,	O
+ob	O
+eine	O
+ihnen	O
+angebotene	O
+Pille	O
+zumindest	O
+MDMA	O
+enthalten	O
+"	O
+kann	O
+"	O
+.	O
+
+# sent_id = de_wiki_MDMA-47
+# text = Tatsächlich kann mit diesem Test aber lediglich im Falle eines negativen Ergebnisses geschlussfolgert werden , dass sicher " kein " MDMA enthalten ist . 
+Tatsächlich	O
+kann	O
+mit	O
+diesem	O
+Test	O
+aber	O
+lediglich	O
+im	O
+Falle	O
+eines	O
+negativen	O
+Ergebnisses	O
+geschlussfolgert	O
+werden	O
+,	O
+dass	O
+sicher	O
+"	O
+kein	O
+"	O
+MDMA	O
+enthalten	O
+ist	O
+.	O
+
+# sent_id = de_wiki_MDMA-48
+# text = Eine positive Reaktion hingegen ist keine Gewähr dafür , dass nicht noch andere Inhaltsstoffe enthalten sind . 
+Eine	O
+positive	O
+Reaktion	O
+hingegen	O
+ist	O
+keine	O
+Gewähr	O
+dafür	O
+,	O
+dass	O
+nicht	O
+noch	O
+andere	O
+Inhaltsstoffe	O
+enthalten	O
+sind	O
+.	O
+
+# sent_id = de_wiki_MDMA-49
+# text = Auch die Konzentration des Wirkstoffs innerhalb der Pille kann mit diesem Test nicht ermittelt werden . 
+Auch	O
+die	O
+Konzentration	O
+des	O
+Wirkstoffs	O
+innerhalb	O
+der	O
+Pille	O
+kann	O
+mit	O
+diesem	O
+Test	O
+nicht	O
+ermittelt	O
+werden	O
+.	O
+
+# sent_id = de_wiki_MDMA-50
+# text = Hierin liegt jedoch eine weitere Gefahr des Konsums von Ecstasy ( s. Abschnitt „ Gefahren “ ) . 
+Hierin	O
+liegt	O
+jedoch	O
+eine	O
+weitere	O
+Gefahr	O
+des	O
+Konsums	O
+von	O
+Ecstasy	O
+(	O
+s.	O
+Abschnitt	O
+„	O
+Gefahren	O
+“	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-51
+# text = Die Wirkdauer liegt in der Regel bei vier bis sechs Stunden , sofern tatsächlich MDMA enthalten ist . 
+Die	O
+Wirkdauer	O
+liegt	O
+in	O
+der	O
+Regel	O
+bei	O
+vier	O
+bis	O
+sechs	O
+Stunden	O
+,	O
+sofern	O
+tatsächlich	O
+MDMA	O
+enthalten	O
+ist	O
+.	O
+
+# sent_id = de_wiki_MDMA-52
+# text = In Deutschland wurden 2012 Wirkstoffgehalte von 1 mg bis zu – für die meisten Konsumenten überdosierten – 216 mg pro Pille ermittelt , sowie ein Median von 83 mg . 
+In	O
+Deutschland	B-LOC
+wurden	O
+2012	O
+Wirkstoffgehalte	O
+von	O
+1	O
+mg	O
+bis	O
+zu	O
+–	O
+für	O
+die	O
+meisten	O
+Konsumenten	O
+überdosierten	O
+–	O
+216	O
+mg	O
+pro	O
+Pille	O
+ermittelt	O
+,	O
+sowie	O
+ein	O
+Median	O
+von	O
+83	O
+mg	O
+.	O
+
+# sent_id = de_wiki_MDMA-53
+# text = Damit stieg der Wirkstoffgehalt kontinuierlich von 50 mg im Jahr 2009 ( 58 mg 2010 ; 73 mg 2011 ) an . 
+Damit	O
+stieg	O
+der	O
+Wirkstoffgehalt	O
+kontinuierlich	O
+von	O
+50	O
+mg	O
+im	O
+Jahr	O
+2009	O
+(	O
+58	O
+mg	O
+2010	O
+;	O
+73	O
+mg	O
+2011	O
+)	O
+an	O
+.	O
+
+# sent_id = de_wiki_MDMA-54
+# text = Europaweit maß die EMCDDA 2012 Wirkstoffgehalte zwischen 43 und 113 mg pro Pille mit einer Häufung zwischen 64 und 90 mg , wobei 2012 in ganz Europa ( ohne Türkei ) 4,3 Millionen Pillen sichergestellt wurden . 
+Europaweit	B-LOCpart
+maß	O
+die	O
+EMCDDA	O
+2012	O
+Wirkstoffgehalte	O
+zwischen	O
+43	O
+und	O
+113	O
+mg	O
+pro	O
+Pille	O
+mit	O
+einer	O
+Häufung	O
+zwischen	O
+64	O
+und	O
+90	O
+mg	O
+,	O
+wobei	O
+2012	O
+in	O
+ganz	O
+Europa	B-LOC
+(	O
+ohne	O
+Türkei	B-LOC
+)	O
+4,3	O
+Millionen	O
+Pillen	O
+sichergestellt	O
+wurden	O
+.	O
+
+# sent_id = de_wiki_MDMA-55
+# text = In die meisten Tabletten werden „ Markenzeichen “ eingepresst wie Vögel , Herzen , Delphine , Schmetterlinge oder ( v. a. Auto- ) Firmenembleme . 
+In	O
+die	O
+meisten	O
+Tabletten	O
+werden	O
+„	O
+Markenzeichen	O
+“	O
+eingepresst	O
+wie	O
+Vögel	O
+,	O
+Herzen	O
+,	O
+Delphine	O
+,	O
+Schmetterlinge	O
+oder	O
+(	O
+v.	O
+a.	O
+Auto-	O
+)	O
+Firmenembleme	O
+.	O
+
+# sent_id = de_wiki_MDMA-56
+# text = Da sie leicht kopiert werden können , geben diese Erkennungszeichen keinen verlässlichen Hinweis auf die Wirkung oder die Inhaltsstoffe . 
+Da	O
+sie	O
+leicht	O
+kopiert	O
+werden	O
+können	O
+,	O
+geben	O
+diese	O
+Erkennungszeichen	O
+keinen	O
+verlässlichen	O
+Hinweis	O
+auf	O
+die	O
+Wirkung	O
+oder	O
+die	O
+Inhaltsstoffe	O
+.	O
+
+# sent_id = de_wiki_MDMA-57
+# text = Durch Ecstasy-Tabletten mit nicht klar definiertem Inhalt ist es wiederholt zu Todesfällen gekommen ( s. Abschnitt " Gefahren " ) . 
+Durch	O
+Ecstasy-Tabletten	O
+mit	O
+nicht	O
+klar	O
+definiertem	O
+Inhalt	O
+ist	O
+es	O
+wiederholt	O
+zu	O
+Todesfällen	O
+gekommen	O
+(	O
+s.	O
+Abschnitt	O
+"	O
+Gefahren	O
+"	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-58
+# text = Andere Substanzen , die neben oder anstatt MDMA oft in Ecstasy enthalten sind , sind zum Beispiel : Amphetamin , " N " -Methylamphetamin , 4-Methoxyamphetamin ( PMA ) , " meta " -Chlorphenylpiperazin ( mCPP , ein Piperazinderivat ) , " para " -Methoxy- " N " -methylamphetamin ( PMMA ) , 3 , 4-Methylendioxyamphetamin ( MDA ) , 3 , 4-Methylendioxy-N-methylcathinon ( MDMC ) , 3 , 4-Methylendioxy-N-ethylamphetamin ( MDEA ) , 2-Amino -1 - ( 3 , 4-methylendioxyphenyl ) butan ( BDB ) , 2-Methylamino -1 - ( 3 , 4-Methylendioxyphenyl ) butan ( MBDB ) , 4-Brom -2 , 5-dimethoxyphenylethylamin ( 2C-B ) etc. 
+Andere	O
+Substanzen	O
+,	O
+die	O
+neben	O
+oder	O
+anstatt	O
+MDMA	O
+oft	O
+in	O
+Ecstasy	O
+enthalten	O
+sind	O
+,	O
+sind	O
+zum	O
+Beispiel	O
+:	O
+Amphetamin	O
+,	O
+"	O
+N	O
+"	O
+-Methylamphetamin	O
+,	O
+4-Methoxyamphetamin	O
+(	O
+PMA	O
+)	O
+,	O
+"	O
+meta	O
+"	O
+-Chlorphenylpiperazin	O
+(	O
+mCPP	O
+,	O
+ein	O
+Piperazinderivat	O
+)	O
+,	O
+"	O
+para	O
+"	O
+-Methoxy-	O
+"	O
+N	O
+"	O
+-methylamphetamin	O
+(	O
+PMMA	O
+)	O
+,	O
+3	O
+,	O
+4-Methylendioxyamphetamin	O
+(	O
+MDA	O
+)	O
+,	O
+3	O
+,	O
+4-Methylendioxy-N-methylcathinon	O
+(	O
+MDMC	O
+)	O
+,	O
+3	O
+,	O
+4-Methylendioxy-N-ethylamphetamin	O
+(	O
+MDEA	O
+)	O
+,	O
+2-Amino	O
+-1	O
+-	O
+(	O
+3	O
+,	O
+4-methylendioxyphenyl	O
+)	O
+butan	O
+(	O
+BDB	O
+)	O
+,	O
+2-Methylamino	O
+-1	O
+-	O
+(	O
+3	O
+,	O
+4-Methylendioxyphenyl	O
+)	O
+butan	O
+(	O
+MBDB	O
+)	O
+,	O
+4-Brom	O
+-2	O
+,	O
+5-dimethoxyphenylethylamin	O
+(	O
+2C-B	O
+)	O
+etc.	O
+
+# sent_id = de_wiki_MDMA-59
+# text = Der Anteil der Proben , die nur den Wirkstoff MDMA enthalten , ist in der Schweiz und in Österreich – wo legal sogenanntes Drug-Checking im Umfeld von öffentlichen Partys durchgeführt wird – nachweislich signifikant rückläufig . 
+Der	O
+Anteil	O
+der	O
+Proben	O
+,	O
+die	O
+nur	O
+den	O
+Wirkstoff	O
+MDMA	O
+enthalten	O
+,	O
+ist	O
+in	O
+der	O
+Schweiz	B-LOC
+und	O
+in	O
+Österreich	B-LOC
+–	O
+wo	O
+legal	O
+sogenanntes	O
+Drug-Checking	O
+im	O
+Umfeld	O
+von	O
+öffentlichen	O
+Partys	O
+durchgeführt	O
+wird	O
+–	O
+nachweislich	O
+signifikant	O
+rückläufig	O
+.	O
+
+# sent_id = de_wiki_MDMA-60
+# text = Immer häufiger müssen aufgrund von Drug-Checking-Resultaten Pillenwarnungen herausgegeben werden . 
+Immer	O
+häufiger	O
+müssen	O
+aufgrund	O
+von	O
+Drug-Checking-Resultaten	O
+Pillenwarnungen	O
+herausgegeben	O
+werden	O
+.	O
+
+# sent_id = de_wiki_MDMA-61
+# text = Der Prozentsatz der als „ Ecstasy “ gekauften Tabletten , die außer MDMA , MDE oder MDA keine psychotropen Substanzen enthielten , war in Österreich im Jahr 2008 mit 63 Prozent etwa im Bereich des Vorjahres , jedoch deutlich niedriger als in den Jahren davor ( 70 bis 90 % ) . 
+Der	O
+Prozentsatz	O
+der	O
+als	O
+„	O
+Ecstasy	O
+“	O
+gekauften	O
+Tabletten	O
+,	O
+die	O
+außer	O
+MDMA	O
+,	O
+MDE	O
+oder	O
+MDA	O
+keine	O
+psychotropen	O
+Substanzen	O
+enthielten	O
+,	O
+war	O
+in	O
+Österreich	B-LOC
+im	O
+Jahr	O
+2008	O
+mit	O
+63	O
+Prozent	O
+etwa	O
+im	O
+Bereich	O
+des	O
+Vorjahres	O
+,	O
+jedoch	O
+deutlich	O
+niedriger	O
+als	O
+in	O
+den	O
+Jahren	O
+davor	O
+(	O
+70	O
+bis	O
+90	O
+%	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-62
+# text = In der Bundesrepublik Deutschland stellt sich die Situation jedoch nach offiziellen Angaben anders dar : Gemäß Untersuchungen des Bundeskriminalamtes enthielten 2008 rund 97 % der untersuchten Monopräparate MDMA , was auch für 2012 noch gilt . 
+In	O
+der	O
+Bundesrepublik	O
+Deutschland	B-LOC
+stellt	O
+sich	O
+die	O
+Situation	O
+jedoch	O
+nach	O
+offiziellen	O
+Angaben	O
+anders	O
+dar	O
+:	O
+Gemäß	O
+Untersuchungen	O
+des	O
+Bundeskriminalamtes	B-ORG
+enthielten	O
+2008	O
+rund	O
+97	O
+%	O
+der	O
+untersuchten	O
+Monopräparate	O
+MDMA	O
+,	O
+was	O
+auch	O
+für	O
+2012	O
+noch	O
+gilt	O
+.	O
+
+# sent_id = de_wiki_MDMA-63
+# text = Im Drogenbericht 2013 heißt es gar : „ Nachdem bereits im letzten Berichtsjahr über ein verbessertes Angebot von Ecstasy-Tabletten mit einem höheren MDMA-Gehalt berichtet wurde , setzte sich diese Tendenz 2012 fort . “ 
+Im	O
+Drogenbericht	O
+2013	O
+heißt	O
+es	O
+gar	O
+:	O
+„	O
+Nachdem	O
+bereits	O
+im	O
+letzten	O
+Berichtsjahr	O
+über	O
+ein	O
+verbessertes	O
+Angebot	O
+von	O
+Ecstasy-Tabletten	O
+mit	O
+einem	O
+höheren	O
+MDMA-Gehalt	O
+berichtet	O
+wurde	O
+,	O
+setzte	O
+sich	O
+diese	O
+Tendenz	O
+2012	O
+fort	O
+.	O
+“	O
+
+# sent_id = de_wiki_MDMA-64
+# text = Das Image von Ecstasytabletten habe sich im Zuge „ der bereits im letzten Jahr eingetretenen merklichen Qualitätsverbesserung deutlich verbessert . “ 
+Das	O
+Image	O
+von	O
+Ecstasytabletten	O
+habe	O
+sich	O
+im	O
+Zuge	O
+„	O
+der	O
+bereits	O
+im	O
+letzten	O
+Jahr	O
+eingetretenen	O
+merklichen	O
+Qualitätsverbesserung	O
+deutlich	O
+verbessert	O
+.	O
+“	O
+
+# sent_id = de_wiki_MDMA-65
+# text = Im Jahresbericht 2014 legte die DBDD genauere Zahlen für das Vorjahr vor : Demnach enthielten 99,2 Prozent aller untersuchten Pillen nur ein Präparat ( 2012 : 94,9 % ) . 
+Im	O
+Jahresbericht	O
+2014	O
+legte	O
+die	O
+DBDD	B-ORG
+genauere	O
+Zahlen	O
+für	O
+das	O
+Vorjahr	O
+vor	O
+:	O
+Demnach	O
+enthielten	O
+99,2	O
+Prozent	O
+aller	O
+untersuchten	O
+Pillen	O
+nur	O
+ein	O
+Präparat	O
+(	O
+2012	O
+:	O
+94,9	O
+%	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-66
+# text = Von diesen Monopräparaten waren 92,6 % MDMA . 
+Von	O
+diesen	O
+Monopräparaten	O
+waren	O
+92,6	O
+%	O
+MDMA	O
+.	O
+
+# sent_id = de_wiki_MDMA-67
+# text = Demnach wären also etwa 9 von 10 als „ Ecstasy “ angebotenen Pillen tatsächlich reine „ MDMA-Pillen “ . 
+Demnach	O
+wären	O
+also	O
+etwa	O
+9	O
+von	O
+10	O
+als	O
+„	O
+Ecstasy	O
+“	O
+angebotenen	O
+Pillen	O
+tatsächlich	O
+reine	O
+„	O
+MDMA-Pillen	O
+“	O
+.	O
+
+# sent_id = de_wiki_MDMA-68
+# text = Allerdings enthielten von den Pillen mit nur einem Wirkstoff 6,6 % ausschließlich Amphetamin ( Speed ) , sowie 0,7 % m-CPP und jeweils weniger als 0,1 % MDA oder MDE . 
+Allerdings	O
+enthielten	O
+von	O
+den	O
+Pillen	O
+mit	O
+nur	O
+einem	O
+Wirkstoff	O
+6,6	O
+%	O
+ausschließlich	O
+Amphetamin	O
+(	O
+Speed	O
+)	O
+,	O
+sowie	O
+0,7	O
+%	O
+m-CPP	O
+und	O
+jeweils	O
+weniger	O
+als	O
+0,1	O
+%	O
+MDA	O
+oder	O
+MDE	O
+.	O
+
+# sent_id = de_wiki_MDMA-69
+# text = Ob diese Zahlen , die sich lediglich auf die von den Behörden sichergestellten Pillen beziehen , wirklich repräsentativ sind , darf aber bezweifelt werden , angesichts der Tatsache , dass in Österreich und der Schweiz , wo Daten von freiwilligem „ Drug-Checking “ vorliegen , deutlich mehr „ Ecstasy “ -Pillen andere Wirkstoffe als MDMA enthalten ( s. o. ) . 
+Ob	O
+diese	O
+Zahlen	O
+,	O
+die	O
+sich	O
+lediglich	O
+auf	O
+die	O
+von	O
+den	O
+Behörden	O
+sichergestellten	O
+Pillen	O
+beziehen	O
+,	O
+wirklich	O
+repräsentativ	O
+sind	O
+,	O
+darf	O
+aber	O
+bezweifelt	O
+werden	O
+,	O
+angesichts	O
+der	O
+Tatsache	O
+,	O
+dass	O
+in	O
+Österreich	B-LOC
+und	O
+der	O
+Schweiz	B-LOC
+,	O
+wo	O
+Daten	O
+von	O
+freiwilligem	O
+„	O
+Drug-Checking	O
+“	O
+vorliegen	O
+,	O
+deutlich	O
+mehr	O
+„	O
+Ecstasy	O
+“	O
+-Pillen	O
+andere	O
+Wirkstoffe	O
+als	O
+MDMA	O
+enthalten	O
+(	O
+s.	O
+o.	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-70
+# text = Deutlich zu unterscheiden von Ecstasy bzw. MDMA ist so genanntes „ Bio-Ecstasy “ oder " Herbal Ecstasy " , das zumeist aus einer Mischung aus Guaraná , Coffein , Ephedra und anderen Stoffen besteht und eine legal erhältliche Droge ist ( in Deutschland nur noch eingeschränkt ; Ephedra ist beispielsweise seit einigen Jahren rezeptpflichtig ) , mit leicht aufputschender Wirkung , vergleichbar mit der von Energy-Drinks . 
+Deutlich	O
+zu	O
+unterscheiden	O
+von	O
+Ecstasy	O
+bzw.	O
+MDMA	O
+ist	O
+so	O
+genanntes	O
+„	O
+Bio-Ecstasy	O
+“	O
+oder	O
+"	O
+Herbal	O
+Ecstasy	O
+"	O
+,	O
+das	O
+zumeist	O
+aus	O
+einer	O
+Mischung	O
+aus	O
+Guaraná	O
+,	O
+Coffein	O
+,	O
+Ephedra	O
+und	O
+anderen	O
+Stoffen	O
+besteht	O
+und	O
+eine	O
+legal	O
+erhältliche	O
+Droge	O
+ist	O
+(	O
+in	O
+Deutschland	B-LOC
+nur	O
+noch	O
+eingeschränkt	O
+;	O
+Ephedra	O
+ist	O
+beispielsweise	O
+seit	O
+einigen	O
+Jahren	O
+rezeptpflichtig	O
+)	O
+,	O
+mit	O
+leicht	O
+aufputschender	O
+Wirkung	O
+,	O
+vergleichbar	O
+mit	O
+der	O
+von	O
+Energy-Drinks	O
+.	O
+
+# sent_id = de_wiki_MDMA-71
+# text = Ebenfalls von MDMA deutlich zu unterscheiden ist das sogenannte " Liquid Ecstasy " , das auch als Fantasy bekannt ist und aus GHB ( Gammahydroxybuttersäure ) besteht . 
+Ebenfalls	O
+von	O
+MDMA	O
+deutlich	O
+zu	O
+unterscheiden	O
+ist	O
+das	O
+sogenannte	O
+"	O
+Liquid	O
+Ecstasy	O
+"	O
+,	O
+das	O
+auch	O
+als	O
+Fantasy	O
+bekannt	O
+ist	O
+und	O
+aus	O
+GHB	O
+(	O
+Gammahydroxybuttersäure	O
+)	O
+besteht	O
+.	O
+
+# sent_id = de_wiki_MDMA-72
+# text = Diese Substanz wird meistens in flüssiger Form gehandelt und unterscheidet sich sowohl in ihrer Wirkung als auch in ihrer chemischen Zusammensetzung stark von MDMA . 
+Diese	O
+Substanz	O
+wird	O
+meistens	O
+in	O
+flüssiger	O
+Form	O
+gehandelt	O
+und	O
+unterscheidet	O
+sich	O
+sowohl	O
+in	O
+ihrer	O
+Wirkung	O
+als	O
+auch	O
+in	O
+ihrer	O
+chemischen	O
+Zusammensetzung	O
+stark	O
+von	O
+MDMA	O
+.	O
+
+# sent_id = de_wiki_MDMA-73
+# text = In jüngster Zeit wird MDMA insbesondere in den USA auch mit dem Begriff " Molly " ( nicht zu verwechseln mit der sagenhaften Zauberpflanze Moly ) in Verbindung gebracht . 
+In	O
+jüngster	O
+Zeit	O
+wird	O
+MDMA	O
+insbesondere	O
+in	O
+den	O
+USA	B-LOC
+auch	O
+mit	O
+dem	O
+Begriff	O
+"	O
+Molly	O
+"	O
+(	O
+nicht	O
+zu	O
+verwechseln	O
+mit	O
+der	O
+sagenhaften	O
+Zauberpflanze	O
+Moly	O
+)	O
+in	O
+Verbindung	O
+gebracht	O
+.	O
+
+# sent_id = de_wiki_MDMA-74
+# text = Angestoßen wurde der Trend insbesondere durch Künstler wie Miley Cyrus , Kanye West oder Madonna , die den Begriff durch öffentliche Äußerungen oder sogar in Songtexten bekannt gemacht haben . 
+Angestoßen	O
+wurde	O
+der	O
+Trend	O
+insbesondere	O
+durch	O
+Künstler	O
+wie	O
+Miley	B-PER
+Cyrus	I-PER
+,	O
+Kanye	B-PER
+West	I-PER
+oder	O
+Madonna	B-PER
+,	O
+die	O
+den	O
+Begriff	O
+durch	O
+öffentliche	O
+Äußerungen	O
+oder	O
+sogar	O
+in	O
+Songtexten	O
+bekannt	O
+gemacht	O
+haben	O
+.	O
+
+# sent_id = de_wiki_MDMA-75
+# text = Bei Molly handelt es sich in der Regel um ein illegal vertriebenes Pulver , welches mitunter sogar als „ reine Form von MDMA “ beworben wird . 
+Bei	O
+Molly	O
+handelt	O
+es	O
+sich	O
+in	O
+der	O
+Regel	O
+um	O
+ein	O
+illegal	O
+vertriebenes	O
+Pulver	O
+,	O
+welches	O
+mitunter	O
+sogar	O
+als	O
+„	O
+reine	O
+Form	O
+von	O
+MDMA	O
+“	O
+beworben	O
+wird	O
+.	O
+
+# sent_id = de_wiki_MDMA-76
+# text = Letzteres geschieht insbesondere in Abgrenzung zu Ecstasy – welches schon seit Jahrzehnten nicht mehr ausschließlich MDMA enthalten muss . 
+Letzteres	O
+geschieht	O
+insbesondere	O
+in	O
+Abgrenzung	O
+zu	O
+Ecstasy	O
+–	O
+welches	O
+schon	O
+seit	O
+Jahrzehnten	O
+nicht	O
+mehr	O
+ausschließlich	O
+MDMA	O
+enthalten	O
+muss	O
+.	O
+
+# sent_id = de_wiki_MDMA-77
+# text = Tatsächlich enthalten die als " Molly " vertriebenen Produkte aber zumindest ersten Stichproben zufolge sogar noch seltener MDMA , als dies bei Ecstasy der Fall ist . 
+Tatsächlich	O
+enthalten	O
+die	O
+als	O
+"	O
+Molly	O
+"	O
+vertriebenen	O
+Produkte	O
+aber	O
+zumindest	O
+ersten	O
+Stichproben	O
+zufolge	O
+sogar	O
+noch	O
+seltener	O
+MDMA	O
+,	O
+als	O
+dies	O
+bei	O
+Ecstasy	O
+der	O
+Fall	O
+ist	O
+.	O
+
+# sent_id = de_wiki_MDMA-78
+# text = Laut der US-Drogenvollzugsbehörde DEA enthielten die zwischen etwa 2009 und 2013 im US-Bundesstaat New York sichergestellten " Molly " -Produkte nur in 13 Prozent der Fälle MDMA , und in diesen Fällen oft noch andere Stoffe wie Methylon , MDPV , 4-MEC , 4-MMC , Pentedron oder MePPP . 
+Laut	O
+der	O
+US-Drogenvollzugsbehörde	B-ORG
+DEA	I-ORG
+enthielten	O
+die	O
+zwischen	O
+etwa	O
+2009	O
+und	O
+2013	O
+im	O
+US-Bundesstaat	B-LOCpart
+New	B-LOC
+York	I-LOC
+sichergestellten	O
+"	O
+Molly	O
+"	O
+-Produkte	O
+nur	O
+in	O
+13	O
+Prozent	O
+der	O
+Fälle	O
+MDMA	O
+,	O
+und	O
+in	O
+diesen	O
+Fällen	O
+oft	O
+noch	O
+andere	O
+Stoffe	O
+wie	O
+Methylon	O
+,	O
+MDPV	O
+,	O
+4-MEC	O
+,	O
+4-MMC	O
+,	O
+Pentedron	O
+oder	O
+MePPP	O
+.	O
+
+# sent_id = de_wiki_MDMA-79
+# text = Immer stärkerer Beliebtheit erfreut sich unter Drogenkonsumenten der Konsum von reinem MDMA in kristalliner Form ( Szenenamen u. a. " M " oder " Emma " , unter anderem " pures MD " , früher auch " Cadillac " ) . 
+Immer	O
+stärkerer	O
+Beliebtheit	O
+erfreut	O
+sich	O
+unter	O
+Drogenkonsumenten	O
+der	O
+Konsum	O
+von	O
+reinem	O
+MDMA	O
+in	O
+kristalliner	O
+Form	O
+(	O
+Szenenamen	O
+u.	O
+a.	O
+"	O
+M	O
+"	O
+oder	O
+"	O
+Emma	O
+"	O
+,	O
+unter	O
+anderem	O
+"	O
+pures	O
+MD	O
+"	O
+,	O
+früher	O
+auch	O
+"	O
+Cadillac	O
+"	O
+)	O
+.	O
+
+# sent_id = de_wiki_MDMA-80
+# text = Der Vorteil ist , dass hier neben dem Marquis-Test , der auch bei Pillen prinzipiell anwendbar ist , bei entsprechender Erfahrung auch das Aussehen und der ( nicht vorhandene ) Geruch der Substanz zumindest weitere Indizien für die Echtheit liefern können . 
+Der	O
+Vorteil	O
+ist	O
+,	O
+dass	O
+hier	O
+neben	O
+dem	O
+Marquis-Test	O
+,	O
+der	O
+auch	O
+bei	O
+Pillen	O
+prinzipiell	O
+anwendbar	O
+ist	O
+,	O
+bei	O
+entsprechender	O
+Erfahrung	O
+auch	O
+das	O
+Aussehen	O
+und	O
+der	O
+(	O
+nicht	O
+vorhandene	O
+)	O
+Geruch	O
+der	O
+Substanz	O
+zumindest	O
+weitere	O
+Indizien	O
+für	O
+die	O
+Echtheit	O
+liefern	O
+können	O
+.	O
+
+# sent_id = de_wiki_MDMA-81
+# text = Zudem kann die Dosierung genauer erfolgen . 
+Zudem	O
+kann	O
+die	O
+Dosierung	O
+genauer	O
+erfolgen	O
+.	O
+
+# sent_id = de_wiki_MDMA-82
+# text = MDMA-Kristalle werden oft mit angefeuchtetem Finger „ gedippt “ oder in Getränken aufgelöst und getrunken . 
+MDMA-Kristalle	O
+werden	O
+oft	O
+mit	O
+angefeuchtetem	O
+Finger	O
+„	O
+gedippt	O
+“	O
+oder	O
+in	O
+Getränken	O
+aufgelöst	O
+und	O
+getrunken	O
+.	O
+
+# sent_id = de_wiki_MDMA-83
+# text = Nach Angaben der Deutschen Beobachtungsstelle für Drogen und Drogensucht werden Kristalle tendenziell eher privat „ gehandelt “ , im Vergleich zu Pillen . 
+Nach	O
+Angaben	O
+der	O
+Deutschen	B-ORG
+Beobachtungsstelle	I-ORG
+für	I-ORG
+Drogen	I-ORG
+und	I-ORG
+Drogensucht	I-ORG
+werden	O
+Kristalle	O
+tendenziell	O
+eher	O
+privat	O
+„	O
+gehandelt	O
+“	O
+,	O
+im	O
+Vergleich	O
+zu	O
+Pillen	O
+.	O
+
+# sent_id = de_wiki_MDMA-84
+# text = Aus sieben von acht Szenen aus dem Bereich der elektronischen Musik wird von einer Verbreitung von MDMA-Kristallen berichtet . 
+Aus	O
+sieben	O
+von	O
+acht	O
+Szenen	O
+aus	O
+dem	O
+Bereich	O
+der	O
+elektronischen	O
+Musik	O
+wird	O
+von	O
+einer	O
+Verbreitung	O
+von	O
+MDMA-Kristallen	O
+berichtet	O
+.	O
+
+# sent_id = de_wiki_MDMA-85
+# text = Allgemein sei mit den Kristallen „ eine Vorstellung einer hohen Qualität assoziiert . “ 
+Allgemein	O
+sei	O
+mit	O
+den	O
+Kristallen	O
+„	O
+eine	O
+Vorstellung	O
+einer	O
+hohen	O
+Qualität	O
+assoziiert	O
+.	O
+“	O
+
+# sent_id = de_wiki_MDMA-86
+# text = Die tatsächliche Qualität wird als konstant gut beschrieben . 
+Die	O
+tatsächliche	O
+Qualität	O
+wird	O
+als	O
+konstant	O
+gut	O
+beschrieben	O
+.	O
+
+# sent_id = de_wiki_MDMA-87
+# text = Laut einer Umfrage für den " Zeit-Online-Drogenbericht " im Herbst 2013 , die im Rahmen des " Global Drug Survey " durchgeführt wurde , wurden von den befragten Konsumenten für 1 Gramm reines MDMA angeblich im Durchschnitt 33 Euro bezahlt . 
+Laut	O
+einer	O
+Umfrage	O
+für	O
+den	O
+"	O
+Zeit-Online-Drogenbericht	B-MISC
+"	O
+im	O
+Herbst	O
+2013	O
+,	O
+die	O
+im	O
+Rahmen	O
+des	O
+"	O
+Global	B-MISC
+Drug	I-MISC
+Survey	I-MISC
+"	O
+durchgeführt	O
+wurde	O
+,	O
+wurden	O
+von	O
+den	O
+befragten	O
+Konsumenten	O
+für	O
+1	O
+Gramm	O
+reines	O
+MDMA	O
+angeblich	O
+im	O
+Durchschnitt	O
+33	O
+Euro	O
+bezahlt	O
+.	O
+
+# sent_id = de_wiki_MDMA-88
+# text = Die Deutsche Beobachtungsstelle für Drogen und Drogensucht hat für 2012 jedoch einen Preis von durchschnittlich 50 Euro pro Gramm ermittelt , was in etwa auf dem Preisniveau von 2011 liege . 
+Die	O
+Deutsche	B-ORG
+Beobachtungsstelle	I-ORG
+für	I-ORG
+Drogen	I-ORG
+und	I-ORG
+Drogensucht	I-ORG
+hat	O
+für	O
+2012	O
+jedoch	O
+einen	O
+Preis	O
+von	O
+durchschnittlich	O
+50	O
+Euro	O
+pro	O
+Gramm	O
+ermittelt	O
+,	O
+was	O
+in	O
+etwa	O
+auf	O
+dem	O
+Preisniveau	O
+von	O
+2011	O
+liege	O
+.	O
+
+# sent_id = de_wiki_MDMA-89
+# text = Nicht zu verwechseln sind MDMA-Kristalle ausdrücklich mit der Droge Crystal , wobei der Konsument jedoch ein gewisses Risiko eingeht , bei vorhandenen Sprach- oder Verständnisproblemen versehentlich " Crystal " zu erhalten , wenn er in entsprechenden Kreisen nach " MDMA-Kristallen " verlangt . 
+Nicht	O
+zu	O
+verwechseln	O
+sind	O
+MDMA-Kristalle	O
+ausdrücklich	O
+mit	O
+der	O
+Droge	O
+Crystal	O
+,	O
+wobei	O
+der	O
+Konsument	O
+jedoch	O
+ein	O
+gewisses	O
+Risiko	O
+eingeht	O
+,	O
+bei	O
+vorhandenen	O
+Sprach-	O
+oder	O
+Verständnisproblemen	O
+versehentlich	O
+"	O
+Crystal	O
+"	O
+zu	O
+erhalten	O
+,	O
+wenn	O
+er	O
+in	O
+entsprechenden	O
+Kreisen	O
+nach	O
+"	O
+MDMA-Kristallen	O
+"	O
+verlangt	O
+.	O
+
+# newdoc id = de_wiki_Slayer
+# sent_id = de_wiki_Slayer-1
+# text = Slayer 
+Slayer	B-ORG
+
+# sent_id = de_wiki_Slayer-2
+# text = Slayer ( engl. ‚ Mörder ‘ oder ‚ Schlächter ‘ ) war eine einflussreiche Thrash-Metal-Band aus Huntington Park , Kalifornien . 
+Slayer	B-ORG
+(	O
+engl.	B-LANGderiv
+‚	O
+Mörder	B-ORG
+‘	O
+oder	O
+‚	O
+Schlächter	B-ORG
+‘	O
+)	O
+war	O
+eine	O
+einflussreiche	O
+Thrash-Metal-Band	O
+aus	O
+Huntington	B-LOC
+Park	I-LOC
+,	O
+Kalifornien	B-LOC
+.	O
+
+# sent_id = de_wiki_Slayer-3
+# text = Sie bildete zusammen mit Metallica , Megadeth und Anthrax die „ Big Four “ des Thrash Metal . 
+Sie	O
+bildete	O
+zusammen	O
+mit	O
+Metallica	B-ORG
+,	O
+Megadeth	B-ORG
+und	O
+Anthrax	B-ORG
+die	O
+„	O
+Big	O
+Four	O
+“	O
+des	O
+Thrash	O
+Metal	O
+.	O
+
+# sent_id = de_wiki_Slayer-4
+# text = Aufgrund ihrer Texte sorgte die Band für regelmäßige Kontroversen . 
+Aufgrund	O
+ihrer	O
+Texte	O
+sorgte	O
+die	O
+Band	O
+für	O
+regelmäßige	O
+Kontroversen	O
+.	O
+
+# sent_id = de_wiki_Slayer-5
+# text = Vier Slayer-Alben wurden in den USA mit einer Goldenen Schallplatte ausgezeichnet . 
+Vier	O
+Slayer-Alben	O
+wurden	O
+in	O
+den	O
+USA	O
+mit	O
+einer	O
+Goldenen	B-MISC
+Schallplatte	I-MISC
+ausgezeichnet	O
+.	O
+
+# sent_id = de_wiki_Slayer-6
+# text = 2007 und 2008 erhielt die Band einen Grammy in der Kategorie " Best Metal Performance " . 
+2007	O
+und	O
+2008	O
+erhielt	O
+die	O
+Band	O
+einen	O
+Grammy	B-MISC
+in	O
+der	O
+Kategorie	O
+"	O
+Best	B-MISC
+Metal	I-MISC
+Performance	I-MISC
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-7
+# text = Am 22. Januar 2018 kündete die Band auf Facebook  ihre Auflösung nach einer letzten Welttournee an . 
+Am	O
+22.	O
+Januar	O
+2018	O
+kündete	O
+die	O
+Band	O
+auf	O
+Facebook	B-MISC	#Website/software
+ihre	O
+Auflösung	O
+nach	O
+einer	O
+letzten	O
+Welttournee	O
+an	O
+.	O
+
+# sent_id = de_wiki_Slayer-8
+# text = Anfang Dezember 2019 gab die Band bekannt , dass das am 30. November 2019 gespielte Konzert im The Forum in Inglewood das letzte der Band war . 
+Anfang	O
+Dezember	O
+2019	O
+gab	O
+die	O
+Band	O
+bekannt	O
+,	O
+dass	O
+das	O
+am	O
+30.	O
+November	O
+2019	O
+gespielte	O
+Konzert	O
+im	O
+The	B-LOC
+Forum	I-LOC
+in	O
+Inglewood	B-LOC
+das	O
+letzte	O
+der	O
+Band	O
+war	O
+.	O
+
+# sent_id = de_wiki_Slayer-9
+# text = Slayer wurde im Jahre 1981 von den beiden Gitarristen Kerry King und Jeff Hanneman gegründet . 
+Slayer	B-ORG
+wurde	O
+im	O
+Jahre	O
+1981	O
+von	O
+den	O
+beiden	O
+Gitarristen	O
+Kerry	B-PER
+King	I-PER
+und	O
+Jeff	B-PER
+Hanneman	I-PER
+gegründet	O
+.	O
+
+# sent_id = de_wiki_Slayer-10
+# text = Vervollständigt wurde die Band durch den Schlagzeuger Dave Lombardo sowie durch den Sänger und Bassisten Tom Araya . 
+Vervollständigt	O
+wurde	O
+die	O
+Band	O
+durch	O
+den	O
+Schlagzeuger	O
+Dave	B-PER
+Lombardo	I-PER
+sowie	O
+durch	O
+den	O
+Sänger	O
+und	O
+Bassisten	O
+Tom	B-PER
+Araya	I-PER
+.	O
+
+# sent_id = de_wiki_Slayer-11
+# text = Araya und King spielten zuvor bereits zusammen in der Band " Quits " . 
+Araya	B-PER
+und	O
+King	B-PER
+spielten	O
+zuvor	O
+bereits	O
+zusammen	O
+in	O
+der	O
+Band	O
+"	O
+Quits	B-ORG
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-12
+# text = Zunächst spielte die Band Coverversionen von Iron Maiden und Judas Priest . 
+Zunächst	O
+spielte	O
+die	O
+Band	O
+Coverversionen	O
+von	O
+Iron	B-ORG
+Maiden	I-ORG
+und	O
+Judas	B-ORG
+Priest	I-ORG
+.	O
+
+# sent_id = de_wiki_Slayer-13
+# text = Schon bei den ersten Konzerten frönte die Band durch die Verwendung von Pentagrammen und umgedrehten Kreuzen dem Satanismus . 
+Schon	O
+bei	O
+den	O
+ersten	O
+Konzerten	O
+frönte	O
+die	O
+Band	O
+durch	O
+die	O
+Verwendung	O
+von	O
+Pentagrammen	O
+und	O
+umgedrehten	O
+Kreuzen	O
+dem	O
+Satanismus	B-RELIGION
+.	O
+
+# sent_id = de_wiki_Slayer-14
+# text = Bei einem Konzert im Vorprogramm von Bitch in Los Angeles befand sich Brian Slagel im Publikum . 
+Bei	O
+einem	O
+Konzert	O
+im	O
+Vorprogramm	O
+von	O
+Bitch	B-ORG
+in	O
+Los	B-LOC
+Angeles	I-LOC
+befand	O
+sich	O
+Brian	B-PER
+Slagel	I-PER
+im	O
+Publikum	O
+.	O
+
+# sent_id = de_wiki_Slayer-15
+# text = Slagel war ein ehemaliger Musikjournalist und hatte kurz zuvor die Plattenfirma Metal Blade Records gegründet . 
+Slagel	B-PER
+war	O
+ein	O
+ehemaliger	O
+Musikjournalist	O
+und	O
+hatte	O
+kurz	O
+zuvor	O
+die	O
+Plattenfirma	O
+Metal	B-ORG
+Blade	I-ORG
+Records	I-ORG
+gegründet	O
+.	O
+
+# sent_id = de_wiki_Slayer-16
+# text = Vom Konzert beeindruckt bot Slagel Slayer einen Platz auf seiner Kompilation " Metal Massacre III " an . 
+Vom	O
+Konzert	O
+beeindruckt	O
+bot	O
+Slagel	B-PER
+Slayer	B-ORG
+einen	O
+Platz	O
+auf	O
+seiner	O
+Kompilation	O
+"	O
+Metal	B-WOA
+Massacre	I-WOA
+III	I-WOA
+"	O
+an	O
+.	O
+
+# sent_id = de_wiki_Slayer-17
+# text = Slayer nahmen hierfür das Lied " Aggressive Perfector " auf . 
+Slayer	B-ORG
+nahmen	O
+hierfür	O
+das	O
+Lied	O
+"	O
+Aggressive	B-WOA
+Perfector	I-WOA
+"	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-18
+# text = Aufgrund der guten Reaktionen aus der Szene bot Slagel der Band schließlich einen Vertrag an . 
+Aufgrund	O
+der	O
+guten	O
+Reaktionen	O
+aus	O
+der	O
+Szene	O
+bot	O
+Slagel	B-PER
+der	O
+Band	O
+schließlich	O
+einen	O
+Vertrag	O
+an	O
+.	O
+
+# sent_id = de_wiki_Slayer-19
+# text = Im November 1983 gingen Slayer ins Studio , um ihr Debüt " Show No Mercy " aufzunehmen . 
+Im	O
+November	O
+1983	O
+gingen	O
+Slayer	B-ORG
+ins	O
+Studio	O
+,	O
+um	O
+ihr	O
+Debüt	O
+"	O
+Show	B-WOA
+No	I-WOA
+Mercy	I-WOA
+"	O
+aufzunehmen	O
+.	O
+
+# sent_id = de_wiki_Slayer-20
+# text = Da der Band kein Aufnahmebudget zur Verfügung gestellt wurde , musste sie die Kosten selbst tragen . 
+Da	O
+der	O
+Band	O
+kein	O
+Aufnahmebudget	O
+zur	O
+Verfügung	O
+gestellt	O
+wurde	O
+,	O
+musste	O
+sie	O
+die	O
+Kosten	O
+selbst	O
+tragen	O
+.	O
+
+# sent_id = de_wiki_Slayer-21
+# text = Drei Wochen nach Beendigung der Aufnahmen wurde das Album veröffentlicht . 
+Drei	O
+Wochen	O
+nach	O
+Beendigung	O
+der	O
+Aufnahmen	O
+wurde	O
+das	O
+Album	O
+veröffentlicht	O
+.	O
+
+# sent_id = de_wiki_Slayer-22
+# text = Im Underground konnten sich Slayer mit dem Debüt einen Namen machen und wurden neben Venom und Metallica als Neuentdeckung in der extremen Metalszene gefeiert . 
+Im	O
+Underground	O
+konnten	O
+sich	O
+Slayer	B-ORG
+mit	O
+dem	O
+Debüt	O
+einen	O
+Namen	O
+machen	O
+und	O
+wurden	O
+neben	O
+Venom	B-ORG
+und	O
+Metallica	B-ORG
+als	O
+Neuentdeckung	O
+in	O
+der	O
+extremen	O
+Metalszene	O
+gefeiert	O
+.	O
+
+# sent_id = de_wiki_Slayer-23
+# text = Anfang 1984 ging die Band auf ihre erste US-Tournee . 
+Anfang	O
+1984	O
+ging	O
+die	O
+Band	O
+auf	O
+ihre	O
+erste	O
+US-Tournee	O
+.	O
+
+# sent_id = de_wiki_Slayer-24
+# text = Im August 1984 schoben Slayer die EP " Haunting the Chapel " nach . 
+Im	O
+August	O
+1984	O
+schoben	O
+Slayer	O
+die	O
+EP	O
+"	O
+Haunting	B-WOA
+the	I-WOA
+Chapel	I-WOA
+"	O
+nach	O
+.	O
+
+# sent_id = de_wiki_Slayer-25
+# text = Musikalisch fallen die drei Lieder darauf dunkler und härter als die Lieder auf dem Debütalbum aus . 
+Musikalisch	O
+fallen	O
+die	O
+drei	O
+Lieder	O
+darauf	O
+dunkler	O
+und	O
+härter	O
+als	O
+die	O
+Lieder	O
+auf	O
+dem	O
+Debütalbum	O
+aus	O
+.	O
+
+# sent_id = de_wiki_Slayer-26
+# text = Damit legte Slayer den Grundstein für ihre spätere musikalische Ausrichtung . 
+Damit	O
+legte	O
+Slayer	B-ORG
+den	O
+Grundstein	O
+für	O
+ihre	O
+spätere	O
+musikalische	O
+Ausrichtung	O
+.	O
+
+# sent_id = de_wiki_Slayer-27
+# text = Da Metal Blade zur damaligen Zeit noch kein weltweites Vertriebsnetz hatte , waren Slayer in Europa nur im Untergrund bekannt . 
+Da	O
+Metal	B-ORG
+Blade	I-ORG
+zur	O
+damaligen	O
+Zeit	O
+noch	O
+kein	O
+weltweites	O
+Vertriebsnetz	O
+hatte	O
+,	O
+waren	O
+Slayer	B-ORG
+in	O
+Europa	B-LOC
+nur	O
+im	O
+Untergrund	O
+bekannt	O
+.	O
+
+# sent_id = de_wiki_Slayer-28
+# text = Unter den Fans kursierten bei Konzerten mitgeschnittene Bootlegs . 
+Unter	O
+den	O
+Fans	O
+kursierten	O
+bei	O
+Konzerten	O
+mitgeschnittene	O
+Bootlegs	O
+.	O
+
+# sent_id = de_wiki_Slayer-29
+# text = King verließ Slayer , um sich Dave Mustaines neuer Band Megadeth anzuschließen , kehrte allerdings bereits nach nur fünf Konzerten mit der Band wieder zurück . 
+King	O
+verließ	O
+Slayer	B-ORG
+,	O
+um	O
+sich	O
+Dave	B-PER
+Mustaines	I-PER
+neuer	O
+Band	O
+Megadeth	B-ORG
+anzuschließen	O
+,	O
+kehrte	O
+allerdings	O
+bereits	O
+nach	O
+nur	O
+fünf	O
+Konzerten	O
+mit	O
+der	O
+Band	O
+wieder	O
+zurück	O
+.	O
+
+# sent_id = de_wiki_Slayer-30
+# text = Für Slayer folgte die " 1984 Combat Tour " mit Venom und Exodus , bevor im November das Live-Minialbum " Live Undead " erschien . 
+Für	O
+Slayer	B-ORG
+folgte	O
+die	O
+"	O
+1984	B-EVENT
+Combat	I-EVENT
+Tour	I-EVENT
+"	O
+mit	O
+Venom	B-ORG
+und	O
+Exodus	B-ORG
+,	O
+bevor	O
+im	O
+November	O
+das	O
+Live-Minialbum	O
+"	O
+Live	B-WOA
+Undead	I-WOA
+"	O
+erschien	O
+.	O
+
+# sent_id = de_wiki_Slayer-31
+# text = Dieses Album wurde in einem Studio vor einer Handvoll Fans aufgenommen und enthält sieben Lieder . 
+Dieses	O
+Album	O
+wurde	O
+in	O
+einem	O
+Studio	O
+vor	O
+einer	O
+Handvoll	O
+Fans	O
+aufgenommen	O
+und	O
+enthält	O
+sieben	O
+Lieder	O
+.	O
+
+# sent_id = de_wiki_Slayer-32
+# text = Wenige Jahre später veröffentlichte eine Band namens The Undead ein Live-Album unter dem Namen " Live Slayer " . 
+Wenige	O
+Jahre	O
+später	O
+veröffentlichte	O
+eine	O
+Band	O
+namens	O
+The	B-ORG
+Undead	I-ORG
+ein	O
+Live-Album	O
+unter	O
+dem	O
+Namen	O
+"	O
+Live	B-WOA
+Slayer	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-33
+# text = Das Konzert in New York wurde aufgezeichnet und ein Jahr später unter dem Namen " Combat Tour : The Ultimate Revenge " auf Video veröffentlicht . 
+Das	O
+Konzert	O
+in	O
+New	B-LOC
+York	I-LOC
+wurde	O
+aufgezeichnet	O
+und	O
+ein	O
+Jahr	O
+später	O
+unter	O
+dem	O
+Namen	O
+"	O
+Combat	B-WOA
+Tour	I-WOA
+:	I-WOA
+The	I-WOA
+Ultimate	I-WOA
+Revenge	I-WOA
+"	O
+auf	O
+Video	O
+veröffentlicht	O
+.	O
+
+# sent_id = de_wiki_Slayer-34
+# text = Im Sommer 1985 spielten Slayer in Belgien ihr erstes Europakonzert . 
+Im	O
+Sommer	O
+1985	O
+spielten	O
+Slayer	B-ORG
+in	O
+Belgien	B-LOC
+ihr	O
+erstes	O
+Europakonzert	O
+.	O
+
+# sent_id = de_wiki_Slayer-35
+# text = " Show No Mercy " hatte sich in der Zwischenzeit ca. 40.000 Mal in den USA verkauft und Slayer gingen erneut ins Studio , um ihr zweites Album " Hell Awaits " aufzunehmen . 
+"	O
+Show	B-WOA
+No	I-WOA
+Mercy	I-WOA
+"	O
+hatte	O
+sich	O
+in	O
+der	O
+Zwischenzeit	O
+ca.	O
+40.000	O
+Mal	O
+in	O
+den	O
+USA	O
+verkauft	O
+und	O
+Slayer	B-ORG
+gingen	O
+erneut	O
+ins	O
+Studio	O
+,	O
+um	O
+ihr	O
+zweites	O
+Album	O
+"	O
+Hell	B-WOA
+Awaits	I-WOA
+"	O
+aufzunehmen	O
+.	O
+
+# sent_id = de_wiki_Slayer-36
+# text = Wegen der guten Verkäufe stellte Metal Blade ein Budget zur Verfügung , so dass sie sich mit Ron Fair einen Produzenten leisten konnten . 
+Wegen	O
+der	O
+guten	O
+Verkäufe	O
+stellte	O
+Metal	B-ORG
+Blade	I-ORG
+ein	O
+Budget	O
+zur	O
+Verfügung	O
+,	O
+so	O
+dass	O
+sie	O
+sich	O
+mit	O
+Ron	B-PER
+Fair	I-PER
+einen	O
+Produzenten	O
+leisten	O
+konnten	O
+.	O
+
+# sent_id = de_wiki_Slayer-37
+# text = " Hell Awaits " erschien im September und setzte die auf " Haunting the Chapel " eingeschlagene Linie fort . 
+"	O
+Hell	B-WOA
+Awaits	I-WOA
+"	O
+erschien	O
+im	O
+September	O
+und	O
+setzte	O
+die	O
+auf	O
+"	O
+Haunting	B-WOA
+the	I-WOA
+Chapel	I-WOA
+"	O
+eingeschlagene	O
+Linie	O
+fort	O
+.	O
+
+# sent_id = de_wiki_Slayer-38
+# text = Das Album enthielt längere und komplexere Lieder und gilt deshalb heute als das progressivste Werk der Band . 
+Das	O
+Album	O
+enthielt	O
+längere	O
+und	O
+komplexere	O
+Lieder	O
+und	O
+gilt	O
+deshalb	O
+heute	O
+als	O
+das	O
+progressivste	O
+Werk	O
+der	O
+Band	O
+.	O
+
+# sent_id = de_wiki_Slayer-39
+# text = Durch die guten Verkaufszahlen von " Hell Awaits " erhielten Slayer ein Angebot von Rick Rubins neu gegründeter Plattenfirma Def Jam Records . 
+Durch	O
+die	O
+guten	O
+Verkaufszahlen	O
+von	O
+"	O
+Hell	B-WOA
+Awaits	I-WOA
+"	O
+erhielten	O
+Slayer	B-ORG
+ein	O
+Angebot	O
+von	O
+Rick	B-PER
+Rubins	I-PER
+neu	O
+gegründeter	O
+Plattenfirma	O
+Def	B-ORG
+Jam	I-ORG
+Records	I-ORG
+.	O
+
+# sent_id = de_wiki_Slayer-40
+# text = Auch wenn Def Jam zu dieser Zeit in erster Linie Rap- und Hip-Hop-Künstler unter Vertrag hatte , akzeptierte die Band das Angebot . 
+Auch	O
+wenn	O
+Def	B-ORG
+Jam	I-ORG
+zu	O
+dieser	O
+Zeit	O
+in	O
+erster	O
+Linie	O
+Rap-	O
+und	O
+Hip-Hop-Künstler	O
+unter	O
+Vertrag	O
+hatte	O
+,	O
+akzeptierte	O
+die	O
+Band	O
+das	O
+Angebot	O
+.	O
+
+# sent_id = de_wiki_Slayer-41
+# text = Nach den langen und komplexen Liedern auf dem Vorgängeralbum schrieben Slayer nun kürzere und schnellere Lieder für das kommende Album " Reign in Blood " , das Rubin selbst produzierte . 
+Nach	O
+den	O
+langen	O
+und	O
+komplexen	O
+Liedern	O
+auf	O
+dem	O
+Vorgängeralbum	O
+schrieben	O
+Slayer	B-ORG
+nun	O
+kürzere	O
+und	O
+schnellere	O
+Lieder	O
+für	O
+das	O
+kommende	O
+Album	O
+"	O
+Reign	B-WOA
+in	I-WOA
+Blood	I-WOA
+"	O
+,	O
+das	O
+Rubin	B-PER
+selbst	O
+produzierte	O
+.	O
+
+# sent_id = de_wiki_Slayer-42
+# text = Def Jams Vertriebspartner Columbia Records lehnte die Veröffentlichung des Albums ab . 
+Def	B-ORG
+Jams	I-ORG
+Vertriebspartner	O
+Columbia	B-ORG
+Records	I-ORG
+lehnte	O
+die	O
+Veröffentlichung	O
+des	O
+Albums	O
+ab	O
+.	O
+
+# sent_id = de_wiki_Slayer-43
+# text = Hauptgrund hierfür waren das Coverartwork und insbesondere der Text des Liedes " Angel of Death " . 
+Hauptgrund	O
+hierfür	O
+waren	O
+das	O
+Coverartwork	O
+und	O
+insbesondere	O
+der	O
+Text	O
+des	O
+Liedes	O
+"	O
+Angel	B-WOA
+of	I-WOA
+Death	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-44
+# text = In diesem Lied geht es um die Menschenversuche des KZ-Arztes Josef Mengele . 
+In	O
+diesem	O
+Lied	O
+geht	O
+es	O
+um	O
+die	O
+Menschenversuche	O
+des	O
+KZ-Arztes	O
+Josef	B-PER
+Mengele	I-PER
+.	O
+
+# sent_id = de_wiki_Slayer-45
+# text = Schließlich wurde das Album am 7. Oktober 1986 von Geffen Records , die Slayer in der Zwischenzeit unter Vertrag genommen hatten , veröffentlicht . 
+Schließlich	O
+wurde	O
+das	O
+Album	O
+am	O
+7.	O
+Oktober	O
+1986	O
+von	O
+Geffen	B-ORG
+Records	I-ORG
+,	O
+die	O
+Slayer	B-ORG
+in	O
+der	O
+Zwischenzeit	O
+unter	O
+Vertrag	O
+genommen	O
+hatten	O
+,	O
+veröffentlicht	O
+.	O
+
+# sent_id = de_wiki_Slayer-46
+# text = Es stieg auf Platz 94 der US-amerikanischen Albumcharts ein , entwickelte sich zum Longseller und wurde schließlich im November 1992 als erstes Slayeralbum  mit einer Goldenen Schallplatte ausgezeichnet . 
+Es	O
+stieg	O
+auf	O
+Platz	O
+94	O
+der	O
+US-amerikanischen	B-LOCderiv
+Albumcharts	O
+ein	O
+,	O
+entwickelte	O
+sich	O
+zum	O
+Longseller	O
+und	O
+wurde	O
+schließlich	O
+im	O
+November	O
+1992	O
+als	O
+erstes	O
+Slayeralbum	O	#B-ORGpart
+mit	O
+einer	O
+Goldenen	B-MISC
+Schallplatte	I-MISC
+ausgezeichnet	O
+.	O
+
+# sent_id = de_wiki_Slayer-47
+# text = Im Oktober 1986 begann die " Reign-in-Pain " -Welttournee mit Overkill in den USA und Malice in Europa . 
+Im	O
+Oktober	O
+1986	O
+begann	O
+die	O
+"	O
+Reign-in-Pain	B-EVENT
+"	O
+-Welttournee	O
+mit	O
+Overkill	B-ORG
+in	O
+den	O
+USA	B-LOC
+und	O
+Malice	B-ORG
+in	O
+Europa	B-LOC
+.	O
+
+# sent_id = de_wiki_Slayer-48
+# text = Nach der Tournee folgte eine weitere Tour im Vorprogramm von W. A. S. P. Nach einem Monat stieg Dave Lombardo aus finanziellen Gründen vorerst aus der Band aus . 
+Nach	O
+der	O
+Tournee	O
+folgte	O
+eine	O
+weitere	O
+Tour	O
+im	O
+Vorprogramm	O
+von	O
+W.	B-ORG
+A.	I-ORG
+S.	I-ORG
+P.	I-ORG
+Nach	O
+einem	O
+Monat	O
+stieg	O
+Dave	B-PER
+Lombardo	I-PER
+aus	O
+finanziellen	O
+Gründen	O
+vorerst	O
+aus	O
+der	O
+Band	O
+aus	O
+.	O
+
+# sent_id = de_wiki_Slayer-49
+# text = Für den Rest der Tour saß Tony Scaglione von Whiplash hinter dem Schlagzeug . 
+Für	O
+den	O
+Rest	O
+der	O
+Tour	O
+saß	O
+Tony	B-PER
+Scaglione	I-PER
+von	O
+Whiplash	B-ORG
+hinter	O
+dem	O
+Schlagzeug	O
+.	O
+
+# sent_id = de_wiki_Slayer-50
+# text = Slayer steuerten außerdem 1986 den Soundtrack zum Film " River's Edge " von Tim Hunter bei , der als bester Film die Independent  Spirit Awards 1988 gewann . 
+Slayer	B-ORG
+steuerten	O
+außerdem	O
+1986	O
+den	O
+Soundtrack	O
+zum	O
+Film	O
+"	O
+River's	B-WOA
+Edge	I-WOA
+"	O
+von	O
+Tim	B-PER
+Hunter	I-PER
+bei	O
+,	O
+der	O
+als	O
+bester	O
+Film	O
+die	O
+Independent	B-MISC	#B-EVENT?
+Spirit	I-MISC
+Awards	I-MISC
+1988	I-MISC
+gewann	O
+.	O
+
+# sent_id = de_wiki_Slayer-51
+# text = 1987 kehrte Lombardo wieder zurück . 
+1987	O
+kehrte	O
+Lombardo	B-PER
+wieder	O
+zurück	O
+.	O
+
+# sent_id = de_wiki_Slayer-52
+# text = Slayer nahmen eine Coverversion des Iron-Butterfly-Liedes  " In-A-Gadda-Da-Vida " für den Film " Less Than Zero " auf . 
+Slayer	B-ORG
+nahmen	O
+eine	O
+Coverversion	O
+des	O
+Iron-Butterfly-Liedes	O	#B-ORGpart
+"	O
+In-A-Gadda-Da-Vida	B-WOA
+"	O
+für	O
+den	O
+Film	O
+"	O
+Less	B-WOA
+Than	I-WOA
+Zero	I-WOA
+"	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-53
+# text = Auch wenn die Band mit dem Ergebnis nicht zufrieden war , war diese Coverversion das erste Slayer-Lied  , welches im Radio gespielt wurde . 
+Auch	O
+wenn	O
+die	O
+Band	O
+mit	O
+dem	O
+Ergebnis	O
+nicht	O
+zufrieden	O
+war	O
+,	O
+war	O
+diese	O
+Coverversion	O
+das	O
+erste	O
+Slayer-Lied	O	#B-ORGderiv
+,	O
+welches	O
+im	O
+Radio	O
+gespielt	O
+wurde	O
+.	O
+
+# sent_id = de_wiki_Slayer-54
+# text = Slayer kehrten ins Studio zurück , um ihr viertes Album " South of Heaven " aufzunehmen . 
+Slayer	B-ORG
+kehrten	O
+ins	O
+Studio	O
+zurück	O
+,	O
+um	O
+ihr	O
+viertes	O
+Album	O
+"	O
+South	B-WOA
+of	I-WOA
+Heaven	I-WOA
+"	O
+aufzunehmen	O
+.	O
+
+# sent_id = de_wiki_Slayer-55
+# text = Um einen Kontrast zu der hohen Geschwindigkeit auf dem Vorgängeralbum zu schaffen , entschied sich die Band , das Tempo zu drosseln und mehr auf melodischen Gesang zu setzen : 
+Um	O
+einen	O
+Kontrast	O
+zu	O
+der	O
+hohen	O
+Geschwindigkeit	O
+auf	O
+dem	O
+Vorgängeralbum	O
+zu	O
+schaffen	O
+,	O
+entschied	O
+sich	O
+die	O
+Band	O
+,	O
+das	O
+Tempo	O
+zu	O
+drosseln	O
+und	O
+mehr	O
+auf	O
+melodischen	O
+Gesang	O
+zu	O
+setzen	O
+:	O
+
+# sent_id = de_wiki_Slayer-56
+# text = " South of Heaven " erschien 1988 und belegte Platz 57 in den US-amerikanischen Albumcharts . 
+"	O
+South	B-WOA
+of	I-WOA
+Heaven	I-WOA
+"	O
+erschien	O
+1988	O
+und	O
+belegte	O
+Platz	O
+57	O
+in	O
+den	O
+US-amerikanischen	B-LOCderiv
+Albumcharts	O
+.	O
+
+# sent_id = de_wiki_Slayer-57
+# text = Es wurde wie sein Vorgänger mit einer Goldenen Schallplatte ausgezeichnet . 
+Es	O
+wurde	O
+wie	O
+sein	O
+Vorgänger	O
+mit	O
+einer	O
+Goldenen	B-MISC
+Schallplatte	I-MISC
+ausgezeichnet	O
+.	O
+
+# sent_id = de_wiki_Slayer-58
+# text = Von den Fans und der Presse wurde das Album allerdings gemischt aufgenommen . 
+Von	O
+den	O
+Fans	O
+und	O
+der	O
+Presse	O
+wurde	O
+das	O
+Album	O
+allerdings	O
+gemischt	O
+aufgenommen	O
+.	O
+
+# sent_id = de_wiki_Slayer-59
+# text = Auf diesem Album zollten die Musiker auch ihrem Vorbild Judas Priest Tribut und gaben mit ihrer Version von " Dissident Aggressor " einen Einblick in ihre Entwicklungsgeschichte . 
+Auf	O
+diesem	O
+Album	O
+zollten	O
+die	O
+Musiker	O
+auch	O
+ihrem	O
+Vorbild	O
+Judas	B-ORG
+Priest	I-ORG
+Tribut	O
+und	O
+gaben	O
+mit	O
+ihrer	O
+Version	O
+von	O
+"	O
+Dissident	B-WOA
+Aggressor	I-WOA
+"	O
+einen	O
+Einblick	O
+in	O
+ihre	O
+Entwicklungsgeschichte	O
+.	O
+
+# sent_id = de_wiki_Slayer-60
+# text = 1989 begannen die Aufnahmen für das fünfte Studioalbum . 
+1989	O
+begannen	O
+die	O
+Aufnahmen	O
+für	O
+das	O
+fünfte	O
+Studioalbum	O
+.	O
+
+# sent_id = de_wiki_Slayer-61
+# text = Als Co-Produzent wurde Andy Wallace verpflichtet . 
+Als	O
+Co-Produzent	O
+wurde	O
+Andy	B-PER
+Wallace	I-PER
+verpflichtet	O
+.	O
+
+# sent_id = de_wiki_Slayer-62
+# text = " Seasons in the Abyss " wurde im Oktober 1990 von Rick Rubins neuer Plattenfirma Def American veröffentlicht . 
+"	O
+Seasons	B-WOA
+in	I-WOA
+the	I-WOA
+Abyss	I-WOA
+"	O
+wurde	O
+im	O
+Oktober	O
+1990	O
+von	O
+Rick	B-PER
+Rubins	I-PER
+neuer	O
+Plattenfirma	O
+Def	B-ORG
+American	I-ORG
+veröffentlicht	O
+.	O
+
+# sent_id = de_wiki_Slayer-63
+# text = Das Album stieg auf Platz 44 in den US-amerikanischen Charts ein und wurde 1993 mit einer goldenen Schallplatte ausgezeichnet . 
+Das	O
+Album	O
+stieg	O
+auf	O
+Platz	O
+44	O
+in	O
+den	O
+US-amerikanischen	B-LOCderiv
+Charts	O
+ein	O
+und	O
+wurde	O
+1993	O
+mit	O
+einer	O
+goldenen	B-MISC
+Schallplatte	I-MISC
+ausgezeichnet	O
+.	O
+
+# sent_id = de_wiki_Slayer-64
+# text = Für das Titellied nahm die Band ihr erstes Musikvideo auf . 
+Für	O
+das	O
+Titellied	O
+nahm	O
+die	O
+Band	O
+ihr	O
+erstes	O
+Musikvideo	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-65
+# text = Dafür flog die Band kurz vor dem zweiten Golfkrieg nach Ägypten zu den Pyramiden von Gizeh . 
+Dafür	O
+flog	O
+die	O
+Band	O
+kurz	O
+vor	O
+dem	O
+zweiten	B-EVENT
+Golfkrieg	I-EVENT
+nach	O
+Ägypten	B-LOC
+zu	O
+den	O
+Pyramiden	B-LOC
+von	I-LOC
+Gizeh	I-LOC
+.	O
+
+# sent_id = de_wiki_Slayer-66
+# text = Ein weiteres Video wurde für " War Ensemble " in London gedreht . 
+Ein	O
+weiteres	O
+Video	O
+wurde	O
+für	O
+"	O
+War	B-WOA
+Ensemble	I-WOA
+"	O
+in	O
+London	B-LOC
+gedreht	O
+.	O
+
+# sent_id = de_wiki_Slayer-67
+# text = Bereits einen Monat vor der Albumveröffentlichung begann die " Clash-of-the-Titans " -Tournee in Europa . 
+Bereits	O
+einen	O
+Monat	O
+vor	O
+der	O
+Albumveröffentlichung	O
+begann	O
+die	O
+"	O
+Clash-of-the-Titans	B-EVENT
+"	O
+-Tournee	O
+in	O
+Europa	B-LOC
+.	O
+
+# sent_id = de_wiki_Slayer-68
+# text = Neben Slayer nahmen Megadeth , die Suicidal Tendencies und Testament teil . 
+Neben	O
+Slayer	B-ORG
+nahmen	O
+Megadeth	B-ORG
+,	O
+die	O
+Suicidal	B-ORG
+Tendencies	I-ORG
+und	O
+Testament	B-ORG
+teil	O
+.	O
+
+# sent_id = de_wiki_Slayer-69
+# text = Die Popularität des Thrash Metals befand sich zu dieser Zeit auf einem Gipfelpunkt , und so wurde die Tour im Mai 1991 in Nordamerika fortgeführt . 
+Die	O
+Popularität	O
+des	O
+Thrash	O
+Metals	O
+befand	O
+sich	O
+zu	O
+dieser	O
+Zeit	O
+auf	O
+einem	O
+Gipfelpunkt	O
+,	O
+und	O
+so	O
+wurde	O
+die	O
+Tour	O
+im	O
+Mai	O
+1991	O
+in	O
+Nordamerika	B-LOC
+fortgeführt	O
+.	O
+
+# sent_id = de_wiki_Slayer-70
+# text = Statt der Suicidal Tendencies und Testament nahmen dieses Mal Anthrax und Alice in Chains teil . 
+Statt	O
+der	O
+Suicidal	B-ORG
+Tendencies	I-ORG
+und	O
+Testament	B-ORG
+nahmen	O
+dieses	O
+Mal	O
+Anthrax	B-ORG
+und	O
+Alice	B-ORG
+in	I-ORG
+Chains	I-ORG
+teil	O
+.	O
+
+# sent_id = de_wiki_Slayer-71
+# text = Auf der Tour schnitten Slayer einige Konzerte mit und veröffentlichten 1991 das Live-Doppelalbum " Decade of Aggression " , um ihr zehnjähriges Bestehen zu feiern . 
+Auf	O
+der	O
+Tour	O
+schnitten	O
+Slayer	B-ORG
+einige	O
+Konzerte	O
+mit	O
+und	O
+veröffentlichten	O
+1991	O
+das	O
+Live-Doppelalbum	O
+"	O
+Decade	B-WOA
+of	I-WOA
+Aggression	I-WOA
+"	O
+,	O
+um	O
+ihr	O
+zehnjähriges	O
+Bestehen	O
+zu	O
+feiern	O
+.	O
+
+# sent_id = de_wiki_Slayer-72
+# text = Das Album stieg auf Platz 55 der US-amerikanischen Albumcharts ein . 
+Das	O
+Album	O
+stieg	O
+auf	O
+Platz	O
+55	O
+der	O
+US-amerikanischen	B-LOCderiv
+Albumcharts	O
+ein	O
+.	O
+
+# sent_id = de_wiki_Slayer-73
+# text = Im Mai 1992 wurde Dave Lombardo wegen diverser Konflikte aus der Band herausgeworfen . 
+Im	O
+Mai	O
+1992	O
+wurde	O
+Dave	B-PER
+Lombardo	I-PER
+wegen	O
+diverser	O
+Konflikte	O
+aus	O
+der	O
+Band	O
+herausgeworfen	O
+.	O
+
+# sent_id = de_wiki_Slayer-74
+# text = Diese gab dafür als Grund an , das Schlagzeugspiel Lombardos würde den Ansprüchen der Band nicht mehr genügen ( wörtlich : „ Es wäre nicht mehr tight genug . “ ) . 
+Diese	O
+gab	O
+dafür	O
+als	O
+Grund	O
+an	O
+,	O
+das	O
+Schlagzeugspiel	O
+Lombardos	B-PER
+würde	O
+den	O
+Ansprüchen	O
+der	O
+Band	O
+nicht	O
+mehr	O
+genügen	O
+(	O
+wörtlich	O
+:	O
+„	O
+Es	O
+wäre	O
+nicht	O
+mehr	O
+tight	O
+genug	O
+.	O
+“	O
+)	O
+.	O
+
+# sent_id = de_wiki_Slayer-75
+# text = Lombardo spielte daraufhin u. a. auf Phillip Boas Metal-Projekt Voodoocult und gründete später die Band Grip Inc. Seine Kollaborationen mit John Zorn und die mit Mike Patton gegründeten Fantômas fanden auch außerhalb des Metal-Bereichs Beachtung . 
+Lombardo	B-PER
+spielte	O
+daraufhin	O
+u.	O
+a.	O
+auf	O
+Phillip	B-PER
+Boas	I-PER
+Metal-Projekt	O
+Voodoocult	B-MISC
+und	O
+gründete	O
+später	O
+die	O
+Band	O
+Grip	B-ORG
+Inc.	I-ORG
+Seine	O
+Kollaborationen	O
+mit	O
+John	B-PER
+Zorn	I-PER
+und	O
+die	O
+mit	O
+Mike	B-PER
+Patton	I-PER
+gegründeten	O
+Fantômas	B-ORG
+fanden	O
+auch	O
+außerhalb	O
+des	O
+Metal-Bereichs	O
+Beachtung	O
+.	O
+
+# sent_id = de_wiki_Slayer-76
+# text = Lombardos Nachfolger bei Slayer wurde der ehemalige Forbidden-  und heutige Testament-Schlagzeuger  Paul Bostaph . 
+Lombardos	B-PER
+Nachfolger	O
+bei	O
+Slayer	B-ORG
+wurde	O
+der	O
+ehemalige	O
+Forbidden-	O	#B-ORGpart
+und	O
+heutige	O
+Testament-Schlagzeuger	O	#B-ORGpart
+Paul	B-PER
+Bostaph	I-PER
+.	O
+
+# sent_id = de_wiki_Slayer-77
+# text = Seinen ersten Auftritt mit Slayer hatte Bostaph beim Monsters-of-Rock-Festival 1992  . 
+Seinen	O
+ersten	O
+Auftritt	O
+mit	O
+Slayer	B-ORG
+hatte	O
+Bostaph	B-PER
+beim	O
+Monsters-of-Rock-Festival	B-EVENT
+1992	I-EVENT	#O
+.	O
+
+# sent_id = de_wiki_Slayer-78
+# text = Für den Soundtrack des Films " Judgment Night – Zum Töten verurteilt " nahmen Slayer mit dem Rapper Ice-T das Lied " Disorder " auf . 
+Für	O
+den	O
+Soundtrack	O
+des	O
+Films	O
+"	O
+Judgment	B-WOA
+Night	I-WOA
+–	I-WOA
+Zum	I-WOA
+Töten	I-WOA
+verurteilt	I-WOA
+"	O
+nahmen	O
+Slayer	B-ORG
+mit	O
+dem	O
+Rapper	O
+Ice-T	B-PER
+das	O
+Lied	O
+"	O
+Disorder	B-WOA
+"	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-79
+# text = Es handelt sich um ein Medley aus den The-Exploited-Liedern  " War " , " UK ’ 82 " und " Disorder " . 
+Es	O
+handelt	O
+sich	O
+um	O
+ein	O
+Medley	O
+aus	O
+den	O
+The-Exploited-Liedern	O	#B-ORGpart
+"	O
+War	B-WOA
+"	O
+,	O
+"	O
+UK	B-WOA
+’	I-WOA
+82	I-WOA
+"	O
+und	O
+"	O
+Disorder	B-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-80
+# text = 1994 erschien das sechste Studioalbum " Divine Intervention " . 
+1994	O
+erschien	O
+das	O
+sechste	O
+Studioalbum	O
+"	O
+Divine	B-WOA
+Intervention	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-81
+# text = Es stieg auf Platz acht der US-amerikanischen Charts ein und wurde somit das erste Top-10 -Album der Band . 
+Es	O
+stieg	O
+auf	O
+Platz	O
+acht	O
+der	O
+US-amerikanischen	B-LOCderiv
+Charts	O
+ein	O
+und	O
+wurde	O
+somit	O
+das	O
+erste	O
+Top-10	O
+-Album	O
+der	O
+Band	O
+.	O
+
+# sent_id = de_wiki_Slayer-82
+# text = Das Album wurde sowohl von den Medien als auch von den Fans mit gemischten Gefühlen aufgenommen . 
+Das	O
+Album	O
+wurde	O
+sowohl	O
+von	O
+den	O
+Medien	O
+als	O
+auch	O
+von	O
+den	O
+Fans	O
+mit	O
+gemischten	O
+Gefühlen	O
+aufgenommen	O
+.	O
+
+# sent_id = de_wiki_Slayer-83
+# text = Ein Jahr später gingen Slayer mit Biohazard und Machine Head auf Tournee . 
+Ein	O
+Jahr	O
+später	O
+gingen	O
+Slayer	B-ORG
+mit	O
+Biohazard	B-ORG
+und	O
+Machine	B-ORG
+Head	I-ORG
+auf	O
+Tournee	O
+.	O
+
+# sent_id = de_wiki_Slayer-84
+# text = Einige Konzerte wurden mitgeschnitten und noch im gleichen Jahr als Livevideo " Live Intrusion " veröffentlicht . 
+Einige	O
+Konzerte	O
+wurden	O
+mitgeschnitten	O
+und	O
+noch	O
+im	O
+gleichen	O
+Jahr	O
+als	O
+Livevideo	O
+"	O
+Live	B-WOA
+Intrusion	I-WOA
+"	O
+veröffentlicht	O
+.	O
+
+# sent_id = de_wiki_Slayer-85
+# text = Ebenfalls 1995 traten Slayer erneut auf dem Monsters-of-Rock-Festival auf . 
+Ebenfalls	O
+1995	O
+traten	O
+Slayer	B-ORG
+erneut	O
+auf	O
+dem	O
+Monsters-of-Rock-Festival	B-EVENT
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-86
+# text = Um die Zeit zum nächsten Studioalbum zu überbrücken , veröffentlichten Slayer im Jahre 1996 das Album " Undisputed Attitude " . 
+Um	O
+die	O
+Zeit	O
+zum	O
+nächsten	O
+Studioalbum	O
+zu	O
+überbrücken	O
+,	O
+veröffentlichten	O
+Slayer	B-ORG
+im	O
+Jahre	O
+1996	O
+das	O
+Album	O
+"	O
+Undisputed	B-WOA
+Attitude	I-WOA
+"	O
+.	O
+
+# sent_id = de_wiki_Slayer-87
+# text = Das Album enthält Coverversionen von Punk- und Hardcore-Liedern von Bands wie Minor Threat , D. R. I. oder den Stooges . 
+Das	O
+Album	O
+enthält	O
+Coverversionen	O
+von	O
+Punk-	O
+und	O
+Hardcore-Liedern	O
+von	O
+Bands	O
+wie	O
+Minor	B-ORG
+Threat	I-ORG
+,	O
+D.	B-ORG
+R.	I-ORG
+I.	I-ORG
+oder	O
+den	O
+Stooges	B-ORG
+.	O
+
+# sent_id = de_wiki_Slayer-88
+# text = Zu den Coverversionen gesellten sich mit " Gemini " eine Eigenkomposition sowie zwei Lieder , die Hanneman Mitte der achtziger Jahre für sein Projekt Pap Smear geschrieben hat . 
+Zu	O
+den	O
+Coverversionen	O
+gesellten	O
+sich	O
+mit	O
+"	O
+Gemini	B-WOA
+"	O
+eine	O
+Eigenkomposition	O
+sowie	O
+zwei	O
+Lieder	O
+,	O
+die	O
+Hanneman	B-PER
+Mitte	O
+der	O
+achtziger	O
+Jahre	O
+für	O
+sein	O
+Projekt	O
+Pap	B-MISC
+Smear	I-MISC
+geschrieben	O
+hat	O
+.	O
+
+# sent_id = de_wiki_Slayer-89
+# text = Nach der Veröffentlichung des Albums verließ Bostaph die Band , um sich auf sein eigenes Projekt The Truth About Seafood zu konzentrieren . 
+Nach	O
+der	O
+Veröffentlichung	O
+des	O
+Albums	O
+verließ	O
+Bostaph	B-PER
+die	O
+Band	O
+,	O
+um	O
+sich	O
+auf	O
+sein	O
+eigenes	O
+Projekt	O
+The	B-MISC
+Truth	I-MISC
+About	I-MISC
+Seafood	I-MISC
+zu	O
+konzentrieren	O
+.	O
+
+# sent_id = de_wiki_Slayer-90
+# text = Sein Nachfolger wurde Jon Dette , der zuvor bei Testament aktiv war . 
+Sein	O
+Nachfolger	O
+wurde	O
+Jon	B-PER
+Dette	I-PER
+,	O
+der	O
+zuvor	O
+bei	O
+Testament	B-ORG
+aktiv	O
+war	O
+.	O
+
+# sent_id = de_wiki_Slayer-91
+# text = Nach nur einem Jahr wurde dieser aber vor die Tür gesetzt , nachdem es zum Streit zwischen ihm und den restlichen Mitgliedern gekommen war . 
+Nach	O
+nur	O
+einem	O
+Jahr	O
+wurde	O
+dieser	O
+aber	O
+vor	O
+die	O
+Tür	O
+gesetzt	O
+,	O
+nachdem	O
+es	O
+zum	O
+Streit	O
+zwischen	O
+ihm	O
+und	O
+den	O
+restlichen	O
+Mitgliedern	O
+gekommen	O
+war	O
+.	O
+
+# sent_id = de_wiki_Slayer-92
+# text = Also kehrte Bostaph zurück . 
+Also	O
+kehrte	O
+Bostaph	B-PER
+zurück	O
+.	O
+
+# sent_id = de_wiki_Slayer-93
+# text = Ebenfalls 1996 wurde die Band von den Eltern von Elyse Pahler verklagt . 
+Ebenfalls	O
+1996	O
+wurde	O
+die	O
+Band	O
+von	O
+den	O
+Eltern	O
+von	O
+Elyse	B-PER
+Pahler	I-PER
+verklagt	O
+.	O
+
+# sent_id = de_wiki_Slayer-94
+# text = Pahler wurde von drei Männern vergewaltigt und ermordet , die Slayer-Fans  waren . 
+Pahler	B-PER
+wurde	O
+von	O
+drei	O
+Männern	O
+vergewaltigt	O
+und	O
+ermordet	O
+,	O
+die	O
+Slayer-Fans	O	#B-ORGpart
+waren	O
+.	O
+
+# sent_id = de_wiki_Slayer-95
+# text = Die Eltern des Opfers warfen der Band vor , die Täter durch ihre Musik und ihre Texte zu der Tat animiert zu haben . 
+Die	O
+Eltern	O
+des	O
+Opfers	O
+warfen	O
+der	O
+Band	O
+vor	O
+,	O
+die	O
+Täter	O
+durch	O
+ihre	O
+Musik	O
+und	O
+ihre	O
+Texte	O
+zu	O
+der	O
+Tat	O
+animiert	O
+zu	O
+haben	O
+.	O
+
+# sent_id = de_wiki_Slayer-96
+# text = Nach einem längeren Verfahren wurde die Band 2001 von allen Vorwürfen freigesprochen . 
+Nach	O
+einem	O
+längeren	O
+Verfahren	O
+wurde	O
+die	O
+Band	O
+2001	O
+von	O
+allen	O
+Vorwürfen	O
+freigesprochen	O
+.	O
+
+# sent_id = de_wiki_Slayer-97
+# text = Der zuständige Richter E. Jeffrey Burke erklärte , dass er die Musik von Slayer nicht für jugendgefährdend halte . 
+Der	O
+zuständige	O
+Richter	O
+E.	B-PER
+Jeffrey	I-PER
+Burke	I-PER
+erklärte	O
+,	O
+dass	O
+er	O
+die	O
+Musik	O
+von	O
+Slayer	B-ORG
+nicht	O
+für	O
+jugendgefährdend	O
+halte	O
+.	O
+
+# sent_id = de_wiki_Slayer-98
+# text = Kerry King zeigte sich über den Freispruch erleichtert : 
+Kerry	B-PER
+King	I-PER
+zeigte	O
+sich	O
+über	O
+den	O
+Freispruch	O
+erleichtert	O
+:	O
+
+# sent_id = de_wiki_Slayer-99
+# text = Das siebte Studioalbum " Diabolus in Musica " erschien 1998 und erreichte Platz 31 der US-amerikanischen Charts . 
+Das	O
+siebte	O
+Studioalbum	O
+"	O
+Diabolus	B-WOA
+in	I-WOA
+Musica	I-WOA
+"	O
+erschien	O
+1998	O
+und	O
+erreichte	O
+Platz	O
+31	O
+der	O
+US-amerikanischen	B-LOCderiv
+Charts	O
+.	O
+
+# sent_id = de_wiki_Slayer-100
+# text = Slayer versuchten , ihren Sound zu modernisieren und nahmen einige Elemente des Nu Metal in ihre Lieder auf . 
+Slayer	B-ORG
+versuchten	O
+,	O
+ihren	O
+Sound	O
+zu	O
+modernisieren	O
+und	O
+nahmen	O
+einige	O
+Elemente	O
+des	O
+Nu	O
+Metal	O
+in	O
+ihre	O
+Lieder	O
+auf	O
+.	O
+
+# sent_id = de_wiki_Slayer-101
+# text = Dies führte bei Fans der ersten Stunde zu Entrüstung . 
+Dies	O
+führte	O
+bei	O
+Fans	O
+der	O
+ersten	O
+Stunde	O
+zu	O
+Entrüstung	O
+.	O
+
+# sent_id = de_wiki_Slayer-102
+# text = Auch das modernisierte Bandlogo auf dem Albumcover wurde kontrovers diskutiert . 
+Auch	O
+das	O
+modernisierte	O
+Bandlogo	O
+auf	O
+dem	O
+Albumcover	O
+wurde	O
+kontrovers	O
+diskutiert	O
+.	O
+
+# sent_id = de_wiki_Slayer-103
+# text = Neben dem Album nahm die Band zusammen mit Atari Teenage Riot das Lied " No Remorse ( I Wanna Die ) " für den Soundtrack des Filmes " Spawn " auf und spielte eine Coverversion von " Hand of Doom " für das Black-Sabbath-Tributalbum  " Nativity in Black II " ein . 
+Neben	O
+dem	O
+Album	O
+nahm	O
+die	O
+Band	O
+zusammen	O
+mit	O
+Atari	B-ORG
+Teenage	I-ORG
+Riot	I-ORG
+das	O
+Lied	O
+"	O
+No	B-WOA
+Remorse	I-WOA
+(	I-WOA
+I	I-WOA
+Wanna	I-WOA
+Die	I-WOA
+)	I-WOA
+"	O
+für	O
+den	O
+Soundtrack	O
+des	O
+Filmes	O
+"	O
+Spawn	B-WOA
+"	O
+auf	O
+und	O
+spielte	O
+eine	O
+Coverversion	O
+von	O
+"	O
+Hand	B-WOA
+of	I-WOA
+Doom	I-WOA
+"	O
+für	O
+das	O
+Black-Sabbath-Tributalbum	O	#B-WOApart
+"	O
+Nativity	B-WOA
+in	I-WOA
+Black	I-WOA
+II	I-WOA
+"	O
+ein	O
+.	O
+
+# sent_id = de_wiki_Slayer-104
+# text = In Deutschland wurde unterdessen das Album " Divine Intervention " am 16. Dezember 1998 von der Bundesprüfstelle für jugendgefährdende Schriften indiziert . 
+In	O
+Deutschland	B-LOC
+wurde	O
+unterdessen	O
+das	O
+Album	O
+"	O
+Divine	B-WOA
+Intervention	I-WOA
+"	O
+am	O
+16.	O
+Dezember	O
+1998	O
+von	O
+der	O
+Bundesprüfstelle	B-ORG
+für	I-ORG
+jugendgefährdende	I-ORG
+Schriften	I-ORG
+indiziert	O
+.	O
+
+# sent_id = de_wiki_Slayer-105
+# text = Ein Foto im Beiheft zeigt einen Fan , der sich mit einer Rasierklinge das Bandlogo in den Arm geritzt hat . 
+Ein	O
+Foto	O
+im	O
+Beiheft	O
+zeigt	O
+einen	O
+Fan	O
+,	O
+der	O
+sich	O
+mit	O
+einer	O
+Rasierklinge	O
+das	O
+Bandlogo	O
+in	O
+den	O
+Arm	O
+geritzt	O
+hat	O
+.	O
+

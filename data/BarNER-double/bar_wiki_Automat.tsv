@@ -1,0 +1,1596 @@
+# newdoc id = bar_wiki_Automat
+# sent_id = bar_wiki_Automat-1
+# text = Automat
+Automat	O	O
+
+# sent_id = bar_wiki_Automat-2
+# text = A Schbuiautomat is a mechanischs oda elektronischs Gerät , des noch Münzeinwurf oan Schbuivalauf bietet , da duach Zuafoi und / oda Betätigunga des Mitschbuiers oda da Mitschbuia bestimmt werd .
+A	O	O
+Schbuiautomat	O	O
+is	O	O
+a	O	O
+mechanischs	O	O
+oda	O	O
+elektronischs	O	O
+Gerät	O	O
+,	O	O
+des	O	O
+noch	O	O
+Münzeinwurf	O	O
+oan	O	O
+Schbuivalauf	O	O
+bietet	O	O
+,	O	O
+da	O	O
+duach	O	O
+Zuafoi	O	O
+und	O	O
+/	O	O
+oda	O	O
+Betätigunga	O	O
+des	O	O
+Mitschbuiers	O	O
+oda	O	O
+da	O	O
+Mitschbuia	O	O
+bestimmt	O	O
+werd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-3
+# text = Begriffsbedeitung
+Begriffsbedeitung	O	O
+
+# sent_id = bar_wiki_Automat-4
+# text = Mid am Begriff Schbuiautomadn wern in Deitschland meist Gejdschbuigräte im Sinne des § 33c da Gewerbeoadnung ( GewO ) bezeichnet , wia sie in Gaststätdn und Schbuihoin aufgestäit wern dürfa .
+Mid	O	O
+am	O	O
+Begriff	O	O
+Schbuiautomadn	O	O
+wern	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+meist	O	O
+Gejdschbuigräte	O	O
+im	O	O
+Sinne	O	O
+des	O	O
+§	O	O
+33c	O	O
+da	O	O
+Gewerbeoadnung	B-WOA	B-WOA
+(	O	O
+GewO	B-WOA	O
+)	O	O
+bezeichnet	O	O
+,	O	O
+wia	O	O
+sie	O	O
+in	O	O
+Gaststätdn	O	O
+und	O	O
+Schbuihoin	O	O
+aufgestäit	O	O
+wern	O	O
+dürfa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-5
+# text = Oierdings werd de Begriffsbedeitung teilweise aa weida gefossd :
+Oierdings	O	O
+werd	O	O
+de	O	O
+Begriffsbedeitung	O	O
+teilweise	O	O
+aa	O	O
+weida	O	O
+gefossd	O	O
+:	O	O
+
+# sent_id = bar_wiki_Automat-6
+# text = Einarmige Bandidn , wia sie mid deitlich hechnrn Einsatzmöglichkeitn und Gewinnchancn in Schbuicasinos betriebn wern .
+Einarmige	O	O
+Bandidn	O	O
+,	O	O
+wia	O	O
+sie	O	O
+mid	O	O
+deitlich	O	O
+hechnrn	O	O
+Einsatzmöglichkeitn	O	O
+und	O	O
+Gewinnchancn	O	O
+in	O	O
+Schbuicasinos	O	O
+betriebn	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-7
+# text = Unterhoidungsautomadn ohne Gejdgewinnmöglichkeit wia
+Unterhoidungsautomadn	O	O
+ohne	O	O
+Gejdgewinnmöglichkeit	O	O
+wia	O	O
+
+# sent_id = bar_wiki_Automat-8
+# text = Flipperautomadn ,
+Flipperautomadn	O	O
+,	O	O
+
+# sent_id = bar_wiki_Automat-9
+# text = Arcade-Automadn
+Arcade-Automadn	O	O
+
+# sent_id = bar_wiki_Automat-10
+# text = mechanische Automadn
+mechanische	O	O
+Automadn	O	O
+
+# sent_id = bar_wiki_Automat-11
+# text = A Kombination vo Vakaufsautomad und Glücksschbui san Schbuizeigautomadn .
+A	O	O
+Kombination	O	O
+vo	O	O
+Vakaufsautomad	O	O
+und	O	O
+Glücksschbui	O	O
+san	O	O
+Schbuizeigautomadn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-12
+# text = Motiv zum Schbuin san Unterhoidung und Hoffnung auf oan Gewinn .
+Motiv	O	O
+zum	O	O
+Schbuin	O	O
+san	O	O
+Unterhoidung	O	O
+und	O	O
+Hoffnung	O	O
+auf	O	O
+oan	O	O
+Gewinn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-13
+# text = Kommerzielle Nutznießa des Automadn san in da Regl da Betreiba sowia da Stoot , da ? sofern 's si um legoi aufgestäite Geräte handelt ? oan ned unbeträchtlichn Teil des Gewinns ois Vagnügungs- und Umsatzsdeia eahält .
+Kommerzielle	O	O
+Nutznießa	O	O
+des	O	O
+Automadn	O	O
+san	O	O
+in	O	O
+da	O	O
+Regl	O	O
+da	O	O
+Betreiba	O	O
+sowia	O	O
+da	O	O
+Stoot	O	O
+,	O	O
+da	O	O
+?	O	O
+sofern	O	O
+'s	O	O
+si	O	O
+um	O	O
+legoi	O	O
+aufgestäite	O	O
+Geräte	O	O
+handelt	O	O
+?	O	O
+oan	O	O
+ned	O	O
+unbeträchtlichn	O	O
+Teil	O	O
+des	O	O
+Gewinns	O	O
+ois	O	O
+Vagnügungs-	O	O
+und	O	O
+Umsatzsdeia	O	O
+eahält	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-14
+# text = In Schbuibankn werd des Automadenschbui zua Obgrenzung vo den Glücksschbuin Roulette und Blog Jog oft ois gloas Schbui bezeichnet .
+In	O	O
+Schbuibankn	O	O
+werd	O	O
+des	O	O
+Automadenschbui	O	O
+zua	O	O
+Obgrenzung	O	O
+vo	O	O
+den	O	O
+Glücksschbuin	O	O
+Roulette	O	O
+und	O	O
+Blog	O	O
+Jog	O	O
+oft	O	O
+ois	O	O
+gloas	O	O
+Schbui	O	O
+bezeichnet	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-15
+# text = Gsetzliche Regelung in Deitschland
+Gsetzliche	O	O
+Regelung	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+
+# sent_id = bar_wiki_Automat-16
+# text = Zum Vabraaerschuadz und zua Eindämmung des pathologischn Schbuis ( Schbuiobhängigkeit oda Schbuisucht ) unterliagn Gejdschbuigräte und dern Aufstäiung umfangreichn gsetzlichn Voaschrifdn , de in da Gewerbeoadnung , da Schbuivaoadnung sowia in Ländergesetzn geregelt san .
+Zum	O	O
+Vabraaerschuadz	O	O
+und	O	O
+zua	O	O
+Eindämmung	O	O
+des	O	O
+pathologischn	O	O
+Schbuis	O	O
+(	O	O
+Schbuiobhängigkeit	O	O
+oda	O	O
+Schbuisucht	O	O
+)	O	O
+unterliagn	O	O
+Gejdschbuigräte	O	O
+und	O	O
+dern	O	O
+Aufstäiung	O	O
+umfangreichn	O	O
+gsetzlichn	O	O
+Voaschrifdn	O	O
+,	O	O
+de	O	O
+in	O	O
+da	O	O
+Gewerbeoadnung	B-WOA	B-WOA
+,	O	O
+da	O	O
+Schbuivaoadnung	B-WOA	B-WOA
+sowia	O	O
+in	O	O
+Ländergesetzn	O	O
+geregelt	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-17
+# text = De aktuelle Fassung da Schbuivaoadnung is am 13. Dezemba 2014 in Kroft getredn .
+De	O	O
+aktuelle	O	O
+Fassung	O	O
+da	O	O
+Schbuivaoadnung	B-WOA	B-WOA
+is	O	O
+am	O	O
+13.	O	O
+Dezemba	O	O
+2014	O	O
+in	O	O
+Kroft	O	O
+getredn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-18
+# text = Mid dea Novelle wurdn a baar Details oana umfassendn Refoam duach de Sechste Novelle koarigiad , de oan Monod zuavoa in Kroft getredn war .
+Mid	O	O
+dea	O	O
+Novelle	O	O
+wurdn	O	O
+a	O	O
+baar	O	O
+Details	O	O
+oana	O	O
+umfassendn	O	O
+Refoam	O	O
+duach	O	O
+de	O	O
+Sechste	O	O
+Novelle	O	O
+koarigiad	O	O
+,	O	O
+de	O	O
+oan	O	O
+Monod	O	O
+zuavoa	O	O
+in	O	O
+Kroft	O	O
+getredn	O	O
+war	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-19
+# text = Mid da Sechsdn Novelliarung soi da Jugend- und Schbuierschuadz bei Gejdschbuigrädn insbesondere duach a Begrenzung da Schbuianreize und Valustmöglichkeitn vabessert wern .
+Mid	O	O
+da	O	O
+Sechsdn	O	O
+Novelliarung	O	O
+soi	O	O
+da	O	O
+Jugend-	O	O
+und	O	O
+Schbuierschuadz	O	O
+bei	O	O
+Gejdschbuigrädn	O	O
+insbesondere	O	O
+duach	O	O
+a	O	O
+Begrenzung	O	O
+da	O	O
+Schbuianreize	O	O
+und	O	O
+Valustmöglichkeitn	O	O
+vabessert	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-20
+# text = De entsprechend vaschärfdn Ofoaderunga geldn jedoch in wesentlichn Teiln grod fia nei zuagelassene Schbuiautomadn oda dredn east noch oana Übagangsfrist in Kroft .
+De	O	O
+entsprechend	O	O
+vaschärfdn	O	O
+Ofoaderunga	O	O
+geldn	O	O
+jedoch	O	O
+in	O	O
+wesentlichn	O	O
+Teiln	O	O
+grod	O	O
+fia	O	O
+nei	O	O
+zuagelassene	O	O
+Schbuiautomadn	O	O
+oda	O	O
+dredn	O	O
+east	O	O
+noch	O	O
+oana	O	O
+Übagangsfrist	O	O
+in	O	O
+Kroft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-21
+# text = Insgesamt eagem si damit im Wesentlichn de foigendn Bestimmunga :
+Insgesamt	O	O
+eagem	O	O
+si	O	O
+damit	O	O
+im	O	O
+Wesentlichn	O	O
+de	O	O
+foigendn	O	O
+Bestimmunga	O	O
+:	O	O
+
+# sent_id = bar_wiki_Automat-22
+# text = A Aufstäiung vo Gejdschbuigrädn is grod in Gaststätdn und Schbuihoin ealaubt , wobei de Maximalanzoi 3 ( 2 ob 10. Novemba 2019 ) bzw. 12 pro Aufstäioat beträgt .
+A	O	O
+Aufstäiung	O	O
+vo	O	O
+Gejdschbuigrädn	O	O
+is	O	O
+grod	O	O
+in	O	O
+Gaststätdn	O	O
+und	O	O
+Schbuihoin	O	O
+ealaubt	O	O
+,	O	O
+wobei	O	O
+de	O	O
+Maximalanzoi	O	O
+3	O	O
+(	O	O
+2	O	O
+ob	O	O
+10.	O	O
+Novemba	O	O
+2019	O	O
+)	O	O
+bzw.	O	O
+12	O	O
+pro	O	O
+Aufstäioat	O	O
+beträgt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-23
+# text = Da Aufstäiungsoat bedarf oana Geeignetheitsbestätigung .
+Da	O	O
+Aufstäiungsoat	O	O
+bedarf	O	O
+oana	O	O
+Geeignetheitsbestätigung	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-24
+# text = In Schbuihoin is a Oikoholausschank ned ealaubt .
+In	O	O
+Schbuihoin	O	O
+is	O	O
+a	O	O
+Oikoholausschank	O	O
+ned	O	O
+ealaubt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-25
+# text = Jugendlichn unta 18 Joarn is a Schbuin an Automadn untersogt ( fia Schbuihoin bestäd darüba hiaus gemäß Jugendschuadzgesetz a Zuatrittsvobot ) .
+Jugendlichn	O	O
+unta	O	O
+18	O	O
+Joarn	O	O
+is	O	O
+a	O	O
+Schbuin	O	O
+an	O	O
+Automadn	O	O
+untersogt	O	O
+(	O	O
+fia	O	O
+Schbuihoin	O	O
+bestäd	O	O
+darüba	O	O
+hiaus	O	O
+gemäß	O	O
+Jugendschuadzgesetz	B-WOA	B-WOA
+a	O	O
+Zuatrittsvobot	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-26
+# text = Geregelt san Hechsdgewinn , -einsatz und des Zeidintervoi dazwischn ( Daua eins ?
+Geregelt	O	O
+san	O	O
+Hechsdgewinn	O	O
+,	O	O
+-einsatz	O	O
+und	O	O
+des	O	O
+Zeidintervoi	O	O
+dazwischn	O	O
+(	O	O
+Daua	O	O
+eins	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-27
+# text = Schbuis ? ) : zualässig san z. B. in 5 Sekundn 0,20 Einsatz und 2 Gewinn .
+Schbuis	O	O
+?	O	O
+)	O	O
+:	O	O
+zualässig	O	O
+san	O	O
+z.	O	O
+B.	O	O
+in	O	O
+5	O	O
+Sekundn	O	O
+0,20	O	O
+Einsatz	O	O
+und	O	O
+2	O	O
+Gewinn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-28
+# text = Da Valust pro Stunde , d. h. da de Gewinne übasteigend Einsatz , is begrenzt auf hechsdens 80 ?
+Da	O	O
+Valust	O	O
+pro	O	O
+Stunde	O	O
+,	O	O
+d.	O	O
+h.	O	O
+da	O	O
+de	O	O
+Gewinne	O	O
+übasteigend	O	O
+Einsatz	O	O
+,	O	O
+is	O	O
+begrenzt	O	O
+auf	O	O
+hechsdens	O	O
+80	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-29
+# text = ( 60 ? fia nei zuagelassene Schbuiautomadn ) .
+(	O	O
+60	O	O
+?	O	O
+fia	O	O
+nei	O	O
+zuagelassene	O	O
+Schbuiautomadn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-30
+# text = Da Gewinn pro Stunde deaf noch Obzug da Einsätze ned hechnr sei ois 500 ?
+Da	O	O
+Gewinn	O	O
+pro	O	O
+Stunde	O	O
+deaf	O	O
+noch	O	O
+Obzug	O	O
+da	O	O
+Einsätze	O	O
+ned	O	O
+hechnr	O	O
+sei	O	O
+ois	O	O
+500	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-31
+# text = ( 400 ? fia nei zuagelassene Schbuiautomadn ) .
+(	O	O
+400	O	O
+?	O	O
+fia	O	O
+nei	O	O
+zuagelassene	O	O
+Schbuiautomadn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-32
+# text = Da duachschnittliche Valust pro Stunde is begrenzt auf hechsdens 33 ?
+Da	O	O
+duachschnittliche	O	O
+Valust	O	O
+pro	O	O
+Stunde	O	O
+is	O	O
+begrenzt	O	O
+auf	O	O
+hechsdens	O	O
+33	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-33
+# text = ( 20 ? fia nei zuagelassene Schbuiautomadn ) .
+(	O	O
+20	O	O
+?	O	O
+fia	O	O
+nei	O	O
+zuagelassene	O	O
+Schbuiautomadn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-34
+# text = De Obagrenzn fia Einsatz , Gewinn und Valust pro Zeideinheit wern duach a Kontroieinrichtung gewährleistet .
+De	O	O
+Obagrenzn	O	O
+fia	O	O
+Einsatz	O	O
+,	O	O
+Gewinn	O	O
+und	O	O
+Valust	O	O
+pro	O	O
+Zeideinheit	O	O
+wern	O	O
+duach	O	O
+a	O	O
+Kontroieinrichtung	O	O
+gewährleistet	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-35
+# text = De de Automadn betreffendn Parameta wern duach de Physikalisch-Technische Bundesanstoid ( PTB ) im Rahma oana Bauartzulassung auf Basis oana Technischn Richtlinie geprüft .
+De	O	O
+de	O	O
+Automadn	O	O
+betreffendn	O	O
+Parameta	O	O
+wern	O	O
+duach	O	O
+de	O	O
+Physikalisch-Technische	B-ORG	B-ORG
+Bundesanstoid	I-ORG	I-ORG
+(	B-ORG	O
+PTB	O	B-ORG
+)	O	O
+im	O	O
+Rahma	O	O
+oana	O	O
+Bauartzulassung	O	O
+auf	O	O
+Basis	O	O
+oana	O	O
+Technischn	O	O
+Richtlinie	O	O
+geprüft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-36
+# text = Gejdschbuigräte miassn olle 2 Joare duach oan vaeidigdn und öffentlich bestäidn Sachvaständign oda oana vo da PTB dafia zuagelassane Stäi , wia derzeid z. B. am TÜV Rheinland , übaprüft wern .
+Gejdschbuigräte	O	O
+miassn	O	O
+olle	O	O
+2	O	O
+Joare	O	O
+duach	O	O
+oan	O	O
+vaeidigdn	O	O
+und	O	O
+öffentlich	O	O
+bestäidn	O	O
+Sachvaständign	O	O
+oda	O	O
+oana	O	O
+vo	O	O
+da	O	O
+PTB	B-ORG	B-ORG
+dafia	O	O
+zuagelassane	O	O
+Stäi	O	O
+,	O	O
+wia	O	O
+derzeid	O	O
+z.	O	O
+B.	O	O
+am	O	O
+TÜV	B-ORG	B-ORG
+Rheinland	I-ORG	I-ORG
+,	O	O
+übaprüft	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-37
+# text = Nei zuagelassene Gejdschbuigräte dürfa grod no maximoi via Joare betriebn wern .
+Nei	O	O
+zuagelassene	O	O
+Gejdschbuigräte	O	O
+dürfa	O	O
+grod	O	O
+no	O	O
+maximoi	O	O
+via	O	O
+Joare	O	O
+betriebn	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-38
+# text = Weidere Regelunga betreffa technische Maßnahma gegn de gleichzeidige Beschbuiung vo mehrern Schbuiautomadn duach a Person ( Vabot oana Einsatzautomadik und Schbui grod mid am gerätegebundane Identifikationsmiddl ) , Sicherunga gegn Vaänderung und Manipulation des Schbuiautomadn und da in eahm gspeicherdn , mid am Zeidpunkt ihra Entstehung vaknüpfdn Buachungsdadn sowia des so genannte Punkteschbui .
+Weidere	O	O
+Regelunga	O	O
+betreffa	O	O
+technische	O	O
+Maßnahma	O	O
+gegn	O	O
+de	O	O
+gleichzeidige	O	O
+Beschbuiung	O	O
+vo	O	O
+mehrern	O	O
+Schbuiautomadn	O	O
+duach	O	O
+a	O	O
+Person	O	O
+(	O	O
+Vabot	O	O
+oana	O	O
+Einsatzautomadik	O	O
+und	O	O
+Schbui	O	O
+grod	O	O
+mid	O	O
+am	O	O
+gerätegebundane	O	O
+Identifikationsmiddl	O	O
+)	O	O
+,	O	O
+Sicherunga	O	O
+gegn	O	O
+Vaänderung	O	O
+und	O	O
+Manipulation	O	O
+des	O	O
+Schbuiautomadn	O	O
+und	O	O
+da	O	O
+in	O	O
+eahm	O	O
+gspeicherdn	O	O
+,	O	O
+mid	O	O
+am	O	O
+Zeidpunkt	O	O
+ihra	O	O
+Entstehung	O	O
+vaknüpfdn	O	O
+Buachungsdadn	O	O
+sowia	O	O
+des	O	O
+so	O	O
+genannte	O	O
+Punkteschbui	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-39
+# text = De des Punkteschbui betreffendn Ofoaderunga gengan im Wesentlichn auf den Maßgobbeschluss des Bundesrats zrugg .
+De	O	O
+des	O	O
+Punkteschbui	O	O
+betreffendn	O	O
+Ofoaderunga	O	O
+gengan	O	O
+im	O	O
+Wesentlichn	O	O
+auf	O	O
+den	O	O
+Maßgobbeschluss	O	B-WOA
+des	O	O
+Bundesrats	B-ORG	B-ORG
+zrugg	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-40
+# text = Ihre widersprüchliche Foamuliarung warn da Grund fia de Bundesregierung in ihra Funktion ois Vaoadnungsgeba , de Vaoadnung aufgrund befiachteta Voizugsprobleme east noch üba 16 Monadn und oana eaneidn Notifizierung bei da Europäischn Kommission in Kroft zua setzn .
+Ihre	O	O
+widersprüchliche	O	O
+Foamuliarung	O	O
+warn	O	O
+da	O	O
+Grund	O	O
+fia	O	O
+de	O	O
+Bundesregierung	O	O
+in	O	O
+ihra	O	O
+Funktion	O	O
+ois	O	O
+Vaoadnungsgeba	O	O
+,	O	O
+de	O	O
+Vaoadnung	O	O
+aufgrund	O	O
+befiachteta	O	O
+Voizugsprobleme	O	O
+east	O	O
+noch	O	O
+üba	O	O
+16	O	O
+Monadn	O	O
+und	O	O
+oana	O	O
+eaneidn	O	O
+Notifizierung	O	O
+bei	O	O
+da	O	O
+Europäischn	B-ORG	B-ORG
+Kommission	I-ORG	I-ORG
+in	O	O
+Kroft	O	O
+zua	O	O
+setzn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-41
+# text = Details da Bauartzulassung wern in oana duach de EU notifizierdn Technischn Richtlinie da PTB geregelt .
+Details	O	O
+da	O	O
+Bauartzulassung	O	O
+wern	O	O
+in	O	O
+oana	O	O
+duach	O	O
+de	O	O
+EU	B-ORG	B-ORG
+notifizierdn	O	O
+Technischn	O	O
+Richtlinie	O	O
+da	O	O
+PTB	B-ORG	B-ORG
+geregelt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-42
+# text = Mid den im Novemba 2014 in Kroft getretane Obsenkunga vo Gewinn- und Valustmöglichkeitn bekräftigte de Bundesregierung ihr bereits mid da Novelle aus am Joar 2006 vafolgts Zil , ? a klare Grenze zwischn den gewinn- und valustmäßig unbeschränkdn stootlich konzessionierdn Schbuiangebodn , insbesondere bei den do vawanddn Schbuiautomadn ( slot machins ) , und am gewerblichn ? gloan ?
+Mid	O	O
+den	O	O
+im	O	O
+Novemba	O	O
+2014	O	O
+in	O	O
+Kroft	O	O
+getretane	O	O
+Obsenkunga	O	O
+vo	O	O
+Gewinn-	O	O
+und	O	O
+Valustmöglichkeitn	O	O
+bekräftigte	O	O
+de	O	O
+Bundesregierung	O	O
+ihr	O	O
+bereits	O	O
+mid	O	O
+da	O	O
+Novelle	O	O
+aus	O	O
+am	O	O
+Joar	O	O
+2006	O	O
+vafolgts	O	O
+Zil	O	O
+,	O	O
+?	O	O
+a	O	O
+klare	O	O
+Grenze	O	O
+zwischn	O	O
+den	O	O
+gewinn-	O	O
+und	O	O
+valustmäßig	O	O
+unbeschränkdn	O	O
+stootlich	O	O
+konzessionierdn	O	O
+Schbuiangebodn	O	O
+,	O	O
+insbesondere	O	O
+bei	O	O
+den	O	O
+do	O	O
+vawanddn	O	O
+Schbuiautomadn	O	O
+(	O	O
+slot	O	O
+machins	O	O
+)	O	O
+,	O	O
+und	O	O
+am	O	O
+gewerblichn	O	O
+?	O	O
+gloan	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-43
+# text = Schbui ? zua ziang .
+Schbui	O	O
+?	O	O
+zua	O	O
+ziang	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-44
+# text = So gibt 's in Schbuicasinos Slot Machins , bei dane pro 3-Sekundn-Schbui Einsätze vo 500 ? und Gewinne vo 50.000 ? möglich san .
+So	O	O
+gibt	O	O
+'s	O	O
+in	O	O
+Schbuicasinos	O	O
+Slot	O	O
+Machins	O	O
+,	O	O
+bei	O	O
+dane	O	O
+pro	O	O
+3-Sekundn-Schbui	O	O
+Einsätze	O	O
+vo	O	O
+500	O	O
+?	O	O
+und	O	O
+Gewinne	O	O
+vo	O	O
+50.000	O	O
+?	O	O
+möglich	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-45
+# text = Valuste in Hechn vo 40.000 ? vo am Schbuia an am Omd an Slot Machins eins Schbuicasinos san dokumentiad .
+Valuste	O	O
+in	O	O
+Hechn	O	O
+vo	O	O
+40.000	O	O
+?	O	O
+vo	O	O
+am	O	O
+Schbuia	O	O
+an	O	O
+am	O	O
+Omd	O	O
+an	O	O
+Slot	O	O
+Machins	O	O
+eins	O	O
+Schbuicasinos	O	O
+san	O	O
+dokumentiad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-46
+# text = Üba de Schbuivaoadnung hiaus wurdn ob 2011 auf Länderebene inhoidlich unterschiedliche Schbuihoin- und Ausführungsgesetze zum Glücksschbuiänderungsstaatsvatrog ( Glü Änd StV ) beschlossn .
+Üba	O	O
+de	O	O
+Schbuivaoadnung	B-WOA	B-WOA
+hiaus	O	O
+wurdn	O	O
+ob	O	O
+2011	O	O
+auf	O	O
+Länderebene	O	O
+inhoidlich	O	O
+unterschiedliche	O	O
+Schbuihoin-	O	O
+und	O	O
+Ausführungsgesetze	O	O
+zum	O	O
+Glücksschbuiänderungsstaatsvatrog	B-WOA	B-WOA
+(	O	O
+Glü	B-WOA	B-WOA
+Änd	I-WOA	I-WOA
+StV	I-WOA	I-WOA
+)	O	O
+beschlossn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-47
+# text = De regeln zuasätzliche Ofoaderunga an de Aufstäiung vo Schbuiautomadn in Schbuihoin wia zum Beischbui des Vabot da Obgob vo Speisn und Getränkn , Sperrstundn , Vapflichtung zua Einlasskontroie und Sperrsystem , a Vabot vo Außenwerbung und Mindestobstände zua andern Schbuihoin sowia Einrichtunga , de voawiegend vo Kindern und Jugendlichn besucht wern .
+De	O	O
+regeln	O	O
+zuasätzliche	O	O
+Ofoaderunga	O	O
+an	O	O
+de	O	O
+Aufstäiung	O	O
+vo	O	O
+Schbuiautomadn	O	O
+in	O	O
+Schbuihoin	O	O
+wia	O	O
+zum	O	O
+Beischbui	O	O
+des	O	O
+Vabot	O	O
+da	O	O
+Obgob	O	O
+vo	O	O
+Speisn	O	O
+und	O	O
+Getränkn	O	O
+,	O	O
+Sperrstundn	O	O
+,	O	O
+Vapflichtung	O	O
+zua	O	O
+Einlasskontroie	O	O
+und	O	O
+Sperrsystem	O	O
+,	O	O
+a	O	O
+Vabot	O	O
+vo	O	O
+Außenwerbung	O	O
+und	O	O
+Mindestobstände	O	O
+zua	O	O
+andern	O	O
+Schbuihoin	O	O
+sowia	O	O
+Einrichtunga	O	O
+,	O	O
+de	O	O
+voawiegend	O	O
+vo	O	O
+Kindern	O	O
+und	O	O
+Jugendlichn	O	O
+besucht	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-48
+# text = Bezogn auf Städt mid mehr ois 10.000 Einwohnern wern noch oana Prognose aus am Joar 2014 aufgrund da Mindestobstände noch Oblauf da Übagangsregelunga 77 % da Schbuihoin und 87 % da do aufgestäidn Gejdschbuigräte ned mehr betriebn wern könna .
+Bezogn	O	O
+auf	O	O
+Städt	O	O
+mid	O	O
+mehr	O	O
+ois	O	O
+10.000	O	O
+Einwohnern	O	O
+wern	O	O
+noch	O	O
+oana	O	O
+Prognose	O	O
+aus	O	O
+am	O	O
+Joar	O	O
+2014	O	O
+aufgrund	O	O
+da	O	O
+Mindestobstände	O	O
+noch	O	O
+Oblauf	O	O
+da	O	O
+Übagangsregelunga	O	O
+77	O	O
+%	O	O
+da	O	O
+Schbuihoin	O	O
+und	O	O
+87	O	O
+%	O	O
+da	O	O
+do	O	O
+aufgestäidn	O	O
+Gejdschbuigräte	O	O
+ned	O	O
+mehr	O	O
+betriebn	O	O
+wern	O	O
+könna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-49
+# text = Im Foi des Bundeslands Berlin , bei am de Reduktion bereits 2016 o'gfangd wurde , san mehr ois de Häiftn da Schbuihoin vo oana Schliaßung betroffa .
+Im	O	O
+Foi	O	O
+des	O	O
+Bundeslands	O	B-ORG
+Berlin	B-LOC	I-ORG
+,	O	O
+bei	O	O
+am	O	O
+de	O	O
+Reduktion	O	O
+bereits	O	O
+2016	O	O
+o'gfangd	O	O
+wurde	O	O
+,	O	O
+san	O	O
+mehr	O	O
+ois	O	O
+de	O	O
+Häiftn	O	O
+da	O	O
+Schbuihoin	O	O
+vo	O	O
+oana	O	O
+Schliaßung	O	O
+betroffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-50
+# text = In Niedersachsn wern de Schliaßunga vo Schbuihoin zum Teil auf da Basis eins Losentscheids vafügt , so beischbuisweise in Osnobrugg , wo 52 vo 87 Schbuihoin schliaßn soin .
+In	O	O
+Niedersachsn	B-LOC	B-LOC
+wern	O	O
+de	O	O
+Schliaßunga	O	O
+vo	O	O
+Schbuihoin	O	O
+zum	O	O
+Teil	O	O
+auf	O	O
+da	O	O
+Basis	O	O
+eins	O	O
+Losentscheids	O	O
+vafügt	O	O
+,	O	O
+so	O	O
+beischbuisweise	O	O
+in	O	O
+Osnobrugg	B-LOC	B-LOC
+,	O	O
+wo	O	O
+52	O	O
+vo	O	O
+87	O	O
+Schbuihoin	O	O
+schliaßn	O	O
+soin	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-51
+# text = A baar Bundeslända hom im Rahma vo Übagangsregelunga längre Frisdn fia Bestandsschbuihoin gsetzt .
+A	O	O
+baar	O	O
+Bundeslända	O	O
+hom	O	O
+im	O	O
+Rahma	O	O
+vo	O	O
+Übagangsregelunga	O	O
+längre	O	O
+Frisdn	O	O
+fia	O	O
+Bestandsschbuihoin	O	O
+gsetzt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-52
+# text = So werd in Rheinland-Pfoiz east zum 1. Juli 2021 de Genehmigung vo 342 Schbuihoin ealöschn , wos beischbuisweise im Foi da Stod Trier 32 da 34 bisherign Schbuihoin betrifft .
+So	O	O
+werd	O	O
+in	O	O
+Rheinland-Pfoiz	B-LOC	B-LOC
+east	O	O
+zum	O	O
+1.	O	O
+Juli	O	O
+2021	O	O
+de	O	O
+Genehmigung	O	O
+vo	O	O
+342	O	O
+Schbuihoin	O	O
+ealöschn	O	O
+,	O	O
+wos	O	O
+beischbuisweise	O	O
+im	O	O
+Foi	O	O
+da	O	O
+Stod	O	O
+Trier	B-LOC	B-LOC
+32	O	O
+da	O	O
+34	O	O
+bisherign	O	O
+Schbuihoin	O	O
+betrifft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-53
+# text = Ozoi da Schbuigräte mid Gewinnmöglichkeit in Deitschland 1995 ?
+Ozoi	O	O
+da	O	O
+Schbuigräte	O	O
+mid	O	O
+Gewinnmöglichkeit	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+1995	O	O
+?	O	O
+
+# sent_id = bar_wiki_Automat-54
+# text = 2016
+2016	O	O
+
+# sent_id = bar_wiki_Automat-55
+# text = De Gsamtzoi da in Deitschland aufgestäidn Gejdschbuigräte betrug 2016 insgesamt 264.000 Geräte .
+De	O	O
+Gsamtzoi	O	O
+da	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+aufgestäidn	O	O
+Gejdschbuigräte	O	O
+betrug	O	O
+2016	O	O
+insgesamt	O	O
+264.000	O	O
+Geräte	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-56
+# text = In den 20 Joarn zuavoa bewegte si de Zoi zwischn 245.000 ( im Joar 1995 ) und 183.000 ( im Joar 2005 ) .
+In	O	O
+den	O	O
+20	O	O
+Joarn	O	O
+zuavoa	O	O
+bewegte	O	O
+si	O	O
+de	O	O
+Zoi	O	O
+zwischn	O	O
+245.000	O	O
+(	O	O
+im	O	O
+Joar	O	O
+1995	O	O
+)	O	O
+und	O	O
+183.000	O	O
+(	O	O
+im	O	O
+Joar	O	O
+2005	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-57
+# text = In desn Zoin ned beruggsichtigt san de 64.300 ( 1995 ) beziehungsweise 82.300 ( 2005 ) Schbuiautomadn , de seit 2006 noch § 6a da novelliadn Schbuivaoadnung ned mehr betriebn wern dürfa , weil sie zwar ned de Möglichkeit eins Gejdgewinns , wohl aba de Möglichkeit des Gewinns vo mehr ois secks Freischbuin bodn .
+In	O	O
+desn	O	O
+Zoin	O	O
+ned	O	O
+beruggsichtigt	O	O
+san	O	O
+de	O	O
+64.300	O	O
+(	O	O
+1995	O	O
+)	O	O
+beziehungsweise	O	O
+82.300	O	O
+(	O	O
+2005	O	O
+)	O	O
+Schbuiautomadn	O	O
+,	O	O
+de	O	O
+seit	O	O
+2006	O	O
+noch	O	O
+§	O	O
+6a	O	O
+da	O	O
+novelliadn	O	O
+Schbuivaoadnung	B-WOA	B-WOA
+ned	O	O
+mehr	O	O
+betriebn	O	O
+wern	O	O
+dürfa	O	O
+,	O	O
+weil	O	O
+sie	O	O
+zwar	O	O
+ned	O	O
+de	O	O
+Möglichkeit	O	O
+eins	O	O
+Gejdgewinns	O	O
+,	O	O
+wohl	O	O
+aba	O	O
+de	O	O
+Möglichkeit	O	O
+des	O	O
+Gewinns	O	O
+vo	O	O
+mehr	O	O
+ois	O	O
+secks	O	O
+Freischbuin	O	O
+bodn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-58
+# text = De Einnahma aus Gejdschbuigrädn unterliagn außa den üblichn Steian ( Umsatzsdeia und Eatrogssdeia ) außerhoib vo Bayern da ( kommunaln ) Vagnügungssdeia .
+De	O	O
+Einnahma	O	O
+aus	O	O
+Gejdschbuigrädn	O	O
+unterliagn	O	O
+außa	O	O
+den	O	O
+üblichn	O	O
+Steian	O	O
+(	O	O
+Umsatzsdeia	O	B-WOA
+und	O	O
+Eatrogssdeia	O	B-WOA
+)	O	O
+außerhoib	O	O
+vo	O	O
+Bayern	B-LOC	B-LOC
+da	O	O
+(	O	O
+kommunaln	O	O
+)	O	O
+Vagnügungssdeia	O	B-WOA
+.	O	O
+
+# sent_id = bar_wiki_Automat-59
+# text = Zum Zweck vo dern Eahebung miassn sämtliche Einsätze , Gewinne und Kasseninhoide zeidgrecht , unmiddlbar und auslesbar eafossd wern .
+Zum	O	O
+Zweck	O	O
+vo	O	O
+dern	O	O
+Eahebung	O	O
+miassn	O	O
+sämtliche	O	O
+Einsätze	O	O
+,	O	O
+Gewinne	O	O
+und	O	O
+Kasseninhoide	O	O
+zeidgrecht	O	O
+,	O	O
+unmiddlbar	O	O
+und	O	O
+auslesbar	O	O
+eafossd	O	O
+wern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-60
+# text = Gschicht
+Gschicht	O	O
+
+# sent_id = bar_wiki_Automat-61
+# text = De easdn Glücksschbuiautomadn entstandn gegn End da 1880ea Joare .
+De	O	O
+easdn	O	O
+Glücksschbuiautomadn	O	O
+entstandn	O	O
+gegn	O	O
+End	O	O
+da	O	O
+1880ea	O	O
+Joare	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-62
+# text = Besondere Bekanntheit ealangte des Gerät Liberty Bell vo Charles August Fey , welchs ea 1899 in San Francisco eafand .
+Besondere	O	O
+Bekanntheit	O	O
+ealangte	O	O
+des	O	O
+Gerät	O	O
+Liberty	B-MISC	B-MISC
+Bell	I-MISC	I-MISC
+vo	O	O
+Charles	B-PER	B-PER
+August	I-PER	I-PER
+Fey	I-PER	I-PER
+,	O	O
+welchs	O	O
+ea	O	O
+1899	O	O
+in	O	O
+San	O	B-LOC
+Francisco	B-LOC	I-LOC
+eafand	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-63
+# text = De Slot machine war de easte mid am 3-Woizn-Schbuisystem .
+De	O	O
+Slot	O	O
+machine	O	O
+war	O	O
+de	O	O
+easte	O	O
+mid	O	O
+am	O	O
+3-Woizn-Schbuisystem	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-64
+# text = Aufgrund da fehlendn Patentanmeldung dea Eafindung geriet des System zum Oigemeinguad da Glücksschbuibranche .
+Aufgrund	O	O
+da	O	O
+fehlendn	O	O
+Patentanmeldung	O	O
+dea	O	O
+Eafindung	O	O
+geriet	O	O
+des	O	O
+System	O	O
+zum	O	O
+Oigemeinguad	O	O
+da	O	O
+Glücksschbuibranche	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-65
+# text = Voa da Etobliarung dess Systems produzierdn vui Herstäia Stand-Slots , de noch am Rouletteprinzip funktionierdn und bei dane auf a Farb gsetzt wern musste , bevoa ma de Roulettescheibe meist mid am Hebl in Bewegung vasetzte .
+Voa	O	O
+da	O	O
+Etobliarung	O	O
+dess	O	O
+Systems	O	O
+produzierdn	O	O
+vui	O	O
+Herstäia	O	O
+Stand-Slots	O	O
+,	O	O
+de	O	O
+noch	O	O
+am	O	O
+Rouletteprinzip	O	O
+funktionierdn	O	O
+und	O	O
+bei	O	O
+dane	O	O
+auf	O	O
+a	O	O
+Farb	O	O
+gsetzt	O	O
+wern	O	O
+musste	O	O
+,	O	O
+bevoa	O	O
+ma	O	O
+de	O	O
+Roulettescheibe	O	O
+meist	O	O
+mid	O	O
+am	O	O
+Hebl	O	O
+in	O	O
+Bewegung	O	O
+vasetzte	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-66
+# text = Im Deitschn Kaiserreich sowia in da Weimara Republik war des Glücksschbui an Automadn strengstens vabodn .
+Im	O	O
+Deitschn	B-ORG	B-ORG
+Kaiserreich	I-ORG	I-ORG
+sowia	O	O
+in	O	O
+da	O	O
+Weimara	B-ORG	B-ORG
+Republik	I-ORG	I-ORG
+war	O	O
+des	O	O
+Glücksschbui	O	O
+an	O	O
+Automadn	O	O
+strengstens	O	O
+vabodn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-67
+# text = Ealaubt jedoch war des Schbui mid da Gschicklichkeit .
+Ealaubt	O	O
+jedoch	O	O
+war	O	O
+des	O	O
+Schbui	O	O
+mid	O	O
+da	O	O
+Gschicklichkeit	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-68
+# text = Aus dea Zeid san etliche Schbuisysteme eahoidn , de den Schbuiendn auffoadern in den unterschiedlichsdn Foama sei Gschicklichkeit am Automadn unta Beweis zua stäin .
+Aus	O	O
+dea	O	O
+Zeid	O	O
+san	O	O
+etliche	O	O
+Schbuisysteme	O	O
+eahoidn	O	O
+,	O	O
+de	O	O
+den	O	O
+Schbuiendn	O	O
+auffoadern	O	O
+in	O	O
+den	O	O
+unterschiedlichsdn	O	O
+Foama	O	O
+sei	O	O
+Gschicklichkeit	O	O
+am	O	O
+Automadn	O	O
+unta	O	O
+Beweis	O	O
+zua	O	O
+stäin	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-69
+# text = Gejdschbui is a speziell deitscha Begriff .
+Gejdschbui	O	O
+is	O	O
+a	O	O
+speziell	O	O
+deitscha	B-LOCderiv	O
+Begriff	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-70
+# text = Ea bezeichnet lediglich de Schbuiautomadn , de in Deitschland noch 1951 duach de PTB ois solche zuagelossn woadn san und demnoch strikte gsetzlich festgelegte Voraussetzunga eafülln .
+Ea	O	O
+bezeichnet	O	O
+lediglich	O	O
+de	O	O
+Schbuiautomadn	O	O
+,	O	O
+de	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+noch	O	O
+1951	O	O
+duach	O	O
+de	O	O
+PTB	B-ORG	B-ORG
+ois	O	O
+solche	O	O
+zuagelossn	O	O
+woadn	O	O
+san	O	O
+und	O	O
+demnoch	O	O
+strikte	O	O
+gsetzlich	O	O
+festgelegte	O	O
+Voraussetzunga	O	O
+eafülln	O	O
+.	O	O
+
+# sent_id = bar_wiki_Automat-71
+# text = Merkur B ( 1977 ) , des easte Gejdschbuigrät da Gauselmo-Gruppn
+Merkur	B-MISC	B-MISC
+B	O	I-MISC
+(	O	O
+1977	O	O
+)	O	O
+,	O	O
+des	O	O
+easte	O	O
+Gejdschbuigrät	O	O
+da	O	O
+Gauselmo-Gruppn	B-ORG	B-ORG
+
+# sent_id = bar_wiki_Automat-72
+# text = De heid im deitschsprachign Raum am häufigsdn ozutreffendn Gejdschbuigräte san Merkur-Automadn ( produziad vo da Gauselmo-Gruppn ) sowia Novoline- und Novostar-Automadn vo Novomadic .
+De	O	O
+heid	O	O
+im	O	O
+deitschsprachign	B-LANGpart	B-LANGderiv
+Raum	O	O
+am	O	O
+häufigsdn	O	O
+ozutreffendn	O	O
+Gejdschbuigräte	O	O
+san	O	O
+Merkur-Automadn	B-MISCpart	B-ORGpart
+(	O	O
+produziad	O	O
+vo	O	O
+da	O	O
+Gauselmo-Gruppn	B-ORG	B-ORG
+)	O	O
+sowia	O	O
+Novoline-	B-MISC	B-ORGpart
+und	O	O
+Novostar-Automadn	B-MISCpart	B-ORGpart
+vo	O	O
+Novomadic	B-ORG	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Automat-73
+# text = Im Joar 1990 wurdn de easdn Online-Casinos vaöffentliachd und biedn seitdem aa Online-Schbuiautomadn an .
+Im	O	O
+Joar	O	O
+1990	O	O
+wurdn	O	O
+de	O	O
+easdn	O	O
+Online-Casinos	O	O
+vaöffentliachd	O	O
+und	O	O
+biedn	O	O
+seitdem	O	O
+aa	O	O
+Online-Schbuiautomadn	O	O
+an	O	O
+.	O	O
+

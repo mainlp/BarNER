@@ -1,0 +1,1983 @@
+# newdoc id = bar_wiki_Viakanthof
+# sent_id = bar_wiki_Viakanthof-1
+# text = Viakanthof
+Viakanthof	O	O
+
+# sent_id = bar_wiki_Viakanthof-2
+# text = A Viakanthof , aa Vierkanthof oder Viakanta is a bsundare Form vo an Bauanhof .
+A	O	O
+Viakanthof	O	O
+,	O	O
+aa	O	O
+Vierkanthof	O	O
+oder	O	O
+Viakanta	O	O
+is	O	O
+a	O	O
+bsundare	O	O
+Form	O	O
+vo	O	O
+an	O	O
+Bauanhof	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-3
+# text = Se san im gaunz bairischn Raum auztreffn .
+Se	O	O
+san	O	O
+im	O	O
+gaunz	O	O
+bairischn	B-LOCderiv	B-LOCderiv
+Raum	O	O
+auztreffn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-4
+# text = Oba niagans so haiffi wia im niedaöstarreichischn Mostviatl und in Owaöstareich im Traun- und im Hausruckviatl .
+Oba	O	O
+niagans	O	O
+so	O	O
+haiffi	O	O
+wia	O	O
+im	O	O
+niedaöstarreichischn	B-LOCderiv	B-LOCderiv
+Mostviatl	B-LOC	B-LOC
+und	O	O
+in	O	O
+Owaöstareich	B-LOC	B-LOC
+im	O	O
+Traun-	B-LOC	B-LOC
+und	O	O
+im	O	O
+Hausruckviatl	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-5
+# text = Se san scho recht wuchtige Auwesn , mid bis 365 Fensta ( Viajohreszeidnhof , St. Florian ) .
+Se	O	O
+san	O	O
+scho	O	O
+recht	O	O
+wuchtige	O	O
+Auwesn	O	O
+,	O	O
+mid	O	O
+bis	O	O
+365	O	O
+Fensta	O	O
+(	O	O
+Viajohreszeidnhof	O	B-LOC
+,	O	O
+St.	B-LOC	B-LOC
+Florian	I-LOC	I-LOC
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-6
+# text = Se hom a Seitnläng vo umma 30 m bis üwa 60 m .
+Se	O	O
+hom	O	O
+a	O	O
+Seitnläng	O	O
+vo	O	O
+umma	O	O
+30	O	O
+m	O	O
+bis	O	O
+üwa	O	O
+60	O	O
+m	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-7
+# text = De Greßtn hom a Hofflächn vo foßt an Hekta , des san uma 5000 m² .
+De	O	O
+Greßtn	O	O
+hom	O	O
+a	O	O
+Hofflächn	O	O
+vo	O	O
+foßt	O	O
+an	O	O
+Hekta	O	O
+,	O	O
+des	O	O
+san	O	O
+uma	O	O
+5000	O	O
+m²	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-8
+# text = De Baufuam hod se eascht schpot entwückid .
+De	O	O
+Baufuam	O	O
+hod	O	O
+se	O	O
+eascht	O	O
+schpot	O	O
+entwückid	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-9
+# text = De Höf woan zeascht " Boahöf " oda " Hocknhöf " und de Moastn san eascht noch da Bauanbefreiung umbaut woan .
+De	O	O
+Höf	O	O
+woan	O	O
+zeascht	O	O
+"	O	O
+Boahöf	O	O
+"	O	O
+oda	O	O
+"	O	O
+Hocknhöf	O	O
+"	O	O
+und	O	O
+de	O	O
+Moastn	O	O
+san	O	O
+eascht	O	O
+noch	O	O
+da	O	O
+Bauanbefreiung	B-EVENT	O
+umbaut	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-10
+# text = De Ödan woan woascheinli de Meiahöf vo de Kleschta und de Schtift und san so vo umma 1770 umbaut woan .
+De	O	O
+Ödan	O	O
+woan	O	O
+woascheinli	O	O
+de	O	O
+Meiahöf	O	B-LOC
+vo	O	O
+de	O	O
+Kleschta	O	O
+und	O	O
+de	O	O
+Schtift	O	O
+und	O	O
+san	O	O
+so	O	O
+vo	O	O
+umma	O	O
+1770	O	O
+umbaut	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-11
+# text = Ogseng vo Tiroi und Vuaarlberg , wo de Bauan frei woan , hod in de aundan Kronlända vo Östarreich eascht Middn vom 18. Joahundat de Ohängigkeit , da Bauan vo de Grundherrn ( Kleschta , Adl , Klerus , reiche Städta .. ) laungsam aufkeat .
+Ogseng	O	O
+vo	O	O
+Tiroi	B-LOC	B-LOC
+und	O	O
+Vuaarlberg	B-LOC	B-LOC
+,	O	O
+wo	O	O
+de	O	O
+Bauan	O	O
+frei	O	O
+woan	O	O
+,	O	O
+hod	O	O
+in	O	O
+de	O	O
+aundan	O	O
+Kronlända	O	O
+vo	O	O
+Östarreich	B-LOC	B-LOC
+eascht	O	O
+Middn	O	O
+vom	O	O
+18.	O	O
+Joahundat	O	O
+de	O	O
+Ohängigkeit	O	O
+,	O	O
+da	O	O
+Bauan	O	O
+vo	O	O
+de	O	O
+Grundherrn	O	O
+(	O	O
+Kleschta	O	O
+,	O	O
+Adl	O	O
+,	O	O
+Klerus	O	O
+,	O	O
+reiche	O	O
+Städta	O	O
+..	O	O
+)	O	O
+laungsam	O	O
+aufkeat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-12
+# text = Noch da Revoluzion vo " 1848 " is daun in Östareich des Feudalsystem komplet ogschoft woan .
+Noch	O	O
+da	O	O
+Revoluzion	B-EVENT	O
+vo	I-EVENT	O
+"	I-EVENT	O
+1848	I-EVENT	O
+"	I-EVENT	O
+is	O	O
+daun	O	O
+in	O	O
+Östareich	B-LOC	B-LOC
+des	O	O
+Feudalsystem	O	O
+komplet	O	O
+ogschoft	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-13
+# text = De meistn Bauanheisa san oiso escht noch da Bauanbefreiung , ob da Mittn vun 18 Joahundat oda aa eascht im 19. Joahundat umbaud woan .
+De	O	O
+meistn	O	O
+Bauanheisa	O	O
+san	O	O
+oiso	O	O
+escht	O	O
+noch	O	O
+da	O	O
+Bauanbefreiung	B-EVENT	O
+,	O	O
+ob	O	O
+da	O	O
+Mittn	O	O
+vun	O	O
+18	O	O
+Joahundat	O	O
+oda	O	O
+aa	O	O
+eascht	O	O
+im	O	O
+19.	O	O
+Joahundat	O	O
+umbaud	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-14
+# text = S`Fiabüd woan woascheinli de Kloschta- oda Schlessabautn , oba da Grund dafia woa owa aa a Wiatschoftliga .
+S`Fiabüd	O	O
+woan	O	O
+woascheinli	O	O
+de	O	O
+Kloschta-	O	O
+oda	O	O
+Schlessabautn	O	O
+,	O	O
+oba	O	O
+da	O	O
+Grund	O	O
+dafia	O	O
+woa	O	O
+owa	O	O
+aa	O	O
+a	O	O
+Wiatschoftliga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-15
+# text = Ma hod ois in an Bau ghobd und woa a in da koidn Zeit im Innanhof voan Wedda bessa gschizt .
+Ma	O	O
+hod	O	O
+ois	O	O
+in	O	O
+an	O	O
+Bau	O	O
+ghobd	O	O
+und	O	O
+woa	O	O
+a	O	O
+in	O	O
+da	O	O
+koidn	O	O
+Zeit	O	O
+im	O	O
+Innanhof	O	O
+voan	O	O
+Wedda	O	O
+bessa	O	O
+gschizt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-16
+# text = Das mas zweng da Weahoftigkeit so baut häd , hoid i fia an Bledsin .
+Das	O	O
+mas	O	O
+zweng	O	O
+da	O	O
+Weahoftigkeit	O	O
+so	O	O
+baut	O	O
+häd	O	O
+,	O	O
+hoid	O	O
+i	O	O
+fia	O	O
+an	O	O
+Bledsin	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-17
+# text = Den ois Schuz voa de " Ungarn " oda de " Panduan " , do san de Haisl z`schpot umbaud woan .
+Den	O	O
+ois	O	O
+Schuz	O	O
+voa	O	O
+de	O	O
+"	O	O
+Ungarn	B-LOCderiv	B-LOC
+"	O	O
+oda	O	O
+de	O	O
+"	O	O
+Panduan	O	B-LOC
+"	O	O
+,	O	O
+do	O	O
+san	O	O
+de	O	O
+Haisl	O	O
+z`schpot	O	O
+umbaud	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-18
+# text = Und Zwoatns , homs jo a nu laung de Schtodlseitn ( Scheunenseitn ) nua mid Hoizlottna ( Loawänd zweng an Heitrokna ) zuagmocht ghobd .
+Und	O	O
+Zwoatns	O	O
+,	O	O
+homs	O	O
+jo	O	O
+a	O	O
+nu	O	O
+laung	O	O
+de	O	O
+Schtodlseitn	O	O
+(	O	O
+Scheunenseitn	O	O
+)	O	O
+nua	O	O
+mid	O	O
+Hoizlottna	O	O
+(	O	O
+Loawänd	O	O
+zweng	O	O
+an	O	O
+Heitrokna	O	O
+)	O	O
+zuagmocht	O	O
+ghobd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-19
+# text = Und wia hed ma de Bretlwaund vateidign soin ?
+Und	O	O
+wia	O	O
+hed	O	O
+ma	O	O
+de	O	O
+Bretlwaund	O	O
+vateidign	O	O
+soin	O	O
+?	O	O
+
+# sent_id = bar_wiki_Viakanthof-20
+# text = Des bsundare Mekmoi vo de Höf is , das eana Fuam a Rechteck büt , mid via Eckn , es oiso a oanziga , rundum gschlossena Bauköapa is .
+Des	O	O
+bsundare	O	O
+Mekmoi	O	O
+vo	O	O
+de	O	O
+Höf	O	O
+is	O	O
+,	O	O
+das	O	O
+eana	O	O
+Fuam	O	O
+a	O	O
+Rechteck	O	O
+büt	O	O
+,	O	O
+mid	O	O
+via	O	O
+Eckn	O	O
+,	O	O
+es	O	O
+oiso	O	O
+a	O	O
+oanziga	O	O
+,	O	O
+rundum	O	O
+gschlossena	O	O
+Bauköapa	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-21
+# text = Es gibt so ehnliche Bauanhöf , wia de Dreiseithöf , de Eispringa oda a Doppöeispringa , de reglmassign und unreglmassign Viaseithöf oder de " offna Viaseithöf " .
+Es	O	O
+gibt	O	O
+so	O	O
+ehnliche	O	O
+Bauanhöf	O	O
+,	O	O
+wia	O	O
+de	O	O
+Dreiseithöf	O	O
+,	O	O
+de	O	O
+Eispringa	O	O
+oda	O	O
+a	O	O
+Doppöeispringa	O	O
+,	O	O
+de	O	O
+reglmassign	O	O
+und	O	O
+unreglmassign	O	O
+Viaseithöf	O	O
+oder	O	O
+de	O	O
+"	O	O
+offna	O	O
+Viaseithöf	O	O
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-22
+# text = Owa des san olle koane richtign Viakanta .
+Owa	O	O
+des	O	O
+san	O	O
+olle	O	O
+koane	O	O
+richtign	O	O
+Viakanta	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-23
+# text = Weu de Bauan im eatrogreichn Oipnvualaund imma reicha wuan san , homs de oidn Höf umbaut .
+Weu	O	O
+de	O	O
+Bauan	O	O
+im	O	O
+eatrogreichn	O	O
+Oipnvualaund	B-LOC	B-LOC
+imma	O	O
+reicha	O	O
+wuan	O	O
+san	O	O
+,	O	O
+homs	O	O
+de	O	O
+oidn	O	O
+Höf	O	O
+umbaut	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-24
+# text = Se woitn a ois in an Heisl hom , dahea hods umma 1880 in Owaöstarreich rund 8500 Viakanta gebn .
+Se	O	O
+woitn	O	O
+a	O	O
+ois	O	O
+in	O	O
+an	O	O
+Heisl	O	O
+hom	O	O
+,	O	O
+dahea	O	O
+hods	O	O
+umma	O	O
+1880	O	O
+in	O	O
+Owaöstarreich	B-LOC	B-LOC
+rund	O	O
+8500	O	O
+Viakanta	O	O
+gebn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-25
+# text = Bis in `Mittn von 20. Joahundat san nua umma 2000 dazuakema .
+Bis	O	O
+in	O	O
+`Mittn	O	O
+von	O	O
+20.	O	O
+Joahundat	O	O
+san	O	O
+nua	O	O
+umma	O	O
+2000	O	O
+dazuakema	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-26
+# text = Da Baufuascha " Rudolf Heckl " hods amoi " " ois oane vo de erfoigreichstn Ghöftfuaman da Wöd bezeichnt . " "
+Da	O	O
+Baufuascha	O	O
+"	O	O
+Rudolf	B-PER	B-PER
+Heckl	I-PER	I-PER
+"	O	O
+hods	O	O
+amoi	O	O
+"	O	O
+"	O	O
+ois	O	O
+oane	O	O
+vo	O	O
+de	O	O
+erfoigreichstn	O	O
+Ghöftfuaman	O	O
+da	O	O
+Wöd	O	O
+bezeichnt	O	O
+.	O	O
+"	O	O
+"	O	O
+
+# sent_id = bar_wiki_Viakanthof-27
+# text = De Seitn vo de Wohn- und Oawadsteu woan mid an tiafn Kölla untabaut .
+De	O	O
+Seitn	O	O
+vo	O	O
+de	O	O
+Wohn-	O	O
+und	O	O
+Oawadsteu	O	O
+woan	O	O
+mid	O	O
+an	O	O
+tiafn	O	O
+Kölla	O	O
+untabaut	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-28
+# text = De Kölla san ois Vuarotsräum gnuzt wuan .
+De	O	O
+Kölla	O	O
+san	O	O
+ois	O	O
+Vuarotsräum	O	O
+gnuzt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-29
+# text = Da hod ma de Eadöpfö glogat , des " Kraut " und Sauakraut , de eiglogatn Öpfi und " Bian " , de Müch und in Budda ( Buddai ) , und aa des " Gsöchte " .
+Da	O	O
+hod	O	O
+ma	O	O
+de	O	O
+Eadöpfö	O	O
+glogat	O	O
+,	O	O
+des	O	O
+"	O	O
+Kraut	O	O
+"	O	O
+und	O	O
+Sauakraut	O	O
+,	O	O
+de	O	O
+eiglogatn	O	O
+Öpfi	O	O
+und	O	O
+"	O	O
+Bian	O	O
+"	O	O
+,	O	O
+de	O	O
+Müch	O	O
+und	O	O
+in	O	O
+Budda	O	O
+(	O	O
+Buddai	O	O
+)	O	O
+,	O	O
+und	O	O
+aa	O	O
+des	O	O
+"	O	O
+Gsöchte	O	O
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-30
+# text = Und gaunz wichti , aa de grossn Mostfassl .
+Und	O	O
+gaunz	O	O
+wichti	O	O
+,	O	O
+aa	O	O
+de	O	O
+grossn	O	O
+Mostfassl	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-31
+# text = De Bauanhaisa , de Wohn- und Oaweitsteu , woan mid zwoa Stockweak afbaut , de mid Tramdeckn odeud wuan san .
+De	O	O
+Bauanhaisa	O	O
+,	O	O
+de	O	O
+Wohn-	O	O
+und	O	O
+Oaweitsteu	O	O
+,	O	O
+woan	O	O
+mid	O	O
+zwoa	O	O
+Stockweak	O	O
+afbaut	O	O
+,	O	O
+de	O	O
+mid	O	O
+Tramdeckn	O	O
+odeud	O	O
+wuan	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-32
+# text = Draf san Fischbödn glegt woan ( fei grodkobite Hoizlottna ) .
+Draf	O	O
+san	O	O
+Fischbödn	O	O
+glegt	O	O
+woan	O	O
+(	O	O
+fei	O	O
+grodkobite	O	O
+Hoizlottna	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-33
+# text = Owahoib von Wohnteu haums , am Dochbodn , af de Fischbretta aa Loambett aflegn miaßn , in den " Loam " san daun brennde Ziagln eiglegd woan .
+Owahoib	O	O
+von	O	O
+Wohnteu	O	O
+haums	O	O
+,	O	O
+am	O	O
+Dochbodn	O	O
+,	O	O
+af	O	O
+de	O	O
+Fischbretta	O	O
+aa	O	O
+Loambett	O	O
+aflegn	O	O
+miaßn	O	O
+,	O	O
+in	O	O
+den	O	O
+"	O	O
+Loam	O	O
+"	O	O
+san	O	O
+daun	O	O
+brennde	O	O
+Ziagln	O	O
+eiglegd	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-34
+# text = Fois da Dochschtui brennad woan is , daun woan de Wohnkaumman duach de Ziaglbodn bessa gschizt .
+Fois	O	O
+da	O	O
+Dochschtui	O	O
+brennad	O	O
+woan	O	O
+is	O	O
+,	O	O
+daun	O	O
+woan	O	O
+de	O	O
+Wohnkaumman	O	O
+duach	O	O
+de	O	O
+Ziaglbodn	O	O
+bessa	O	O
+gschizt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-35
+# text = Des Doch woa mid Schtroh deckt .
+Des	O	O
+Doch	O	O
+woa	O	O
+mid	O	O
+Schtroh	O	O
+deckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-36
+# text = Af Ziagldeckung is ma eascht so uma d`Joahundatwend vom 19. afs 20. umgstiegn .
+Af	O	O
+Ziagldeckung	O	O
+is	O	O
+ma	O	O
+eascht	O	O
+so	O	O
+uma	O	O
+d`Joahundatwend	O	O
+vom	O	O
+19.	O	O
+afs	O	O
+20.	O	O
+umgstiegn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-37
+# text = Bei maunche Höf is da Schtodlteu no Heid midm Schtroh deckt .
+Bei	O	O
+maunche	O	O
+Höf	O	O
+is	O	O
+da	O	O
+Schtodlteu	O	O
+no	O	O
+Heid	O	O
+midm	O	O
+Schtroh	O	O
+deckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-38
+# text = Im großn Innanhof san d`Ross augschiat woan , Wagn be- und afglod woan .
+Im	O	O
+großn	O	O
+Innanhof	O	O
+san	O	O
+d`Ross	O	O
+augschiat	O	O
+woan	O	O
+,	O	O
+Wagn	O	O
+be-	O	O
+und	O	O
+afglod	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-39
+# text = Ma hod aa iwan Hof ausn Stodl und aus da Wognhalle foan kena .
+Ma	O	O
+hod	O	O
+aa	O	O
+iwan	O	O
+Hof	O	O
+ausn	O	O
+Stodl	O	O
+und	O	O
+aus	O	O
+da	O	O
+Wognhalle	O	O
+foan	O	O
+kena	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-40
+# text = Bei de greßan Viakanta is a aa Göplhittn im Hof gschtaundn , unta dea ma a bei an schlechtan Wedda Maschinan oschtön hod kena .
+Bei	O	O
+de	O	O
+greßan	O	O
+Viakanta	O	O
+is	O	O
+a	O	O
+aa	O	O
+Göplhittn	O	O
+im	O	O
+Hof	O	O
+gschtaundn	O	O
+,	O	O
+unta	O	O
+dea	O	O
+ma	O	O
+a	O	O
+bei	O	O
+an	O	O
+schlechtan	O	O
+Wedda	O	O
+Maschinan	O	O
+oschtön	O	O
+hod	O	O
+kena	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-41
+# text = Wichti woa a das a Brunn midm Beckn drinwoa .
+Wichti	O	O
+woa	O	O
+a	O	O
+das	O	O
+a	O	O
+Brunn	O	O
+midm	O	O
+Beckn	O	O
+drinwoa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-42
+# text = Wossa zan Rossoschwoam , oda zan Buzn .
+Wossa	O	O
+zan	O	O
+Rossoschwoam	O	O
+,	O	O
+oda	O	O
+zan	O	O
+Buzn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-43
+# text = Da Droad- oda Schüttbodn , untam Doch hod gmauade Wand und an Estrich oda Ziaglbodn kobt , ois Schuz vuam Maisfross .
+Da	O	O
+Droad-	O	O
+oda	O	O
+Schüttbodn	O	O
+,	O	O
+untam	O	O
+Doch	O	O
+hod	O	O
+gmauade	O	O
+Wand	O	O
+und	O	O
+an	O	O
+Estrich	O	O
+oda	O	O
+Ziaglbodn	O	O
+kobt	O	O
+,	O	O
+ois	O	O
+Schuz	O	O
+vuam	O	O
+Maisfross	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-44
+# text = Maunche hom a nu Foiblech fua de Fensta zu de Droad- oda Schüttbodn ghobt .
+Maunche	O	O
+hom	O	O
+a	O	O
+nu	O	O
+Foiblech	O	O
+fua	O	O
+de	O	O
+Fensta	O	O
+zu	O	O
+de	O	O
+Droad-	O	O
+oda	O	O
+Schüttbodn	O	O
+ghobt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-45
+# text = Ois Schutz vuan Funkflug oda an Dreg .
+Ois	O	O
+Schutz	O	O
+vuan	O	O
+Funkflug	O	O
+oda	O	O
+an	O	O
+Dreg	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-46
+# text = Den da Eanteeatrog hod gschizt wean miassn und gaunz bsundas de Aussaat fias nagste Joa .
+Den	O	O
+da	O	O
+Eanteeatrog	O	O
+hod	O	O
+gschizt	O	O
+wean	O	O
+miassn	O	O
+und	O	O
+gaunz	O	O
+bsundas	O	O
+de	O	O
+Aussaat	O	O
+fias	O	O
+nagste	O	O
+Joa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-47
+# text = In Stodl hod mas Wintafuade fia " d`Viecha " glogad .
+In	O	O
+Stodl	O	O
+hod	O	O
+mas	O	O
+Wintafuade	O	O
+fia	O	O
+"	O	O
+d`Viecha	O	O
+"	O	O
+glogad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-48
+# text = Bei oanige Viakanta isa a heid nu ned gmauad , sundan es san de Wand mid Loawend ( Lattnwand ) zugmocht .
+Bei	O	O
+oanige	O	O
+Viakanta	O	O
+isa	O	O
+a	O	O
+heid	O	O
+nu	O	O
+ned	O	O
+gmauad	O	O
+,	O	O
+sundan	O	O
+es	O	O
+san	O	O
+de	O	O
+Wand	O	O
+mid	O	O
+Loawend	O	O
+(	O	O
+Lattnwand	O	O
+)	O	O
+zugmocht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-49
+# text = Wauns Megli woa , is de Schtodlseitn nochm Sidn hi ausgricht gwest , zweng da Sunnaseitn zan bessan Trikan vom Hei ( em trickadn Gros ) .
+Wauns	O	O
+Megli	O	O
+woa	O	O
+,	O	O
+is	O	O
+de	O	O
+Schtodlseitn	O	O
+nochm	O	O
+Sidn	O	O
+hi	O	O
+ausgricht	O	O
+gwest	O	O
+,	O	O
+zweng	O	O
+da	O	O
+Sunnaseitn	O	O
+zan	O	O
+bessan	O	O
+Trikan	O	O
+vom	O	O
+Hei	O	O
+(	O	O
+em	O	O
+trickadn	O	O
+Gros	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-50
+# text = De großn Viakanta midn meran Grund , san moast Meiahöf vo Schtift oda Kleschta gwest .
+De	O	O
+großn	O	O
+Viakanta	O	O
+midn	O	O
+meran	O	O
+Grund	O	O
+,	O	O
+san	O	O
+moast	O	O
+Meiahöf	O	O
+vo	O	O
+Schtift	O	O
+oda	O	O
+Kleschta	O	O
+gwest	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-51
+# text = Dahea woans a fria , nu befuas Viakanta wuan san , oft a fia aa klone Gegand da Zehenthof .
+Dahea	O	O
+woans	O	O
+a	O	O
+fria	O	O
+,	O	O
+nu	O	O
+befuas	O	O
+Viakanta	O	O
+wuan	O	O
+san	O	O
+,	O	O
+oft	O	O
+a	O	O
+fia	O	O
+aa	O	O
+klone	O	O
+Gegand	O	O
+da	O	O
+Zehenthof	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-52
+# text = Wo de aundan Bauan eanane Obgobn hibringa hom miassn .
+Wo	O	O
+de	O	O
+aundan	O	O
+Bauan	O	O
+eanane	O	O
+Obgobn	O	O
+hibringa	O	O
+hom	O	O
+miassn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-53
+# text = Dahea steht a nu maunchmoi a Zehenthaisal nebm dem Viakanta .
+Dahea	O	O
+steht	O	O
+a	O	O
+nu	O	O
+maunchmoi	O	O
+a	O	O
+Zehenthaisal	O	O
+nebm	O	O
+dem	O	O
+Viakanta	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-54
+# text = Neman Hof woa a aa Haunfschtum zan Woimocha .
+Neman	O	O
+Hof	O	O
+woa	O	O
+a	O	O
+aa	O	O
+Haunfschtum	O	O
+zan	O	O
+Woimocha	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-55
+# text = Es kenan a Haisal fia de Eantehöffa a Wengal oseits gschtandn sei .
+Es	O	O
+kenan	O	O
+a	O	O
+Haisal	O	O
+fia	O	O
+de	O	O
+Eantehöffa	O	O
+a	O	O
+Wengal	O	O
+oseits	O	O
+gschtandn	O	O
+sei	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-56
+# text = Wia ma nu vom Funkflug mera Aungst ghobd hod , is a da Bockofn weida vom Viakanta weggwen .
+Wia	O	O
+ma	O	O
+nu	O	O
+vom	O	O
+Funkflug	O	O
+mera	O	O
+Aungst	O	O
+ghobd	O	O
+hod	O	O
+,	O	O
+is	O	O
+a	O	O
+da	O	O
+Bockofn	O	O
+weida	O	O
+vom	O	O
+Viakanta	O	O
+weggwen	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-57
+# text = Jo , und bei de greßan Viakanta hod natiali a Kapön a ned föin deaffa .
+Jo	O	O
+,	O	O
+und	O	O
+bei	O	O
+de	O	O
+greßan	O	O
+Viakanta	O	O
+hod	O	O
+natiali	O	O
+a	O	O
+Kapön	O	O
+a	O	O
+ned	O	O
+föin	O	O
+deaffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-58
+# text = Ma hod zwoa scho Maschinan ghobt owa es woa de Oawad recht Aufwendi und zweng Dem hod ma a mera Deanstbotn brauchd .
+Ma	O	O
+hod	O	O
+zwoa	O	O
+scho	O	O
+Maschinan	O	O
+ghobt	O	O
+owa	O	O
+es	O	O
+woa	O	O
+de	O	O
+Oawad	O	O
+recht	O	O
+Aufwendi	O	O
+und	O	O
+zweng	O	O
+Dem	O	O
+hod	O	O
+ma	O	O
+a	O	O
+mera	O	O
+Deanstbotn	O	O
+brauchd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-59
+# text = Bevua de Technisiarung af de Bauanhöf eigsezt hod , woan 1910 umma 20 Knecht und
+Bevua	O	O
+de	O	O
+Technisiarung	O	O
+af	O	O
+de	O	O
+Bauanhöf	O	O
+eigsezt	O	O
+hod	O	O
+,	O	O
+woan	O	O
+1910	O	O
+umma	O	O
+20	O	O
+Knecht	O	O
+und	O	O
+
+# sent_id = bar_wiki_Viakanthof-60
+# text = Mögd und dazua no eppa 10 Kloahaisla augstöd .
+Mögd	O	O
+und	O	O
+dazua	O	O
+no	O	O
+eppa	O	O
+10	O	O
+Kloahaisla	O	O
+augstöd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-61
+# text = Dazua san za de Eantn nu Saisonoawata aus de Kronlända keman .
+Dazua	O	O
+san	O	O
+za	O	O
+de	O	O
+Eantn	O	O
+nu	O	O
+Saisonoawata	O	O
+aus	O	O
+de	O	O
+Kronlända	O	B-ORG
+keman	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-62
+# text = Zwegn Dem hods a aussahoib vom Viakanta Kaummanhaisl gem , zan Schloffa fia de Eantehöffa .
+Zwegn	O	O
+Dem	O	O
+hods	O	O
+a	O	O
+aussahoib	O	O
+vom	O	O
+Viakanta	O	O
+Kaummanhaisl	O	O
+gem	O	O
+,	O	O
+zan	O	O
+Schloffa	O	O
+fia	O	O
+de	O	O
+Eantehöffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-63
+# text = Da Rossknecht hod sei Kaumma glei neman Rossschtoi ghobd und dahinta haum de Rossbuam gschloffa .
+Da	O	O
+Rossknecht	O	O
+hod	O	O
+sei	O	O
+Kaumma	O	O
+glei	O	O
+neman	O	O
+Rossschtoi	O	O
+ghobd	O	O
+und	O	O
+dahinta	O	O
+haum	O	O
+de	O	O
+Rossbuam	O	O
+gschloffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-64
+# text = De Köchin woa in da Menschakauma glei nebn da Kuchi , den se hod jo scho zeidig auhoazn miassen .
+De	O	O
+Köchin	O	O
+woa	O	O
+in	O	O
+da	O	O
+Menschakauma	O	O
+glei	O	O
+nebn	O	O
+da	O	O
+Kuchi	O	O
+,	O	O
+den	O	O
+se	O	O
+hod	O	O
+jo	O	O
+scho	O	O
+zeidig	O	O
+auhoazn	O	O
+miassen	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-65
+# text = Dahinta san a de aundan Menschakaumman glegn .
+Dahinta	O	O
+san	O	O
+a	O	O
+de	O	O
+aundan	O	O
+Menschakaumman	O	O
+glegn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-66
+# text = Anan Beischpü vom Sumarauerhof .
+Anan	O	O
+Beischpü	O	O
+vom	O	O
+Sumarauerhof	B-LOC	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-67
+# text = Dea hod a Grundflächn vo uma 3200 m² , 50 x 64 m .
+Dea	O	O
+hod	O	O
+a	O	O
+Grundflächn	O	O
+vo	O	O
+uma	O	O
+3200	O	O
+m²	O	O
+,	O	O
+50	O	O
+x	O	O
+64	O	O
+m	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-68
+# text = De Heandl- , oiso de Rindvecha hod ma zan eignan Nuzn gfuadat .
+De	O	O
+Heandl-	O	O
+,	O	O
+oiso	O	O
+de	O	O
+Rindvecha	O	O
+hod	O	O
+ma	O	O
+zan	O	O
+eignan	O	O
+Nuzn	O	O
+gfuadat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-69
+# text = Beckarei
+Beckarei	O	O
+
+# sent_id = bar_wiki_Viakanthof-70
+# text = Bockn is , je noch Leid am Hof , olle zwoa bis drei Wochan woan .
+Bockn	O	O
+is	O	O
+,	O	O
+je	O	O
+noch	O	O
+Leid	O	O
+am	O	O
+Hof	O	O
+,	O	O
+olle	O	O
+zwoa	O	O
+bis	O	O
+drei	O	O
+Wochan	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-71
+# text = Und do san bis uma 70. Kg Brotloab bockt wuan .
+Und	O	O
+do	O	O
+san	O	O
+bis	O	O
+uma	O	O
+70.	O	O
+Kg	O	O
+Brotloab	O	O
+bockt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-72
+# text = Fleischarei ( Mezgarei )
+Fleischarei	O	O
+(	O	O
+Mezgarei	O	O
+)	O	O
+
+# sent_id = bar_wiki_Viakanthof-73
+# text = Zan Eignvabrauch san so uma zwoazg Sau und aa nu Fackln gfuadat wuan .
+Zan	O	O
+Eignvabrauch	O	O
+san	O	O
+so	O	O
+uma	O	O
+zwoazg	O	O
+Sau	O	O
+und	O	O
+aa	O	O
+nu	O	O
+Fackln	O	O
+gfuadat	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-74
+# text = De hod ma söwa gschlogn , puzt , zteud , vawuascht und gsöcht .
+De	O	O
+hod	O	O
+ma	O	O
+söwa	O	O
+gschlogn	O	O
+,	O	O
+puzt	O	O
+,	O	O
+zteud	O	O
+,	O	O
+vawuascht	O	O
+und	O	O
+gsöcht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-75
+# text = Mostmocha
+Mostmocha	O	O
+
+# sent_id = bar_wiki_Viakanthof-76
+# text = De Öpfe und " Bian " san af de eignan Schtreiobstwiesna gwochsn .
+De	O	O
+Öpfe	O	O
+und	O	O
+"	O	O
+Bian	O	O
+"	O	O
+san	O	O
+af	O	O
+de	O	O
+eignan	O	O
+Schtreiobstwiesna	O	O
+gwochsn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-77
+# text = Des Obst is gwoschn und daun midm " Rollnursch " zmanschkad wuan .
+Des	O	O
+Obst	O	O
+is	O	O
+gwoschn	O	O
+und	O	O
+daun	O	O
+midm	O	O
+"	O	O
+Rollnursch	O	O
+"	O	O
+zmanschkad	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-78
+# text = Aus da " Meischn " hod ma in Siaßmost mit de Zwaungpreßn aussadruckt .
+Aus	O	O
+da	O	O
+"	O	O
+Meischn	O	O
+"	O	O
+hod	O	O
+ma	O	O
+in	O	O
+Siaßmost	O	O
+mit	O	O
+de	O	O
+Zwaungpreßn	O	O
+aussadruckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-79
+# text = Vom Presshaus is da Mostsoft in den druntaligandn Mostkölla kema , wo ea daun zan Most reifn hod kena .
+Vom	O	O
+Presshaus	O	O
+is	O	O
+da	O	O
+Mostsoft	O	O
+in	O	O
+den	O	O
+druntaligandn	O	O
+Mostkölla	O	O
+kema	O	O
+,	O	O
+wo	O	O
+ea	O	O
+daun	O	O
+zan	O	O
+Most	O	O
+reifn	O	O
+hod	O	O
+kena	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-80
+# text = Fua da Mechanisierung hod ma ois Autrieb nu de Rössa ghobd .
+Fua	O	O
+da	O	O
+Mechanisierung	O	O
+hod	O	O
+ma	O	O
+ois	O	O
+Autrieb	O	O
+nu	O	O
+de	O	O
+Rössa	O	O
+ghobd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-81
+# text = Obs in Göpl draht hom , de Wagn oda in Pflug zogn , des Hoiz ausn Woid gruckt hom. Dazua Hods stoake Rößa braucht .
+Obs	O	O
+in	O	O
+Göpl	O	O
+draht	O	O
+hom	O	O
+,	O	O
+de	O	O
+Wagn	O	O
+oda	O	O
+in	O	O
+Pflug	O	O
+zogn	O	O
+,	O	O
+des	O	O
+Hoiz	O	O
+ausn	O	O
+Woid	O	O
+gruckt	O	O
+hom.	O	O
+Dazua	O	O
+Hods	O	O
+stoake	O	O
+Rößa	O	O
+braucht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-82
+# text = So san am Hof mindestens 8 " Norika " gschtaundn .
+So	O	O
+san	O	O
+am	O	O
+Hof	O	O
+mindestens	O	O
+8	O	O
+"	O	O
+Norika	O	O
+"	O	O
+gschtaundn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-83
+# text = Und fian Bauan seine Ausfoatn , midm Steirawagal , woa a nua a ungarischs Hoibbluad am Hof .
+Und	O	O
+fian	O	O
+Bauan	O	O
+seine	O	O
+Ausfoatn	O	O
+,	O	O
+midm	O	O
+Steirawagal	O	O
+,	O	O
+woa	O	O
+a	O	O
+nua	O	O
+a	O	O
+ungarischs	B-LOCderiv	B-LOCderiv
+Hoibbluad	O	O
+am	O	O
+Hof	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-84
+# text = Gnua " Hendln " weans a ghobt hom. Sauan homa scho eawend .
+Gnua	O	O
+"	O	O
+Hendln	O	O
+"	O	O
+weans	O	O
+a	O	O
+ghobt	O	O
+hom.	O	O
+Sauan	O	O
+homa	O	O
+scho	O	O
+eawend	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-85
+# text = Zua Zeid vo da " Kaiserin Maria Theresia " hods af den massign Hof nua 6. Müllikiah gebm und dazua a nu " Koibm " und " Kaiwal " , 6 Roß , 9 Schof und 9 Sau .
+Zua	O	O
+Zeid	O	O
+vo	O	O
+da	O	O
+"	O	O
+Kaiserin	O	O
+Maria	B-PER	B-PER
+Theresia	I-PER	I-PER
+"	O	O
+hods	O	O
+af	O	O
+den	O	O
+massign	O	O
+Hof	O	O
+nua	O	O
+6.	O	O
+Müllikiah	O	O
+gebm	O	O
+und	O	O
+dazua	O	O
+a	O	O
+nu	O	O
+"	O	O
+Koibm	O	O
+"	O	O
+und	O	O
+"	O	O
+Kaiwal	O	O
+"	O	O
+,	O	O
+6	O	O
+Roß	O	O
+,	O	O
+9	O	O
+Schof	O	O
+und	O	O
+9	O	O
+Sau	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-86
+# text = Da ma am Aufaung vom 20 Johundat de pasteurisiate Mülli weida wega liafan hod kena , san a de Kiah am Hof mera woan .
+Da	O	O
+ma	O	O
+am	O	O
+Aufaung	O	O
+vom	O	O
+20	O	O
+Johundat	O	O
+de	O	O
+pasteurisiate	O	O
+Mülli	O	O
+weida	O	O
+wega	O	O
+liafan	O	O
+hod	O	O
+kena	O	O
+,	O	O
+san	O	O
+a	O	O
+de	O	O
+Kiah	O	O
+am	O	O
+Hof	O	O
+mera	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-87
+# text = Bis zan easchtn Wödkriag woans scho uma 50 Müchkiah , und nu Koibm und Kaibal , owa ma hod a 13 Roß ghoidn .
+Bis	O	O
+zan	O	O
+easchtn	B-EVENT	B-EVENT
+Wödkriag	I-EVENT	I-EVENT
+woans	O	O
+scho	O	O
+uma	O	O
+50	O	O
+Müchkiah	O	O
+,	O	O
+und	O	O
+nu	O	O
+Koibm	O	O
+und	O	O
+Kaibal	O	O
+,	O	O
+owa	O	O
+ma	O	O
+hod	O	O
+a	O	O
+13	O	O
+Roß	O	O
+ghoidn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-88
+# text = Friara hod mas Moaste nu händisch mocha miaßn .
+Friara	O	O
+hod	O	O
+mas	O	O
+Moaste	O	O
+nu	O	O
+händisch	O	O
+mocha	O	O
+miaßn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-89
+# text = D`Wiesna und s`Droad san nu mid da " Sengs " gschniddn woan , " s`Hei " hod ma zan Vuatruckna midn Rechn gwendt , und " s`Stroh " hod ma med de " Schlegln " droschn .
+D`Wiesna	O	O
+und	O	O
+s`Droad	O	O
+san	O	O
+nu	O	O
+mid	O	O
+da	O	O
+"	O	O
+Sengs	O	O
+"	O	O
+gschniddn	O	O
+woan	O	O
+,	O	O
+"	O	O
+s`Hei	O	O
+"	O	O
+hod	O	O
+ma	O	O
+zan	O	O
+Vuatruckna	O	O
+midn	O	O
+Rechn	O	O
+gwendt	O	O
+,	O	O
+und	O	O
+"	O	O
+s`Stroh	O	O
+"	O	O
+hod	O	O
+ma	O	O
+med	O	O
+de	O	O
+"	O	O
+Schlegln	O	O
+"	O	O
+droschn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-90
+# text = De Bauan vo de großn Viakanta hod ma a de Herrnbauan gnennd .
+De	O	O
+Bauan	O	O
+vo	O	O
+de	O	O
+großn	O	O
+Viakanta	O	O
+hod	O	O
+ma	O	O
+a	O	O
+de	O	O
+Herrnbauan	O	O
+gnennd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-91
+# text = Se hom an eignen Stand büt den ma quasi den Bauanadel gnennd hod .
+Se	O	O
+hom	O	O
+an	O	O
+eignen	O	O
+Stand	O	O
+büt	O	O
+den	O	O
+ma	O	O
+quasi	O	O
+den	O	O
+Bauanadel	O	O
+gnennd	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-92
+# text = Das wos ghobt hom des homs a zoagt .
+Das	O	O
+wos	O	O
+ghobt	O	O
+hom	O	O
+des	O	O
+homs	O	O
+a	O	O
+zoagt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-93
+# text = 1842 hod da Roasschriftstölla Johann Georg Kuchl üwa den gean bsuachtn Hof , Mayer in da Tann gschrim .
+1842	O	O
+hod	O	O
+da	O	O
+Roasschriftstölla	O	O
+Johann	B-PER	B-PER
+Georg	I-PER	I-PER
+Kuchl	I-PER	I-PER
+üwa	O	O
+den	O	O
+gean	O	O
+bsuachtn	O	O
+Hof	O	O
+,	O	O
+Mayer	B-LOC	B-LOC
+in	I-LOC	I-LOC
+da	I-LOC	I-LOC
+Tann	I-LOC	I-LOC
+gschrim	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-94
+# text = Weida hod a gschrim :
+Weida	O	O
+hod	O	O
+a	O	O
+gschrim	O	O
+:	O	O
+
+# sent_id = bar_wiki_Viakanthof-95
+# text = In da Laudsgschicht is gschrim :
+In	O	O
+da	O	O
+Laudsgschicht	O	O
+is	O	O
+gschrim	O	O
+:	O	O
+
+# sent_id = bar_wiki_Viakanthof-96
+# text = Wos ökonomisch oamoi a Idealfoi woa , is heid a Fassl mid koan Bodn .
+Wos	O	O
+ökonomisch	O	O
+oamoi	O	O
+a	O	O
+Idealfoi	O	O
+woa	O	O
+,	O	O
+is	O	O
+heid	O	O
+a	O	O
+Fassl	O	O
+mid	O	O
+koan	O	O
+Bodn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-97
+# text = De Laundwiatschoft is stoak mechanisiat woan , des vüle Gsind und de Oxn und de Ressa brauchts heid neamma .
+De	O	O
+Laundwiatschoft	O	O
+is	O	O
+stoak	O	O
+mechanisiat	O	O
+woan	O	O
+,	O	O
+des	O	O
+vüle	O	O
+Gsind	O	O
+und	O	O
+de	O	O
+Oxn	O	O
+und	O	O
+de	O	O
+Ressa	O	O
+brauchts	O	O
+heid	O	O
+neamma	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-98
+# text = Da jo de greßan Höf moaßt a nu untan Denkmoischutz schtengan is a aundare Nutzung oft nua recht Eigschrengd megli .
+Da	O	O
+jo	O	O
+de	O	O
+greßan	O	O
+Höf	O	O
+moaßt	O	O
+a	O	O
+nu	O	O
+untan	O	O
+Denkmoischutz	O	O
+schtengan	O	O
+is	O	O
+a	O	O
+aundare	O	O
+Nutzung	O	O
+oft	O	O
+nua	O	O
+recht	O	O
+Eigschrengd	O	O
+megli	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-99
+# text = A boa Bauan biatn , ois Zuaafbessarung , Urlaub am Bauanhof au , oda hom an Reitschtoi eigricht .
+A	O	O
+boa	O	O
+Bauan	O	O
+biatn	O	O
+,	O	O
+ois	O	O
+Zuaafbessarung	O	O
+,	O	O
+Urlaub	O	O
+am	O	O
+Bauanhof	O	O
+au	O	O
+,	O	O
+oda	O	O
+hom	O	O
+an	O	O
+Reitschtoi	O	O
+eigricht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-100
+# text = Vaoanzlt gibt’s a Seminaräum zan mietn .
+Vaoanzlt	O	O
+gibt’s	O	O
+a	O	O
+Seminaräum	O	O
+zan	O	O
+mietn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-101
+# text = Jezt is de Bauan a gstott , Teu vom Hof aa aun Fremdfiaman za vapochtn .
+Jezt	O	O
+is	O	O
+de	O	O
+Bauan	O	O
+a	O	O
+gstott	O	O
+,	O	O
+Teu	O	O
+vom	O	O
+Hof	O	O
+aa	O	O
+aun	O	O
+Fremdfiaman	O	O
+za	O	O
+vapochtn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-102
+# text = Des is a notwendi , den de bäualichn Kuituabautn san a Woazeichn insara Homat und zian und putzn unsa Landl oadandli af .
+Des	O	O
+is	O	O
+a	O	O
+notwendi	O	O
+,	O	O
+den	O	O
+de	O	O
+bäualichn	O	O
+Kuituabautn	O	O
+san	O	O
+a	O	O
+Woazeichn	O	O
+insara	O	O
+Homat	O	O
+und	O	O
+zian	O	O
+und	O	O
+putzn	O	O
+unsa	O	O
+Landl	O	O
+oadandli	O	O
+af	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-103
+# text = Ois 1971 de lezt Bsizarin gstuam is , hod des Laund Owaöstareich den Hof ghaft und a Freiliachtmuseum drausgmocht .
+Ois	O	O
+1971	O	O
+de	O	O
+lezt	O	O
+Bsizarin	O	O
+gstuam	O	O
+is	O	O
+,	O	O
+hod	O	O
+des	O	O
+Laund	O	O
+Owaöstareich	B-ORG	B-ORG
+den	O	O
+Hof	O	O
+ghaft	O	O
+und	O	O
+a	O	O
+Freiliachtmuseum	O	O
+drausgmocht	O	O
+.	O	O
+
+# sent_id = bar_wiki_Viakanthof-104
+# text = Da Hof ligt im " Moakt St. Florian , Beziak Linz-Laund " und kead oiso zan " Traunviatl " .
+Da	O	O
+Hof	O	O
+ligt	O	O
+im	O	O
+"	O	O
+Moakt	O	O
+St.	B-LOC	B-LOC
+Florian	I-LOC	I-LOC
+,	O	O
+Beziak	O	B-LOC
+Linz-Laund	B-LOC	I-LOC
+"	O	O
+und	O	O
+kead	O	O
+oiso	O	O
+zan	O	O
+"	O	O
+Traunviatl	B-LOC	B-LOC
+"	O	O
+.	O	O
+

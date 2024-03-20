@@ -1,0 +1,8446 @@
+# newdoc id = bar_wiki_Automat
+# sent_id = bar_wiki_Automat-1
+# text = Automat 
+Automat	O
+
+# sent_id = bar_wiki_Automat-2
+# text = A Schbuiautomat is a mechanischs oda elektronischs Gerät , des noch Münzeinwurf oan Schbuivalauf bietet , da duach Zuafoi und / oda Betätigunga des Mitschbuiers oda da Mitschbuia bestimmt werd . 
+A	O
+Schbuiautomat	O
+is	O
+a	O
+mechanischs	O
+oda	O
+elektronischs	O
+Gerät	O
+,	O
+des	O
+noch	O
+Münzeinwurf	O
+oan	O
+Schbuivalauf	O
+bietet	O
+,	O
+da	O
+duach	O
+Zuafoi	O
+und	O
+/	O
+oda	O
+Betätigunga	O
+des	O
+Mitschbuiers	O
+oda	O
+da	O
+Mitschbuia	O
+bestimmt	O
+werd	O
+.	O
+
+# sent_id = bar_wiki_Automat-3
+# text = Begriffsbedeitung 
+Begriffsbedeitung	O
+
+# sent_id = bar_wiki_Automat-4
+# text = Mid am Begriff Schbuiautomadn wern in Deitschland meist Gejdschbuigräte im Sinne des § 33c da Gewerbeoadnung ( GewO ) bezeichnet , wia sie in Gaststätdn und Schbuihoin aufgestäit wern dürfa . 
+Mid	O
+am	O
+Begriff	O
+Schbuiautomadn	O
+wern	O
+in	O
+Deitschland	B-LOC
+meist	O
+Gejdschbuigräte	O
+im	O
+Sinne	O
+des	O
+§	O
+33c	O
+da	O
+Gewerbeoadnung	B-WOA
+(	O
+GewO	B-WOA
+)	O
+bezeichnet	O
+,	O
+wia	O
+sie	O
+in	O
+Gaststätdn	O
+und	O
+Schbuihoin	O
+aufgestäit	O
+wern	O
+dürfa	O
+.	O
+
+# sent_id = bar_wiki_Automat-5
+# text = Oierdings werd de Begriffsbedeitung teilweise aa weida gefossd : 
+Oierdings	O
+werd	O
+de	O
+Begriffsbedeitung	O
+teilweise	O
+aa	O
+weida	O
+gefossd	O
+:	O
+
+# sent_id = bar_wiki_Automat-6
+# text = Einarmige Bandidn , wia sie mid deitlich hechnrn Einsatzmöglichkeitn und Gewinnchancn in Schbuicasinos betriebn wern . 
+Einarmige	O
+Bandidn	O
+,	O
+wia	O
+sie	O
+mid	O
+deitlich	O
+hechnrn	O
+Einsatzmöglichkeitn	O
+und	O
+Gewinnchancn	O
+in	O
+Schbuicasinos	O
+betriebn	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-7
+# text = Unterhoidungsautomadn ohne Gejdgewinnmöglichkeit wia 
+Unterhoidungsautomadn	O
+ohne	O
+Gejdgewinnmöglichkeit	O
+wia	O
+
+# sent_id = bar_wiki_Automat-8
+# text = Flipperautomadn , 
+Flipperautomadn	O
+,	O
+
+# sent_id = bar_wiki_Automat-9
+# text = Arcade-Automadn 
+Arcade-Automadn	O
+
+# sent_id = bar_wiki_Automat-10
+# text = mechanische Automadn 
+mechanische	O
+Automadn	O
+
+# sent_id = bar_wiki_Automat-11
+# text = A Kombination vo Vakaufsautomad und Glücksschbui san Schbuizeigautomadn . 
+A	O
+Kombination	O
+vo	O
+Vakaufsautomad	O
+und	O
+Glücksschbui	O
+san	O
+Schbuizeigautomadn	O
+.	O
+
+# sent_id = bar_wiki_Automat-12
+# text = Motiv zum Schbuin san Unterhoidung und Hoffnung auf oan Gewinn . 
+Motiv	O
+zum	O
+Schbuin	O
+san	O
+Unterhoidung	O
+und	O
+Hoffnung	O
+auf	O
+oan	O
+Gewinn	O
+.	O
+
+# sent_id = bar_wiki_Automat-13
+# text = Kommerzielle Nutznießa des Automadn san in da Regl da Betreiba sowia da Stoot , da ? sofern 's si um legoi aufgestäite Geräte handelt ? oan ned unbeträchtlichn Teil des Gewinns ois Vagnügungs- und Umsatzsdeia eahält . 
+Kommerzielle	O
+Nutznießa	O
+des	O
+Automadn	O
+san	O
+in	O
+da	O
+Regl	O
+da	O
+Betreiba	O
+sowia	O
+da	O
+Stoot	O
+,	O
+da	O
+?	O
+sofern	O
+'s	O
+si	O
+um	O
+legoi	O
+aufgestäite	O
+Geräte	O
+handelt	O
+?	O
+oan	O
+ned	O
+unbeträchtlichn	O
+Teil	O
+des	O
+Gewinns	O
+ois	O
+Vagnügungs-	O
+und	O
+Umsatzsdeia	O
+eahält	O
+.	O
+
+# sent_id = bar_wiki_Automat-14
+# text = In Schbuibankn werd des Automadenschbui zua Obgrenzung vo den Glücksschbuin Roulette und Blog Jog oft ois gloas Schbui bezeichnet . 
+In	O
+Schbuibankn	O
+werd	O
+des	O
+Automadenschbui	O
+zua	O
+Obgrenzung	O
+vo	O
+den	O
+Glücksschbuin	O
+Roulette	O
+und	O
+Blog	O
+Jog	O
+oft	O
+ois	O
+gloas	O
+Schbui	O
+bezeichnet	O
+.	O
+
+# sent_id = bar_wiki_Automat-15
+# text = Gsetzliche Regelung in Deitschland 
+Gsetzliche	O
+Regelung	O
+in	O
+Deitschland	B-LOC
+
+# sent_id = bar_wiki_Automat-16
+# text = Zum Vabraaerschuadz und zua Eindämmung des pathologischn Schbuis ( Schbuiobhängigkeit oda Schbuisucht ) unterliagn Gejdschbuigräte und dern Aufstäiung umfangreichn gsetzlichn Voaschrifdn , de in da Gewerbeoadnung , da Schbuivaoadnung sowia in Ländergesetzn geregelt san . 
+Zum	O
+Vabraaerschuadz	O
+und	O
+zua	O
+Eindämmung	O
+des	O
+pathologischn	O
+Schbuis	O
+(	O
+Schbuiobhängigkeit	O
+oda	O
+Schbuisucht	O
+)	O
+unterliagn	O
+Gejdschbuigräte	O
+und	O
+dern	O
+Aufstäiung	O
+umfangreichn	O
+gsetzlichn	O
+Voaschrifdn	O
+,	O
+de	O
+in	O
+da	O
+Gewerbeoadnung	B-WOA
+,	O
+da	O
+Schbuivaoadnung	B-WOA
+sowia	O
+in	O
+Ländergesetzn	O
+geregelt	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Automat-17
+# text = De aktuelle Fassung da Schbuivaoadnung is am 13. Dezemba 2014 in Kroft getredn . 
+De	O
+aktuelle	O
+Fassung	O
+da	O
+Schbuivaoadnung	B-WOA
+is	O
+am	O
+13.	O
+Dezemba	O
+2014	O
+in	O
+Kroft	O
+getredn	O
+.	O
+
+# sent_id = bar_wiki_Automat-18
+# text = Mid dea Novelle wurdn a baar Details oana umfassendn Refoam duach de Sechste Novelle koarigiad , de oan Monod zuavoa in Kroft getredn war . 
+Mid	O
+dea	O
+Novelle	O
+wurdn	O
+a	O
+baar	O
+Details	O
+oana	O
+umfassendn	O
+Refoam	O
+duach	O
+de	O
+Sechste	O
+Novelle	O
+koarigiad	O
+,	O
+de	O
+oan	O
+Monod	O
+zuavoa	O
+in	O
+Kroft	O
+getredn	O
+war	O
+.	O
+
+# sent_id = bar_wiki_Automat-19
+# text = Mid da Sechsdn Novelliarung soi da Jugend- und Schbuierschuadz bei Gejdschbuigrädn insbesondere duach a Begrenzung da Schbuianreize und Valustmöglichkeitn vabessert wern . 
+Mid	O
+da	O
+Sechsdn	O
+Novelliarung	O
+soi	O
+da	O
+Jugend-	O
+und	O
+Schbuierschuadz	O
+bei	O
+Gejdschbuigrädn	O
+insbesondere	O
+duach	O
+a	O
+Begrenzung	O
+da	O
+Schbuianreize	O
+und	O
+Valustmöglichkeitn	O
+vabessert	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-20
+# text = De entsprechend vaschärfdn Ofoaderunga geldn jedoch in wesentlichn Teiln grod fia nei zuagelassene Schbuiautomadn oda dredn east noch oana Übagangsfrist in Kroft . 
+De	O
+entsprechend	O
+vaschärfdn	O
+Ofoaderunga	O
+geldn	O
+jedoch	O
+in	O
+wesentlichn	O
+Teiln	O
+grod	O
+fia	O
+nei	O
+zuagelassene	O
+Schbuiautomadn	O
+oda	O
+dredn	O
+east	O
+noch	O
+oana	O
+Übagangsfrist	O
+in	O
+Kroft	O
+.	O
+
+# sent_id = bar_wiki_Automat-21
+# text = Insgesamt eagem si damit im Wesentlichn de foigendn Bestimmunga : 
+Insgesamt	O
+eagem	O
+si	O
+damit	O
+im	O
+Wesentlichn	O
+de	O
+foigendn	O
+Bestimmunga	O
+:	O
+
+# sent_id = bar_wiki_Automat-22
+# text = A Aufstäiung vo Gejdschbuigrädn is grod in Gaststätdn und Schbuihoin ealaubt , wobei de Maximalanzoi 3 ( 2 ob 10. Novemba 2019 ) bzw. 12 pro Aufstäioat beträgt . 
+A	O
+Aufstäiung	O
+vo	O
+Gejdschbuigrädn	O
+is	O
+grod	O
+in	O
+Gaststätdn	O
+und	O
+Schbuihoin	O
+ealaubt	O
+,	O
+wobei	O
+de	O
+Maximalanzoi	O
+3	O
+(	O
+2	O
+ob	O
+10.	O
+Novemba	O
+2019	O
+)	O
+bzw.	O
+12	O
+pro	O
+Aufstäioat	O
+beträgt	O
+.	O
+
+# sent_id = bar_wiki_Automat-23
+# text = Da Aufstäiungsoat bedarf oana Geeignetheitsbestätigung . 
+Da	O
+Aufstäiungsoat	O
+bedarf	O
+oana	O
+Geeignetheitsbestätigung	O
+.	O
+
+# sent_id = bar_wiki_Automat-24
+# text = In Schbuihoin is a Oikoholausschank ned ealaubt . 
+In	O
+Schbuihoin	O
+is	O
+a	O
+Oikoholausschank	O
+ned	O
+ealaubt	O
+.	O
+
+# sent_id = bar_wiki_Automat-25
+# text = Jugendlichn unta 18 Joarn is a Schbuin an Automadn untersogt ( fia Schbuihoin bestäd darüba hiaus gemäß Jugendschuadzgesetz a Zuatrittsvobot ) . 
+Jugendlichn	O
+unta	O
+18	O
+Joarn	O
+is	O
+a	O
+Schbuin	O
+an	O
+Automadn	O
+untersogt	O
+(	O
+fia	O
+Schbuihoin	O
+bestäd	O
+darüba	O
+hiaus	O
+gemäß	O
+Jugendschuadzgesetz	B-WOA
+a	O
+Zuatrittsvobot	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Automat-26
+# text = Geregelt san Hechsdgewinn , -einsatz und des Zeidintervoi dazwischn ( Daua eins ? 
+Geregelt	O
+san	O
+Hechsdgewinn	O
+,	O
+-einsatz	O
+und	O
+des	O
+Zeidintervoi	O
+dazwischn	O
+(	O
+Daua	O
+eins	O
+?	O
+
+# sent_id = bar_wiki_Automat-27
+# text = Schbuis ? ) : zualässig san z. B. in 5 Sekundn 0,20 Einsatz und 2 Gewinn . 
+Schbuis	O
+?	O
+)	O
+:	O
+zualässig	O
+san	O
+z.	O
+B.	O
+in	O
+5	O
+Sekundn	O
+0,20	O
+Einsatz	O
+und	O
+2	O
+Gewinn	O
+.	O
+
+# sent_id = bar_wiki_Automat-28
+# text = Da Valust pro Stunde , d. h. da de Gewinne übasteigend Einsatz , is begrenzt auf hechsdens 80 ? 
+Da	O
+Valust	O
+pro	O
+Stunde	O
+,	O
+d.	O
+h.	O
+da	O
+de	O
+Gewinne	O
+übasteigend	O
+Einsatz	O
+,	O
+is	O
+begrenzt	O
+auf	O
+hechsdens	O
+80	O
+?	O
+
+# sent_id = bar_wiki_Automat-29
+# text = ( 60 ? fia nei zuagelassene Schbuiautomadn ) . 
+(	O
+60	O
+?	O
+fia	O
+nei	O
+zuagelassene	O
+Schbuiautomadn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Automat-30
+# text = Da Gewinn pro Stunde deaf noch Obzug da Einsätze ned hechnr sei ois 500 ? 
+Da	O
+Gewinn	O
+pro	O
+Stunde	O
+deaf	O
+noch	O
+Obzug	O
+da	O
+Einsätze	O
+ned	O
+hechnr	O
+sei	O
+ois	O
+500	O
+?	O
+
+# sent_id = bar_wiki_Automat-31
+# text = ( 400 ? fia nei zuagelassene Schbuiautomadn ) . 
+(	O
+400	O
+?	O
+fia	O
+nei	O
+zuagelassene	O
+Schbuiautomadn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Automat-32
+# text = Da duachschnittliche Valust pro Stunde is begrenzt auf hechsdens 33 ? 
+Da	O
+duachschnittliche	O
+Valust	O
+pro	O
+Stunde	O
+is	O
+begrenzt	O
+auf	O
+hechsdens	O
+33	O
+?	O
+
+# sent_id = bar_wiki_Automat-33
+# text = ( 20 ? fia nei zuagelassene Schbuiautomadn ) . 
+(	O
+20	O
+?	O
+fia	O
+nei	O
+zuagelassene	O
+Schbuiautomadn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Automat-34
+# text = De Obagrenzn fia Einsatz , Gewinn und Valust pro Zeideinheit wern duach a Kontroieinrichtung gewährleistet . 
+De	O
+Obagrenzn	O
+fia	O
+Einsatz	O
+,	O
+Gewinn	O
+und	O
+Valust	O
+pro	O
+Zeideinheit	O
+wern	O
+duach	O
+a	O
+Kontroieinrichtung	O
+gewährleistet	O
+.	O
+
+# sent_id = bar_wiki_Automat-35
+# text = De de Automadn betreffendn Parameta wern duach de Physikalisch-Technische Bundesanstoid ( PTB ) im Rahma oana Bauartzulassung auf Basis oana Technischn Richtlinie geprüft . 
+De	O
+de	O
+Automadn	O
+betreffendn	O
+Parameta	O
+wern	O
+duach	O
+de	O
+Physikalisch-Technische	B-ORG
+Bundesanstoid	I-ORG
+(	B-ORG
+PTB	O
+)	O
+im	O
+Rahma	O
+oana	O
+Bauartzulassung	O
+auf	O
+Basis	O
+oana	O
+Technischn	O
+Richtlinie	O
+geprüft	O
+.	O
+
+# sent_id = bar_wiki_Automat-36
+# text = Gejdschbuigräte miassn olle 2 Joare duach oan vaeidigdn und öffentlich bestäidn Sachvaständign oda oana vo da PTB dafia zuagelassane Stäi , wia derzeid z. B. am TÜV Rheinland , übaprüft wern . 
+Gejdschbuigräte	O
+miassn	O
+olle	O
+2	O
+Joare	O
+duach	O
+oan	O
+vaeidigdn	O
+und	O
+öffentlich	O
+bestäidn	O
+Sachvaständign	O
+oda	O
+oana	O
+vo	O
+da	O
+PTB	B-ORG
+dafia	O
+zuagelassane	O
+Stäi	O
+,	O
+wia	O
+derzeid	O
+z.	O
+B.	O
+am	O
+TÜV	B-ORG
+Rheinland	I-ORG
+,	O
+übaprüft	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-37
+# text = Nei zuagelassene Gejdschbuigräte dürfa grod no maximoi via Joare betriebn wern . 
+Nei	O
+zuagelassene	O
+Gejdschbuigräte	O
+dürfa	O
+grod	O
+no	O
+maximoi	O
+via	O
+Joare	O
+betriebn	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-38
+# text = Weidere Regelunga betreffa technische Maßnahma gegn de gleichzeidige Beschbuiung vo mehrern Schbuiautomadn duach a Person ( Vabot oana Einsatzautomadik und Schbui grod mid am gerätegebundane Identifikationsmiddl ) , Sicherunga gegn Vaänderung und Manipulation des Schbuiautomadn und da in eahm gspeicherdn , mid am Zeidpunkt ihra Entstehung vaknüpfdn Buachungsdadn sowia des so genannte Punkteschbui . 
+Weidere	O
+Regelunga	O
+betreffa	O
+technische	O
+Maßnahma	O
+gegn	O
+de	O
+gleichzeidige	O
+Beschbuiung	O
+vo	O
+mehrern	O
+Schbuiautomadn	O
+duach	O
+a	O
+Person	O
+(	O
+Vabot	O
+oana	O
+Einsatzautomadik	O
+und	O
+Schbui	O
+grod	O
+mid	O
+am	O
+gerätegebundane	O
+Identifikationsmiddl	O
+)	O
+,	O
+Sicherunga	O
+gegn	O
+Vaänderung	O
+und	O
+Manipulation	O
+des	O
+Schbuiautomadn	O
+und	O
+da	O
+in	O
+eahm	O
+gspeicherdn	O
+,	O
+mid	O
+am	O
+Zeidpunkt	O
+ihra	O
+Entstehung	O
+vaknüpfdn	O
+Buachungsdadn	O
+sowia	O
+des	O
+so	O
+genannte	O
+Punkteschbui	O
+.	O
+
+# sent_id = bar_wiki_Automat-39
+# text = De des Punkteschbui betreffendn Ofoaderunga gengan im Wesentlichn auf den Maßgobbeschluss des Bundesrats zrugg . 
+De	O
+des	O
+Punkteschbui	O
+betreffendn	O
+Ofoaderunga	O
+gengan	O
+im	O
+Wesentlichn	O
+auf	O
+den	O
+Maßgobbeschluss	O
+des	O
+Bundesrats	B-ORG
+zrugg	O
+.	O
+
+# sent_id = bar_wiki_Automat-40
+# text = Ihre widersprüchliche Foamuliarung warn da Grund fia de Bundesregierung in ihra Funktion ois Vaoadnungsgeba , de Vaoadnung aufgrund befiachteta Voizugsprobleme east noch üba 16 Monadn und oana eaneidn Notifizierung bei da Europäischn Kommission in Kroft zua setzn . 
+Ihre	O
+widersprüchliche	O
+Foamuliarung	O
+warn	O
+da	O
+Grund	O
+fia	O
+de	O
+Bundesregierung	O
+in	O
+ihra	O
+Funktion	O
+ois	O
+Vaoadnungsgeba	O
+,	O
+de	O
+Vaoadnung	O
+aufgrund	O
+befiachteta	O
+Voizugsprobleme	O
+east	O
+noch	O
+üba	O
+16	O
+Monadn	O
+und	O
+oana	O
+eaneidn	O
+Notifizierung	O
+bei	O
+da	O
+Europäischn	B-ORG
+Kommission	I-ORG
+in	O
+Kroft	O
+zua	O
+setzn	O
+.	O
+
+# sent_id = bar_wiki_Automat-41
+# text = Details da Bauartzulassung wern in oana duach de EU notifizierdn Technischn Richtlinie da PTB geregelt . 
+Details	O
+da	O
+Bauartzulassung	O
+wern	O
+in	O
+oana	O
+duach	O
+de	O
+EU	B-ORG
+notifizierdn	O
+Technischn	O
+Richtlinie	O
+da	O
+PTB	B-ORG
+geregelt	O
+.	O
+
+# sent_id = bar_wiki_Automat-42
+# text = Mid den im Novemba 2014 in Kroft getretane Obsenkunga vo Gewinn- und Valustmöglichkeitn bekräftigte de Bundesregierung ihr bereits mid da Novelle aus am Joar 2006 vafolgts Zil , ? a klare Grenze zwischn den gewinn- und valustmäßig unbeschränkdn stootlich konzessionierdn Schbuiangebodn , insbesondere bei den do vawanddn Schbuiautomadn ( slot machins ) , und am gewerblichn ? gloan ? 
+Mid	O
+den	O
+im	O
+Novemba	O
+2014	O
+in	O
+Kroft	O
+getretane	O
+Obsenkunga	O
+vo	O
+Gewinn-	O
+und	O
+Valustmöglichkeitn	O
+bekräftigte	O
+de	O
+Bundesregierung	O
+ihr	O
+bereits	O
+mid	O
+da	O
+Novelle	O
+aus	O
+am	O
+Joar	O
+2006	O
+vafolgts	O
+Zil	O
+,	O
+?	O
+a	O
+klare	O
+Grenze	O
+zwischn	O
+den	O
+gewinn-	O
+und	O
+valustmäßig	O
+unbeschränkdn	O
+stootlich	O
+konzessionierdn	O
+Schbuiangebodn	O
+,	O
+insbesondere	O
+bei	O
+den	O
+do	O
+vawanddn	O
+Schbuiautomadn	O
+(	O
+slot	O
+machins	O
+)	O
+,	O
+und	O
+am	O
+gewerblichn	O
+?	O
+gloan	O
+?	O
+
+# sent_id = bar_wiki_Automat-43
+# text = Schbui ? zua ziang . 
+Schbui	O
+?	O
+zua	O
+ziang	O
+.	O
+
+# sent_id = bar_wiki_Automat-44
+# text = So gibt 's in Schbuicasinos Slot Machins , bei dane pro 3-Sekundn-Schbui Einsätze vo 500 ? und Gewinne vo 50.000 ? möglich san . 
+So	O
+gibt	O
+'s	O
+in	O
+Schbuicasinos	O
+Slot	O
+Machins	O
+,	O
+bei	O
+dane	O
+pro	O
+3-Sekundn-Schbui	O
+Einsätze	O
+vo	O
+500	O
+?	O
+und	O
+Gewinne	O
+vo	O
+50.000	O
+?	O
+möglich	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Automat-45
+# text = Valuste in Hechn vo 40.000 ? vo am Schbuia an am Omd an Slot Machins eins Schbuicasinos san dokumentiad . 
+Valuste	O
+in	O
+Hechn	O
+vo	O
+40.000	O
+?	O
+vo	O
+am	O
+Schbuia	O
+an	O
+am	O
+Omd	O
+an	O
+Slot	O
+Machins	O
+eins	O
+Schbuicasinos	O
+san	O
+dokumentiad	O
+.	O
+
+# sent_id = bar_wiki_Automat-46
+# text = Üba de Schbuivaoadnung hiaus wurdn ob 2011 auf Länderebene inhoidlich unterschiedliche Schbuihoin- und Ausführungsgesetze zum Glücksschbuiänderungsstaatsvatrog ( Glü Änd StV ) beschlossn . 
+Üba	O
+de	O
+Schbuivaoadnung	B-WOA
+hiaus	O
+wurdn	O
+ob	O
+2011	O
+auf	O
+Länderebene	O
+inhoidlich	O
+unterschiedliche	O
+Schbuihoin-	O
+und	O
+Ausführungsgesetze	O
+zum	O
+Glücksschbuiänderungsstaatsvatrog	B-WOA
+(	O
+Glü	B-WOA
+Änd	I-WOA
+StV	I-WOA
+)	O
+beschlossn	O
+.	O
+
+# sent_id = bar_wiki_Automat-47
+# text = De regeln zuasätzliche Ofoaderunga an de Aufstäiung vo Schbuiautomadn in Schbuihoin wia zum Beischbui des Vabot da Obgob vo Speisn und Getränkn , Sperrstundn , Vapflichtung zua Einlasskontroie und Sperrsystem , a Vabot vo Außenwerbung und Mindestobstände zua andern Schbuihoin sowia Einrichtunga , de voawiegend vo Kindern und Jugendlichn besucht wern . 
+De	O
+regeln	O
+zuasätzliche	O
+Ofoaderunga	O
+an	O
+de	O
+Aufstäiung	O
+vo	O
+Schbuiautomadn	O
+in	O
+Schbuihoin	O
+wia	O
+zum	O
+Beischbui	O
+des	O
+Vabot	O
+da	O
+Obgob	O
+vo	O
+Speisn	O
+und	O
+Getränkn	O
+,	O
+Sperrstundn	O
+,	O
+Vapflichtung	O
+zua	O
+Einlasskontroie	O
+und	O
+Sperrsystem	O
+,	O
+a	O
+Vabot	O
+vo	O
+Außenwerbung	O
+und	O
+Mindestobstände	O
+zua	O
+andern	O
+Schbuihoin	O
+sowia	O
+Einrichtunga	O
+,	O
+de	O
+voawiegend	O
+vo	O
+Kindern	O
+und	O
+Jugendlichn	O
+besucht	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-48
+# text = Bezogn auf Städt mid mehr ois 10.000 Einwohnern wern noch oana Prognose aus am Joar 2014 aufgrund da Mindestobstände noch Oblauf da Übagangsregelunga 77 % da Schbuihoin und 87 % da do aufgestäidn Gejdschbuigräte ned mehr betriebn wern könna . 
+Bezogn	O
+auf	O
+Städt	O
+mid	O
+mehr	O
+ois	O
+10.000	O
+Einwohnern	O
+wern	O
+noch	O
+oana	O
+Prognose	O
+aus	O
+am	O
+Joar	O
+2014	O
+aufgrund	O
+da	O
+Mindestobstände	O
+noch	O
+Oblauf	O
+da	O
+Übagangsregelunga	O
+77	O
+%	O
+da	O
+Schbuihoin	O
+und	O
+87	O
+%	O
+da	O
+do	O
+aufgestäidn	O
+Gejdschbuigräte	O
+ned	O
+mehr	O
+betriebn	O
+wern	O
+könna	O
+.	O
+
+# sent_id = bar_wiki_Automat-49
+# text = Im Foi des Bundeslands Berlin , bei am de Reduktion bereits 2016 o'gfangd wurde , san mehr ois de Häiftn da Schbuihoin vo oana Schliaßung betroffa . 
+Im	O
+Foi	O
+des	O
+Bundeslands	O
+Berlin	B-LOC
+,	O
+bei	O
+am	O
+de	O
+Reduktion	O
+bereits	O
+2016	O
+o'gfangd	O
+wurde	O
+,	O
+san	O
+mehr	O
+ois	O
+de	O
+Häiftn	O
+da	O
+Schbuihoin	O
+vo	O
+oana	O
+Schliaßung	O
+betroffa	O
+.	O
+
+# sent_id = bar_wiki_Automat-50
+# text = In Niedersachsn wern de Schliaßunga vo Schbuihoin zum Teil auf da Basis eins Losentscheids vafügt , so beischbuisweise in Osnobrugg , wo 52 vo 87 Schbuihoin schliaßn soin . 
+In	O
+Niedersachsn	B-LOC
+wern	O
+de	O
+Schliaßunga	O
+vo	O
+Schbuihoin	O
+zum	O
+Teil	O
+auf	O
+da	O
+Basis	O
+eins	O
+Losentscheids	O
+vafügt	O
+,	O
+so	O
+beischbuisweise	O
+in	O
+Osnobrugg	B-LOC
+,	O
+wo	O
+52	O
+vo	O
+87	O
+Schbuihoin	O
+schliaßn	O
+soin	O
+.	O
+
+# sent_id = bar_wiki_Automat-51
+# text = A baar Bundeslända hom im Rahma vo Übagangsregelunga längre Frisdn fia Bestandsschbuihoin gsetzt . 
+A	O
+baar	O
+Bundeslända	O
+hom	O
+im	O
+Rahma	O
+vo	O
+Übagangsregelunga	O
+längre	O
+Frisdn	O
+fia	O
+Bestandsschbuihoin	O
+gsetzt	O
+.	O
+
+# sent_id = bar_wiki_Automat-52
+# text = So werd in Rheinland-Pfoiz east zum 1. Juli 2021 de Genehmigung vo 342 Schbuihoin ealöschn , wos beischbuisweise im Foi da Stod Trier 32 da 34 bisherign Schbuihoin betrifft . 
+So	O
+werd	O
+in	O
+Rheinland-Pfoiz	B-LOC
+east	O
+zum	O
+1.	O
+Juli	O
+2021	O
+de	O
+Genehmigung	O
+vo	O
+342	O
+Schbuihoin	O
+ealöschn	O
+,	O
+wos	O
+beischbuisweise	O
+im	O
+Foi	O
+da	O
+Stod	O
+Trier	B-LOC
+32	O
+da	O
+34	O
+bisherign	O
+Schbuihoin	O
+betrifft	O
+.	O
+
+# sent_id = bar_wiki_Automat-53
+# text = Ozoi da Schbuigräte mid Gewinnmöglichkeit in Deitschland 1995 ? 
+Ozoi	O
+da	O
+Schbuigräte	O
+mid	O
+Gewinnmöglichkeit	O
+in	O
+Deitschland	B-LOC
+1995	O
+?	O
+
+# sent_id = bar_wiki_Automat-54
+# text = 2016 
+2016	O
+
+# sent_id = bar_wiki_Automat-55
+# text = De Gsamtzoi da in Deitschland aufgestäidn Gejdschbuigräte betrug 2016 insgesamt 264.000 Geräte . 
+De	O
+Gsamtzoi	O
+da	O
+in	O
+Deitschland	B-LOC
+aufgestäidn	O
+Gejdschbuigräte	O
+betrug	O
+2016	O
+insgesamt	O
+264.000	O
+Geräte	O
+.	O
+
+# sent_id = bar_wiki_Automat-56
+# text = In den 20 Joarn zuavoa bewegte si de Zoi zwischn 245.000 ( im Joar 1995 ) und 183.000 ( im Joar 2005 ) . 
+In	O
+den	O
+20	O
+Joarn	O
+zuavoa	O
+bewegte	O
+si	O
+de	O
+Zoi	O
+zwischn	O
+245.000	O
+(	O
+im	O
+Joar	O
+1995	O
+)	O
+und	O
+183.000	O
+(	O
+im	O
+Joar	O
+2005	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Automat-57
+# text = In desn Zoin ned beruggsichtigt san de 64.300 ( 1995 ) beziehungsweise 82.300 ( 2005 ) Schbuiautomadn , de seit 2006 noch § 6a da novelliadn Schbuivaoadnung ned mehr betriebn wern dürfa , weil sie zwar ned de Möglichkeit eins Gejdgewinns , wohl aba de Möglichkeit des Gewinns vo mehr ois secks Freischbuin bodn . 
+In	O
+desn	O
+Zoin	O
+ned	O
+beruggsichtigt	O
+san	O
+de	O
+64.300	O
+(	O
+1995	O
+)	O
+beziehungsweise	O
+82.300	O
+(	O
+2005	O
+)	O
+Schbuiautomadn	O
+,	O
+de	O
+seit	O
+2006	O
+noch	O
+§	O
+6a	O
+da	O
+novelliadn	O
+Schbuivaoadnung	B-WOA
+ned	O
+mehr	O
+betriebn	O
+wern	O
+dürfa	O
+,	O
+weil	O
+sie	O
+zwar	O
+ned	O
+de	O
+Möglichkeit	O
+eins	O
+Gejdgewinns	O
+,	O
+wohl	O
+aba	O
+de	O
+Möglichkeit	O
+des	O
+Gewinns	O
+vo	O
+mehr	O
+ois	O
+secks	O
+Freischbuin	O
+bodn	O
+.	O
+
+# sent_id = bar_wiki_Automat-58
+# text = De Einnahma aus Gejdschbuigrädn unterliagn außa den üblichn Steian ( Umsatzsdeia und Eatrogssdeia ) außerhoib vo Bayern da ( kommunaln ) Vagnügungssdeia . 
+De	O
+Einnahma	O
+aus	O
+Gejdschbuigrädn	O
+unterliagn	O
+außa	O
+den	O
+üblichn	O
+Steian	O
+(	O
+Umsatzsdeia	O
+und	O
+Eatrogssdeia	O
+)	O
+außerhoib	O
+vo	O
+Bayern	B-LOC
+da	O
+(	O
+kommunaln	O
+)	O
+Vagnügungssdeia	O
+.	O
+
+# sent_id = bar_wiki_Automat-59
+# text = Zum Zweck vo dern Eahebung miassn sämtliche Einsätze , Gewinne und Kasseninhoide zeidgrecht , unmiddlbar und auslesbar eafossd wern . 
+Zum	O
+Zweck	O
+vo	O
+dern	O
+Eahebung	O
+miassn	O
+sämtliche	O
+Einsätze	O
+,	O
+Gewinne	O
+und	O
+Kasseninhoide	O
+zeidgrecht	O
+,	O
+unmiddlbar	O
+und	O
+auslesbar	O
+eafossd	O
+wern	O
+.	O
+
+# sent_id = bar_wiki_Automat-60
+# text = Gschicht 
+Gschicht	O
+
+# sent_id = bar_wiki_Automat-61
+# text = De easdn Glücksschbuiautomadn entstandn gegn End da 1880ea Joare . 
+De	O
+easdn	O
+Glücksschbuiautomadn	O
+entstandn	O
+gegn	O
+End	O
+da	O
+1880ea	O
+Joare	O
+.	O
+
+# sent_id = bar_wiki_Automat-62
+# text = Besondere Bekanntheit ealangte des Gerät Liberty Bell vo Charles August Fey , welchs ea 1899 in San Francisco eafand . 
+Besondere	O
+Bekanntheit	O
+ealangte	O
+des	O
+Gerät	O
+Liberty	B-MISC
+Bell	I-MISC
+vo	O
+Charles	B-PER
+August	I-PER
+Fey	I-PER
+,	O
+welchs	O
+ea	O
+1899	O
+in	O
+San	O
+Francisco	B-LOC
+eafand	O
+.	O
+
+# sent_id = bar_wiki_Automat-63
+# text = De Slot machine war de easte mid am 3-Woizn-Schbuisystem . 
+De	O
+Slot	O
+machine	O
+war	O
+de	O
+easte	O
+mid	O
+am	O
+3-Woizn-Schbuisystem	O
+.	O
+
+# sent_id = bar_wiki_Automat-64
+# text = Aufgrund da fehlendn Patentanmeldung dea Eafindung geriet des System zum Oigemeinguad da Glücksschbuibranche . 
+Aufgrund	O
+da	O
+fehlendn	O
+Patentanmeldung	O
+dea	O
+Eafindung	O
+geriet	O
+des	O
+System	O
+zum	O
+Oigemeinguad	O
+da	O
+Glücksschbuibranche	O
+.	O
+
+# sent_id = bar_wiki_Automat-65
+# text = Voa da Etobliarung dess Systems produzierdn vui Herstäia Stand-Slots , de noch am Rouletteprinzip funktionierdn und bei dane auf a Farb gsetzt wern musste , bevoa ma de Roulettescheibe meist mid am Hebl in Bewegung vasetzte . 
+Voa	O
+da	O
+Etobliarung	O
+dess	O
+Systems	O
+produzierdn	O
+vui	O
+Herstäia	O
+Stand-Slots	O
+,	O
+de	O
+noch	O
+am	O
+Rouletteprinzip	O
+funktionierdn	O
+und	O
+bei	O
+dane	O
+auf	O
+a	O
+Farb	O
+gsetzt	O
+wern	O
+musste	O
+,	O
+bevoa	O
+ma	O
+de	O
+Roulettescheibe	O
+meist	O
+mid	O
+am	O
+Hebl	O
+in	O
+Bewegung	O
+vasetzte	O
+.	O
+
+# sent_id = bar_wiki_Automat-66
+# text = Im Deitschn Kaiserreich sowia in da Weimara Republik war des Glücksschbui an Automadn strengstens vabodn . 
+Im	O
+Deitschn	B-ORG
+Kaiserreich	I-ORG
+sowia	O
+in	O
+da	O
+Weimara	B-ORG
+Republik	I-ORG
+war	O
+des	O
+Glücksschbui	O
+an	O
+Automadn	O
+strengstens	O
+vabodn	O
+.	O
+
+# sent_id = bar_wiki_Automat-67
+# text = Ealaubt jedoch war des Schbui mid da Gschicklichkeit . 
+Ealaubt	O
+jedoch	O
+war	O
+des	O
+Schbui	O
+mid	O
+da	O
+Gschicklichkeit	O
+.	O
+
+# sent_id = bar_wiki_Automat-68
+# text = Aus dea Zeid san etliche Schbuisysteme eahoidn , de den Schbuiendn auffoadern in den unterschiedlichsdn Foama sei Gschicklichkeit am Automadn unta Beweis zua stäin . 
+Aus	O
+dea	O
+Zeid	O
+san	O
+etliche	O
+Schbuisysteme	O
+eahoidn	O
+,	O
+de	O
+den	O
+Schbuiendn	O
+auffoadern	O
+in	O
+den	O
+unterschiedlichsdn	O
+Foama	O
+sei	O
+Gschicklichkeit	O
+am	O
+Automadn	O
+unta	O
+Beweis	O
+zua	O
+stäin	O
+.	O
+
+# sent_id = bar_wiki_Automat-69
+# text = Gejdschbui is a speziell deitscha Begriff . 
+Gejdschbui	O
+is	O
+a	O
+speziell	O
+deitscha	B-LOCderiv
+Begriff	O
+.	O
+
+# sent_id = bar_wiki_Automat-70
+# text = Ea bezeichnet lediglich de Schbuiautomadn , de in Deitschland noch 1951 duach de PTB ois solche zuagelossn woadn san und demnoch strikte gsetzlich festgelegte Voraussetzunga eafülln . 
+Ea	O
+bezeichnet	O
+lediglich	O
+de	O
+Schbuiautomadn	O
+,	O
+de	O
+in	O
+Deitschland	B-LOC
+noch	O
+1951	O
+duach	O
+de	O
+PTB	B-ORG
+ois	O
+solche	O
+zuagelossn	O
+woadn	O
+san	O
+und	O
+demnoch	O
+strikte	O
+gsetzlich	O
+festgelegte	O
+Voraussetzunga	O
+eafülln	O
+.	O
+
+# sent_id = bar_wiki_Automat-71
+# text = Merkur B ( 1977 ) , des easte Gejdschbuigrät da Gauselmo-Gruppn 
+Merkur	B-MISC
+B	O
+(	O
+1977	O
+)	O
+,	O
+des	O
+easte	O
+Gejdschbuigrät	O
+da	O
+Gauselmo-Gruppn	B-ORG
+
+# sent_id = bar_wiki_Automat-72
+# text = De heid im deitschsprachign Raum am häufigsdn ozutreffendn Gejdschbuigräte san Merkur-Automadn ( produziad vo da Gauselmo-Gruppn ) sowia Novoline- und Novostar-Automadn vo Novomadic . 
+De	O
+heid	O
+im	O
+deitschsprachign	B-LANGpart
+Raum	O
+am	O
+häufigsdn	O
+ozutreffendn	O
+Gejdschbuigräte	O
+san	O
+Merkur-Automadn	B-MISCpart
+(	O
+produziad	O
+vo	O
+da	O
+Gauselmo-Gruppn	B-ORG
+)	O
+sowia	O
+Novoline-	B-MISC
+und	O
+Novostar-Automadn	B-MISCpart
+vo	O
+Novomadic	B-ORG
+.	O
+
+# sent_id = bar_wiki_Automat-73
+# text = Im Joar 1990 wurdn de easdn Online-Casinos vaöffentliachd und biedn seitdem aa Online-Schbuiautomadn an . 
+Im	O
+Joar	O
+1990	O
+wurdn	O
+de	O
+easdn	O
+Online-Casinos	O
+vaöffentliachd	O
+und	O
+biedn	O
+seitdem	O
+aa	O
+Online-Schbuiautomadn	O
+an	O
+.	O
+
+# newdoc id = bar_wiki_Dochau
+# sent_id = bar_wiki_Dochau-1
+# text = Dochau 
+Dochau	B-LOC
+
+# sent_id = bar_wiki_Dochau-2
+# text = Dochau ( amtli : Dachau ) is a Grouße Kroasstod in Obabayern nordwestli vo Minga und liagt im gleichnoming Landkroas . 
+Dochau	B-LOC
+(	O
+amtli	O
+:	O
+Dachau	B-LOC
+)	O
+is	O
+a	O
+Grouße	O
+Kroasstod	O
+in	O
+Obabayern	B-LOC
+nordwestli	O
+vo	O
+Minga	B-LOC
+und	O
+liagt	O
+im	O
+gleichnoming	O
+Landkroas	O
+.	O
+
+# sent_id = bar_wiki_Dochau-3
+# text = Mit 46.705 Eihwohna ( 2015 ) is de gresste Stod im Mingara Umland . 
+Mit	O
+46.705	O
+Eihwohna	O
+(	O
+2015	O
+)	O
+is	O
+de	O
+gresste	O
+Stod	O
+im	O
+Mingara	B-LOCderiv
+Umland	O
+.	O
+
+# sent_id = bar_wiki_Dochau-4
+# text = Dochau ligt 18 Kilometa noadwestli von Minga auf 482 m an der Amper . 
+Dochau	B-LOC
+ligt	O
+18	O
+Kilometa	O
+noadwestli	O
+von	O
+Minga	B-LOC
+auf	O
+482	O
+m	O
+an	O
+der	O
+Amper	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-5
+# text = De Stod liegt an da Nodstein zwischen dem Urstromtal vo da Amper und da Endmoränenlondschaft aus da letzn Eiszeit . 
+De	O
+Stod	O
+liegt	O
+an	O
+da	O
+Nodstein	O
+zwischen	O
+dem	O
+Urstromtal	O
+vo	O
+da	O
+Amper	B-LOC
+und	O
+da	O
+Endmoränenlondschaft	O
+aus	O
+da	O
+letzn	O
+Eiszeit	O
+.	O
+
+# sent_id = bar_wiki_Dochau-6
+# text = Am hechstn is Dachau am Schlossbeag und da diafste Punkt ist bei Prittlbach . 
+Am	O
+hechstn	O
+is	O
+Dachau	B-LOC
+am	O
+Schlossbeag	B-LOC
+und	O
+da	O
+diafste	O
+Punkt	O
+ist	O
+bei	O
+Prittlbach	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-7
+# text = Dochau grenzt an a mehrare ondere Gmoana . 
+Dochau	B-LOC
+grenzt	O
+an	O
+a	O
+mehrare	O
+ondere	O
+Gmoana	O
+.	O
+
+# sent_id = bar_wiki_Dochau-8
+# text = Im Sidn on Karlsfejd , im Ostn on Oberschleissheim , wos scho zum Landkroas Minga gheat , im Noadostn on Hebazausn , im Noadn on Reamoos und im Westn on Beagkiacha . 
+Im	O
+Sidn	O
+on	O
+Karlsfejd	B-LOC
+,	O
+im	O
+Ostn	O
+on	O
+Oberschleissheim	B-LOC
+,	O
+wos	O
+scho	O
+zum	O
+Landkroas	B-LOC
+Minga	I-LOC
+gheat	O
+,	O
+im	O
+Noadostn	O
+on	O
+Hebazausn	B-LOC
+,	O
+im	O
+Noadn	O
+on	O
+Reamoos	B-LOC
+und	O
+im	O
+Westn	O
+on	O
+Beagkiacha	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-9
+# text = Dochau liegt in da Zon vom Westwetta , dahea is de Groußwettalog owei so wia in gonz Bayern . 
+Dochau	B-LOC
+liegt	O
+in	O
+da	O
+Zon	O
+vom	O
+Westwetta	O
+,	O
+dahea	O
+is	O
+de	O
+Groußwettalog	O
+owei	O
+so	O
+wia	O
+in	O
+gonz	O
+Bayern	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-10
+# text = Oba im Kloana gseng is in Dochau awoi merat diesig ois woanders , wei im Sidwestn um Dachau friers a Haffa Moos woar , wos ma imma nu merkt . 
+Oba	O
+im	O
+Kloana	O
+gseng	O
+is	O
+in	O
+Dochau	B-LOC
+awoi	O
+merat	O
+diesig	O
+ois	O
+woanders	O
+,	O
+wei	O
+im	O
+Sidwestn	O
+um	O
+Dachau	B-LOC
+friers	O
+a	O
+Haffa	O
+Moos	O
+woar	O
+,	O
+wos	O
+ma	O
+imma	O
+nu	O
+merkt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-11
+# text = Dazu kimmt , das in Dochau da Föhn a oft durchschlogt , wo ober scho schwoch is . 
+Dazu	O
+kimmt	O
+,	O
+das	O
+in	O
+Dochau	B-LOC
+da	O
+Föhn	O
+a	O
+oft	O
+durchschlogt	O
+,	O
+wo	O
+ober	O
+scho	O
+schwoch	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Dochau-12
+# text = Aussa da Amper fliaßt duach Dochau nu de Würm , da " Gremboch " , da " Weblinga Boch " , da " Aschaboch " und da " Müiboch " . 
+Aussa	O
+da	O
+Amper	B-LOC
+fliaßt	O
+duach	O
+Dochau	B-LOC
+nu	O
+de	O
+Würm	B-LOC
+,	O
+da	O
+"	O
+Gremboch	B-LOC
+"	O
+,	O
+da	O
+"	O
+Weblinga	B-LOC
+Boch	I-LOC
+"	O
+,	O
+da	O
+"	O
+Aschaboch	B-LOC
+"	O
+und	O
+da	O
+"	O
+Müiboch	B-LOC
+"	O
+.	O
+
+# sent_id = bar_wiki_Dochau-13
+# text = Vum Dachauer Kanoi , dea friera vom Schleißheima Schloß noch Dachau zua Würm und vom Dachaua Schloß zua Würm gfüaht hod , san nua no a boa Abschnitt im Gmoagebiet voahandn . 
+Vum	O
+Dachauer	B-LOC
+Kanoi	I-LOC
+,	O
+dea	O
+friera	O
+vom	O
+Schleißheima	B-LOCderiv
+Schloß	O
+noch	O
+Dachau	B-LOC
+zua	O
+Würm	B-LOC
+und	O
+vom	O
+Dachaua	B-LOCderiv
+Schloß	O
+zua	O
+Würm	B-LOC
+gfüaht	O
+hod	O
+,	O
+san	O
+nua	O
+no	O
+a	O
+boa	O
+Abschnitt	O
+im	O
+Gmoagebiet	O
+voahandn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-14
+# text = Da Rest is zuagwogsn . 
+Da	O
+Rest	O
+is	O
+zuagwogsn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-15
+# text = Seen gibts nua zwoa . 
+Seen	O
+gibts	O
+nua	O
+zwoa	O
+.	O
+
+# sent_id = bar_wiki_Dochau-16
+# text = Da oane is da Stodweiha in Dochau-Sid und da onda glei dahinta hot no koan Nomma ( Weil a aus a Schittgruam entstonna is , hoast dea bei monche Schüttweiher ) . 
+Da	O
+oane	O
+is	O
+da	O
+Stodweiha	O
+in	O
+Dochau-Sid	B-LOC
+und	O
+da	O
+onda	O
+glei	O
+dahinta	O
+hot	O
+no	O
+koan	O
+Nomma	O
+(	O
+Weil	O
+a	O
+aus	O
+a	O
+Schittgruam	O
+entstonna	O
+is	O
+,	O
+hoast	O
+dea	O
+bei	O
+monche	O
+Schüttweiher	B-LOC
+)	O
+.	O
+
+# sent_id = bar_wiki_Dochau-17
+# text = Im Stodweiha deaf ma zum bodn ge , da onda is a Naturschutzgebiet . 
+Im	O
+Stodweiha	O
+deaf	O
+ma	O
+zum	O
+bodn	O
+ge	O
+,	O
+da	O
+onda	O
+is	O
+a	O
+Naturschutzgebiet	O
+.	O
+
+# sent_id = bar_wiki_Dochau-18
+# text = Aufm Gmoagebiet gibts neadlich vo da Amper a haffa Erhebungen , die olle natirlich san und a zamgehan . 
+Aufm	O
+Gmoagebiet	O
+gibts	O
+neadlich	O
+vo	O
+da	O
+Amper	O
+a	O
+haffa	O
+Erhebungen	O
+,	O
+die	O
+olle	O
+natirlich	O
+san	O
+und	O
+a	O
+zamgehan	O
+.	O
+
+# sent_id = bar_wiki_Dochau-19
+# text = Do is da Schlosbeag , da Karlsbeag , da Fabrikberg , da Krongahausbeag , da Leitnbeag ( wo da Friedhof fia de KZ-Häftlinge is ) . 
+Do	O
+is	O
+da	O
+Schlosbeag	B-LOC
+,	O
+da	O
+Karlsbeag	B-LOC
+,	O
+da	O
+Fabrikberg	B-LOC
+,	O
+da	O
+Krongahausbeag	B-LOC
+,	O
+da	O
+Leitnbeag	B-LOC
+(	O
+wo	O
+da	O
+Friedhof	O
+fia	O
+de	O
+KZ-Häftlinge	O
+is	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Dochau-20
+# text = Und de beinn Schittbeag , de neba de bein Säan stehn . 
+Und	O
+de	O
+beinn	O
+Schittbeag	B-LOC
+,	O
+de	O
+neba	O
+de	O
+bein	O
+Säan	O
+stehn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-21
+# text = Dochau seiba hot drei Oatstei : 
+Dochau	O
+seiba	O
+hot	O
+drei	O
+Oatstei	O
+:	O
+
+# sent_id = bar_wiki_Dochau-22
+# text = Weil se bei Dochau d' Amper guad in Oidwossa und Nemfliss hot ousbreitn kena , song monche Professorn , dass dortn da Weg driber besser gwesen war ois woanders . 
+Weil	O
+se	O
+bei	O
+Dochau	B-LOC
+d'	O
+Amper	B-LOC
+guad	O
+in	O
+Oidwossa	O
+und	O
+Nemfliss	O
+hot	O
+ousbreitn	O
+kena	O
+,	O
+song	O
+monche	O
+Professorn	O
+,	O
+dass	O
+dortn	O
+da	O
+Weg	O
+driber	O
+besser	O
+gwesen	O
+war	O
+ois	O
+woanders	O
+.	O
+
+# sent_id = bar_wiki_Dochau-23
+# text = Da gibts in Felgeding bei Beagkicha Sochan vo die Köitn und ma moant , dass de Soizstroßn vu Soizbuag noch Augsbuag bei Dochau über d' Amper gfiaht hot . 
+Da	O
+gibts	O
+in	O
+Felgeding	B-LOC
+bei	O
+Beagkicha	B-LOCderiv
+Sochan	O
+vo	O
+die	O
+Köitn	B-ORG
+und	O
+ma	O
+moant	O
+,	O
+dass	O
+de	O
+Soizstroßn	B-LOC
+vu	O
+Soizbuag	B-LOC
+noch	O
+Augsbuag	B-LOC
+bei	O
+Dochau	B-LOC
+über	O
+d'	O
+Amper	B-LOC
+gfiaht	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Dochau-24
+# text = Des easchte Moi , wo Dochau dawähnt wead , is in da Uakund von da edlen Erchana on den Bischof vo Freising 805 noch Kristus . 
+Des	O
+easchte	O
+Moi	O
+,	O
+wo	O
+Dochau	B-LOC
+dawähnt	O
+wead	O
+,	O
+is	O
+in	O
+da	O
+Uakund	O
+von	O
+da	O
+edlen	O
+Erchana	B-PER
+on	O
+den	O
+Bischof	O
+vo	O
+Freising	B-ORG
+805	O
+noch	O
+Kristus	O
+.	O
+
+# sent_id = bar_wiki_Dochau-25
+# text = De iwarschreibt ihran gounzn Bsitz von fimf Häf ons Bistum . 
+De	O
+iwarschreibt	O
+ihran	O
+gounzn	O
+Bsitz	O
+von	O
+fimf	O
+Häf	O
+ons	O
+Bistum	O
+.	O
+
+# sent_id = bar_wiki_Dochau-26
+# text = D' Historiker moana , dass des ned dea Bereich woa , wo heit de Oidstod steht , sondern in Udlding au oana Anhö zua Amper . 
+D'	O
+Historiker	O
+moana	O
+,	O
+dass	O
+des	O
+ned	O
+dea	O
+Bereich	O
+woa	O
+,	O
+wo	O
+heit	O
+de	O
+Oidstod	O
+steht	O
+,	O
+sondern	O
+in	O
+Udlding	B-LOC
+au	O
+oana	O
+Anhö	O
+zua	O
+Amper	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-27
+# text = Umra 1100 noch Kristus is Dochau von de Scheyrer übernomma worn , de dann d' Ansiedlung aufm Schlossberg voaro brocht hom. De warn a de easchtn , de am Schlossberg a Anlag baut hom. 
+Umra	O
+1100	O
+noch	O
+Kristus	O
+is	O
+Dochau	B-LOC
+von	O
+de	O
+Scheyrer	B-LOC
+übernomma	O
+worn	O
+,	O
+de	O
+dann	O
+d'	O
+Ansiedlung	O
+aufm	O
+Schlossberg	B-LOC
+voaro	O
+brocht	O
+hom.	O
+De	O
+warn	O
+a	O
+de	O
+easchtn	O
+,	O
+de	O
+am	O
+Schlossberg	B-LOC
+a	O
+Anlag	O
+baut	O
+hom.	O
+
+# sent_id = bar_wiki_Dochau-28
+# text = Da Herzog Ludwig da Strenge hot dann 1270 Dochau ois Moaktfleck gnemigt . 
+Da	O
+Herzog	O
+Ludwig	B-PER
+da	I-PER
+Strenge	I-PER
+hot	O
+dann	O
+1270	O
+Dochau	B-LOC
+ois	O
+Moaktfleck	O
+gnemigt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-29
+# text = In derer Zeit woa des Schloss ned mea ois a Hoizzaun mit am Stoahaus ; trotzdem hom se de Herzäg doat im Summer gern niderglassen . 
+In	O
+derer	O
+Zeit	O
+woa	O
+des	O
+Schloss	O
+ned	O
+mea	O
+ois	O
+a	O
+Hoizzaun	O
+mit	O
+am	O
+Stoahaus	O
+;	O
+trotzdem	O
+hom	O
+se	O
+de	O
+Herzäg	O
+doat	O
+im	O
+Summer	O
+gern	O
+niderglassen	O
+.	O
+
+# sent_id = bar_wiki_Dochau-30
+# text = Ob 1546 hot dann da Herzog Albrecht des Schloss im Renaissance-Stui umbaut . 
+Ob	O
+1546	O
+hot	O
+dann	O
+da	O
+Herzog	O
+Albrecht	B-PER
+des	O
+Schloss	O
+im	O
+Renaissance-Stui	B-EVENTpart
+umbaut	O
+.	O
+
+# sent_id = bar_wiki_Dochau-31
+# text = De Hoizdeckn im groußn Soil is no vo eam ( sei Gschäft gwesen ) . 
+De	O
+Hoizdeckn	O
+im	O
+groußn	O
+Soil	O
+is	O
+no	O
+vo	O
+eam	O
+(	O
+sei	O
+Gschäft	O
+gwesen	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Dochau-32
+# text = In da Zeit vom Dreißigjährign Krieg hot Dochau arg zum Lein ghobt . 
+In	O
+da	O
+Zeit	O
+vom	O
+Dreißigjährign	O
+Krieg	O
+hot	O
+Dochau	B-LOC
+arg	O
+zum	O
+Lein	O
+ghobt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-33
+# text = Des Schloss is vafoin , die Kiach is ausbronnt und de Bauan san de Leid wegnumma woan . 
+Des	O
+Schloss	O
+is	O
+vafoin	O
+,	O
+die	O
+Kiach	O
+is	O
+ausbronnt	O
+und	O
+de	O
+Bauan	O
+san	O
+de	O
+Leid	O
+wegnumma	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Dochau-34
+# text = Da Joseph Effner hot in da Zeit von 1715 bis 1717 des Schloss noamoi umbaut . 
+Da	O
+Joseph	B-PER
+Effner	I-PER
+hot	O
+in	O
+da	O
+Zeit	O
+von	O
+1715	O
+bis	O
+1717	O
+des	O
+Schloss	O
+noamoi	O
+umbaut	O
+.	O
+
+# sent_id = bar_wiki_Dochau-35
+# text = Im Joa 1776 hot da Kuafiast vun Bayern und vo da Pfoiz Karl Theodor den Steig vun da Amper aufm Beag besser ausbaun lassn . 
+Im	O
+Joa	O
+1776	O
+hot	O
+da	O
+Kuafiast	O
+vun	O
+Bayern	B-ORG
+und	O
+vo	O
+da	O
+Pfoiz	O
+Karl	B-PER
+Theodor	I-PER
+den	O
+Steig	O
+vun	O
+da	O
+Amper	B-LOC
+aufm	O
+Beag	O
+besser	O
+ausbaun	O
+lassn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-36
+# text = Seit der Zeit hoaßt de Stroß , die vum Beag in Richtung Minga geht , in dem Stickerl " Karlsberg " . 
+Seit	O
+der	O
+Zeit	O
+hoaßt	O
+de	O
+Stroß	O
+,	O
+die	O
+vum	O
+Beag	O
+in	O
+Richtung	O
+Minga	B-LOC
+geht	O
+,	O
+in	O
+dem	O
+Stickerl	O
+"	O
+Karlsberg	B-LOC
+"	O
+.	O
+
+# sent_id = bar_wiki_Dochau-37
+# text = Ma ko heit no den oidn Weg , den " Kiehberg " , geh. Do merkt ma amoi , wie garch dea auffe geht . 
+Ma	O
+ko	O
+heit	O
+no	O
+den	O
+oidn	O
+Weg	O
+,	O
+den	O
+"	O
+Kiehberg	B-LOC
+"	O
+,	O
+geh.	O
+Do	O
+merkt	O
+ma	O
+amoi	O
+,	O
+wie	O
+garch	O
+dea	O
+auffe	O
+geht	O
+.	O
+
+# sent_id = bar_wiki_Dochau-38
+# text = Zu dera Zeit woa des Schloss scho fost dafoin und is owei nua dadurch gnutzt woarn , dos mas Korn einelegt . 
+Zu	O
+dera	O
+Zeit	O
+woa	O
+des	O
+Schloss	O
+scho	O
+fost	O
+dafoin	O
+und	O
+is	O
+owei	O
+nua	O
+dadurch	O
+gnutzt	O
+woarn	O
+,	O
+dos	O
+mas	O
+Korn	O
+einelegt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-39
+# text = Do hot da damolige Kuafiast gmoant , mo soi doch drei Viertal von dem Schloss obreißn und in Schleissheim wieada aufbaun . 
+Do	O
+hot	O
+da	O
+damolige	O
+Kuafiast	O
+gmoant	O
+,	O
+mo	O
+soi	O
+doch	O
+drei	O
+Viertal	O
+von	O
+dem	O
+Schloss	O
+obreißn	O
+und	O
+in	O
+Schleissheim	B-LOC
+wieada	O
+aufbaun	O
+.	O
+
+# sent_id = bar_wiki_Dochau-40
+# text = Des is a donn bassiert . 
+Des	O
+is	O
+a	O
+donn	O
+bassiert	O
+.	O
+
+# sent_id = bar_wiki_Dochau-41
+# text = Außer vom Schlossfligl , wo de Musi gspuit hot , wurd da Rest obgrissen und in Schleissheim wieder aufbaut . 
+Außer	O
+vom	O
+Schlossfligl	O
+,	O
+wo	O
+de	O
+Musi	O
+gspuit	O
+hot	O
+,	O
+wurd	O
+da	O
+Rest	O
+obgrissen	O
+und	O
+in	O
+Schleissheim	B-LOC
+wieder	O
+aufbaut	O
+.	O
+
+# sent_id = bar_wiki_Dochau-42
+# text = Am End vom Joahundat hom se vui Moala ogsiedelt , de gern de Londschaft rund um Dochau , bsonders des Dochauer Moos , gmoit hom. Dochau is in der Zeit de zwoatgresste Kinstlerkolonie vo Deitschland worn . 
+Am	O
+End	O
+vom	O
+Joahundat	O
+hom	O
+se	O
+vui	O
+Moala	O
+ogsiedelt	O
+,	O
+de	O
+gern	O
+de	O
+Londschaft	O
+rund	O
+um	O
+Dochau	B-LOC
+,	O
+bsonders	O
+des	O
+Dochauer	B-LOC
+Moos	I-LOC
+,	O
+gmoit	O
+hom.	O
+Dochau	B-LOC
+is	O
+in	O
+der	O
+Zeit	O
+de	O
+zwoatgresste	O
+Kinstlerkolonie	O
+vo	O
+Deitschland	B-LOC
+worn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-43
+# text = 1908 hams in Dochau des easchte Voiksfest ausgricht . 
+1908	O
+hams	O
+in	O
+Dochau	B-LOC
+des	O
+easchte	O
+Voiksfest	O
+ausgricht	O
+.	O
+
+# sent_id = bar_wiki_Dochau-44
+# text = In Dochau ( domois aufn Gmoagebiet vo Hebazausn ) wurd 1933 von de Nazis des easchte KZ in da ehemalign Pulverfabrik aufbaut . 
+In	O
+Dochau	B-LOC
+(	O
+domois	O
+aufn	O
+Gmoagebiet	O
+vo	O
+Hebazausn	B-LOC
+)	O
+wurd	O
+1933	O
+von	O
+de	O
+Nazis	O
+des	O
+easchte	O
+KZ	O
+in	O
+da	O
+ehemalign	O
+Pulverfabrik	O
+aufbaut	O
+.	O
+
+# sent_id = bar_wiki_Dochau-45
+# text = Aus dem Grund hot Dochau an Noma in da gonzn Wöd . 
+Aus	O
+dem	O
+Grund	O
+hot	O
+Dochau	B-LOC
+an	O
+Noma	O
+in	O
+da	O
+gonzn	O
+Wöd	O
+.	O
+
+# sent_id = bar_wiki_Dochau-46
+# text = Ebenfois wurd Dochau am Anfang 1933 zua Stod erhobn und 1939 de Gmein Etzenhauen und Mitterndorf mit Dochau zamgfihrt . 
+Ebenfois	O
+wurd	O
+Dochau	B-LOC
+am	O
+Anfang	O
+1933	O
+zua	O
+Stod	O
+erhobn	O
+und	O
+1939	O
+de	O
+Gmein	O
+Etzenhauen	B-LOC
+und	O
+Mitterndorf	B-LOC
+mit	O
+Dochau	B-LOC
+zamgfihrt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-47
+# text = Nochm End vom Zwoatn Wödkriag san fui fatriebene Bähma ogsiedlt woan . 
+Nochm	O
+End	O
+vom	O
+Zwoatn	B-EVENT
+Wödkriag	I-EVENT
+san	O
+fui	O
+fatriebene	O
+Bähma	O
+ogsiedlt	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Dochau-48
+# text = De meistn vo de sann ausm Egalond kemma . 
+De	O
+meistn	O
+vo	O
+de	O
+sann	O
+ausm	O
+Egalond	B-LOC
+kemma	O
+.	O
+
+# sent_id = bar_wiki_Dochau-49
+# text = Seit dem gibts de Egalända Gmoi , die Musi mocht . 
+Seit	O
+dem	O
+gibts	O
+de	O
+Egalända	B-LOCderiv
+Gmoi	O
+,	O
+die	O
+Musi	O
+mocht	O
+.	O
+
+# sent_id = bar_wiki_Dochau-50
+# text = Am Onfang woa des fia de Einheimischn a grouße Belastung , oba mit de Neibautn in Polln und in Dochau-Sid hot se des entspannt . 
+Am	O
+Onfang	O
+woa	O
+des	O
+fia	O
+de	O
+Einheimischn	O
+a	O
+grouße	O
+Belastung	O
+,	O
+oba	O
+mit	O
+de	O
+Neibautn	O
+in	O
+Polln	B-LOC
+und	O
+in	O
+Dochau-Sid	B-LOCpart
+hot	O
+se	O
+des	O
+entspannt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-51
+# text = 1972 san de Gmein Boiham und Viehausn eigmeind woan . 
+1972	O
+san	O
+de	O
+Gmein	O
+Boiham	B-LOC
+und	O
+Viehausn	B-LOC
+eigmeind	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Dochau-52
+# text = Im Sidn vo Dochau treffan si de zwoa Bundesstroßn B und B . 
+Im	O
+Sidn	O
+vo	O
+Dochau	B-LOC
+treffan	O
+si	O
+de	O
+zwoa	O
+Bundesstroßn	O
+B	O
+und	O
+B	O
+.	O
+
+# sent_id = bar_wiki_Dochau-53
+# text = De B 301 vabindt Minga mit Oacha und de B 471 kimmt von Bruck und lafft ab Oberschleissheim nahat neba da A 99 hear . 
+De	O
+B	B-LOC
+301	I-LOC
+vabindt	O
+Minga	B-LOC
+mit	O
+Oacha	B-LOC
+und	O
+de	O
+B	B-LOC
+471	I-LOC
+kimmt	O
+von	O
+Bruck	B-LOC
+und	O
+lafft	O
+ab	O
+Oberschleissheim	B-LOC
+nahat	O
+neba	O
+da	O
+A	B-LOC
+99	I-LOC
+hear	O
+.	O
+
+# sent_id = bar_wiki_Dochau-54
+# text = Duach d' B 471 is ma mim Flughafn Minga vabundn ( de fiat zua A 92 ) und auf da ondan Seitn ibat A 8 in Richtung Schwom . 
+Duach	O
+d'	O
+B	B-LOC
+471	I-LOC
+is	O
+ma	O
+mim	O
+Flughafn	B-LOC
+Minga	I-LOC
+vabundn	O
+(	O
+de	O
+fiat	O
+zua	O
+A	B-LOC
+92	I-LOC
+)	O
+und	O
+auf	O
+da	O
+ondan	O
+Seitn	O
+ibat	O
+A	B-LOC
+8	I-LOC
+in	O
+Richtung	O
+Schwom	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-55
+# text = Dachau is mid seim effntlichn Nahvakea am MVV ogschlossn . 
+Dachau	B-LOC
+is	O
+mid	O
+seim	O
+effntlichn	O
+Nahvakea	O
+am	O
+MVV	B-ORG
+ogschlossn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-56
+# text = Da faht d' S -Bahn vo da Linie 2 iwa Minga noch Eading und uza andan Seitn auf Petershausn . 
+Da	O
+faht	O
+d'	O
+S	O
+-Bahn	O
+vo	O
+da	O
+Linie	B-MISC
+2	I-MISC
+iwa	O
+Minga	B-LOC
+noch	O
+Eading	B-LOC
+und	O
+uza	O
+andan	O
+Seitn	O
+auf	O
+Petershausn	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-57
+# text = Aa zu dem Vabund ghead de Oide Lokalbahn , die auf Oitomünsta faht . 
+Aa	O
+zu	O
+dem	O
+Vabund	O
+ghead	O
+de	O
+Oide	O
+Lokalbahn	O
+,	O
+die	O
+auf	O
+Oitomünsta	B-LOC
+faht	O
+.	O
+
+# sent_id = bar_wiki_Dochau-58
+# text = Weil de Streck ned voiständig elektrifiziad is , faht do a dieslbetriemna Zug und hoaßt se " A-Bahn " . 
+Weil	O
+de	O
+Streck	O
+ned	O
+voiständig	O
+elektrifiziad	O
+is	O
+,	O
+faht	O
+do	O
+a	O
+dieslbetriemna	O
+Zug	O
+und	O
+hoaßt	O
+se	O
+"	O
+A-Bahn	B-MISC
+"	O
+.	O
+
+# sent_id = bar_wiki_Dochau-59
+# text = Weil da Ludwig Thoma in seina Gschicht " In der Lokalbahn " de Streck ois Voabuid gnomma hot , is de aa ois Ludwig-Thoma-Bahn bekannt . 
+Weil	O
+da	O
+Ludwig	B-PER
+Thoma	I-PER
+in	O
+seina	O
+Gschicht	O
+"	O
+In	B-WOA
+der	I-WOA
+Lokalbahn	I-WOA
+"	O
+de	O
+Streck	O
+ois	O
+Voabuid	O
+gnomma	O
+hot	O
+,	O
+is	O
+de	O
+aa	O
+ois	O
+Ludwig-Thoma-Bahn	B-MISC
+bekannt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-60
+# text = Aus dera Zeit kummt a de a heid no bei de Leid gebreichliche Bezeichnung " Bummal " oda a " Bockal " ( weis owei so lang braucht hot ) . 
+Aus	O
+dera	O
+Zeit	O
+kummt	O
+a	O
+de	O
+a	O
+heid	O
+no	O
+bei	O
+de	O
+Leid	O
+gebreichliche	O
+Bezeichnung	O
+"	O
+Bummal	O
+"	O
+oda	O
+a	O
+"	O
+Bockal	O
+"	O
+(	O
+weis	O
+owei	O
+so	O
+lang	O
+braucht	O
+hot	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Dochau-61
+# text = A poar Moi im Joa faht no a Dampflok de Streck . 
+A	O
+poar	O
+Moi	O
+im	O
+Joa	O
+faht	O
+no	O
+a	O
+Dampflok	O
+de	O
+Streck	O
+.	O
+
+# sent_id = bar_wiki_Dochau-62
+# text = Da DB-Zug vo Minga hoit aa in Dachau und entlast grod in da Berufsvakeazei des S-Bahn-Netz vom MVV . 
+Da	O
+DB-Zug	B-ORGpart
+vo	O
+Minga	B-LOC
+hoit	O
+aa	O
+in	O
+Dachau	B-LOC
+und	O
+entlast	O
+grod	O
+in	O
+da	O
+Berufsvakeazei	O
+des	O
+S-Bahn-Netz	O
+vom	O
+MVV	B-ORG
+.	O
+
+# sent_id = bar_wiki_Dochau-63
+# text = Es gibt in Dachau zwoa Bahnhef . 
+Es	O
+gibt	O
+in	O
+Dachau	B-LOC
+zwoa	O
+Bahnhef	O
+.	O
+
+# sent_id = bar_wiki_Dochau-64
+# text = Des oane is da " Bahnhof " , im Fahrplan vo da DB z'findn ois Dachau , Bahnhof und des andane da " Stodbahnhof " , z'findn ois Dachau , Stadt . 
+Des	O
+oane	O
+is	O
+da	O
+"	O
+Bahnhof	O
+"	O
+,	O
+im	O
+Fahrplan	O
+vo	O
+da	O
+DB	B-ORG
+z'findn	O
+ois	O
+Dachau	B-LOC
+,	I-LOC
+Bahnhof	I-LOC
+und	O
+des	O
+andane	O
+da	O
+"	O
+Stodbahnhof	O
+"	O
+,	O
+z'findn	O
+ois	O
+Dachau	B-LOC
+,	I-LOC
+Stadt	I-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-65
+# text = Beide wern vo da DB betriem und am " Bahnhof " hoitn olle Zig de in Dachau hoitn , währnd am " Stodbahnhof " , dea bei da Papiafabrik liegd , nua da Bummal ( De A-Bahn ) hoit . 
+Beide	O
+wern	O
+vo	O
+da	O
+DB	B-ORG
+betriem	O
+und	O
+am	O
+"	O
+Bahnhof	O
+"	O
+hoitn	O
+olle	O
+Zig	O
+de	O
+in	O
+Dachau	B-LOC
+hoitn	O
+,	O
+währnd	O
+am	O
+"	O
+Stodbahnhof	O
+"	O
+,	O
+dea	O
+bei	O
+da	O
+Papiafabrik	O
+liegd	O
+,	O
+nua	O
+da	O
+Bummal	O
+(	O
+De	O
+A-Bahn	O
+)	O
+hoit	O
+.	O
+
+# sent_id = bar_wiki_Dochau-66
+# text = An Bahnhof homs in de 1980er Joa umbaud und jetzt ab 2002 nomoi , weil de ICE-Schnejstreck duach Dachau gehd . 
+An	O
+Bahnhof	O
+homs	O
+in	O
+de	O
+1980er	O
+Joa	O
+umbaud	O
+und	O
+jetzt	O
+ab	O
+2002	O
+nomoi	O
+,	O
+weil	O
+de	O
+ICE-Schnejstreck	O
+duach	O
+Dachau	B-LOC
+gehd	O
+.	O
+
+# sent_id = bar_wiki_Dochau-67
+# text = Dabei homs den Bahnhof recht modeanisiad und mid Aufzig behindadngrecht gmacht . 
+Dabei	O
+homs	O
+den	O
+Bahnhof	O
+recht	O
+modeanisiad	O
+und	O
+mid	O
+Aufzig	O
+behindadngrecht	O
+gmacht	O
+.	O
+
+# sent_id = bar_wiki_Dochau-68
+# text = Da ICE hoit in Dachau no ned . 
+Da	O
+ICE	O
+hoit	O
+in	O
+Dachau	B-LOC
+no	O
+ned	O
+.	O
+
+# sent_id = bar_wiki_Dochau-69
+# text = Vo Dochau aus ko ma mit vui Omnibusse ins Hinterland foahn und oahna foaht nach Moosach in Minga und a ondra no nach Bruck . 
+Vo	O
+Dochau	B-LOC
+aus	O
+ko	O
+ma	O
+mit	O
+vui	O
+Omnibusse	O
+ins	O
+Hinterland	O
+foahn	O
+und	O
+oahna	O
+foaht	O
+nach	O
+Moosach	B-LOC
+in	O
+Minga	B-LOC
+und	O
+a	O
+ondra	O
+no	O
+nach	O
+Bruck	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-70
+# text = In Dochau seiba ko ma a mim Bus foahn ( ois Start am Bahnhof ) : 
+In	O
+Dochau	B-LOC
+seiba	O
+ko	O
+ma	O
+a	O
+mim	O
+Bus	O
+foahn	O
+(	O
+ois	O
+Start	O
+am	O
+Bahnhof	O
+)	O
+:	O
+
+# sent_id = bar_wiki_Dochau-71
+# text = Seid ma denga ko , hots in Dochau Ziegelein gehm . 
+Seid	O
+ma	O
+denga	O
+ko	O
+,	O
+hots	O
+in	O
+Dochau	B-LOC
+Ziegelein	O
+gehm	O
+.	O
+
+# sent_id = bar_wiki_Dochau-72
+# text = Des liegt am Loam , der bei de Beagerl obbaut wead . 
+Des	O
+liegt	O
+am	O
+Loam	O
+,	O
+der	O
+bei	O
+de	O
+Beagerl	O
+obbaut	O
+wead	O
+.	O
+
+# sent_id = bar_wiki_Dochau-73
+# text = Da Nohma von Dachau kimmt eh dohea . 
+Da	O
+Nohma	O
+von	O
+Dachau	B-LOC
+kimmt	O
+eh	O
+dohea	O
+.	O
+
+# sent_id = bar_wiki_Dochau-74
+# text = Des soi keitisch sei und hoast Loam " ( dach ) " und Wiesn " ( au ) " . 
+Des	O
+soi	O
+keitisch	B-LANG
+sei	O
+und	O
+hoast	O
+Loam	O
+"	O
+(	O
+dach	O
+)	O
+"	O
+und	O
+Wiesn	O
+"	O
+(	O
+au	O
+)	O
+"	O
+.	O
+
+# sent_id = bar_wiki_Dochau-75
+# text = Wea a moi in Dachau bei de Beagerl spozian woa , dea ko an seim Gwand des guad sehn . 
+Wea	O
+a	O
+moi	O
+in	O
+Dachau	B-LOC
+bei	O
+de	O
+Beagerl	O
+spozian	O
+woa	O
+,	O
+dea	O
+ko	O
+an	O
+seim	O
+Gwand	O
+des	O
+guad	O
+sehn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-76
+# text = Nohat gibts no a oide Papiafabrik , die oba im Septemba 2007 ganz zugmocht worn is . 
+Nohat	O
+gibts	O
+no	O
+a	O
+oide	O
+Papiafabrik	O
+,	O
+die	O
+oba	O
+im	O
+Septemba	O
+2007	O
+ganz	O
+zugmocht	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Dochau-77
+# text = Hinta Dochau Ost steht des neie Industriegebiet " am schwaozn Grom , " wo'd da vui Zeig zum kaffa gibt . 
+Hinta	O
+Dochau	B-LOC
+Ost	O
+steht	O
+des	O
+neie	O
+Industriegebiet	O
+"	O
+am	B-LOC
+schwaozn	I-LOC
+Grom	I-LOC
+,	O
+"	O
+wo'd	O
+da	O
+vui	O
+Zeig	O
+zum	O
+kaffa	O
+gibt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-78
+# text = Des Problem a dera Soch is , dass koana mea in d' Oidstod foaht un die Gschäft doatn koa Geid mea mocha kenna . 
+Des	O
+Problem	O
+a	O
+dera	O
+Soch	O
+is	O
+,	O
+dass	O
+koana	O
+mea	O
+in	O
+d'	O
+Oidstod	O
+foaht	O
+un	O
+die	O
+Gschäft	O
+doatn	O
+koa	O
+Geid	O
+mea	O
+mocha	O
+kenna	O
+.	O
+
+# sent_id = bar_wiki_Dochau-79
+# text = In Dochau gibts drei Grundschuin und drei Hauptschuin , zwoa aloa Gymnasien , oa Realschui und oa private Wirtschafdschui . 
+In	O
+Dochau	B-LOC
+gibts	O
+drei	O
+Grundschuin	O
+und	O
+drei	O
+Hauptschuin	O
+,	O
+zwoa	O
+aloa	O
+Gymnasien	O
+,	O
+oa	O
+Realschui	O
+und	O
+oa	O
+private	O
+Wirtschafdschui	O
+.	O
+
+# sent_id = bar_wiki_Dochau-80
+# text = Der weidern steht a Berufschui und a Montessorischui in Dacha . 
+Der	O
+weidern	O
+steht	O
+a	O
+Berufschui	O
+und	O
+a	O
+Montessorischui	O
+in	O
+Dacha	B-LOC
+.	O
+
+# sent_id = bar_wiki_Dochau-81
+# text = Seit zwoa Joa gibts in Dochau nua mea oan Krongahaus . 
+Seit	O
+zwoa	O
+Joa	O
+gibts	O
+in	O
+Dochau	B-LOC
+nua	O
+mea	O
+oan	O
+Krongahaus	O
+.	O
+
+# sent_id = bar_wiki_Dochau-82
+# text = Vorher hots a Privatklinik für d' Weiberleit gehm , oba de hot sie eascht mit dem Krongahaus zamgschlossn und jetzad gibts es nimma . 
+Vorher	O
+hots	O
+a	O
+Privatklinik	O
+für	O
+d'	O
+Weiberleit	O
+gehm	O
+,	O
+oba	O
+de	O
+hot	O
+sie	O
+eascht	O
+mit	O
+dem	O
+Krongahaus	O
+zamgschlossn	O
+und	O
+jetzad	O
+gibts	O
+es	O
+nimma	O
+.	O
+
+# sent_id = bar_wiki_Dochau-83
+# text = Im Krongahaus san a boa Fuime draht woan , ois Beispui a Komödie vom Diddi Hallervorden . 
+Im	O
+Krongahaus	O
+san	O
+a	O
+boa	O
+Fuime	O
+draht	O
+woan	O
+,	O
+ois	O
+Beispui	O
+a	O
+Komödie	O
+vom	O
+Diddi	B-PER
+Hallervorden	I-PER
+.	O
+
+# sent_id = bar_wiki_Dochau-84
+# text = Wei Dochau sowoi a Gemeindzentrum wia a a Kroasstod is , gibts a Vuizoi vo Behärdn : 
+Wei	O
+Dochau	B-LOC
+sowoi	O
+a	O
+Gemeindzentrum	O
+wia	O
+a	O
+a	O
+Kroasstod	O
+is	O
+,	O
+gibts	O
+a	O
+Vuizoi	O
+vo	O
+Behärdn	O
+:	O
+
+# sent_id = bar_wiki_Dochau-85
+# text = Dazua gibts in Dochau no aufm Glände vom KZ ( do , wo de Aufseher gwohnt hom ) a Bereitsschaftspolizei . 
+Dazua	O
+gibts	O
+in	O
+Dochau	B-LOC
+no	O
+aufm	O
+Glände	O
+vom	O
+KZ	O
+(	O
+do	O
+,	O
+wo	O
+de	O
+Aufseher	O
+gwohnt	O
+hom	O
+)	O
+a	O
+Bereitsschaftspolizei	O
+.	O
+
+# sent_id = bar_wiki_Dochau-86
+# text = Es gibt zwoa grouße Vaeine , de se um a gouads Ongeboat fia an Breitnspoat soang . 
+Es	O
+gibt	O
+zwoa	O
+grouße	O
+Vaeine	O
+,	O
+de	O
+se	O
+um	O
+a	O
+gouads	O
+Ongeboat	O
+fia	O
+an	O
+Breitnspoat	O
+soang	O
+.	O
+
+# sent_id = bar_wiki_Dochau-87
+# text = Des is oamoi da ASV in Dochau-Sid , der in de 90er zwoamoi deitscha Moasta im Volleyboi woan is , und da TSV , dea se Anfang der 2000er mim SSV zamgschlossn hot . 
+Des	O
+is	O
+oamoi	O
+da	O
+ASV	B-ORG
+in	O
+Dochau-Sid	B-LOC
+,	O
+der	O
+in	O
+de	O
+90er	O
+zwoamoi	O
+deitscha	B-LOCderiv
+Moasta	O
+im	O
+Volleyboi	O
+woan	O
+is	O
+,	O
+und	O
+da	O
+TSV	B-ORG
+,	O
+dea	O
+se	O
+Anfang	O
+der	O
+2000er	O
+mim	O
+SSV	B-ORG
+zamgschlossn	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Dochau-88
+# text = In de Duanhoin vom TSV genga gean d' Schuin hi und beim ASV ko ma Schlittschuafoahn . 
+In	O
+de	O
+Duanhoin	O
+vom	O
+TSV	B-ORG
+genga	O
+gean	O
+d'	O
+Schuin	O
+hi	O
+und	O
+beim	O
+ASV	B-ORG
+ko	O
+ma	O
+Schlittschuafoahn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-89
+# text = Dozua gibts no a grouße Zoi vo kloana Vaeine , de se auf Sochan spezialisiert hom , wia Kegln , Fuaßboi , s' Reitn , Tennis oder Goif . 
+Dozua	O
+gibts	O
+no	O
+a	O
+grouße	O
+Zoi	O
+vo	O
+kloana	O
+Vaeine	O
+,	O
+de	O
+se	O
+auf	O
+Sochan	O
+spezialisiert	O
+hom	O
+,	O
+wia	O
+Kegln	O
+,	O
+Fuaßboi	O
+,	O
+s'	O
+Reitn	O
+,	O
+Tennis	O
+oder	O
+Goif	O
+.	O
+
+# sent_id = bar_wiki_Dochau-90
+# text = Wia ibaoi in Bayern wead a in Dochau da Buagamoasta direkt gwoid . 
+Wia	O
+ibaoi	O
+in	O
+Bayern	B-LOC
+wead	O
+a	O
+in	O
+Dochau	B-LOC
+da	O
+Buagamoasta	O
+direkt	O
+gwoid	O
+.	O
+
+# sent_id = bar_wiki_Dochau-91
+# text = Zua seibn Zeit weit ma a an Stodroud , der in Dochau 40 Mitglieder hot . 
+Zua	O
+seibn	O
+Zeit	O
+weit	O
+ma	O
+a	O
+an	O
+Stodroud	O
+,	O
+der	O
+in	O
+Dochau	B-LOC
+40	O
+Mitglieder	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Dochau-92
+# text = In der jetzign Zeit ( 2014 - 2020 ) schaugts so aus : Da Obabuagamoasta is da Hartmann Florian von da SPD . 
+In	O
+der	O
+jetzign	O
+Zeit	O
+(	O
+2014	O
+-	O
+2020	O
+)	O
+schaugts	O
+so	O
+aus	O
+:	O
+Da	O
+Obabuagamoasta	O
+is	O
+da	O
+Hartmann	B-PER
+Florian	I-PER
+von	O
+da	O
+SPD	B-ORG
+.	O
+
+# sent_id = bar_wiki_Dochau-93
+# text = Im Stodroud sitzn de Partein : 
+Im	O
+Stodroud	O
+sitzn	O
+de	O
+Partein	O
+:	O
+
+# sent_id = bar_wiki_Dochau-94
+# text = Bei da letzn Woi 2002 hots a gscheitn Skandal gem , wei a poa vo da CSU Woizettl gfeischt hom. Mittlerweile is des woi obgschlossn , denn es sann dann zwoa von da CSU vaurteilt woan . 
+Bei	O
+da	O
+letzn	O
+Woi	O
+2002	O
+hots	O
+a	O
+gscheitn	O
+Skandal	O
+gem	O
+,	O
+wei	O
+a	O
+poa	O
+vo	O
+da	O
+CSU	B-ORG
+Woizettl	O
+gfeischt	O
+hom.	O
+Mittlerweile	O
+is	O
+des	O
+woi	O
+obgschlossn	O
+,	O
+denn	O
+es	O
+sann	O
+dann	O
+zwoa	O
+von	O
+da	O
+CSU	B-ORG
+vaurteilt	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Dochau-95
+# text = As Dachaura Voiksfest is in ganz Bayern bekonnt , weis do des billigste Bia gibt . 
+As	O
+Dachaura	B-EVENT
+Voiksfest	I-EVENT
+is	O
+in	O
+ganz	O
+Bayern	B-LOC
+bekonnt	O
+,	O
+weis	O
+do	O
+des	O
+billigste	O
+Bia	O
+gibt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-96
+# text = D' Maß kost umra 3,50 Euro . 
+D'	O
+Maß	O
+kost	O
+umra	O
+3,50	O
+Euro	O
+.	O
+
+# sent_id = bar_wiki_Dochau-97
+# text = Ausgschenkt wiad imma a dunkles Märznbia , wos Thoma-Bier hoaßt . 
+Ausgschenkt	O
+wiad	O
+imma	O
+a	O
+dunkles	O
+Märznbia	O
+,	O
+wos	O
+Thoma-Bier	O
+hoaßt	O
+.	O
+
+# sent_id = bar_wiki_Dochau-98
+# text = Des Fest is imma um Maria Himmelfaht und geht dem Dog eigschlossen vom Samsdog bis zum Mondog a Woch drauf . 
+Des	O
+Fest	O
+is	O
+imma	O
+um	O
+Maria	B-EVENT
+Himmelfaht	I-EVENT
+und	O
+geht	O
+dem	O
+Dog	O
+eigschlossen	O
+vom	O
+Samsdog	O
+bis	O
+zum	O
+Mondog	O
+a	O
+Woch	O
+drauf	O
+.	O
+
+# sent_id = bar_wiki_Dochau-99
+# text = Oanzigartig in Bayern is da Kindafestzug am easchtn Sonndog in jem ungrodn Joa , an dem 2007 umara 570 Kinda in Kostim und Trachtn aus olle Zeitn mitganga san . 
+Oanzigartig	O
+in	O
+Bayern	B-LOC
+is	O
+da	O
+Kindafestzug	O
+am	O
+easchtn	O
+Sonndog	O
+in	O
+jem	O
+ungrodn	O
+Joa	O
+,	O
+an	O
+dem	O
+2007	O
+umara	O
+570	O
+Kinda	O
+in	O
+Kostim	O
+und	O
+Trachtn	O
+aus	O
+olle	O
+Zeitn	O
+mitganga	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Dochau-100
+# text = Am Maria Himmelfaht is oiwa a Radlrenna , des Dochaura Beagkriterium , wos imma duachd Oidstod foahn . 
+Am	O
+Maria	B-EVENT
+Himmelfaht	I-EVENT
+is	O
+oiwa	O
+a	O
+Radlrenna	O
+,	O
+des	O
+Dochaura	B-EVENT
+Beagkriterium	I-EVENT
+,	O
+wos	O
+imma	O
+duachd	B-LOCderiv
+Oidstod	O
+foahn	O
+.	O
+
+# sent_id = bar_wiki_Dochau-101
+# text = Olle zwoa Joa , an ungrade Joareszoin , find a Kinderfestzug stott mit Motive aus da Meachenwöd und aus da Gschicht . 
+Olle	O
+zwoa	O
+Joa	O
+,	O
+an	O
+ungrade	O
+Joareszoin	O
+,	O
+find	O
+a	O
+Kinderfestzug	O
+stott	O
+mit	O
+Motive	O
+aus	O
+da	O
+Meachenwöd	O
+und	O
+aus	O
+da	O
+Gschicht	O
+.	O
+
+# newdoc id = bar_wiki_Odyssee
+# sent_id = bar_wiki_Odyssee-1
+# text = Odyssee 
+Odyssee	B-WOA
+
+# sent_id = bar_wiki_Odyssee-2
+# text = De Odyssee ( griachisch : " Oδύσσεια " , " Odýsseia " ) is nemn da " Ilias " as zwoate am griachischn Dichta Homer zuagschriamne Epos . 
+De	O
+Odyssee	B-WOA
+(	O
+griachisch	B-LANG
+:	O
+"	O
+Oδύσσεια	B-WOA
+"	O
+,	O
+"	O
+Odýsseia	B-WOA
+"	O
+)	O
+is	O
+nemn	O
+da	O
+"	O
+Ilias	B-WOA
+"	O
+as	O
+zwoate	O
+am	O
+griachischn	B-LOCderiv
+Dichta	O
+Homer	B-PER
+zuagschriamne	O
+Epos	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-3
+# text = Im spadn 8. Joahundat v. Kr. niadagschriem , gheat de Odyssee zua de ejjtastn unn eiflussreichstn Weak vo da omndländischn Litaradua . 
+Im	O
+spadn	O
+8.	O
+Joahundat	O
+v.	O
+Kr.	O
+niadagschriem	O
+,	O
+gheat	O
+de	O
+Odyssee	B-WOA
+zua	O
+de	O
+ejjtastn	O
+unn	O
+eiflussreichstn	O
+Weak	O
+vo	O
+da	O
+omndländischn	O
+Litaradua	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-4
+# text = Se schuijdat de Omnteia vo Odysseus , dem Keenig vo Ithaka , unn de vo seine Gfäatn auf da Hoamkea ausm Trojanischn Kriag . 
+Se	O
+schuijdat	O
+de	O
+Omnteia	O
+vo	O
+Odysseus	B-PER
+,	O
+dem	O
+Keenig	O
+vo	O
+Ithaka	B-LOC
+,	O
+unn	O
+de	O
+vo	O
+seine	O
+Gfäatn	O
+auf	O
+da	O
+Hoamkea	O
+ausm	O
+Trojanischn	B-EVENT
+Kriag	I-EVENT
+.	O
+
+# sent_id = bar_wiki_Odyssee-5
+# text = In vuijn Sprochn is da Bgriff „ Odyssee “ zuaram Synonym fia longe Iafoatn woan . 
+In	O
+vuijn	O
+Sprochn	O
+is	O
+da	O
+Bgriff	O
+„	O
+Odyssee	B-WOA
+“	O
+zuaram	O
+Synonym	O
+fia	O
+longe	O
+Iafoatn	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-6
+# text = Mit da Oruafung vo da Musn bginnt de – noch da " Ilias " vo Homer – ejtaste Dichtung vo da omndländischn Litaradua : 
+Mit	O
+da	O
+Oruafung	O
+vo	O
+da	O
+Musn	O
+bginnt	O
+de	O
+–	O
+noch	O
+da	O
+"	O
+Ilias	B-WOA
+"	O
+vo	O
+Homer	B-PER
+–	O
+ejtaste	O
+Dichtung	O
+vo	O
+da	O
+omndländischn	O
+Litaradua	O
+:	O
+
+# sent_id = bar_wiki_Odyssee-7
+# text = In da Iabasetzung vo Johann Heinrich Voss ausm Joa 1781 hoaßn de Eigongsveas vo da " Odyssee " a so : 
+In	O
+da	O
+Iabasetzung	O
+vo	O
+Johann	B-PER
+Heinrich	I-PER
+Voss	I-PER
+ausm	O
+Joa	O
+1781	O
+hoaßn	O
+de	O
+Eigongsveas	O
+vo	O
+da	O
+"	O
+Odyssee	B-WOA
+"	O
+a	O
+so	O
+:	O
+
+# sent_id = bar_wiki_Odyssee-8
+# text = In 12.200 soijchana Hexametaveas , de in 24 Gsäng untateijt san , eazejjt de " Odyssee " , wia da Keenig vo da kloanan Insl Ithaka no zehn Joa Kriag weidane zehn Joa umanandaiat . 
+In	O
+12.200	O
+soijchana	O
+Hexametaveas	O
+,	O
+de	O
+in	O
+24	O
+Gsäng	O
+untateijt	O
+san	O
+,	O
+eazejjt	O
+de	O
+"	O
+Odyssee	B-WOA
+"	O
+,	O
+wia	O
+da	O
+Keenig	O
+vo	O
+da	O
+kloanan	O
+Insl	O
+Ithaka	B-LOC
+no	O
+zehn	O
+Joa	O
+Kriag	O
+weidane	O
+zehn	O
+Joa	O
+umanandaiat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-9
+# text = Noch vuijn Omnteian keat ea schliaßli unakonnt oijs Bettla hoam unn findt sei Haus voij vo Fremde , de sei Eingtum aufzean . 
+Noch	O
+vuijn	O
+Omnteian	O
+keat	O
+ea	O
+schliaßli	O
+unakonnt	O
+oijs	O
+Bettla	O
+hoam	O
+unn	O
+findt	O
+sei	O
+Haus	O
+voij	O
+vo	O
+Fremde	O
+,	O
+de	O
+sei	O
+Eingtum	O
+aufzean	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-10
+# text = Se ren seina Frau Penelope ei , ea waa scho doat , unn woijns zwingan , oan vo eana zheirotn . 
+Se	O
+ren	O
+seina	O
+Frau	O
+Penelope	B-PER
+ei	O
+,	O
+ea	O
+waa	O
+scho	O
+doat	O
+,	O
+unn	O
+woijns	O
+zwingan	O
+,	O
+oan	O
+vo	O
+eana	O
+zheirotn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-11
+# text = In oam letztn Omnteia muass Odysseus donn an Kompf geng de Freier bsteng . 
+In	O
+oam	O
+letztn	O
+Omnteia	O
+muass	O
+Odysseus	B-PER
+donn	O
+an	O
+Kompf	O
+geng	O
+de	O
+Freier	O
+bsteng	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-12
+# text = A Parallelhondlung , de „ Telemachie “ , eazejjt , wia se Telemachos , da Sohn vo Odysseus unn Penelope , auf de Suach noch am varmisstn Vodan mocht . 
+A	O
+Parallelhondlung	O
+,	O
+de	O
+„	O
+Telemachie	B-WOA
+“	O
+,	O
+eazejjt	O
+,	O
+wia	O
+se	O
+Telemachos	B-PER
+,	O
+da	O
+Sohn	O
+vo	O
+Odysseus	B-PER
+unn	O
+Penelope	B-PER
+,	O
+auf	O
+de	O
+Suach	O
+noch	O
+am	O
+varmisstn	O
+Vodan	O
+mocht	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-13
+# text = Um de Sponnung oijweij aufrecht zhoijtn , nutzt da Homer a komplexe Eazejjweis . 
+Um	O
+de	O
+Sponnung	O
+oijweij	O
+aufrecht	O
+zhoijtn	O
+,	O
+nutzt	O
+da	O
+Homer	B-PER
+a	O
+komplexe	O
+Eazejjweis	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-14
+# text = Ea oabat zum Beischpuij mit Parallelhondlungan , Ruckblendn , Eischiab , Perspektiv- unn Eazählawechsln . 
+Ea	O
+oabat	O
+zum	O
+Beischpuij	O
+mit	O
+Parallelhondlungan	O
+,	O
+Ruckblendn	O
+,	O
+Eischiab	O
+,	O
+Perspektiv-	O
+unn	O
+Eazählawechsln	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-15
+# text = De Hondlung wead ned chronologisch vazejjt , sundan setzt kuaz voa da Ruckkea vom Odysseus noch Ithaka ei . 
+De	O
+Hondlung	O
+wead	O
+ned	O
+chronologisch	O
+vazejjt	O
+,	O
+sundan	O
+setzt	O
+kuaz	O
+voa	O
+da	O
+Ruckkea	O
+vom	O
+Odysseus	B-PER
+noch	O
+Ithaka	B-LOC
+ei	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-16
+# text = Se gliedat se wia foijgt : 
+Se	O
+gliedat	O
+se	O
+wia	O
+foijgt	O
+:	O
+
+# sent_id = bar_wiki_Odyssee-17
+# text = Da Rot vo de Getta bschliaßt , am Odysseus de Hoamkea zua eameglicha . 
+Da	O
+Rot	O
+vo	O
+de	O
+Getta	O
+bschliaßt	O
+,	O
+am	O
+Odysseus	B-PER
+de	O
+Hoamkea	O
+zua	O
+eameglicha	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-18
+# text = Da Gettabot Hermes foadat de Nymphe Kalypso auf , an Odysseus , dens siemn Joa long auf ihra Insl zruckghoijtn hot , ziang zlossn . 
+Da	O
+Gettabot	O
+Hermes	B-PER
+foadat	O
+de	O
+Nymphe	O
+Kalypso	B-PER
+auf	O
+,	O
+an	O
+Odysseus	B-PER
+,	O
+dens	O
+siemn	O
+Joa	O
+long	O
+auf	O
+ihra	O
+Insl	O
+zruckghoijtn	O
+hot	O
+,	O
+ziang	O
+zlossn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-19
+# text = De Göttin Athene begibt se doweij in de Hoamat vom Odysseus noch Ithaka , wo sei Frau Penelope vo zoijreiche Freia bdrängt wead , oan vo eana zheirotn . 
+De	O
+Göttin	O
+Athene	B-PER
+begibt	O
+se	O
+doweij	O
+in	O
+de	O
+Hoamat	O
+vom	O
+Odysseus	B-PER
+noch	O
+Ithaka	B-LOC
+,	O
+wo	O
+sei	O
+Frau	O
+Penelope	B-PER
+vo	O
+zoijreiche	O
+Freia	O
+bdrängt	O
+wead	O
+,	O
+oan	O
+vo	O
+eana	O
+zheirotn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-20
+# text = In da Gstoijt vo dem vätalichn Freind Mentor iabaredt Athene an Odysseus sein Sohn Telemachos , se auf de Suach noch am vamisstn Vodan zmochan . 
+In	O
+da	O
+Gstoijt	O
+vo	O
+dem	O
+vätalichn	O
+Freind	O
+Mentor	B-PER
+iabaredt	O
+Athene	B-PER
+an	O
+Odysseus	B-PER
+sein	O
+Sohn	O
+Telemachos	B-PER
+,	O
+se	O
+auf	O
+de	O
+Suach	O
+noch	O
+am	O
+vamisstn	O
+Vodan	O
+zmochan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-21
+# text = Auf am sejbstbautn Flouß valosst da Odysseus Ogygia , de Insl vo Kalypso . 
+Auf	O
+am	O
+sejbstbautn	O
+Flouß	O
+valosst	O
+da	O
+Odysseus	B-PER
+Ogygia	B-LOC
+,	O
+de	O
+Insl	O
+vo	O
+Kalypso	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-22
+# text = Oba sei Widasocha , da Meearesgod Poseidon , erregt an Stuam , in dem as Flouß untageht . 
+Oba	O
+sei	O
+Widasocha	O
+,	O
+da	O
+Meearesgod	O
+Poseidon	B-PER
+,	O
+erregt	O
+an	O
+Stuam	O
+,	O
+in	O
+dem	O
+as	O
+Flouß	O
+untageht	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-23
+# text = Oijs Schiffbrichiga rett se da Odysseus mit letzta Kroft auf de Insl Scheria . 
+Oijs	O
+Schiffbrichiga	O
+rett	O
+se	O
+da	O
+Odysseus	B-PER
+mit	O
+letzta	O
+Kroft	O
+auf	O
+de	O
+Insl	O
+Scheria	B-LOC
+.	O
+
+# sent_id = bar_wiki_Odyssee-24
+# text = Bei de Phaiaken wead ea vo da Keenigstochta Nausikaa gostfreindli aufgnumma . 
+Bei	O
+de	O
+Phaiaken	B-ORG
+wead	O
+ea	O
+vo	O
+da	O
+Keenigstochta	O
+Nausikaa	B-PER
+gostfreindli	O
+aufgnumma	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-25
+# text = Im zentroijn Deil vo dem Epos eazejjt Odysseus im Haus vom Phaiakenkeenig Alkinoos zwoa Nächt long de Gschicht vo seine Iafoatn ( schaug unte : De Iafoatn vom Odysseus ) . 
+Im	O
+zentroijn	O
+Deil	O
+vo	O
+dem	O
+Epos	O
+eazejjt	O
+Odysseus	B-PER
+im	O
+Haus	O
+vom	O
+Phaiakenkeenig	O
+Alkinoos	B-PER
+zwoa	O
+Nächt	O
+long	O
+de	O
+Gschicht	O
+vo	O
+seine	O
+Iafoatn	O
+(	O
+schaug	O
+unte	O
+:	O
+De	O
+Iafoatn	O
+vom	O
+Odysseus	B-PER
+)	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-26
+# text = Hiazt wean de boadn Hondlungssträng , de „ Telemachie “ unn de eigantliche „ Odyssee “ zsammagfiat . 
+Hiazt	O
+wean	O
+de	O
+boadn	O
+Hondlungssträng	O
+,	O
+de	O
+„	O
+Telemachie	B-WOA
+“	O
+unn	O
+de	O
+eigantliche	O
+„	O
+Odyssee	B-WOA
+“	O
+zsammagfiat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-27
+# text = Odysseus keat mit da Huijf vo de Phaiaken hoam noch Ithaka , ea muass se oba im Haus vo dem trein Sauhiatn Eumaios vabeang , bis ea den Kompf mit de Freia wong ko . 
+Odysseus	B-PER
+keat	O
+mit	O
+da	O
+Huijf	O
+vo	O
+de	O
+Phaiaken	B-ORG
+hoam	O
+noch	O
+Ithaka	B-LOC
+,	O
+ea	O
+muass	O
+se	O
+oba	O
+im	O
+Haus	O
+vo	O
+dem	O
+trein	O
+Sauhiatn	O
+Eumaios	B-PER
+vabeang	O
+,	O
+bis	O
+ea	O
+den	O
+Kompf	O
+mit	O
+de	O
+Freia	O
+wong	O
+ko	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-28
+# text = Dodobei bgengt ea aa dem vo seina eafoijglosn Suach zruckkeatn Telemachos . 
+Dodobei	O
+bgengt	O
+ea	O
+aa	O
+dem	O
+vo	O
+seina	O
+eafoijglosn	O
+Suach	O
+zruckkeatn	O
+Telemachos	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-29
+# text = Zua seim Schutz valeiht Athene am Odysseus de Gestalt von am Bettla . 
+Zua	O
+seim	O
+Schutz	O
+valeiht	O
+Athene	B-PER
+am	O
+Odysseus	B-PER
+de	O
+Gestalt	O
+von	O
+am	O
+Bettla	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-30
+# text = Oijs a soijchana keat ea noch 20 Joa in sei Haus zruck , wo eam znaxt nus sei oijda steamnda Hund Argos wiadadakennt , spada donn aa de oijde Mogd Eurykleia . 
+Oijs	O
+a	O
+soijchana	O
+keat	O
+ea	O
+noch	O
+20	O
+Joa	O
+in	O
+sei	O
+Haus	O
+zruck	O
+,	O
+wo	O
+eam	O
+znaxt	O
+nus	O
+sei	O
+oijda	O
+steamnda	O
+Hund	O
+Argos	B-PER
+wiadadakennt	O
+,	O
+spada	O
+donn	O
+aa	O
+de	O
+oijde	O
+Mogd	O
+Eurykleia	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-31
+# text = Insghoam breit se Odysseus donn auf an Kompf mit de Freia voa . 
+Insghoam	O
+breit	O
+se	O
+Odysseus	B-PER
+donn	O
+auf	O
+an	O
+Kompf	O
+mit	O
+de	O
+Freia	O
+voa	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-32
+# text = Bei am Bongkompf gibt se da Odysseus zeakenna unn massakriat mit da Huif vom Telemachos unn vom Eumaios de Freia sowia de Mägd unn Knecht , de se ois untrei eawiesn homn . 
+Bei	O
+am	O
+Bongkompf	O
+gibt	O
+se	O
+da	O
+Odysseus	B-PER
+zeakenna	O
+unn	O
+massakriat	O
+mit	O
+da	O
+Huif	O
+vom	O
+Telemachos	B-PER
+unn	O
+vom	O
+Eumaios	B-PER
+de	O
+Freia	O
+sowia	O
+de	O
+Mägd	O
+unn	O
+Knecht	O
+,	O
+de	O
+se	O
+ois	O
+untrei	O
+eawiesn	O
+homn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-33
+# text = Odysseus siegt noch 20 Joa sei Frau Penelope wiada . 
+Odysseus	B-PER
+siegt	O
+noch	O
+20	O
+Joa	O
+sei	O
+Frau	O
+Penelope	B-PER
+wiada	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-34
+# text = Do eascht nochdems eam mit a List aufd Promn gsteijt hot , eakennts in eam an Gottn o. Oschliaßnd bsuacht Odysseus sein oijdn Vodan Laërtes . 
+Do	O
+eascht	O
+nochdems	O
+eam	O
+mit	O
+a	O
+List	O
+aufd	O
+Promn	O
+gsteijt	O
+hot	O
+,	O
+eakennts	O
+in	O
+eam	O
+an	O
+Gottn	O
+o.	O
+Oschliaßnd	O
+bsuacht	O
+Odysseus	B-PER
+sein	O
+oijdn	O
+Vodan	O
+Laërtes	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-35
+# text = In da Untaweijt preisn Achilles unn Agamemnon , de dodn Mitkämpfa voa Troja , de siagreiche Hoamkea vom Odysseus . 
+In	O
+da	O
+Untaweijt	O
+preisn	O
+Achilles	B-PER
+unn	O
+Agamemnon	B-PER
+,	O
+de	O
+dodn	O
+Mitkämpfa	O
+voa	O
+Troja	B-LOC
+,	O
+de	O
+siagreiche	O
+Hoamkea	O
+vom	O
+Odysseus	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-36
+# text = De Göttin Athene schlichtet zletzt an Stroat zwischn Odysseus unn de Vawandten vo de daschlonganan Freia unn da Gettavoda Zeus setzt mit am Blitz an letztn Dusch in dem Epos . 
+De	O
+Göttin	O
+Athene	B-PER
+schlichtet	O
+zletzt	O
+an	O
+Stroat	O
+zwischn	O
+Odysseus	B-PER
+unn	O
+de	O
+Vawandten	O
+vo	O
+de	O
+daschlonganan	O
+Freia	O
+unn	O
+da	O
+Gettavoda	O
+Zeus	B-PER
+setzt	O
+mit	O
+am	O
+Blitz	O
+an	O
+letztn	O
+Dusch	O
+in	O
+dem	O
+Epos	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-37
+# text = Im Zentrum vo dem Epos stengan de Gsäng 9 bis 12 , in dene Odysseus seiba seine Omnteia bis zua seina Londung auf da Insl vo de Phaiaken schuijdat . 
+Im	O
+Zentrum	O
+vo	O
+dem	O
+Epos	O
+stengan	O
+de	O
+Gsäng	O
+9	O
+bis	O
+12	O
+,	O
+in	O
+dene	O
+Odysseus	B-PER
+seiba	O
+seine	O
+Omnteia	O
+bis	O
+zua	O
+seina	O
+Londung	O
+auf	O
+da	O
+Insl	O
+vo	O
+de	O
+Phaiaken	B-ORG
+schuijdat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-38
+# text = Des kimmt oijs ziemli mäachenhoft dohea unn wead vo ned wenige Foascha fia des uaspringliche Epos ghoijtn , des donn eascht spada um de eileitende Telemachie unn om End um de ausfialiche Schuijdarung vom Moad o de Freia eaweitat woan is . 
+Des	O
+kimmt	O
+oijs	O
+ziemli	O
+mäachenhoft	O
+dohea	O
+unn	O
+wead	O
+vo	O
+ned	O
+wenige	O
+Foascha	O
+fia	O
+des	O
+uaspringliche	O
+Epos	O
+ghoijtn	O
+,	O
+des	O
+donn	O
+eascht	O
+spada	O
+um	O
+de	O
+eileitende	O
+Telemachie	B-WOA
+unn	O
+om	O
+End	O
+um	O
+de	O
+ausfialiche	O
+Schuijdarung	O
+vom	O
+Moad	O
+o	O
+de	O
+Freia	O
+eaweitat	O
+woan	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-39
+# text = Nochdem de Ithakeser Troja auf zweijf Schiff valossn homn , iabafoijn Odysseus unn seine Männa znaxt de mit de Trojana vabündatn thrakischen Kikonen , wean vo dene oba om End vatriemn . 
+Nochdem	O
+de	O
+Ithakeser	B-ORG
+Troja	B-LOC
+auf	O
+zweijf	O
+Schiff	O
+valossn	O
+homn	O
+,	O
+iabafoijn	O
+Odysseus	B-PER
+unn	O
+seine	O
+Männa	O
+znaxt	O
+de	O
+mit	O
+de	O
+Trojana	B-LOCderiv
+vabündatn	O
+thrakischen	B-LOCderiv
+Kikonen	B-ORG
+,	O
+wean	O
+vo	O
+dene	O
+oba	O
+om	O
+End	O
+vatriemn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-40
+# text = Donn vaschlägt a Stuam eanane Schiff , am Kap Malea , de Sodspitzn vom Peloponnes unn de Insl Kythera voabei , weit aussa ins Lond vo de Lotophagen , de massig gean unn vuij Lotos essan . 
+Donn	O
+vaschlägt	O
+a	O
+Stuam	O
+eanane	O
+Schiff	O
+,	O
+am	O
+Kap	B-LOC
+Malea	I-LOC
+,	O
+de	O
+Sodspitzn	O
+vom	O
+Peloponnes	B-LOC
+unn	O
+de	O
+Insl	O
+Kythera	B-LOC
+voabei	O
+,	O
+weit	O
+aussa	O
+ins	O
+Lond	O
+vo	O
+de	O
+Lotophagen	B-ORG
+,	O
+de	O
+massig	O
+gean	O
+unn	O
+vuij	O
+Lotos	O
+essan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-41
+# text = Oanige Mannaleit kostn vo da Fruacht , de sichti mocht unn se eanane Vagonganheit unn eanane Hoamat vagessn losst . 
+Oanige	O
+Mannaleit	O
+kostn	O
+vo	O
+da	O
+Fruacht	O
+,	O
+de	O
+sichti	O
+mocht	O
+unn	O
+se	O
+eanane	O
+Vagonganheit	O
+unn	O
+eanane	O
+Hoamat	O
+vagessn	O
+losst	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-42
+# text = Se miassn dodraufhi mit Gwoijt auf de Schiff brocht wean . 
+Se	O
+miassn	O
+dodraufhi	O
+mit	O
+Gwoijt	O
+auf	O
+de	O
+Schiff	O
+brocht	O
+wean	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-43
+# text = Oschliaßnd londn Odysseus unn seine Gfäatn aufr a Insl , de vo fia si alloa lebandn , oaeigigan Riesn bvöijkat is , de Kyklopn . 
+Oschliaßnd	O
+londn	O
+Odysseus	B-PER
+unn	O
+seine	O
+Gfäatn	O
+aufr	O
+a	O
+Insl	O
+,	O
+de	O
+vo	O
+fia	O
+si	O
+alloa	O
+lebandn	O
+,	O
+oaeigigan	O
+Riesn	O
+bvöijkat	O
+is	O
+,	O
+de	O
+Kyklopn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-44
+# text = Da Kyklop Polyphem speats in seina Hejjn ei unn droht eana , se nochananda zvaspeisn . 
+Da	O
+Kyklop	O
+Polyphem	B-PER
+speats	O
+in	O
+seina	O
+Hejjn	O
+ei	O
+unn	O
+droht	O
+eana	O
+,	O
+se	O
+nochananda	O
+zvaspeisn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-45
+# text = Odysseus steijt se eam listi oijs „ Neamond “ voa ( gr. Oυτις , transkribiert " oudeís " oder " Outis " ; lat. " Nemo " ) . 
+Odysseus	B-PER
+steijt	O
+se	O
+eam	O
+listi	O
+oijs	O
+„	O
+Neamond	B-PER
+“	O
+voa	O
+(	O
+gr.	O
+Oυτις	O
+,	O
+transkribiert	O
+"	O
+oudeís	O
+"	O
+oder	O
+"	O
+Outis	O
+"	O
+;	O
+lat.	O
+"	O
+Nemo	O
+"	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-46
+# text = Des is zglei a Woatspuij , wei " oudeís " aar a Kosnom vo Odysseus is . 
+Des	O
+is	O
+zglei	O
+a	O
+Woatspuij	O
+,	O
+wei	O
+"	O
+oudeís	O
+"	O
+aar	O
+a	O
+Kosnom	O
+vo	O
+Odysseus	B-PER
+is	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-47
+# text = S' glingt eam , Polyphem bdrunga zmochan unn eam donn mit am gliahandn Pfoij zblendn . 
+S'	O
+glingt	O
+eam	O
+,	O
+Polyphem	B-PER
+bdrunga	O
+zmochan	O
+unn	O
+eam	O
+donn	O
+mit	O
+am	O
+gliahandn	O
+Pfoij	O
+zblendn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-48
+# text = Oijs ondane Kyklopn auf am Polyphem sei Gschroa hi heabeieiln , ruaft eam dea eana zua , „ Neamond “ hätt eam eppas odo , do sans wiada umkeat . 
+Oijs	O
+ondane	O
+Kyklopn	O
+auf	O
+am	O
+Polyphem	B-PER
+sei	O
+Gschroa	O
+hi	O
+heabeieiln	O
+,	O
+ruaft	O
+eam	O
+dea	O
+eana	O
+zua	O
+,	O
+„	O
+Neamond	B-PER
+“	O
+hätt	O
+eam	O
+eppas	O
+odo	O
+,	O
+do	O
+sans	O
+wiada	O
+umkeat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-49
+# text = Um seine Schof aufd Weidn zlossn , muass Polyphem den Stoan voa seina Hejjn weggatwejjzn . 
+Um	O
+seine	O
+Schof	O
+aufd	O
+Weidn	O
+zlossn	O
+,	O
+muass	O
+Polyphem	B-PER
+den	O
+Stoan	O
+voa	O
+seina	O
+Hejjn	O
+weggatwejjzn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-50
+# text = Indems se om Bauchfeij vo de Schof festklomman , kennan Odysseus unn seine Gfäatn entkumma . 
+Indems	O
+se	O
+om	O
+Bauchfeij	O
+vo	O
+de	O
+Schof	O
+festklomman	O
+,	O
+kennan	O
+Odysseus	B-PER
+unn	O
+seine	O
+Gfäatn	O
+entkumma	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-51
+# text = Oijs Polyphem eanane Flucht bmeakt , schleidat ea Feijsn in de Richtung , in der ea de Schiff vamuat , vafeijts donn oba . 
+Oijs	O
+Polyphem	B-PER
+eanane	O
+Flucht	O
+bmeakt	O
+,	O
+schleidat	O
+ea	O
+Feijsn	O
+in	O
+de	O
+Richtung	O
+,	O
+in	O
+der	O
+ea	O
+de	O
+Schiff	O
+vamuat	O
+,	O
+vafeijts	O
+donn	O
+oba	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-52
+# text = Houmiatig enthuijt Odysseus am Polyphem sein woan Noman . 
+Houmiatig	O
+enthuijt	O
+Odysseus	B-PER
+am	O
+Polyphem	B-PER
+sein	O
+woan	O
+Noman	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-53
+# text = In seim Zoan bitt der sein Vodan Poseidon , Odysseus aufm Mea umkemman zlossn oda eam sei Hoamkea zvahindan . 
+In	O
+seim	O
+Zoan	O
+bitt	O
+der	O
+sein	O
+Vodan	O
+Poseidon	B-PER
+,	O
+Odysseus	B-PER
+aufm	O
+Mea	O
+umkemman	O
+zlossn	O
+oda	O
+eam	O
+sei	O
+Hoamkea	O
+zvahindan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-54
+# text = Da Windgott Aiolos , dem sei Insl Odysseus oijs naxte olaft , schenkt eam an Ledaschlauch , in dem olle Wind eispeat san , bis auf oan , dea seine Schiff sicha noch Ithaka treimn soijt . 
+Da	O
+Windgott	O
+Aiolos	B-PER
+,	O
+dem	O
+sei	O
+Insl	O
+Odysseus	B-PER
+oijs	O
+naxte	O
+olaft	O
+,	O
+schenkt	O
+eam	O
+an	O
+Ledaschlauch	O
+,	O
+in	O
+dem	O
+olle	O
+Wind	O
+eispeat	O
+san	O
+,	O
+bis	O
+auf	O
+oan	O
+,	O
+dea	O
+seine	O
+Schiff	O
+sicha	O
+noch	O
+Ithaka	B-LOC
+treimn	O
+soijt	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-55
+# text = Oba oijs de ohnungslosn Gfäatn vom Odysseus kuaz voam Zuij den Schlauch aus Neigia öffnan , entwoachan olle Wind unn eanane Schiffe wean zua Insl vom Aiolos zrucktriemn . 
+Oba	O
+oijs	O
+de	O
+ohnungslosn	O
+Gfäatn	O
+vom	O
+Odysseus	B-PER
+kuaz	O
+voam	O
+Zuij	O
+den	O
+Schlauch	O
+aus	O
+Neigia	O
+öffnan	O
+,	O
+entwoachan	O
+olle	O
+Wind	O
+unn	O
+eanane	O
+Schiffe	O
+wean	O
+zua	O
+Insl	O
+vom	O
+Aiolos	B-PER
+zrucktriemn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-56
+# text = Dodrauf vaweigat ea eana a jed weidane Huijf . 
+Dodrauf	O
+vaweigat	O
+ea	O
+eana	O
+a	O
+jed	O
+weidane	O
+Huijf	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-57
+# text = Oijs naxts glonga Odysseus unn seine Leit zua de Laistrygonen , a menschafressands Riesnvoijk , des eijf vo eanane zweijf Schiff vanicht . 
+Oijs	O
+naxts	O
+glonga	O
+Odysseus	B-PER
+unn	O
+seine	O
+Leit	O
+zua	O
+de	O
+Laistrygonen	B-PER
+,	O
+a	O
+menschafressands	O
+Riesnvoijk	O
+,	O
+des	O
+eijf	O
+vo	O
+eanane	O
+zweijf	O
+Schiff	O
+vanicht	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-58
+# text = Mit seim letztn Schiff kimmt Odysseus zua Insl Aiaia , wo de Zaubarin Kirke ( aa : „ Circe “ oda „ Zirze “ ) oanige vo seine Gefäatn in Sei vawandlt . 
+Mit	O
+seim	O
+letztn	O
+Schiff	O
+kimmt	O
+Odysseus	B-PER
+zua	O
+Insl	O
+Aiaia	B-LOC
+,	O
+wo	O
+de	O
+Zaubarin	O
+Kirke	B-PER
+(	O
+aa	O
+:	O
+„	O
+Circe	B-PER
+“	O
+oda	O
+„	O
+Zirze	B-PER
+“	O
+)	O
+oanige	O
+vo	O
+seine	O
+Gefäatn	O
+in	O
+Sei	O
+vawandlt	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-59
+# text = Eam seijbst glingts mit da Huijf vom Gettabotn Hermes , am Zauba zua entgehn unn donn seine Gefäatn aa zbfrein . 
+Eam	O
+seijbst	O
+glingts	O
+mit	O
+da	O
+Huijf	O
+vom	O
+Gettabotn	O
+Hermes	B-PER
+,	O
+am	O
+Zauba	O
+zua	O
+entgehn	O
+unn	O
+donn	O
+seine	O
+Gefäatn	O
+aa	O
+zbfrein	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-60
+# text = Schliaßli gwinnt ea sogoa de Liab vo da Kirkes , de eam davo iabazeing wuij , fia imma bei ihra zbleimn . 
+Schliaßli	O
+gwinnt	O
+ea	O
+sogoa	O
+de	O
+Liab	O
+vo	O
+da	O
+Kirkes	B-PER
+,	O
+de	O
+eam	O
+davo	O
+iabazeing	O
+wuij	O
+,	O
+fia	O
+imma	O
+bei	O
+ihra	O
+zbleimn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-61
+# text = De btreffnde Zeij is a bearigs Beispuij fia an Homer sei kunstvoije Woatmusi . 
+De	O
+btreffnde	O
+Zeij	O
+is	O
+a	O
+bearigs	O
+Beispuij	O
+fia	O
+an	O
+Homer	B-PER
+sei	O
+kunstvoije	O
+Woatmusi	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-62
+# text = Indem das ea se dem Stuijmittl vo da Onomatopöie , da Lautmolarei , bdeant unn zoijreiche Vokale unn Diphthonge eisetzt , zoagt ea scho alloan duach an Woatklong , wia de Kirke an Odysseus b " zirzt " : 
+Indem	O
+das	O
+ea	O
+se	O
+dem	O
+Stuijmittl	O
+vo	O
+da	O
+Onomatopöie	O
+,	O
+da	O
+Lautmolarei	O
+,	O
+bdeant	O
+unn	O
+zoijreiche	O
+Vokale	O
+unn	O
+Diphthonge	O
+eisetzt	O
+,	O
+zoagt	O
+ea	O
+scho	O
+alloan	O
+duach	O
+an	O
+Woatklong	O
+,	O
+wia	O
+de	O
+Kirke	B-PER
+an	O
+Odysseus	B-PER
+b	O
+"	O
+zirzt	O
+"	O
+:	O
+
+# sent_id = bar_wiki_Odyssee-63
+# text = Trotz dea Kirke ihra Liebesweamn bschliaßt Odysseus noch am Joa , de Hoamreis foatzsetzn . 
+Trotz	O
+dea	O
+Kirke	B-PER
+ihra	O
+Liebesweamn	O
+bschliaßt	O
+Odysseus	B-PER
+noch	O
+am	O
+Joa	O
+,	O
+de	O
+Hoamreis	O
+foatzsetzn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-64
+# text = De Zaubarin rot eam , zvoa den doadn Seha Teiresias im Hades – des is de griachische Untawoijt - noch seim weidan Schicksoij zbfrong . 
+De	O
+Zaubarin	O
+rot	O
+eam	O
+,	O
+zvoa	O
+den	O
+doadn	O
+Seha	O
+Teiresias	B-PER
+im	O
+Hades	B-LOC
+–	O
+des	O
+is	O
+de	O
+griachische	B-LOCderiv
+Untawoijt	O
+-	O
+noch	O
+seim	O
+weidan	O
+Schicksoij	O
+zbfrong	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-65
+# text = Im Hades drifft ea aa sei inzwischn vastoamne Muada sowia Mitkämpfa ausm Trojanischn Kriag unn sein vaunglicktn Gefäatn Elpenor , vo dem ea gmoant hot , ea hätte am gsund bei da Kirke zruckglossn . 
+Im	O
+Hades	B-LOC
+drifft	O
+ea	O
+aa	O
+sei	O
+inzwischn	O
+vastoamne	O
+Muada	O
+sowia	O
+Mitkämpfa	O
+ausm	O
+Trojanischn	B-EVENT
+Kriag	I-EVENT
+unn	O
+sein	O
+vaunglicktn	O
+Gefäatn	O
+Elpenor	B-PER
+,	O
+vo	O
+dem	O
+ea	O
+gmoant	O
+hot	O
+,	O
+ea	O
+hätte	O
+am	O
+gsund	O
+bei	O
+da	O
+Kirke	B-PER
+zruckglossn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-66
+# text = Da Seha Teiresias gibt eam nochhan no Rotschläg fia de Weidafoat . 
+Da	O
+Seha	O
+Teiresias	B-PER
+gibt	O
+eam	O
+nochhan	O
+no	O
+Rotschläg	O
+fia	O
+de	O
+Weidafoat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-67
+# text = Noch am Bsuach in da Schottnweijt seglt ea an da Insl vo de Sirenen voariaba . 
+Noch	O
+am	O
+Bsuach	O
+in	O
+da	O
+Schottnweijt	O
+seglt	O
+ea	O
+an	O
+da	O
+Insl	O
+vo	O
+de	O
+Sirenen	O
+voariaba	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-68
+# text = De Sirenen san Menschnfressa , de mit iam Gsong Seefoara aufd Klippn lockn . 
+De	O
+Sirenen	O
+san	O
+Menschnfressa	O
+,	O
+de	O
+mit	O
+iam	O
+Gsong	O
+Seefoara	O
+aufd	O
+Klippn	O
+lockn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-69
+# text = Um eana gfoalos zualuasn zkennan , losst se Odysseus aufan Rot vo da Kirke hi on den Mostbaam fessln unn sein Gefäatn de Oan mit Wochs vaschliaßn . 
+Um	O
+eana	O
+gfoalos	O
+zualuasn	O
+zkennan	O
+,	O
+losst	O
+se	O
+Odysseus	B-PER
+aufan	O
+Rot	O
+vo	O
+da	O
+Kirke	B-PER
+hi	O
+on	O
+den	O
+Mostbaam	O
+fessln	O
+unn	O
+sein	O
+Gefäatn	O
+de	O
+Oan	O
+mit	O
+Wochs	O
+vaschliaßn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-70
+# text = Oschliaßnd passierns mit knoppa Noud de Meaeng , denn links wia rechts drohn zwoa Seeungeheia : de sechskopfate , menschnvaschlingande Skylla unn de Charybdis , de an Schtrudl vauasacht , in dem gounze Schiff vasinkn . 
+Oschliaßnd	O
+passierns	O
+mit	O
+knoppa	O
+Noud	O
+de	O
+Meaeng	O
+,	O
+denn	O
+links	O
+wia	O
+rechts	O
+drohn	O
+zwoa	O
+Seeungeheia	O
+:	O
+de	O
+sechskopfate	O
+,	O
+menschnvaschlingande	O
+Skylla	B-PER
+unn	O
+de	O
+Charybdis	B-PER
+,	O
+de	O
+an	O
+Schtrudl	O
+vauasacht	O
+,	O
+in	O
+dem	O
+gounze	O
+Schiff	O
+vasinkn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-71
+# text = Zwegadem hot se Odysseus dafia entschiedn , de Charybdis meglichst zmeidn unn dofia noh an da Skylla voabeizsegln , de donn sechse von am Odysseus seine Gefäatn vaschlingt . 
+Zwegadem	O
+hot	O
+se	O
+Odysseus	B-PER
+dafia	O
+entschiedn	O
+,	O
+de	O
+Charybdis	B-PER
+meglichst	O
+zmeidn	O
+unn	O
+dofia	O
+noh	O
+an	O
+da	O
+Skylla	B-PER
+voabeizsegln	O
+,	O
+de	O
+donn	O
+sechse	O
+von	O
+am	O
+Odysseus	B-PER
+seine	O
+Gefäatn	O
+vaschlingt	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-72
+# text = Miad unn ausghungat erreichans de Insl vom Sunnangott Helios . 
+Miad	O
+unn	O
+ausghungat	O
+erreichans	O
+de	O
+Insl	O
+vom	O
+Sunnangott	O
+Helios	B-PER
+.	O
+
+# sent_id = bar_wiki_Odyssee-73
+# text = Trotz da Woanung vom Odysseus schlochtn de Gefäatn am Helios seine heilign Rinda . 
+Trotz	O
+da	O
+Woanung	O
+vom	O
+Odysseus	B-PER
+schlochtn	O
+de	O
+Gefäatn	O
+am	O
+Helios	B-PER
+seine	O
+heilign	O
+Rinda	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-74
+# text = Zua Strof kemman se noch ihra Obreis ollesomt in am Stuam um . 
+Zua	O
+Strof	O
+kemman	O
+se	O
+noch	O
+ihra	O
+Obreis	O
+ollesomt	O
+in	O
+am	O
+Stuam	O
+um	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-75
+# text = Nua da Odysseus ko se auf de Insl Ogygia vo da Nymphe Kalypso rettn . 
+Nua	O
+da	O
+Odysseus	B-PER
+ko	O
+se	O
+auf	O
+de	O
+Insl	O
+Ogygia	B-LOC
+vo	O
+da	O
+Nymphe	O
+Kalypso	B-PER
+rettn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-76
+# text = De hoijt Odysseus siemn Joa auf ihrana Insl fest unn losst eam eascht auf Ghoaß vo de Getta wiada ziang . 
+De	O
+hoijt	O
+Odysseus	B-PER
+siemn	O
+Joa	O
+auf	O
+ihrana	O
+Insl	O
+fest	O
+unn	O
+losst	O
+eam	O
+eascht	O
+auf	O
+Ghoaß	O
+vo	O
+de	O
+Getta	O
+wiada	O
+ziang	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-77
+# text = Ea baut a Flouß unn glongt , obwoij da Poseidon an Stuam entfocht , noch Scheria , da Insl vo de Phaiaken , wo de Keenigstochta Nausikaa eam nockat om Strond findt . 
+Ea	O
+baut	O
+a	O
+Flouß	O
+unn	O
+glongt	O
+,	O
+obwoij	O
+da	O
+Poseidon	B-PER
+an	O
+Stuam	O
+entfocht	O
+,	O
+noch	O
+Scheria	B-LOC
+,	O
+da	O
+Insl	O
+vo	O
+de	O
+Phaiaken	B-ORG
+,	O
+wo	O
+de	O
+Keenigstochta	O
+Nausikaa	B-PER
+eam	O
+nockat	O
+om	O
+Strond	O
+findt	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-78
+# text = An zwoa aufanandafoijgande Omnd eazejjt Odysseus de Phaiaken unn eanam Keenig Alkinoos sein Geschichte . 
+An	O
+zwoa	O
+aufanandafoijgande	O
+Omnd	O
+eazejjt	O
+Odysseus	B-PER
+de	O
+Phaiaken	B-ORG
+unn	O
+eanam	O
+Keenig	O
+Alkinoos	B-PER
+sein	O
+Geschichte	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-79
+# text = Oschliaßnd bschenkns eam reich unn bringan eam hoam noch Ithaka – aa wenn eana da Poseidon des donn no deia zsteh kumma losst . 
+Oschliaßnd	O
+bschenkns	O
+eam	O
+reich	O
+unn	O
+bringan	O
+eam	O
+hoam	O
+noch	O
+Ithaka	B-LOC
+–	O
+aa	O
+wenn	O
+eana	O
+da	O
+Poseidon	B-PER
+des	O
+donn	O
+no	O
+deia	O
+zsteh	O
+kumma	O
+losst	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-80
+# text = Wei de Hondlung vo da " Odyssee " unmittlboa an da " Ilias " oschliaßt , kunnten easchte mindliche Fossunga vo dem Epos scho kuaz noch de kriagarischn Eaeignissn om End vo da Bronzezeit ( um 1150 v. Kr. ) entstondn sei unn so an reoijn Hintagrund zum Songkreis um an Trojanischn Kriag buijdn . 
+Wei	O
+de	O
+Hondlung	O
+vo	O
+da	O
+"	O
+Odyssee	B-WOA
+"	O
+unmittlboa	O
+an	O
+da	O
+"	O
+Ilias	B-WOA
+"	O
+oschliaßt	O
+,	O
+kunnten	O
+easchte	O
+mindliche	O
+Fossunga	O
+vo	O
+dem	O
+Epos	O
+scho	O
+kuaz	O
+noch	O
+de	O
+kriagarischn	O
+Eaeignissn	O
+om	O
+End	O
+vo	O
+da	O
+Bronzezeit	O
+(	O
+um	O
+1150	O
+v.	O
+Kr.	O
+)	O
+entstondn	O
+sei	O
+unn	O
+so	O
+an	O
+reoijn	O
+Hintagrund	O
+zum	O
+Songkreis	O
+um	O
+an	O
+Trojanischn	B-EVENT
+Kriag	I-EVENT
+buijdn	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-81
+# text = Mit Sichaheit san vaschiedane Uafossungan vo da " Odyssee " joahundatelong duach Sänga , so gnennte Rhapsoden , voadrong unn duach de mindliche Iabaliafarung imma wiada vaändat woan . 
+Mit	O
+Sichaheit	O
+san	O
+vaschiedane	O
+Uafossungan	O
+vo	O
+da	O
+"	O
+Odyssee	B-WOA
+"	O
+joahundatelong	O
+duach	O
+Sänga	O
+,	O
+so	O
+gnennte	O
+Rhapsoden	O
+,	O
+voadrong	O
+unn	O
+duach	O
+de	O
+mindliche	O
+Iabaliafarung	O
+imma	O
+wiada	O
+vaändat	O
+woan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-82
+# text = Da metrische Rhythmus vo de Vers hot dem voadrogandn Sänga oijs Gdächtnisstütz deant . 
+Da	O
+metrische	O
+Rhythmus	O
+vo	O
+de	O
+Vers	O
+hot	O
+dem	O
+voadrogandn	O
+Sänga	O
+oijs	O
+Gdächtnisstütz	O
+deant	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-83
+# text = In da Foaschung wead heit oijgmoan ognumma , dass vaschiedane Kuazepn zua " Odyssee " dichtarisch zsammagfosst woan san . 
+In	O
+da	O
+Foaschung	O
+wead	O
+heit	O
+oijgmoan	O
+ognumma	O
+,	O
+dass	O
+vaschiedane	O
+Kuazepn	O
+zua	O
+"	O
+Odyssee	B-WOA
+"	O
+dichtarisch	O
+zsammagfosst	O
+woan	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-84
+# text = Uasprüngli derfatn mindestns zwoa vaschiedane Gschichtn existiat homn : zum oanan de vom Troja-Hoamkehra Odysseus , dea de Freia töt , weijchane de Zeit vo seina Obwesnheit ausgnutzt homn ; zum ondan de omnteiarlichn Seefoahragschichtn , de ihraseits aus vaschiedanen Queijn stomman unn eascht spada am Odysseus zuagschriem woan san . 
+Uasprüngli	O
+derfatn	O
+mindestns	O
+zwoa	O
+vaschiedane	O
+Gschichtn	O
+existiat	O
+homn	O
+:	O
+zum	O
+oanan	O
+de	O
+vom	O
+Troja-Hoamkehra	O
+Odysseus	B-PER
+,	O
+dea	O
+de	O
+Freia	O
+töt	O
+,	O
+weijchane	O
+de	O
+Zeit	O
+vo	O
+seina	O
+Obwesnheit	O
+ausgnutzt	O
+homn	O
+;	O
+zum	O
+ondan	O
+de	O
+omnteiarlichn	O
+Seefoahragschichtn	O
+,	O
+de	O
+ihraseits	O
+aus	O
+vaschiedanen	O
+Queijn	O
+stomman	O
+unn	O
+eascht	O
+spada	O
+am	O
+Odysseus	B-WOA
+zuagschriem	O
+woan	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-85
+# text = In a voa-homerischn Uafossung hot de " Odyssee " vamutli in oafacha zeitlicha Obfoijg de Iafoatn vo dem Heijdn , sei Hoamkea unn an Freiamoad gschuijdat . 
+In	O
+a	O
+voa-homerischn	B-PERderiv
+Uafossung	O
+hot	O
+de	O
+"	O
+Odyssee	B-WOA
+"	O
+vamutli	O
+in	O
+oafacha	O
+zeitlicha	O
+Obfoijg	O
+de	O
+Iafoatn	O
+vo	O
+dem	O
+Heijdn	O
+,	O
+sei	O
+Hoamkea	O
+unn	O
+an	O
+Freiamoad	O
+gschuijdat	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-86
+# text = De Niadaschrift vo da " Odyssee " , auf weijchane de heit bkonnte Foam vom Epos zruckgeht , is noch weitgehanda oba ned unumschtrittaner Foaschungsmeinung um 720 v. Kr. eafoijgt , eascht dobei kunnt da dritte Hondlungsstrong hizuagfiagt woan sei : de eifiarandn Gsäng vo da " Telemachie " , de Gschicht vo da Suach vom Telemachos noch seim Vodan . 
+De	O
+Niadaschrift	O
+vo	O
+da	O
+"	O
+Odyssee	B-WOA
+"	O
+,	O
+auf	O
+weijchane	O
+de	O
+heit	O
+bkonnte	O
+Foam	O
+vom	O
+Epos	O
+zruckgeht	O
+,	O
+is	O
+noch	O
+weitgehanda	O
+oba	O
+ned	O
+unumschtrittaner	O
+Foaschungsmeinung	O
+um	O
+720	O
+v.	O
+Kr.	O
+eafoijgt	O
+,	O
+eascht	O
+dobei	O
+kunnt	O
+da	O
+dritte	O
+Hondlungsstrong	O
+hizuagfiagt	O
+woan	O
+sei	O
+:	O
+de	O
+eifiarandn	O
+Gsäng	O
+vo	O
+da	O
+"	O
+Telemachie	B-WOA
+"	O
+,	O
+de	O
+Gschicht	O
+vo	O
+da	O
+Suach	O
+vom	O
+Telemachos	B-PER
+noch	O
+seim	O
+Vodan	O
+.	O
+
+# sent_id = bar_wiki_Odyssee-87
+# text = Se hot am Zweck deant , de Sponnung zeaheijn unn – duach de Schuijdarung vo de Zuaständ auf Ithaka – de spadane Roch vom Odysseus o de Freia oijs grechtfeatigt hiezsteijn . 
+Se	O
+hot	O
+am	O
+Zweck	O
+deant	O
+,	O
+de	O
+Sponnung	O
+zeaheijn	O
+unn	O
+–	O
+duach	O
+de	O
+Schuijdarung	O
+vo	O
+de	O
+Zuaständ	O
+auf	O
+Ithaka	B-LOC
+–	O
+de	O
+spadane	O
+Roch	O
+vom	O
+Odysseus	B-PER
+o	O
+de	O
+Freia	O
+oijs	O
+grechtfeatigt	O
+hiezsteijn	O
+.	O
+
+# newdoc id = bar_wiki_Olympische-Sommaspui-1996
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-1
+# text = Olympische Sommaspui 1996 
+Olympische	B-EVENT
+Sommaspui	I-EVENT
+1996	I-EVENT
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-2
+# text = De Olympischn Sommaspui 1996 ( aa " Spui vo da XXXVI. Olympiade " gnennt ) ham vom 19. Juli bis zum 4. August 1996 in Atlanta stattgfundn . 
+De	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1996	I-EVENT
+(	O
+aa	O
+"	O
+Spui	O
+vo	O
+da	O
+XXXVI.	B-EVENT
+Olympiade	I-EVENT
+"	O
+gnennt	O
+)	O
+ham	O
+vom	O
+19.	O
+Juli	O
+bis	O
+zum	O
+4.	O
+August	O
+1996	O
+in	O
+Atlanta	B-LOC
+stattgfundn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-3
+# text = De Hauptstod vo dem amerikanischn Bundesstaat Georgia setzt se in da Woi vom Austragungsort aaf da 96. IOC-Session in Tokio gega de Mitbewerba Athen , Toronto , Melbourn , Manchester und Belgrad duach . 
+De	O
+Hauptstod	O
+vo	O
+dem	O
+amerikanischn	B-ORGderiv
+Bundesstaat	O
+Georgia	B-ORG
+setzt	O
+se	O
+in	O
+da	O
+Woi	O
+vom	O
+Austragungsort	O
+aaf	O
+da	O
+96.	B-EVENT
+IOC-Session	I-EVENT
+in	O
+Tokio	B-LOC
+gega	O
+de	O
+Mitbewerba	O
+Athen	B-ORG
+,	O
+Toronto	B-ORG
+,	O
+Melbourn	B-ORG
+,	O
+Manchester	B-ORG
+und	O
+Belgrad	B-ORG
+duach	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-4
+# text = Es ham 10.320 Spoatla aus 197 Nationa teilgnomma , wos an nein Rekord bei Olympische Sommaspui doastöt . 
+Es	O
+ham	O
+10.320	O
+Spoatla	O
+aus	O
+197	O
+Nationa	O
+teilgnomma	O
+,	O
+wos	O
+an	O
+nein	O
+Rekord	O
+bei	O
+Olympische	B-EVENT
+Sommaspui	I-EVENT
+doastöt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-5
+# text = De erfoigreichstn Athletn warn Amy Van Dyken mit vier Goidmedaillen , Michelle Smith mit drei Goid- und ana Bronzemedaille und Jenny Thompson mit drei Goidmedaillen , de olle drei an de Schwimmwettbewerb teilgnomma ham . 
+De	O
+erfoigreichstn	O
+Athletn	O
+warn	O
+Amy	B-PER
+Van	I-PER
+Dyken	I-PER
+mit	O
+vier	O
+Goidmedaillen	O
+,	O
+Michelle	B-PER
+Smith	I-PER
+mit	O
+drei	O
+Goid-	O
+und	O
+ana	O
+Bronzemedaille	O
+und	O
+Jenny	B-PER
+Thompson	I-PER
+mit	O
+drei	O
+Goidmedaillen	O
+,	O
+de	O
+olle	O
+drei	O
+an	O
+de	O
+Schwimmwettbewerb	O
+teilgnomma	O
+ham	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-6
+# text = De Vagob noch Atlanta war vo de griechischn Mitbewerba stoak kritisiert worn , do de de Sommaspui zum hundatjahrign Jubiläum gern wieda an ihrn Ursprungsort ghoit hättn . 
+De	O
+Vagob	O
+noch	O
+Atlanta	B-ORG
+war	O
+vo	O
+de	O
+griechischn	B-ORGderiv
+Mitbewerba	O
+stoak	O
+kritisiert	O
+worn	O
+,	O
+do	O
+de	O
+de	O
+Sommaspui	O
+zum	O
+hundatjahrign	O
+Jubiläum	O
+gern	O
+wieda	O
+an	O
+ihrn	O
+Ursprungsort	O
+ghoit	O
+hättn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-7
+# text = De Olympischn Sommaspui vo 1996 san zuadem sehr stoak fia eahnane Kommerzialisierung kritisiert . 
+De	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+vo	O
+1996	O
+san	O
+zuadem	O
+sehr	O
+stoak	O
+fia	O
+eahnane	O
+Kommerzialisierung	O
+kritisiert	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-8
+# text = Sponsorn ham an so hohn Stellwert eignomma wia nia zvoa . 
+Sponsorn	O
+ham	O
+an	O
+so	O
+hohn	O
+Stellwert	O
+eignomma	O
+wia	O
+nia	O
+zvoa	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-9
+# text = De Vaanstoitung si zuadem unta dem Schattn vo oam am 27. Juli vaübtn Bombnattntat , bei dem zwoa Menschn teat worn und 111 valetzt worn san . 
+De	O
+Vaanstoitung	O
+si	O
+zuadem	O
+unta	O
+dem	O
+Schattn	O
+vo	O
+oam	O
+am	O
+27.	O
+Juli	O
+vaübtn	O
+Bombnattntat	O
+,	O
+bei	O
+dem	O
+zwoa	O
+Menschn	O
+teat	O
+worn	O
+und	O
+111	O
+valetzt	O
+worn	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-10
+# text = Um de Austrogung vo de Olympischn Sommaspui 1996 ham se sechs Städt beworbn : Athen , Toronto , Melbourn , Manchesta , Belgrad und Atlanta . 
+Um	O
+de	O
+Austrogung	O
+vo	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1996	I-EVENT
+ham	O
+se	O
+sechs	O
+Städt	O
+beworbn	O
+:	O
+Athen	B-ORG
+,	O
+Toronto	B-ORG
+,	O
+Melbourn	B-ORG
+,	O
+Manchesta	B-ORG
+,	O
+Belgrad	B-ORG
+und	O
+Atlanta	B-ORG
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-11
+# text = De Bewerbung um de Jubiläumsspui hundat Joahr noch de erstn Olympische Spui vo da Moderne 1896 in Athen duach de griechische Hauptstod war oigmein awart worn . 
+De	O
+Bewerbung	O
+um	O
+de	O
+Jubiläumsspui	O
+hundat	O
+Joahr	O
+noch	O
+de	O
+erstn	O
+Olympische	B-EVENT
+Spui	I-EVENT
+vo	O
+da	O
+Moderne	O
+1896	O
+in	O
+Athen	B-LOC
+duach	O
+de	O
+griechische	B-ORGderiv
+Hauptstod	O
+war	O
+oigmein	O
+awart	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-12
+# text = Zua Bekanntgob ham des Organisationskomitee und de Regierung vo Griechnland de Feia zum 90. Jubiläum vo de 1896a Spui am 15. Aprui 1986 im oidn Athena Parlamentsgebäude gnutzt . 
+Zua	O
+Bekanntgob	O
+ham	O
+des	O
+Organisationskomitee	O
+und	O
+de	O
+Regierung	O
+vo	O
+Griechnland	B-ORG
+de	O
+Feia	O
+zum	O
+90.	O
+Jubiläum	O
+vo	O
+de	O
+1896a	O
+Spui	O
+am	O
+15.	O
+Aprui	O
+1986	O
+im	O
+oidn	O
+Athena	B-LOCderiv
+Parlamentsgebäude	O
+gnutzt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-13
+# text = Do hot da Premierminista Andreas Papandreou den oastimmign Kabinettsbschluss zua Untastitzung vo da Bewerbung präsentiert . 
+Do	O
+hot	O
+da	O
+Premierminista	O
+Andreas	B-PER
+Papandreou	I-PER
+den	O
+oastimmign	O
+Kabinettsbschluss	O
+zua	O
+Untastitzung	O
+vo	O
+da	O
+Bewerbung	O
+präsentiert	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-14
+# text = Des Bewerbungskomitee unta dem Vorsitzndn Spyros A. Metaxa hot voa ollm mit da Tradition vo dem Austrogungsort gworbn und is ziemle aggressiv aaftretn , wos da Kandidatur gschodt hot . 
+Des	O
+Bewerbungskomitee	O
+unta	O
+dem	O
+Vorsitzndn	O
+Spyros	B-PER
+A.	I-PER
+Metaxa	I-PER
+hot	O
+voa	O
+ollm	O
+mit	O
+da	O
+Tradition	O
+vo	O
+dem	O
+Austrogungsort	O
+gworbn	O
+und	O
+is	O
+ziemle	O
+aggressiv	O
+aaftretn	O
+,	O
+wos	O
+da	O
+Kandidatur	O
+gschodt	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-15
+# text = Atlantas Bewerbung um de Olympischn Sommaspui 1996 is aaf den Rechtsanwoit William " Billy " Porter Payne zuruckganga , der am 8. Februar 1987 de Georgia Amateuer Athletic Foundation ( GAAF ) mit dem Zui gründt . 
+Atlantas	B-ORGderiv
+Bewerbung	O
+um	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1996	I-EVENT
+is	O
+aaf	O
+den	O
+Rechtsanwoit	O
+William	B-PER
+"	I-PER
+Billy	I-PER
+"	I-PER
+Porter	I-PER
+Payne	I-PER
+zuruckganga	O
+,	O
+der	O
+am	O
+8.	O
+Februar	O
+1987	O
+de	O
+Georgia	B-ORG
+Amateuer	I-ORG
+Athletic	I-ORG
+Foundation	I-ORG
+(	O
+GAAF	B-ORG
+)	O
+mit	O
+dem	O
+Zui	O
+gründt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-16
+# text = Paynes Voahom is zwar vom Buagamoasta Atlantas , Andrew Young , billigt worn , der schloss jedo a finanzielle Untastützung vo de Spui duach de Stodt aus . 
+Paynes	B-PER
+Voahom	O
+is	O
+zwar	O
+vom	O
+Buagamoasta	O
+Atlantas	B-ORG
+,	O
+Andrew	B-PER
+Young	I-PER
+,	O
+billigt	O
+worn	O
+,	O
+der	O
+schloss	O
+jedo	O
+a	O
+finanzielle	O
+Untastützung	O
+vo	O
+de	O
+Spui	O
+duach	O
+de	O
+Stodt	O
+aus	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-17
+# text = Somit war's sicha , dass bei da Vagab an Atlanta de Olympische Spui wia zvoa erstmois in Los Angeles 1984 privat ausgricht wern hot muassn . 
+Somit	O
+war's	O
+sicha	O
+,	O
+dass	O
+bei	O
+da	O
+Vagab	O
+an	O
+Atlanta	B-ORG
+de	O
+Olympische	B-EVENT
+Spui	I-EVENT
+wia	O
+zvoa	O
+erstmois	O
+in	O
+Los	B-LOC
+Angeles	I-LOC
+1984	O
+privat	O
+ausgricht	O
+wern	O
+hot	O
+muassn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-18
+# text = Fia sei Idee hot Payne a Gruppn vo lokale Gschäftsleit gwonna , de ois " Atlanta Nine " Bekanntheit erlangt ham . 
+Fia	O
+sei	O
+Idee	O
+hot	O
+Payne	B-PER
+a	O
+Gruppn	O
+vo	O
+lokale	O
+Gschäftsleit	O
+gwonna	O
+,	O
+de	O
+ois	O
+"	O
+Atlanta	B-ORG
+Nine	I-ORG
+"	O
+Bekanntheit	O
+erlangt	O
+ham	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-19
+# text = Am 29. Aprui 1988 hot se Atlanta in Washington bo da Auswoi vo dem amerikanischn Bewerbaoat duach des USOC gega 14 weidare Bewerba duachgsetzt . 
+Am	O
+29.	O
+Aprui	O
+1988	O
+hot	O
+se	O
+Atlanta	B-ORG
+in	O
+Washington	B-LOC
+bo	O
+da	O
+Auswoi	O
+vo	O
+dem	O
+amerikanischn	B-ORGderiv
+Bewerbaoat	O
+duach	O
+des	O
+USOC	B-ORG
+gega	O
+14	O
+weidare	O
+Bewerba	O
+duachgsetzt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-20
+# text = Im Finoiduachgang is Minneapolis-Saint Paulde Hauptstodt vom Bundesstot Georgia untaleng . 
+Im	O
+Finoiduachgang	O
+is	O
+Minneapolis-Saint	B-ORG
+Paulde	I-ORG
+Hauptstodt	O
+vom	O
+Bundesstot	O
+Georgia	B-ORG
+untaleng	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-21
+# text = Be de Olympischn Sommaspui 1988 in Seoul hot a Delegation unta Young und Payne erstmois Kontakt mit dem IOC aafgnomma . 
+Be	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1988	I-EVENT
+in	O
+Seoul	B-LOC
+hot	O
+a	O
+Delegation	O
+unta	O
+Young	B-PER
+und	O
+Payne	B-PER
+erstmois	O
+Kontakt	O
+mit	O
+dem	O
+IOC	B-ORG
+aafgnomma	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-22
+# text = Oschliaßnd is im Novemba 1988 de GAAF in des Atlanta Organizing Committee ( AOC ) umgwandlt . 
+Oschliaßnd	O
+is	O
+im	O
+Novemba	O
+1988	O
+de	O
+GAAF	B-ORG
+in	O
+des	O
+Atlanta	B-ORG
+Organizing	I-ORG
+Committee	I-ORG
+(	O
+AOC	B-ORG
+)	O
+umgwandlt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-23
+# text = In da Bewerbungsphosn hot se des Komitee mit vaschiedane Problema ausanandasetzn miassn , de gega a Vagab vo de Spui an Atlanta ogfiaht worn san . 
+In	O
+da	O
+Bewerbungsphosn	O
+hot	O
+se	O
+des	O
+Komitee	O
+mit	O
+vaschiedane	O
+Problema	O
+ausanandasetzn	O
+miassn	O
+,	O
+de	O
+gega	O
+a	O
+Vagab	O
+vo	O
+de	O
+Spui	O
+an	O
+Atlanta	B-ORG
+ogfiaht	O
+worn	O
+san	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-24
+# text = Zum oana hot Athen den Ospruch erhom , de Jubiläumsspui ausrichtn zum deafa , zum andan ham Kritika ogfiaht , dass seit de Olympischn Sommaspui 1984 in Los Angeles no ned gnua Zeit fia a erneite Vagab in de USA vastricha is . 
+Zum	O
+oana	O
+hot	O
+Athen	B-ORG
+den	O
+Ospruch	O
+erhom	O
+,	O
+de	O
+Jubiläumsspui	O
+ausrichtn	O
+zum	O
+deafa	O
+,	O
+zum	O
+andan	O
+ham	O
+Kritika	O
+ogfiaht	O
+,	O
+dass	O
+seit	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1984	I-EVENT
+in	O
+Los	B-LOC
+Angeles	I-LOC
+no	O
+ned	O
+gnua	O
+Zeit	O
+fia	O
+a	O
+erneite	O
+Vagab	O
+in	O
+de	O
+USA	B-LOC
+vastricha	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-25
+# text = Weidahi is Atlanta voagwoafa worn ned gnua spoatliche Bedeitung zum bsitzn . 
+Weidahi	O
+is	O
+Atlanta	B-ORG
+voagwoafa	O
+worn	O
+ned	O
+gnua	O
+spoatliche	O
+Bedeitung	O
+zum	O
+bsitzn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-26
+# text = Um de Kritikn zum zeastrean , ham Vatreta vom AOC enge Kontakt zu de Mitglieda vom IOC aafgnomma . 
+Um	O
+de	O
+Kritikn	O
+zum	O
+zeastrean	O
+,	O
+ham	O
+Vatreta	O
+vom	O
+AOC	B-ORG
+enge	O
+Kontakt	O
+zu	O
+de	O
+Mitglieda	O
+vom	O
+IOC	B-ORG
+aafgnomma	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-27
+# text = Zuadem hot da Buagamoasta vo Atlanta , Young , in da drittn Wöd a hohe Reputation , wos se positiv aaf de Bewerbung ausgwirkt hot . 
+Zuadem	O
+hot	O
+da	O
+Buagamoasta	O
+vo	O
+Atlanta	B-ORG
+,	O
+Young	B-PER
+,	O
+in	O
+da	O
+drittn	O
+Wöd	O
+a	O
+hohe	O
+Reputation	O
+,	O
+wos	O
+se	O
+positiv	O
+aaf	O
+de	O
+Bewerbung	O
+ausgwirkt	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-28
+# text = De Kandidatinstädt san vo am achtkeapfign Gremium vo da Vaeinigung vo de Nationoin Olympischn Komitees beurteilt worn , wobei Atlanta am bestn obgschnittn hot . 
+De	O
+Kandidatinstädt	O
+san	O
+vo	O
+am	O
+achtkeapfign	O
+Gremium	O
+vo	O
+da	O
+Vaeinigung	B-ORG
+vo	I-ORG
+de	I-ORG
+Nationoin	I-ORG
+Olympischn	I-ORG
+Komitees	I-ORG
+beurteilt	O
+worn	O
+,	O
+wobei	O
+Atlanta	B-ORG
+am	O
+bestn	O
+obgschnittn	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-29
+# text = De Bewertung is jedo ned vaeaffantlicht worn , wos ois Fehla vom IOC bewert worn is , weil's da spadan Kriktik an da Entscheidung Wind aus de Segl gnomma hätt . 
+De	O
+Bewertung	O
+is	O
+jedo	O
+ned	O
+vaeaffantlicht	O
+worn	O
+,	O
+wos	O
+ois	O
+Fehla	O
+vom	O
+IOC	B-ORG
+bewert	O
+worn	O
+is	O
+,	O
+weil's	O
+da	O
+spadan	O
+Kriktik	O
+an	O
+da	O
+Entscheidung	O
+Wind	O
+aus	O
+de	O
+Segl	O
+gnomma	O
+hätt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-30
+# text = De Woi vom Austrogungsoat is am 18. Septemba 1990 aaf da 96. IOC-Session in 
+De	O
+Woi	O
+vom	O
+Austrogungsoat	O
+is	O
+am	O
+18.	O
+Septemba	O
+1990	O
+aaf	O
+da	O
+96.	B-EVENT
+IOC-Session	I-EVENT
+in	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-31
+# text = Tokio gfoin . 
+Tokio	B-LOC
+gfoin	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-32
+# text = Da IOC-Prädident Juan Antonio Samaranch hot , wia's Tradition woa , ned mit obgstimmt , so dass bei de insgsamt 87 owesandn Mitglieda de Mehrheit bei 44 Stimman gleng is . 
+Da	O
+IOC-Prädident	B-ORGpart
+Juan	B-PER
+Antonio	I-PER
+Samaranch	I-PER
+hot	O
+,	O
+wia's	O
+Tradition	O
+woa	O
+,	O
+ned	O
+mit	O
+obgstimmt	O
+,	O
+so	O
+dass	O
+bei	O
+de	O
+insgsamt	O
+87	O
+owesandn	O
+Mitglieda	O
+de	O
+Mehrheit	O
+bei	O
+44	O
+Stimman	O
+gleng	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-33
+# text = Das favorisierte Athen ho im Lauf vo da Bewerbungsphos duach arrogants und agressivs Vahoitn sein Voateil imma weida vaspuit , so dass se a Anti-Athen-Koalition harausbuidt hot , aus der se schließle Außnseita Atlanta im fünftn Woigang duachgsetzn hot kenna . 
+Das	O
+favorisierte	O
+Athen	B-ORG
+ho	O
+im	O
+Lauf	O
+vo	O
+da	O
+Bewerbungsphos	O
+duach	O
+arrogants	O
+und	O
+agressivs	O
+Vahoitn	O
+sein	O
+Voateil	O
+imma	O
+weida	O
+vaspuit	O
+,	O
+so	O
+dass	O
+se	O
+a	O
+Anti-Athen-Koalition	B-ORGpart
+harausbuidt	O
+hot	O
+,	O
+aus	O
+der	O
+se	O
+schließle	O
+Außnseita	O
+Atlanta	B-ORG
+im	O
+fünftn	O
+Woigang	O
+duachgsetzn	O
+hot	O
+kenna	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-34
+# text = De Niedalog gega die Wirtschoftsmetropole Atlante is vo de Griechn ois Kränkung aafgfasst worn , so dass bekannt gebn ham , se nia wieda fia Olympische Spui bewerbn zum woin . 
+De	O
+Niedalog	O
+gega	O
+die	O
+Wirtschoftsmetropole	O
+Atlante	B-ORG
+is	O
+vo	O
+de	O
+Griechn	B-LOCderiv
+ois	O
+Kränkung	O
+aafgfasst	O
+worn	O
+,	O
+so	O
+dass	O
+bekannt	O
+gebn	O
+ham	O
+,	O
+se	O
+nia	O
+wieda	O
+fia	O
+Olympische	B-EVENT
+Spui	I-EVENT
+bewerbn	O
+zum	O
+woin	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-35
+# text = Des is dann mit da erfoigreichn Athena Bewerbung um de Olympischn Sommaspui 2004 hifälle gwesn . 
+Des	O
+is	O
+dann	O
+mit	O
+da	O
+erfoigreichn	O
+Athena	B-ORGderiv
+Bewerbung	O
+um	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+2004	I-EVENT
+hifälle	O
+gwesn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-36
+# text = De Entscheidung fia Atlanta hot aba aa dem IOC Kritik eibrocht , do's infoigedessn ois kaifle erschiena is , de gwinnorientiertn Mitglieda vom IOC ham se gega de de traditionella Wert vo de olympischn Bewegunga vapflichtatin duachgsetzt . 
+De	O
+Entscheidung	O
+fia	O
+Atlanta	B-ORG
+hot	O
+aba	O
+aa	O
+dem	O
+IOC	B-ORG
+Kritik	O
+eibrocht	O
+,	O
+do's	O
+infoigedessn	O
+ois	O
+kaifle	O
+erschiena	O
+is	O
+,	O
+de	O
+gwinnorientiertn	O
+Mitglieda	O
+vom	O
+IOC	B-ORG
+ham	O
+se	O
+gega	O
+de	O
+de	O
+traditionella	O
+Wert	O
+vo	O
+de	O
+olympischn	O
+Bewegunga	O
+vapflichtatin	O
+duachgsetzt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-37
+# text = Zuadem hot 1991 de Zeidung USA Today vaeaffantlicht , dass Robert Helmick , der a eiflussreicha Vatreta vo dem Bewerbungskommitee vo Atlanta war , 300.000 Dolla Berotahonorar entgenggnomma hot , um de Aafnahm vo Goif in des olympische Programm zu foaciern . 
+Zuadem	O
+hot	O
+1991	O
+de	O
+Zeidung	O
+USA	B-ORG
+Today	I-ORG
+vaeaffantlicht	O
+,	O
+dass	O
+Robert	B-PER
+Helmick	I-PER
+,	O
+der	O
+a	O
+eiflussreicha	O
+Vatreta	O
+vo	O
+dem	O
+Bewerbungskommitee	O
+vo	O
+Atlanta	B-ORG
+war	O
+,	O
+300.000	O
+Dolla	O
+Berotahonorar	O
+entgenggnomma	O
+hot	O
+,	O
+um	O
+de	O
+Aafnahm	O
+vo	O
+Goif	O
+in	O
+des	O
+olympische	O
+Programm	O
+zu	O
+foaciern	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-38
+# text = Des Atlanta Commitee of the Olympic Games ( ACOG ) hot se am 28. Januar 1991 ois a private und gmoanützige Vaeinigung konstituiert . 
+Des	O
+Atlanta	B-ORG
+Commitee	I-ORG
+of	I-ORG
+the	I-ORG
+Olympic	I-ORG
+Games	I-ORG
+(	O
+ACOG	B-ORG
+)	O
+hot	O
+se	O
+am	O
+28.	O
+Januar	O
+1991	O
+ois	O
+a	O
+private	O
+und	O
+gmoanützige	O
+Vaeinigung	O
+konstituiert	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-39
+# text = Da Präsident und Genaroisekretär vo dem ACOG war William Porter Payne , Co-Chairman warn Robert M. Holder Jr. und Andrew Young . 
+Da	O
+Präsident	O
+und	O
+Genaroisekretär	O
+vo	O
+dem	O
+ACOG	B-ORG
+war	O
+William	B-PER
+Porter	I-PER
+Payne	I-PER
+,	O
+Co-Chairman	O
+warn	O
+Robert	B-PER
+M.	I-PER
+Holder	I-PER
+Jr.	I-PER
+und	O
+Andrew	B-PER
+Young	I-PER
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-40
+# text = Weitare Mitglieda warn unta andam de IOC-Mitglieda Anita DeFrantz und James L. Easton , da Buagamoasta vo Atlanta , Maynard H. Jackson , da Genaroisekretär vom USOC , Richard D. Schultz , und da USOC-Präsident , Leroy Walker . 
+Weitare	O
+Mitglieda	O
+warn	O
+unta	O
+andam	O
+de	O
+IOC-Mitglieda	B-ORGpart
+Anita	B-PER
+DeFrantz	I-PER
+und	O
+James	B-PER
+L.	I-PER
+Easton	I-PER
+,	O
+da	O
+Buagamoasta	O
+vo	O
+Atlanta	B-ORG
+,	O
+Maynard	B-PER
+H.	I-PER
+Jackson	I-PER
+,	O
+da	O
+Genaroisekretär	O
+vom	O
+USOC	B-ORG
+,	O
+Richard	B-PER
+D.	I-PER
+Schultz	I-PER
+,	O
+und	O
+da	O
+USOC-Präsident	B-ORGpart
+,	O
+Leroy	B-PER
+Walker	I-PER
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-41
+# text = De Voabereitung vo de Olympischn Spui 1996 is duach des ACOG in Zammaoabat mit da Stod Atlanta , da 1989 vo da Genaroivasammlung vo Geargia gründtn Metropolitan Atlanta Olympic Games Authority ( MAOGA ) , dem USOC und dem IOC . 
+De	O
+Voabereitung	O
+vo	O
+de	O
+Olympischn	B-EVENT
+Spui	I-EVENT
+1996	I-EVENT
+is	O
+duach	O
+des	O
+ACOG	B-ORG
+in	O
+Zammaoabat	O
+mit	O
+da	O
+Stod	O
+Atlanta	B-ORG
+,	O
+da	O
+1989	O
+vo	O
+da	O
+Genaroivasammlung	O
+vo	O
+Geargia	B-ORG
+gründtn	O
+Metropolitan	B-ORG
+Atlanta	I-ORG
+Olympic	I-ORG
+Games	I-ORG
+Authority	I-ORG
+(	O
+MAOGA	B-ORG
+)	O
+,	O
+dem	O
+USOC	B-ORG
+und	O
+dem	O
+IOC	B-ORG
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-42
+# text = De Planung , Finanzierung und Konstruktion vo de Wettkampfstättn gheat zum Aafgabngebiet vom MAOGA , des se aus dem Buagamoasta vo Atlanta , dem Präsidentn vom Stodrot und drei vom Buagamoasta bstöte Mitglieda zammagsetzt . 
+De	O
+Planung	O
+,	O
+Finanzierung	O
+und	O
+Konstruktion	O
+vo	O
+de	O
+Wettkampfstättn	O
+gheat	O
+zum	O
+Aafgabngebiet	O
+vom	O
+MAOGA	B-ORG
+,	O
+des	O
+se	O
+aus	O
+dem	O
+Buagamoasta	O
+vo	O
+Atlanta	B-ORG
+,	O
+dem	O
+Präsidentn	O
+vom	O
+Stodrot	O
+und	O
+drei	O
+vom	O
+Buagamoasta	O
+bstöte	O
+Mitglieda	O
+zammagsetzt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-43
+# text = Des ACOG un des USOC ham am 14. Juni 1991 zamma gründt de " Atlanta Centennial Olymic Propertie " ( ACOP ) , die fia des Marketing vaantwortle warn . 
+Des	O
+ACOG	B-ORG
+un	O
+des	O
+USOC	B-ORG
+ham	O
+am	O
+14.	O
+Juni	O
+1991	O
+zamma	O
+gründt	O
+de	O
+"	O
+Atlanta	B-ORG
+Centennial	I-ORG
+Olymic	I-ORG
+Propertie	I-ORG
+"	O
+(	O
+ACOP	B-ORG
+)	O
+,	O
+die	O
+fia	O
+des	O
+Marketing	O
+vaantwortle	O
+warn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-44
+# text = De Organisation vo de Spui is duach a Exekutivkomitee und vier ständige Komitees afoigt , de vom Board of Directors gründt worn is . 
+De	O
+Organisation	O
+vo	O
+de	O
+Spui	O
+is	O
+duach	O
+a	O
+Exekutivkomitee	O
+und	O
+vier	O
+ständige	O
+Komitees	O
+afoigt	O
+,	O
+de	O
+vom	O
+Board	O
+of	O
+Directors	O
+gründt	O
+worn	O
+is	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-45
+# text = Unta Adolphus Drewery Frazier Jr. warn zehn Abteilunga mit vaschiedane Aafgabnbereich wia etwa Spoat und internationoie Beziehunga ogsiedlt . 
+Unta	O
+Adolphus	B-PER
+Drewery	I-PER
+Frazier	I-PER
+Jr.	I-PER
+warn	O
+zehn	O
+Abteilunga	O
+mit	O
+vaschiedane	O
+Aafgabnbereich	O
+wia	O
+etwa	O
+Spoat	O
+und	O
+internationoie	O
+Beziehunga	O
+ogsiedlt	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-46
+# text = De Mitoabeita vom ACOG warn teils bezoite Kräft , zum Teil warn's Ehrnamtliche . 
+De	O
+Mitoabeita	O
+vom	O
+ACOG	B-ORG
+warn	O
+teils	O
+bezoite	O
+Kräft	O
+,	O
+zum	O
+Teil	O
+warn's	O
+Ehrnamtliche	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-47
+# text = Zu Beginn vo de Spui hot des ACOG 6560 Mitoabeita und 51.881 Volunteers , dozua kemman 78.240 akkreditierte Vatrogspoatna . 
+Zu	O
+Beginn	O
+vo	O
+de	O
+Spui	O
+hot	O
+des	O
+ACOG	B-ORG
+6560	O
+Mitoabeita	O
+und	O
+51.881	O
+Volunteers	O
+,	O
+dozua	O
+kemman	O
+78.240	O
+akkreditierte	O
+Vatrogspoatna	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-48
+# text = Des ACOG kümmat se voa ollm um de Ausrichtung vo de Wettkämpf und de Untabringung vo de Spoatla und weidare Mannschaftsmitglieda . 
+Des	O
+ACOG	B-ORG
+kümmat	O
+se	O
+voa	O
+ollm	O
+um	O
+de	O
+Ausrichtung	O
+vo	O
+de	O
+Wettkämpf	O
+und	O
+de	O
+Untabringung	O
+vo	O
+de	O
+Spoatla	O
+und	O
+weidare	O
+Mannschaftsmitglieda	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-49
+# text = Mit da Astellung vo dem Mastaplan hot des ACOG im Juli 1991 des Architektuabüro Sizemore Floyd Ingram . 
+Mit	O
+da	O
+Astellung	O
+vo	O
+dem	O
+Mastaplan	O
+hot	O
+des	O
+ACOG	B-ORG
+im	O
+Juli	O
+1991	O
+des	O
+Architektuabüro	O
+Sizemore	B-PER
+Floyd	I-PER
+Ingram	I-PER
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-50
+# text = Via oastosässige Baufirman , de de Bauaafträg erhoitn ham , gründetn dann im März 1992 des Joint Venture " Olympic Facilities Construction Program " . 
+Via	O
+oastosässige	O
+Baufirman	O
+,	O
+de	O
+de	O
+Bauaafträg	O
+erhoitn	O
+ham	O
+,	O
+gründetn	O
+dann	O
+im	O
+März	O
+1992	O
+des	O
+Joint	O
+Venture	O
+"	O
+Olympic	B-ORG
+Facilities	I-ORG
+Construction	I-ORG
+Program	I-ORG
+"	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-51
+# text = Beim Arichtn vo de Spoatstättn hot se des Organisationskomitee nua aaf des notwendige bschränkt , weshoib's weniga Investmentruinan ois bei andane Olympische Spui gem hot . 
+Beim	O
+Arichtn	O
+vo	O
+de	O
+Spoatstättn	O
+hot	O
+se	O
+des	O
+Organisationskomitee	O
+nua	O
+aaf	O
+des	O
+notwendige	O
+bschränkt	O
+,	O
+weshoib's	O
+weniga	O
+Investmentruinan	O
+ois	O
+bei	O
+andane	O
+Olympische	B-EVENT
+Spui	I-EVENT
+gem	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-52
+# text = De Stod hot in den Autobahnausbau und den eaffantlichn Nachvakeah , in dem des Netz vo da U-Bahn- und Busvabindunga vo da " Metropolitan Rapid Transit Authority " ( MARTA ) wesantle aweitat worn . 
+De	O
+Stod	O
+hot	O
+in	O
+den	O
+Autobahnausbau	O
+und	O
+den	O
+eaffantlichn	O
+Nachvakeah	O
+,	O
+in	O
+dem	O
+des	O
+Netz	O
+vo	O
+da	O
+U-Bahn-	O
+und	O
+Busvabindunga	O
+vo	O
+da	O
+"	O
+Metropolitan	B-ORG
+Rapid	I-ORG
+Transit	I-ORG
+Authority	I-ORG
+"	O
+(	O
+MARTA	B-ORG
+)	O
+wesantle	O
+aweitat	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-53
+# text = Im Zug vo de Vabessarunga vo de eaffantlichn Vakeahsmittl san aa a neie Vabindung zwischn dem Flughafn im Südn und de Wohnviertl im Nordn vo da Stod gschaffn . 
+Im	O
+Zug	O
+vo	O
+de	O
+Vabessarunga	O
+vo	O
+de	O
+eaffantlichn	O
+Vakeahsmittl	O
+san	O
+aa	O
+a	O
+neie	O
+Vabindung	O
+zwischn	O
+dem	O
+Flughafn	O
+im	O
+Südn	O
+und	O
+de	O
+Wohnviertl	O
+im	O
+Nordn	O
+vo	O
+da	O
+Stod	O
+gschaffn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-54
+# text = Vo de Gsamteinahma vo 2,6 Milliardn US-Dolla san dem ACOG 1,7 Milliardn US-Dolla zua Vaausgabung zua Vafügung steh . 
+Vo	O
+de	O
+Gsamteinahma	O
+vo	O
+2,6	O
+Milliardn	O
+US-Dolla	B-ORGpart
+san	O
+dem	O
+ACOG	O
+1,7	O
+Milliardn	O
+US-Dolla	B-ORGpart
+zua	O
+Vaausgabung	O
+zua	O
+Vafügung	O
+steh	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-55
+# text = De greaßtn Einahmequelln warn de Fernsehrechte mit 568 Millionan US-Dolla , des Joint Venture mit 426 Millionan und de Ticketvakaif mit 425 Millionan . 
+De	O
+greaßtn	O
+Einahmequelln	O
+warn	O
+de	O
+Fernsehrechte	O
+mit	O
+568	O
+Millionan	O
+US-Dolla	B-ORGpart
+,	O
+des	O
+Joint	O
+Venture	O
+mit	O
+426	O
+Millionan	O
+und	O
+de	O
+Ticketvakaif	O
+mit	O
+425	O
+Millionan	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-56
+# text = De greaßtn Postn aaf da Ausgobstö warn de Spoatstättn mit 494 Millionan US-Dolla , de Technologie mit 218 Millionan und TV-Installationa mit 141 Millionan . 
+De	O
+greaßtn	O
+Postn	O
+aaf	O
+da	O
+Ausgobstö	O
+warn	O
+de	O
+Spoatstättn	O
+mit	O
+494	O
+Millionan	O
+US-Dolla	B-ORGpart
+,	O
+de	O
+Technologie	O
+mit	O
+218	O
+Millionan	O
+und	O
+TV-Installationa	O
+mit	O
+141	O
+Millionan	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-57
+# text = Marketingeinahman san zum oana iba des TOP III-Programm vom IOC , des unta andam Coka-Cola , VISA , IBM und Kodak umfasst , und des Joint Venture vo ACOG und USOC namens " Centennial Olympic Partners " ( ACOP ) , dem de Nations Bank , Motorola , Sara Lee Corporation , AT & T , Swatch , The Home Depot , McDonald's , Anheuser-Busch und Delta Air Lines ogheat ham . 
+Marketingeinahman	O
+san	O
+zum	O
+oana	O
+iba	O
+des	O
+TOP	B-MISC
+III-Programm	I-MISC
+vom	O
+IOC	B-ORG
+,	O
+des	O
+unta	O
+andam	O
+Coka-Cola	B-ORG
+,	O
+VISA	B-ORG
+,	O
+IBM	B-ORG
+und	O
+Kodak	B-ORG
+umfasst	O
+,	O
+und	O
+des	O
+Joint	O
+Venture	O
+vo	O
+ACOG	B-ORG
+und	O
+USOC	B-ORG
+namens	O
+"	O
+Centennial	B-ORG
+Olympic	I-ORG
+Partners	I-ORG
+"	O
+(	O
+ACOP	B-ORG
+)	O
+,	O
+dem	O
+de	O
+Nations	B-ORG
+Bank	I-ORG
+,	O
+Motorola	B-ORG
+,	O
+Sara	B-ORG
+Lee	I-ORG
+Corporation	I-ORG
+,	O
+AT	B-ORG
+&	I-ORG
+T	I-ORG
+,	O
+Swatch	B-ORG
+,	O
+The	B-ORG
+Home	I-ORG
+Depot	I-ORG
+,	O
+McDonald's	B-ORG
+,	O
+Anheuser-Busch	B-ORG
+und	O
+Delta	B-ORG
+Air	I-ORG
+Lines	I-ORG
+ogheat	O
+ham	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-58
+# text = Doriba naus hot des ACOP 24 weidare Partna gworm und hot 120 Lizenzn vagem . 
+Doriba	O
+naus	O
+hot	O
+des	O
+ACOP	B-ORG
+24	O
+weidare	O
+Partna	O
+gworm	O
+und	O
+hot	O
+120	O
+Lizenzn	O
+vagem	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-59
+# text = Des ACOP hot insgsamt 760 Millionan Dolla awiatschaft . 
+Des	O
+ACOP	B-ORG
+hot	O
+insgsamt	O
+760	O
+Millionan	O
+Dolla	O
+awiatschaft	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-60
+# text = Des IOC feadat de teilnehmandn Mannschoftn mit da Rekordsumme vo 21,677 Millionan US-Dolla , wos die hohe Teilnehmazoi mit bedingt hot . 
+Des	O
+IOC	B-ORG
+feadat	O
+de	O
+teilnehmandn	O
+Mannschoftn	O
+mit	O
+da	O
+Rekordsumme	O
+vo	O
+21,677	O
+Millionan	O
+US-Dolla	B-ORGpart
+,	O
+wos	O
+die	O
+hohe	O
+Teilnehmazoi	O
+mit	O
+bedingt	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-61
+# text = Pro Mannschof san de Kostn fia sechs Spoatla und zwoa Offizielle ibanomma worn wia zuvoa scho 1988 in Seoul und 1992 in Barcelona . 
+Pro	O
+Mannschof	O
+san	O
+de	O
+Kostn	O
+fia	O
+sechs	O
+Spoatla	O
+und	O
+zwoa	O
+Offizielle	O
+ibanomma	O
+worn	O
+wia	O
+zuvoa	O
+scho	O
+1988	O
+in	O
+Seoul	B-LOC
+und	O
+1992	O
+in	O
+Barcelona	B-LOC
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-62
+# text = Doriba naus hot jeds NOK 8000 Dolla erhoitn , sowia weidare 800 Dolla pro Teilnehma . 
+Doriba	O
+naus	O
+hot	O
+jeds	O
+NOK	B-ORG
+8000	O
+Dolla	O
+erhoitn	O
+,	O
+sowia	O
+weidare	O
+800	O
+Dolla	O
+pro	O
+Teilnehma	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-63
+# text = Vo de Fernseheinahman san duach des IOC 56,42 Millionan Dolla an de NOKs ausgschütt worn . 
+Vo	O
+de	O
+Fernseheinahman	O
+san	O
+duach	O
+des	O
+IOC	B-ORG
+56,42	O
+Millionan	O
+Dolla	O
+an	O
+de	O
+NOKs	B-ORG
+ausgschütt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-64
+# text = In Atlanta san noch am IOC-Beschluss aus dem Joahr 1994 de Mitglieda vo der 1981 gründtn Athletnkommission erstmois direkt gwäjt worn . 
+In	O
+Atlanta	B-LOC
+san	O
+noch	O
+am	O
+IOC-Beschluss	B-ORGpart
+aus	O
+dem	O
+Joahr	O
+1994	O
+de	O
+Mitglieda	O
+vo	O
+der	O
+1981	O
+gründtn	O
+Athletnkommission	O
+erstmois	O
+direkt	O
+gwäjt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-65
+# text = Vo de woiberechtigtn Spoatla ham 5734 ( 54 % ) eahnane Stimman fia de Besetzung vo de siem Plätz obgem . 
+Vo	O
+de	O
+woiberechtigtn	O
+Spoatla	O
+ham	O
+5734	O
+(	O
+54	O
+%	O
+)	O
+eahnane	O
+Stimman	O
+fia	O
+de	O
+Besetzung	O
+vo	O
+de	O
+siem	O
+Plätz	O
+obgem	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-66
+# text = Gwäjt worn is da tschechische Leichtathlet Jan Zelezný , da russische Schwimma Alexander Popow , da amerikanische Vollyboia Robert Jan " Bob " Ctvrtlik , de kanadische Leichathletin Charmaine Crooks , da ukrainische Leichtathlet Serhij Bubka , de algerische Leichtathletin Hassiba Boulmerka und da deitsche Rudara Roland Baar . 
+Gwäjt	O
+worn	O
+is	O
+da	O
+tschechische	B-LOCderiv
+Leichtathlet	O
+Jan	B-PER
+Zelezný	I-PER
+,	O
+da	O
+russische	B-LOCderiv
+Schwimma	O
+Alexander	B-PER
+Popow	I-PER
+,	O
+da	O
+amerikanische	B-LOCderiv
+Vollyboia	O
+Robert	B-PER
+Jan	I-PER
+"	I-PER
+Bob	I-PER
+"	I-PER
+Ctvrtlik	I-PER
+,	O
+de	O
+kanadische	B-LOCderiv
+Leichathletin	O
+Charmaine	B-PER
+Crooks	I-PER
+,	O
+da	O
+ukrainische	B-LOCderiv
+Leichtathlet	O
+Serhij	B-PER
+Bubka	I-PER
+,	O
+de	O
+algerische	B-LOCderiv
+Leichtathletin	O
+Hassiba	B-PER
+Boulmerka	I-PER
+und	O
+da	O
+deitsche	B-LOCderiv
+Rudara	B-PER
+Roland	I-PER
+Baar	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-67
+# text = De Plätz fia Wintaspoatla in dem Gremium san aaf desejbe Weis zwoa Joahr spada bei de Olympischn Wintaspui 1998 in Nagano bstimmt worn . 
+De	O
+Plätz	O
+fia	O
+Wintaspoatla	O
+in	O
+dem	O
+Gremium	O
+san	O
+aaf	O
+desejbe	O
+Weis	O
+zwoa	O
+Joahr	O
+spada	O
+bei	O
+de	O
+Olympischn	B-EVENT
+Wintaspui	I-EVENT
+1998	I-EVENT
+in	O
+Nagano	O
+bstimmt	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-68
+# text = De Spoatstättn vo de Olympischn Sommaspui 1996 lassn se in drei Regionan aafteiln . 
+De	O
+Spoatstättn	O
+vo	O
+de	O
+Olympischn	B-EVENT
+Sommaspui	I-EVENT
+1996	I-EVENT
+lassn	O
+se	O
+in	O
+drei	O
+Regionan	O
+aafteiln	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-69
+# text = Heazstück vo de Spui war da Olympische Ring , a Drei-Meiln-Zona im Zentrum vo Atlanta , in dem se aa des Olympiastadion bfundn hot . 
+Heazstück	O
+vo	O
+de	O
+Spui	O
+war	O
+da	O
+Olympische	O
+Ring	O
+,	O
+a	O
+Drei-Meiln-Zona	O
+im	O
+Zentrum	O
+vo	O
+Atlanta	B-LOC
+,	O
+in	O
+dem	O
+se	O
+aa	O
+des	O
+Olympiastadion	O
+bfundn	O
+hot	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-70
+# text = Weidare Spoatstättn ham se in da Metropoiregion Atlanta bfundn , andare weida entfernt in Geargia und aa in andane Bundesstotn vo da USA . 
+Weidare	O
+Spoatstättn	O
+ham	O
+se	O
+in	O
+da	O
+Metropoiregion	O
+Atlanta	B-LOC
+bfundn	O
+,	O
+andare	O
+weida	O
+entfernt	O
+in	O
+Geargia	B-LOC
+und	O
+aa	O
+in	O
+andane	O
+Bundesstotn	O
+vo	O
+da	O
+USA	B-LOC
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-71
+# text = Centennial Olympic Stadium , Georgia Dome ( Baketboi , Handboi ) , Georgia Tech Aquatic Centa ( Schwimma , Tuamspringa , Wassaboi , Synchronspringa , Fassungsvamögn : 14.600 Zuaschaua ) , Atlanta-Fulton County Stadium , Georgia World Congress Centa ( Fechtn , Judo , Ringa , Handboi , Gwichthem , Moderna Fünfkampf , Tischtennis , zwoatgreassts US-Messe- und Vaanstoitungszentrum mit 762.000 m² ) , Omni Coliseum , Alexander Memorial Coliseum , Georgia State University Sports Arena , Forbes Arena ( Morehouse College ) , de zum Atlanta University Centa ghearandn Alonzo Herndon Stadium am Morriy Brown College ( Hockeywettbewerb , Fassungsvameang : 15.000 Zuaschaua ) und Clark Atlanta University Stadium ( Hockewettbewerg , Fassungsvamögn : 15.000 Zuaschaua ) und Clark Atlanta University Stadium ( Hockeywettbewerb , Fassungsvameang : 5.000 Zuaschaua ) . 
+Centennial	B-LOC
+Olympic	I-LOC
+Stadium	I-LOC
+,	O
+Georgia	B-LOC
+Dome	I-LOC
+(	O
+Baketboi	O
+,	O
+Handboi	O
+)	O
+,	O
+Georgia	B-LOC
+Tech	I-LOC
+Aquatic	I-LOC
+Centa	I-LOC
+(	O
+Schwimma	O
+,	O
+Tuamspringa	O
+,	O
+Wassaboi	O
+,	O
+Synchronspringa	O
+,	O
+Fassungsvamögn	O
+:	O
+14.600	O
+Zuaschaua	O
+)	O
+,	O
+Atlanta-Fulton	B-LOC
+County	I-LOC
+Stadium	I-LOC
+,	O
+Georgia	B-LOC
+World	I-LOC
+Congress	I-LOC
+Centa	I-LOC
+(	O
+Fechtn	O
+,	O
+Judo	O
+,	O
+Ringa	O
+,	O
+Handboi	O
+,	O
+Gwichthem	O
+,	O
+Moderna	O
+Fünfkampf	O
+,	O
+Tischtennis	O
+,	O
+zwoatgreassts	O
+US-Messe-	B-LOCpart
+und	O
+Vaanstoitungszentrum	O
+mit	O
+762.000	O
+m²	O
+)	O
+,	O
+Omni	B-LOC
+Coliseum	I-LOC
+,	O
+Alexander	B-LOC
+Memorial	I-LOC
+Coliseum	I-LOC
+,	O
+Georgia	B-LOC
+State	I-LOC
+University	I-LOC
+Sports	I-LOC
+Arena	I-LOC
+,	O
+Forbes	B-LOC
+Arena	I-LOC
+(	O
+Morehouse	B-ORG
+College	I-ORG
+)	O
+,	O
+de	O
+zum	O
+Atlanta	B-ORG
+University	I-ORG
+Centa	I-ORG
+ghearandn	O
+Alonzo	B-LOC
+Herndon	I-LOC
+Stadium	I-LOC
+am	O
+Morriy	B-ORG
+Brown	I-ORG
+College	I-ORG
+(	O
+Hockeywettbewerb	O
+,	O
+Fassungsvameang	O
+:	O
+15.000	O
+Zuaschaua	O
+)	O
+und	O
+Clark	B-LOC
+Atlanta	I-LOC
+University	I-LOC
+Stadium	I-LOC
+(	O
+Hockewettbewerg	O
+,	O
+Fassungsvamögn	O
+:	O
+15.000	O
+Zuaschaua	O
+)	O
+und	O
+Clark	B-LOC
+Atlanta	I-LOC
+University	I-LOC
+Stadium	I-LOC
+(	O
+Hockeywettbewerb	O
+,	O
+Fassungsvameang	O
+:	O
+5.000	O
+Zuaschaua	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-72
+# text = Stone Mountain Tennis Centa , Stone Mountain Park Archery Centa , Stone Mountain Park Velodrome ( olle drei jeweis im Stone Mountain Park gleng ) , Sanford Stadium ( olympischs Fuassboituanier , Fassungsvameang : 86.300 Zuaschaua , gleng in Athens ) , Stegeman Coliseum ( Rhythmische Spoatgymnastik , Volleyboi , Fassungsvameang : 10.500 Zuaschaua , 105 Kilometa nordeastle vo Atlanta ) , Wolf Creek Shooting Comple x( Schiassn , Moderna Fünfkampf , Fassungsvameang : 10.900 Zuaschaua , 34 Kilometa südwestle vom olympischn Doaf ) , Georgia International Horse Park . 
+Stone	B-LOC
+Mountain	I-LOC
+Tennis	I-LOC
+Centa	I-LOC
+,	O
+Stone	B-LOC
+Mountain	I-LOC
+Park	I-LOC
+Archery	I-LOC
+Centa	I-LOC
+,	O
+Stone	B-LOC
+Mountain	I-LOC
+Park	I-LOC
+Velodrome	I-LOC
+(	O
+olle	O
+drei	O
+jeweis	O
+im	O
+Stone	B-LOC
+Mountain	I-LOC
+Park	I-LOC
+gleng	O
+)	O
+,	O
+Sanford	B-LOC
+Stadium	I-LOC
+(	O
+olympischs	B-EVENT
+Fuassboituanier	I-EVENT
+,	O
+Fassungsvameang	O
+:	O
+86.300	O
+Zuaschaua	O
+,	O
+gleng	O
+in	O
+Athens	B-LOC
+)	O
+,	O
+Stegeman	B-LOC
+Coliseum	I-LOC
+(	O
+Rhythmische	O
+Spoatgymnastik	O
+,	O
+Volleyboi	O
+,	O
+Fassungsvameang	O
+:	O
+10.500	O
+Zuaschaua	O
+,	O
+105	O
+Kilometa	O
+nordeastle	O
+vo	O
+Atlanta	B-LOC
+)	O
+,	O
+Wolf	B-LOC
+Creek	I-LOC
+Shooting	I-LOC
+Comple	I-LOC
+x(	O
+Schiassn	O
+,	O
+Moderna	O
+Fünfkampf	O
+,	O
+Fassungsvameang	O
+:	O
+10.900	O
+Zuaschaua	O
+,	O
+34	O
+Kilometa	O
+südwestle	O
+vom	O
+olympischn	B-LOC
+Doaf	I-LOC
+)	O
+,	O
+Georgia	B-LOC
+International	I-LOC
+Horse	I-LOC
+Park	I-LOC
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-73
+# text = Doriba naus da 90 Kilometa neadle vo Atlanta bfindliche Lake Lanier , aaf dem de Ruadawettbewerb stottgfundn ham und da 32 Kilometa südle vom olympischn Doaf glengne Atlanta Beach mit zwoa Courts fia de Beachvolleyboiwettbewerb , de a Fassungsvameang vo 7500 bzw. 3500 Zuaschaua aafgwiesn ham . 
+Doriba	O
+naus	O
+da	O
+90	O
+Kilometa	O
+neadle	O
+vo	O
+Atlanta	B-LOC
+bfindliche	O
+Lake	B-LOC
+Lanier	I-LOC
+,	O
+aaf	O
+dem	O
+de	O
+Ruadawettbewerb	O
+stottgfundn	O
+ham	O
+und	O
+da	O
+32	O
+Kilometa	O
+südle	O
+vom	O
+olympischn	B-LOC
+Doaf	I-LOC
+glengne	O
+Atlanta	B-LOC
+Beach	I-LOC
+mit	O
+zwoa	O
+Courts	O
+fia	O
+de	O
+Beachvolleyboiwettbewerb	O
+,	O
+de	O
+a	O
+Fassungsvameang	O
+vo	O
+7500	O
+bzw.	O
+3500	O
+Zuaschaua	O
+aafgwiesn	O
+ham	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-74
+# text = Savannah River , Ocoee Whitewater Center , Golden Park , Legion Field ( olympischs Fussboituanier , Fassungsvameang : 80.581 Zuaschaua , gleng in Birmingham ) , RFK Stadium ( olympischs Fussboituanier , gleng in Washington , D. C. ) , Florida Citrus Bowl ( olympischs Fuassboituanier , gleng in Orlando ) , Miami Orange Bowl ( olympischs Fuassboituanier ) , Wassaw Sound ( Seglwettbewerb , Kapazitätn fia 13.000 Zuaschaua aaf Begleitschiffn ) . 
+Savannah	B-LOC
+River	I-LOC
+,	O
+Ocoee	B-LOC
+Whitewater	I-LOC
+Center	I-LOC
+,	O
+Golden	B-LOC
+Park	I-LOC
+,	O
+Legion	B-LOC
+Field	I-LOC
+(	O
+olympischs	B-EVENT
+Fussboituanier	I-EVENT
+,	O
+Fassungsvameang	O
+:	O
+80.581	O
+Zuaschaua	O
+,	O
+gleng	O
+in	O
+Birmingham	B-LOC
+)	O
+,	O
+RFK	B-LOC
+Stadium	I-LOC
+(	O
+olympischs	B-EVENT
+Fussboituanier	I-EVENT
+,	O
+gleng	O
+in	O
+Washington	B-LOC
+,	I-LOC
+D.	I-LOC
+C.	I-LOC
+)	O
+,	O
+Florida	B-LOC
+Citrus	I-LOC
+Bowl	I-LOC
+(	O
+olympischs	B-EVENT
+Fuassboituanier	I-EVENT
+,	O
+gleng	O
+in	O
+Orlando	B-LOC
+)	O
+,	O
+Miami	B-LOC
+Orange	I-LOC
+Bowl	I-LOC
+(	O
+olympischs	B-EVENT
+Fuassboituanier	I-EVENT
+)	O
+,	O
+Wassaw	B-LOC
+Sound	I-LOC
+(	O
+Seglwettbewerb	O
+,	O
+Kapazitätn	O
+fia	O
+13.000	O
+Zuaschaua	O
+aaf	O
+Begleitschiffn	O
+)	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-75
+# text = Es san 271 Wettbewerb ( 163 fia Männa , 97 fia Fraun , 1 Mixed- und 10 offane Wettbewerb ) in 26 Spoatoatn / 37 Disziplinan austrong worn . 
+Es	O
+san	O
+271	O
+Wettbewerb	O
+(	O
+163	O
+fia	O
+Männa	O
+,	O
+97	O
+fia	O
+Fraun	O
+,	O
+1	O
+Mixed-	O
+und	O
+10	O
+offane	O
+Wettbewerb	O
+)	O
+in	O
+26	O
+Spoatoatn	O
+/	O
+37	O
+Disziplinan	O
+austrong	O
+worn	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-76
+# text = Des warn 14 Wettbewerb , 1 Spoatart und 3 Disziplinan mehr ois in Barcelona 1992 . 
+Des	O
+warn	O
+14	O
+Wettbewerb	O
+,	O
+1	O
+Spoatart	O
+und	O
+3	O
+Disziplinan	O
+mehr	O
+ois	O
+in	O
+Barcelona	B-LOC
+1992	O
+.	O
+
+# sent_id = bar_wiki_Olympische-Sommaspui-1996-77
+# text = Nochfoigand de Ändarunga im Oanzln : 
+Nochfoigand	O
+de	O
+Ändarunga	O
+im	O
+Oanzln	O
+:	O
+

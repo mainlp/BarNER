@@ -1,0 +1,2622 @@
+# newdoc id = bar_wiki_Oberösterreichische-Nachrichten
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-1
+# text = Oberösterreichische Nachrichten
+Oberösterreichische	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-2
+# text = De Oberösterreichische Nachrichten is a iwaregionale Togeszeidung mit Sitz in Linz .
+De	O	O
+Oberösterreichische	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+is	O	O
+a	O	O
+iwaregionale	O	O
+Togeszeidung	O	O
+mit	O	O
+Sitz	O	O
+in	O	O
+Linz	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-3
+# text = De Zeidung hod 5 Haubtredakzionen ( Rubrikn ) : Politik , Wiatschoft , Sport , Kuitua , Laund & Leid und mid am Lokalteu .
+De	O	O
+Zeidung	O	O
+hod	O	O
+5	O	O
+Haubtredakzionen	O	O
+(	O	O
+Rubrikn	O	O
+)	O	O
+:	O	O
+Politik	O	O
+,	O	O
+Wiatschoft	O	O
+,	O	O
+Sport	O	O
+,	O	O
+Kuitua	O	O
+,	O	O
+Laund	O	O
+&	O	O
+Leid	O	O
+und	O	O
+mid	O	O
+am	O	O
+Lokalteu	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-4
+# text = Vom Lokalteu gibts 6 vaschiedane Versionan in 6 Regionan vo Owaösterreich .
+Vom	O	O
+Lokalteu	O	O
+gibts	O	O
+6	O	O
+vaschiedane	O	O
+Versionan	O	O
+in	O	O
+6	O	O
+Regionan	O	O
+vo	O	O
+Owaösterreich	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-5
+# text = De Oberösterreichischn Nachrichten san ane da Wenign östareichischn Togeszeidungan de se ned zweng ana Auflognschteigarung em Boulevard vaschriebm hom.
+De	O	O
+Oberösterreichischn	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+san	O	O
+ane	O	O
+da	O	O
+Wenign	O	O
+östareichischn	B-LOCderiv	B-LOCderiv
+Togeszeidungan	O	O
+de	O	O
+se	O	O
+ned	O	O
+zweng	O	O
+ana	O	O
+Auflognschteigarung	O	O
+em	O	O
+Boulevard	O	O
+vaschriebm	O	O
+hom.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-6
+# text = De Gschicht vo da Zeidung :
+De	O	O
+Gschicht	O	O
+vo	O	O
+da	O	O
+Zeidung	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-7
+# text = 1843 :
+1843	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-8
+# text = Da Buachdrucka " Josef Wimmer " ( 1808 - 1894 ) hod am 19 Oktowa 1843 vo sein vaschtuama Eheweiwal " Franziska " ( a friare " Weinmayr Witdibin " ) de Druckarei und des Haisl Herrnschtroßn 6 in Linz iwanumma .
+Da	O	O
+Buachdrucka	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+(	O	O
+1808	O	O
+-	O	O
+1894	O	O
+)	O	O
+hod	O	O
+am	O	O
+19	O	O
+Oktowa	O	O
+1843	O	O
+vo	O	O
+sein	O	O
+vaschtuama	O	O
+Eheweiwal	O	O
+"	O	O
+Franziska	B-PER	B-PER
+"	O	O
+(	O	O
+a	O	O
+friare	O	O
+"	O	O
+Weinmayr	B-PER	B-PER
+Witdibin	O	O
+"	O	O
+)	O	O
+de	O	O
+Druckarei	O	O
+und	O	O
+des	O	O
+Haisl	O	O
+Herrnschtroßn	B-LOC	B-LOC
+6	O	O
+in	O	O
+Linz	B-LOC	B-LOC
+iwanumma	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-9
+# text = 1845 :
+1845	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-10
+# text = Am 5 Mai hod da Josef Wimmer nuamoi gheirat .
+Am	O	O
+5	O	O
+Mai	O	O
+hod	O	O
+da	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+nuamoi	O	O
+gheirat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-11
+# text = Sei Ehefrau woa de " Antonia Kamptner " und de hod a ausehnlige Midgift in de Ehe eibrocht und mid Dera hod se de finanziöe Situazion vo da Druckarei schtoak bessad .
+Sei	O	O
+Ehefrau	O	O
+woa	O	O
+de	O	O
+"	O	O
+Antonia	B-PER	B-PER
+Kamptner	I-PER	I-PER
+"	O	O
+und	O	O
+de	O	O
+hod	O	O
+a	O	O
+ausehnlige	O	O
+Midgift	O	O
+in	O	O
+de	O	O
+Ehe	O	O
+eibrocht	O	O
+und	O	O
+mid	O	O
+Dera	O	O
+hod	O	O
+se	O	O
+de	O	O
+finanziöe	O	O
+Situazion	O	O
+vo	O	O
+da	O	O
+Druckarei	O	O
+schtoak	O	O
+bessad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-12
+# text = 1847 hod ma fia de Druckarei a modeane " Schnöpreß " augschoft .
+1847	O	O
+hod	O	O
+ma	O	O
+fia	O	O
+de	O	O
+Druckarei	O	O
+a	O	O
+modeane	O	O
+"	O	O
+Schnöpreß	O	O
+"	O	O
+augschoft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-13
+# text = 1848 : Des woa des Joah da " Voamäarzrevoluzion " .
+1848	O	O
+:	O	O
+Des	O	O
+woa	O	O
+des	O	O
+Joah	O	O
+da	O	O
+"	O	O
+Voamäarzrevoluzion	B-EVENT	B-EVENT
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-14
+# text = In da Druckarei hod ma de Woihlistn druckt , fia den Frankfurta Reichstog in da " Paulikiacha " .
+In	O	O
+da	O	O
+Druckarei	O	O
+hod	O	O
+ma	O	O
+de	O	O
+Woihlistn	O	O
+druckt	O	O
+,	O	O
+fia	O	O
+den	O	O
+Frankfurta	B-LOC	B-LOC
+Reichstog	I-LOC	I-LOC
+in	O	O
+da	O	O
+"	O	O
+Paulikiacha	B-LOC	B-LOC
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-15
+# text = 1850 :
+1850	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-16
+# text = Da Kundnkroas vo da Druckarei Wimmer is gach greßa wuan .
+Da	O	O
+Kundnkroas	O	O
+vo	O	O
+da	O	O
+Druckarei	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+is	O	O
+gach	O	O
+greßa	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-17
+# text = Es san a de Schtootsbuachhoitung und de Polizeidirekzion ( a mid de Schteckbriaf ) zan Kundnkroas dazuakemma .
+Es	O	O
+san	O	O
+a	O	O
+de	O	O
+Schtootsbuachhoitung	O	O
+und	O	O
+de	O	O
+Polizeidirekzion	O	O
+(	O	O
+a	O	O
+mid	O	O
+de	O	O
+Schteckbriaf	O	O
+)	O	O
+zan	O	O
+Kundnkroas	O	O
+dazuakemma	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-18
+# text = Owa a mera Aumta und de Rentnvawoitung .
+Owa	O	O
+a	O	O
+mera	O	O
+Aumta	O	O
+und	O	O
+de	O	O
+Rentnvawoitung	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-19
+# text = Dahea hod ma den Maschinanpark oiweu vagreßad .
+Dahea	O	O
+hod	O	O
+ma	O	O
+den	O	O
+Maschinanpark	O	O
+oiweu	O	O
+vagreßad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-20
+# text = 1860 :
+1860	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-21
+# text = Weu in Wean de Schtootsdruckarei oiweu mera Druckseitn , a fia de Lända , sowa druckt hod , san de Afträg bei de Druckareian a in Linz eibrocha .
+Weu	O	O
+in	O	O
+Wean	B-LOC	B-LOC
+de	O	O
+Schtootsdruckarei	O	O
+oiweu	O	O
+mera	O	O
+Druckseitn	O	O
+,	O	O
+a	O	O
+fia	O	O
+de	O	O
+Lända	O	O
+,	O	O
+sowa	O	O
+druckt	O	O
+hod	O	O
+,	O	O
+san	O	O
+de	O	O
+Afträg	O	O
+bei	O	O
+de	O	O
+Druckareian	O	O
+a	O	O
+in	O	O
+Linz	B-LOC	B-LOC
+eibrocha	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-22
+# text = 1861 :
+1861	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-23
+# text = Da " Kaisa Franz Josef " hod offiziä des " Eazheazogtum Owaöstareich ob da Enns " zan eignschtendign Kronlaund eahobm .
+Da	O	O
+"	O	O
+Kaisa	O	O
+Franz	B-PER	B-PER
+Josef	I-PER	I-PER
+"	O	O
+hod	O	O
+offiziä	O	O
+des	O	O
+"	O	O
+Eazheazogtum	B-ORG	B-ORG
+Owaöstareich	I-ORG	I-ORG
+ob	I-ORG	I-ORG
+da	I-ORG	I-ORG
+Enns	I-ORG	I-ORG
+"	O	O
+zan	O	O
+eignschtendign	O	O
+Kronlaund	O	O
+eahobm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-24
+# text = Es is a da easchte Laundtog gwöht wuan .
+Es	O	O
+is	O	O
+a	O	O
+da	O	O
+easchte	O	O
+Laundtog	O	O
+gwöht	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-25
+# text = 1863 :
+1863	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-26
+# text = Am easchtn August hod da " Josef Wimmer " nebm dem Betrieb a kloans Goatngrundschtickl mid umma 38 Quadratklafter ( des san eppa 72 m² ) dazuakaft , fian an Ausbau vo da Druckarei .
+Am	O	O
+easchtn	O	O
+August	O	O
+hod	O	O
+da	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+nebm	O	O
+dem	O	O
+Betrieb	O	O
+a	O	O
+kloans	O	O
+Goatngrundschtickl	O	O
+mid	O	O
+umma	O	O
+38	O	O
+Quadratklafter	O	O
+(	O	O
+des	O	O
+san	O	O
+eppa	O	O
+72	O	O
+m²	O	O
+)	O	O
+dazuakaft	O	O
+,	O	O
+fian	O	O
+an	O	O
+Ausbau	O	O
+vo	O	O
+da	O	O
+Druckarei	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-27
+# text = 1864 endscheids se da Josef Wimmer fia de Grindung ana Zeidung und faungd mid de Vuabereitungan au .
+1864	O	O
+endscheids	O	O
+se	O	O
+da	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+fia	O	O
+de	O	O
+Grindung	O	O
+ana	O	O
+Zeidung	O	O
+und	O	O
+faungd	O	O
+mid	O	O
+de	O	O
+Vuabereitungan	O	O
+au	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-28
+# text = Am 1 Jenna " 1865 " eascheind de easchte Ausgob vo da Tagespost .
+Am	O	O
+1	O	O
+Jenna	O	O
+"	O	O
+1865	O	O
+"	O	O
+eascheind	O	O
+de	O	O
+easchte	O	O
+Ausgob	O	O
+vo	O	O
+da	O	O
+Tagespost	B-ORG	B-ORG
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-29
+# text = Am Aufaung hod ma nua 61 Abonnentn ghobd .
+Am	O	O
+Aufaung	O	O
+hod	O	O
+ma	O	O
+nua	O	O
+61	O	O
+Abonnentn	O	O
+ghobd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-30
+# text = 1868 hod ma im Ischla Gscheft des Wochnbladdl " Echo aus den Bergen " aussabrocht , des schpoda zan " Ischler Wochenblatt " umtaufd wuan is .
+1868	O	O
+hod	O	O
+ma	O	O
+im	O	O
+Ischla	B-LOC	B-LOC
+Gscheft	I-LOC	O
+des	O	O
+Wochnbladdl	O	O
+"	O	O
+Echo	B-ORG	B-ORG
+aus	I-ORG	I-ORG
+den	I-ORG	I-ORG
+Bergen	I-ORG	I-ORG
+"	O	O
+aussabrocht	O	O
+,	O	O
+des	O	O
+schpoda	O	O
+zan	O	O
+"	O	O
+Ischler	B-ORG	B-ORG
+Wochenblatt	I-ORG	I-ORG
+"	O	O
+umtaufd	O	O
+wuan	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-31
+# text = 1871 is de " Tagespost " mid ana Auflog vo 2000 Schtickl easchinan und ma hod a easchmolig , mid da Zeidungsaflog schwoaze Zoihn gschribm .
+1871	O	O
+is	O	O
+de	O	O
+"	O	O
+Tagespost	B-ORG	B-ORG
+"	O	O
+mid	O	O
+ana	O	O
+Auflog	O	O
+vo	O	O
+2000	O	O
+Schtickl	O	O
+easchinan	O	O
+und	O	O
+ma	O	O
+hod	O	O
+a	O	O
+easchmolig	O	O
+,	O	O
+mid	O	O
+da	O	O
+Zeidungsaflog	O	O
+schwoaze	O	O
+Zoihn	O	O
+gschribm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-32
+# text = 1876 is da " Julius Wimmer " ( geb. 9. 3. 1856 ) , em " Josef Wimmer " sei ödasta Suhn a in Betrieb eigschtign .
+1876	O	O
+is	O	O
+da	O	O
+"	O	O
+Julius	B-PER	B-LOC
+Wimmer	I-PER	I-LOC
+"	O	O
+(	O	O
+geb.	O	O
+9.	O	O
+3.	O	O
+1856	O	O
+)	O	O
+,	O	O
+em	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+sei	O	O
+ödasta	O	O
+Suhn	O	O
+a	O	O
+in	O	O
+Betrieb	O	O
+eigschtign	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-33
+# text = 1878 is am 15 Oktowa easchtmolig den " Wimmers gelben Fahrplan " valegd und außagebm wuan .
+1878	O	O
+is	O	O
+am	O	O
+15	O	O
+Oktowa	O	O
+easchtmolig	O	O
+den	O	O
+"	O	O
+Wimmers	B-MISC	B-MISC
+gelben	I-MISC	I-MISC
+Fahrplan	I-MISC	I-MISC
+"	O	O
+valegd	O	O
+und	O	O
+außagebm	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-34
+# text = 1880 hod ma in da Druckarei de Doppöschnöpreß afgschtöd und am 1 Aprü hod ma de Ausgob vo da Tagespost druckt .
+1880	O	O
+hod	O	O
+ma	O	O
+in	O	O
+da	O	O
+Druckarei	O	O
+de	O	O
+Doppöschnöpreß	O	O
+afgschtöd	O	O
+und	O	O
+am	O	O
+1	O	O
+Aprü	O	O
+hod	O	O
+ma	O	O
+de	O	O
+Ausgob	O	O
+vo	O	O
+da	O	O
+Tagespost	B-ORG	B-ORG
+druckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-35
+# text = 1883 wiad nebm de fimf Schnöpreßn a Kroasbewegungsmaschin afgschtöd .
+1883	O	O
+wiad	O	O
+nebm	O	O
+de	O	O
+fimf	O	O
+Schnöpreßn	O	O
+a	O	O
+Kroasbewegungsmaschin	O	O
+afgschtöd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-36
+# text = Iazt oawadn in da Druckarei drei Maschinmoasta und 22 Schriftsetza .
+Iazt	O	O
+oawadn	O	O
+in	O	O
+da	O	O
+Druckarei	O	O
+drei	O	O
+Maschinmoasta	O	O
+und	O	O
+22	O	O
+Schriftsetza	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-37
+# text = Am 12 Mai 1885 wiad da Kaufvatrog fia des Haus Prommenade 23 in Linz untaschriebm .
+Am	O	O
+12	O	O
+Mai	O	O
+1885	O	O
+wiad	O	O
+da	O	O
+Kaufvatrog	O	O
+fia	O	O
+des	O	O
+Haus	O	O
+Prommenade	B-LOC	B-LOC
+23	O	O
+in	O	O
+Linz	B-LOC	B-LOC
+untaschriebm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-38
+# text = Am easchtn Jenna 1889 hod da Hr. " Julius Wimmer " de Druckarei vo sein Vota iwanumma .
+Am	O	O
+easchtn	O	O
+Jenna	O	O
+1889	O	O
+hod	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Julius	B-LOC	B-PER
+Wimmer	I-LOC	I-PER
+"	O	O
+de	O	O
+Druckarei	O	O
+vo	O	O
+sein	O	O
+Vota	O	O
+iwanumma	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-39
+# text = 1893 hod ma vian Druck vo da Tages-Post a ochtseitige Rotazionsmaschin afgschtöd .
+1893	O	O
+hod	O	O
+ma	O	O
+vian	O	O
+Druck	O	O
+vo	O	O
+da	O	O
+Tages-Post	B-ORG	B-ORG
+a	O	O
+ochtseitige	O	O
+Rotazionsmaschin	O	O
+afgschtöd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-40
+# text = " 1894 " , im anafufzigstn Joah vo da " Druckarei Wimmer " is da Hr. " Josef Wimmer " am zworazwanzigstn Mai vaschtuam .
+"	O	O
+1894	O	O
+"	O	O
+,	O	O
+im	O	O
+anafufzigstn	O	O
+Joah	O	O
+vo	O	O
+da	O	O
+"	O	O
+Druckarei	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+"	O	O
+is	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+am	O	O
+zworazwanzigstn	O	O
+Mai	O	O
+vaschtuam	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-41
+# text = De easchtn Schreibmaschinan san " 1895 " im Büro vawendt wuan .
+De	O	O
+easchtn	O	O
+Schreibmaschinan	O	O
+san	O	O
+"	O	O
+1895	O	O
+"	O	O
+im	O	O
+Büro	O	O
+vawendt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-42
+# text = 1897 is de Druckarei ans elektrische Netz vom " Linzer Elektrizitätswerk " augschloßn wuan .
+1897	O	O
+is	O	O
+de	O	O
+Druckarei	O	O
+ans	O	O
+elektrische	O	O
+Netz	O	O
+vom	O	O
+"	O	O
+Linzer	B-ORG	B-ORG
+Elektrizitätswerk	I-ORG	I-ORG
+"	O	O
+augschloßn	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-43
+# text = 1903 hod ma mid zwoa ochtseitige Rotazionsmaschinan , ocht oafoche Schnöpreßn und drei Tiegldruckmaschinan in da Druckarei goawad .
+1903	O	O
+hod	O	O
+ma	O	O
+mid	O	O
+zwoa	O	O
+ochtseitige	O	O
+Rotazionsmaschinan	O	O
+,	O	O
+ocht	O	O
+oafoche	O	O
+Schnöpreßn	O	O
+und	O	O
+drei	O	O
+Tiegldruckmaschinan	O	O
+in	O	O
+da	O	O
+Druckarei	O	O
+goawad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-44
+# text = 1904 is de easchte Setzmaschin ( Linotyp ) afgschtöd wuan .
+1904	O	O
+is	O	O
+de	O	O
+easchte	O	O
+Setzmaschin	O	O
+(	O	O
+Linotyp	B-MISC	O
+)	O	O
+afgschtöd	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-45
+# text = Am 16 Dezemba hod des technische Peasoneu an schtreik augfaungd , dea bis am 16 Feba dauad hod .
+Am	O	O
+16	O	O
+Dezemba	O	O
+hod	O	O
+des	O	O
+technische	O	O
+Peasoneu	O	O
+an	O	O
+schtreik	O	O
+augfaungd	O	O
+,	O	O
+dea	O	O
+bis	O	O
+am	O	O
+16	O	O
+Feba	O	O
+dauad	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-46
+# text = 1913 is a 16 seitige Rotazionsmaschin augschoft wuan .
+1913	O	O
+is	O	O
+a	O	O
+16	O	O
+seitige	O	O
+Rotazionsmaschin	O	O
+augschoft	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-47
+# text = De zwoa Ochtsoatign hod ma ois Reseav bhoitn .
+De	O	O
+zwoa	O	O
+Ochtsoatign	O	O
+hod	O	O
+ma	O	O
+ois	O	O
+Reseav	O	O
+bhoitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-48
+# text = Am 14 Juni 1914 hod ma de Oanzlfiama in a " Ges. m. b. H. " umgwaundld .
+Am	O	O
+14	O	O
+Juni	O	O
+1914	O	O
+hod	O	O
+ma	O	O
+de	O	O
+Oanzlfiama	O	O
+in	O	O
+a	O	O
+"	O	O
+Ges.	O	O
+m.	O	O
+b.	O	O
+H.	O	O
+"	O	O
+umgwaundld	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-49
+# text = Da greßte Aunteu is beim " Julius Wimmer " vablibm .
+Da	O	O
+greßte	O	O
+Aunteu	O	O
+is	O	O
+beim	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+vablibm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-50
+# text = Danebm haum den Rest sei Tochta " Grete Streit " und iah Mau " Oskar Streit " , da Bsitza vom Schloß Puchenau ; Da Chefredakteua da Tages-Post , " Dr. Karl Ritter von Görner " so wia da Technikdirektoa " Heinrich Schneeberger " und da Finanzdirektoa " Robert Ortner " und da " Franz Scheuringer " ghoidn .
+Danebm	O	O
+haum	O	O
+den	O	O
+Rest	O	O
+sei	O	O
+Tochta	O	O
+"	O	O
+Grete	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+und	O	O
+iah	O	O
+Mau	O	O
+"	O	O
+Oskar	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+,	O	O
+da	O	O
+Bsitza	O	O
+vom	O	O
+Schloß	B-LOC	B-LOC
+Puchenau	I-LOC	I-LOC
+;	O	O
+Da	O	O
+Chefredakteua	O	O
+da	O	O
+Tages-Post	B-ORG	B-ORG
+,	O	O
+"	O	O
+Dr.	O	O
+Karl	B-PER	B-PER
+Ritter	I-PER	I-PER
+von	I-PER	I-PER
+Görner	I-PER	I-PER
+"	O	O
+so	O	O
+wia	O	O
+da	O	O
+Technikdirektoa	O	O
+"	O	O
+Heinrich	B-PER	B-PER
+Schneeberger	I-PER	I-PER
+"	O	O
+und	O	O
+da	O	O
+Finanzdirektoa	O	O
+"	O	O
+Robert	B-PER	B-PER
+Ortner	I-PER	I-PER
+"	O	O
+und	O	O
+da	O	O
+"	O	O
+Franz	B-PER	B-PER
+Scheuringer	I-PER	I-PER
+"	O	O
+ghoidn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-51
+# text = 1915 san wia narrisch Sundaausgobm und Extrabladln druckt wuan .
+1915	O	O
+san	O	O
+wia	O	O
+narrisch	O	O
+Sundaausgobm	O	O
+und	O	O
+Extrabladln	O	O
+druckt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-52
+# text = De noameun Druckafträg san zwoa zrukgaunga , owa des hod ma midm Druck vo de Lebmsmiddlkoatn auffaunga kenna .
+De	O	O
+noameun	O	O
+Druckafträg	O	O
+san	O	O
+zwoa	O	O
+zrukgaunga	O	O
+,	O	O
+owa	O	O
+des	O	O
+hod	O	O
+ma	O	O
+midm	O	O
+Druck	O	O
+vo	O	O
+de	O	O
+Lebmsmiddlkoatn	O	O
+auffaunga	O	O
+kenna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-53
+# text = 1916 hod ma an de Mülitäavawoitung foßt 15 Tonnan Bleibuachstobn , aus da Setzarei olifan miaßn .
+1916	O	O
+hod	O	O
+ma	O	O
+an	O	O
+de	O	O
+Mülitäavawoitung	O	O
+foßt	O	O
+15	O	O
+Tonnan	O	O
+Bleibuachstobn	O	O
+,	O	O
+aus	O	O
+da	O	O
+Setzarei	O	O
+olifan	O	O
+miaßn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-54
+# text = 1917 hod da Hr. " Julius Wimmer " olle Gscheftsauteu zruckghaft und wida Auteu an sei Tocht und em Schwigasuhn , da " Grete " und em " Oskar Streit " weidagebm .
+1917	O	O
+hod	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+olle	O	O
+Gscheftsauteu	O	O
+zruckghaft	O	O
+und	O	O
+wida	O	O
+Auteu	O	O
+an	O	O
+sei	O	O
+Tocht	O	O
+und	O	O
+em	O	O
+Schwigasuhn	O	O
+,	O	O
+da	O	O
+"	O	O
+Grete	B-PER	B-PER
+"	O	O
+und	O	O
+em	O	O
+"	O	O
+Oskar	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+weidagebm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-55
+# text = Am 11. 11. 1918 woa da easchte Wödkriag z`End .
+Am	O	O
+11.	O	O
+11.	O	O
+1918	O	O
+woa	O	O
+da	O	O
+easchte	O	B-EVENT
+Wödkriag	O	I-EVENT
+z`End	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-56
+# text = 1919 hod ma zwaungsweis schtoak varingadn Schriftfamülin wida eagenzt und afgfüd .
+1919	O	O
+hod	O	O
+ma	O	O
+zwaungsweis	O	O
+schtoak	O	O
+varingadn	O	O
+Schriftfamülin	O	O
+wida	O	O
+eagenzt	O	O
+und	O	O
+afgfüd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-57
+# text = Am easchtn Jenna " 1925 " is de " Ges. m. b. H. " in a " Kommanditgsöschoft " umgwaundlt wuan .
+Am	O	O
+easchtn	O	O
+Jenna	O	O
+"	O	O
+1925	O	O
+"	O	O
+is	O	O
+de	O	O
+"	O	O
+Ges.	O	O
+m.	O	O
+b.	O	O
+H.	O	O
+"	O	O
+in	O	O
+a	O	O
+"	O	O
+Kommanditgsöschoft	O	O
+"	O	O
+umgwaundlt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-58
+# text = Da Hr. " Julius Wimmer " und sei Schwigasuhn da Hr. " Oskar Streit " woan de öffendlign Gsöschofta und sei Tochta de " Grete Streit " is a Kommandistin gwest .
+Da	O	O
+Hr.	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+und	O	O
+sei	O	O
+Schwigasuhn	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Oskar	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+woan	O	O
+de	O	O
+öffendlign	O	O
+Gsöschofta	O	O
+und	O	O
+sei	O	O
+Tochta	O	O
+de	O	O
+"	O	O
+Grete	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+is	O	O
+a	O	O
+Kommandistin	O	O
+gwest	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-59
+# text = 1927 hod ma de Betriebsflechn vagreßad , weu ma den Goatn vom Haus Prommenade 23 vabaud hod .
+1927	O	O
+hod	O	O
+ma	O	O
+de	O	O
+Betriebsflechn	O	O
+vagreßad	O	O
+,	O	O
+weu	O	O
+ma	O	O
+den	O	O
+Goatn	O	O
+vom	O	O
+Haus	O	O
+Prommenade	B-LOC	B-LOC
+23	O	O
+vabaud	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-60
+# text = 1929 is de easchte Zwoa-Foabm Offsetmaschine augschoft wuan .
+1929	O	O
+is	O	O
+de	O	O
+easchte	O	O
+Zwoa-Foabm	O	O
+Offsetmaschine	O	O
+augschoft	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-61
+# text = 1936 is da " Julius Wimmer " zan Auloß vo sein ochzjaarign Gbuatstog ( 9. Merz ) und fia seine Vadeanst fia de Schtod , zan Eahrnbiaga vo Linz eanaunnt wuan .
+1936	O	O
+is	O	O
+da	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+zan	O	O
+Auloß	O	O
+vo	O	O
+sein	O	O
+ochzjaarign	O	O
+Gbuatstog	O	O
+(	O	O
+9.	O	O
+Merz	O	O
+)	O	O
+und	O	O
+fia	O	O
+seine	O	O
+Vadeanst	O	O
+fia	O	O
+de	O	O
+Schtod	O	O
+,	O	O
+zan	O	O
+Eahrnbiaga	O	O
+vo	O	O
+Linz	B-LOC	B-LOC
+eanaunnt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-62
+# text = Am 12 März 1938 is da Auschluß vo da " Republik Österreich " an des " Großdeitsche Reich " voizogn wuan , vökarechtli woa des eha a Okupazion .
+Am	O	O
+12	O	O
+März	O	O
+1938	O	O
+is	O	O
+da	O	O
+Auschluß	O	O
+vo	O	O
+da	O	O
+"	O	O
+Republik	B-ORG	B-ORG
+Österreich	I-ORG	I-ORG
+"	O	O
+an	O	O
+des	O	O
+"	O	O
+Großdeitsche	B-ORG	B-ORG
+Reich	I-ORG	I-ORG
+"	O	O
+voizogn	O	O
+wuan	O	O
+,	O	O
+vökarechtli	O	O
+woa	O	O
+des	O	O
+eha	O	O
+a	O	O
+Okupazion	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-63
+# text = De ehemolige " Amtliche Linzer Zeitung " is nochn Auschluß , vo 1938 - 1940 zan " Amtsblatt von Oberdonau " wuan .
+De	O	O
+ehemolige	O	O
+"	O	O
+Amtliche	B-ORG	B-ORG
+Linzer	I-ORG	I-ORG
+Zeitung	I-ORG	I-ORG
+"	O	O
+is	O	O
+nochn	O	O
+Auschluß	O	O
+,	O	O
+vo	O	O
+1938	O	O
+-	O	O
+1940	O	O
+zan	O	O
+"	O	O
+Amtsblatt	B-ORG	B-ORG
+von	I-ORG	I-ORG
+Oberdonau	I-ORG	I-ORG
+"	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-64
+# text = De " Linzer Volksstimme " gegr. am 17 März 1926 is im Oktowa draf in " Volkstimme " gendat wuan .
+De	O	O
+"	O	O
+Linzer	B-ORG	B-ORG
+Volksstimme	I-ORG	I-ORG
+"	O	O
+gegr.	O	O
+am	O	O
+17	O	O
+März	O	O
+1926	O	O
+is	O	O
+im	O	O
+Oktowa	O	O
+draf	O	O
+in	O	O
+"	O	O
+Volkstimme	B-ORG	B-ORG
+"	O	O
+gendat	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-65
+# text = De Zeidung woa des Presseorgan vo da schpodan " NSDAP " und is am 1 Jenna 1943 in " Oberdonau Zeitung " umtauft wuan .
+De	O	O
+Zeidung	O	O
+woa	O	O
+des	O	O
+Presseorgan	O	O
+vo	O	O
+da	O	O
+schpodan	O	O
+"	O	O
+NSDAP	B-ORG	B-ORG
+"	O	O
+und	O	O
+is	O	O
+am	O	O
+1	O	O
+Jenna	O	O
+1943	O	O
+in	O	O
+"	O	O
+Oberdonau	B-ORG	B-ORG
+Zeitung	I-ORG	I-ORG
+"	O	O
+umtauft	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-66
+# text = In dea Zeidung is a des Amtsblatt von Oberdonau eigfloßn .
+In	O	O
+dea	O	O
+Zeidung	O	O
+is	O	O
+a	O	O
+des	O	O
+Amtsblatt	B-ORG	B-ORG
+von	I-ORG	I-ORG
+Oberdonau	I-ORG	I-ORG
+eigfloßn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-67
+# text = Des Bladl is am 3 Mai 1945 eigschtöd wuan , weu scho am 5. Mai in de Schtod Linz de amerikanischn Paunza vo da " 11 US Paunzadivision " eigfoahn san .
+Des	O	O
+Bladl	O	O
+is	O	O
+am	O	O
+3	O	O
+Mai	O	O
+1945	O	O
+eigschtöd	O	O
+wuan	O	O
+,	O	O
+weu	O	O
+scho	O	O
+am	O	O
+5.	O	O
+Mai	O	O
+in	O	O
+de	O	O
+Schtod	O	O
+Linz	B-LOC	B-LOC
+de	O	O
+amerikanischn	B-ORGderiv	B-LOCderiv
+Paunza	O	O
+vo	O	O
+da	O	O
+"	O	O
+11	B-ORG	B-ORG
+US	I-ORG	I-ORG
+Paunzadivision	I-ORG	I-ORG
+"	O	O
+eigfoahn	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-68
+# text = Am 5 Novemba hod in " Julius Wimmer " sei Enkal de " Ilse Streit " em " Antonio Cuturi " gheirat .
+Am	O	O
+5	O	O
+Novemba	O	O
+hod	O	O
+in	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+sei	O	O
+Enkal	O	O
+de	O	O
+"	O	O
+Ilse	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+em	O	O
+"	O	O
+Antonio	B-PER	B-PER
+Cuturi	I-PER	I-PER
+"	O	O
+gheirat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-69
+# text = Eahna Suhn da Hr. " Rudolf Andreas Cuturi " is da heidige Bsitza vo de " Oberösterreichischn Nachrichtn " .
+Eahna	O	O
+Suhn	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Rudolf	B-PER	B-PER
+Andreas	I-PER	I-PER
+Cuturi	I-PER	I-PER
+"	O	O
+is	O	O
+da	O	O
+heidige	O	O
+Bsitza	O	O
+vo	O	O
+de	O	O
+"	O	O
+Oberösterreichischn	B-ORG	B-ORG
+Nachrichtn	I-ORG	I-ORG
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-70
+# text = 1945 : Glei nochm Kriagsend hod ma da Famülie Kollaborazion mid em nazionalsozialischtischn Regime viagwuaffa .
+1945	O	O
+:	O	O
+Glei	O	O
+nochm	O	O
+Kriagsend	O	O
+hod	O	O
+ma	O	O
+da	O	O
+Famülie	O	O
+Kollaborazion	O	O
+mid	O	O
+em	O	O
+nazionalsozialischtischn	O	O
+Regime	O	O
+viagwuaffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-71
+# text = Da Linza Biagamoasta " Ernst Koref " hod em " Franz Lettner " in Aftrog gebm a Zeidung zdrucka , em ehemolign Chefredakteua vom " Tagblatt " , des woa de Poatei-Zeidung vo de Sozialdemokratn , .
+Da	O	O
+Linza	B-LOCderiv	B-LOCderiv
+Biagamoasta	O	O
+"	O	O
+Ernst	B-PER	B-PER
+Koref	I-PER	I-PER
+"	O	O
+hod	O	O
+em	O	O
+"	O	O
+Franz	B-PER	B-PER
+Lettner	I-PER	I-PER
+"	O	O
+in	O	O
+Aftrog	O	O
+gebm	O	O
+a	O	O
+Zeidung	O	O
+zdrucka	O	O
+,	O	O
+em	O	O
+ehemolign	O	O
+Chefredakteua	O	O
+vom	O	O
+"	O	O
+Tagblatt	B-ORG	B-MISC
+"	O	O
+,	O	O
+des	O	O
+woa	O	O
+de	O	O
+Poatei-Zeidung	O	O
+vo	O	O
+de	O	O
+Sozialdemokratn	O	B-ORG
+,	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-72
+# text = Da amerikanischn Besotzungsmocht , de sidli da Donau Owaöstareich bsezt ghobd hod , woas owa recht Wichti , das via de Bevökarung wida a unobhengige Zeidung afglegd wiad .
+Da	O	O
+amerikanischn	B-ORGderiv	B-LOCderiv
+Besotzungsmocht	O	O
+,	O	O
+de	O	O
+sidli	O	O
+da	O	O
+Donau	B-LOC	B-LOC
+Owaöstareich	B-LOC	B-LOC
+bsezt	O	O
+ghobd	O	O
+hod	O	O
+,	O	O
+woas	O	O
+owa	O	O
+recht	O	O
+Wichti	O	O
+,	O	O
+das	O	O
+via	O	O
+de	O	O
+Bevökarung	O	O
+wida	O	O
+a	O	O
+unobhengige	O	O
+Zeidung	O	O
+afglegd	O	O
+wiad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-73
+# text = Da " Franz Lettner " hod den Aftrog ghobd , a unobhengige , da Demokrtie vapflichtade Togeszeidung außazgebn .
+Da	O	O
+"	O	O
+Franz	B-PER	B-PER
+Lettner	I-PER	I-PER
+"	O	O
+hod	O	O
+den	O	O
+Aftrog	O	O
+ghobd	O	O
+,	O	O
+a	O	O
+unobhengige	O	O
+,	O	O
+da	O	O
+Demokrtie	O	O
+vapflichtade	O	O
+Togeszeidung	O	O
+außazgebn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-74
+# text = Am 8. Septemba is da Hr. " Julius Wimmer " vaschtuam .
+Am	O	O
+8.	O	O
+Septemba	O	O
+is	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+vaschtuam	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-75
+# text = 1946 : De " Famülien Wimmer und Streit " is vo da Besotzungsmocht beschtätigt wuan daß nia Nazi gwest san und a koanalei Eifluß in da Nazizeid afn Druckareibetriab vo da Tages-Post ghobd hobm .
+1946	O	O
+:	O	O
+De	O	O
+"	O	O
+Famülien	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+und	O	O
+Streit	B-ORG	B-ORG
+"	O	O
+is	O	O
+vo	O	O
+da	O	O
+Besotzungsmocht	O	O
+beschtätigt	O	O
+wuan	O	O
+daß	O	O
+nia	O	O
+Nazi	B-ORGderiv	B-ORGderiv
+gwest	O	O
+san	O	O
+und	O	O
+a	O	O
+koanalei	O	O
+Eifluß	O	O
+in	O	O
+da	O	O
+Nazizeid	B-ORGpart	B-EVENT
+afn	O	O
+Druckareibetriab	O	O
+vo	O	O
+da	O	O
+Tages-Post	B-ORG	B-ORG
+ghobd	O	O
+hobm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-76
+# text = 1947 hod ma da Famülie " Wimmer-Streit-Cuturi " de Ealaubnis gebm , das de Zeidung " Tagespost " wida außabringa deafn .
+1947	O	O
+hod	O	O
+ma	O	O
+da	O	O
+Famülie	O	O
+"	O	O
+Wimmer-Streit-Cuturi	B-ORG	B-ORG
+"	O	O
+de	O	O
+Ealaubnis	O	O
+gebm	O	O
+,	O	O
+das	O	O
+de	O	O
+Zeidung	O	O
+"	O	O
+Tagespost	B-ORG	B-ORG
+"	O	O
+wida	O	O
+außabringa	O	O
+deafn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-77
+# text = Und a de Zwaungsvapflichtung vo da Druckarei is afghobm wuan .
+Und	O	O
+a	O	O
+de	O	O
+Zwaungsvapflichtung	O	O
+vo	O	O
+da	O	O
+Druckarei	O	O
+is	O	O
+afghobm	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-78
+# text = Am 11. Juni 1945 is vo de Amerikana de " Demokratischen Druck- und Verlagsgesellschaft m. b. H. " gründ wuan , de a zglei de Lizenz fian Druck und da Ausgob vo ana Togeszeidung ghobd hod .
+Am	O	O
+11.	O	O
+Juni	O	O
+1945	O	O
+is	O	O
+vo	O	O
+de	O	O
+Amerikana	B-LOCderiv	B-LOCderiv
+de	O	O
+"	O	O
+Demokratischen	B-ORG	B-ORG
+Druck-	I-ORG	I-ORG
+und	I-ORG	I-ORG
+Verlagsgesellschaft	I-ORG	I-ORG
+m.	I-ORG	I-ORG
+b.	I-ORG	I-ORG
+H.	I-ORG	I-ORG
+"	O	O
+gründ	O	O
+wuan	O	O
+,	O	O
+de	O	O
+a	O	O
+zglei	O	O
+de	O	O
+Lizenz	O	O
+fian	O	O
+Druck	O	O
+und	O	O
+da	O	O
+Ausgob	O	O
+vo	O	O
+ana	O	O
+Togeszeidung	O	O
+ghobd	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-79
+# text = De neiche Zeidung hod en Naum " Oberösterreichische Nachrichten " kriagd .
+De	O	O
+neiche	O	O
+Zeidung	O	O
+hod	O	O
+en	O	O
+Naum	O	O
+"	O	O
+Oberösterreichische	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+"	O	O
+kriagd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-80
+# text = Da Chefradekteua " Franz Lettner " hod vuan Druck olle Atükön em " US .
+Da	O	O
+Chefradekteua	O	O
+"	O	O
+Franz	B-PER	B-PER
+Lettner	I-PER	I-PER
+"	O	O
+hod	O	O
+vuan	O	O
+Druck	O	O
+olle	O	O
+Atükön	O	O
+em	O	O
+"	O	O
+US	B-ORG	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-81
+# text = Presseoffizia " vialegn miaßn , bevua mas drucka hod deaffa .
+Presseoffizia	O	O
+"	O	O
+vialegn	O	O
+miaßn	O	O
+,	O	O
+bevua	O	O
+mas	O	O
+drucka	O	O
+hod	O	O
+deaffa	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-82
+# text = Zan End vo de 40 Joah hod mas nu mid ana Obndausgob und mid ana Sunnda-Zeidung probiat .
+Zan	O	O
+End	O	O
+vo	O	O
+de	O	O
+40	O	O
+Joah	O	O
+hod	O	O
+mas	O	O
+nu	O	O
+mid	O	O
+ana	O	O
+Obndausgob	O	O
+und	O	O
+mid	O	O
+ana	O	O
+Sunnda-Zeidung	O	O
+probiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-83
+# text = Des hod ma owa zweng da Unwiatschoftligkeid boid wida afgebm .
+Des	O	O
+hod	O	O
+ma	O	O
+owa	O	O
+zweng	O	O
+da	O	O
+Unwiatschoftligkeid	O	O
+boid	O	O
+wida	O	O
+afgebm	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-84
+# text = 1947 is de Zwaungsvapochtung vo da " Druckarei Wimmer " afghobm wuan , owa de " Oberösterreichischen Nachrichten " san weidahi af da Rotazionsmaschin vo da Druckarei Wimmer druckt wuan .
+1947	O	O
+is	O	O
+de	O	O
+Zwaungsvapochtung	O	O
+vo	O	O
+da	O	O
+"	O	O
+Druckarei	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+"	O	O
+afghobm	O	O
+wuan	O	O
+,	O	O
+owa	O	O
+de	O	O
+"	O	O
+Oberösterreichischen	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+"	O	O
+san	O	O
+weidahi	O	O
+af	O	O
+da	O	O
+Rotazionsmaschin	O	O
+vo	O	O
+da	O	O
+Druckarei	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+druckt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-85
+# text = 1952 is da Druckauftrog fia de OÖ Nachrichtn afkündigt woan , weu ma de Rotazionsmaschin wida söwa braucht hod .
+1952	O	O
+is	O	O
+da	O	O
+Druckauftrog	O	O
+fia	O	O
+de	O	O
+OÖ	B-ORG	B-ORG
+Nachrichtn	I-ORG	I-ORG
+afkündigt	O	O
+woan	O	O
+,	O	O
+weu	O	O
+ma	O	O
+de	O	O
+Rotazionsmaschin	O	O
+wida	O	O
+söwa	O	O
+braucht	O	O
+hod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-86
+# text = Fia de Neichausgob vo da " Tagespost " .
+Fia	O	O
+de	O	O
+Neichausgob	O	O
+vo	O	O
+da	O	O
+"	O	O
+Tagespost	B-ORG	B-ORG
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-87
+# text = 1953 : De nochm Tod vom Oskar Streit neiche Gscheftsfiahrung vo da J. Wimmer KG . woa : De Widdibin " Grete Streit " und ihr Tochta de " Ilse Cuturi " und deran Kinda .
+1953	O	O
+:	O	O
+De	O	O
+nochm	O	O
+Tod	O	O
+vom	O	O
+Oskar	B-PER	B-PER
+Streit	I-PER	I-PER
+neiche	O	O
+Gscheftsfiahrung	O	O
+vo	O	O
+da	O	O
+J.	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+KG	I-ORG	I-ORG
+.	O	O
+woa	O	O
+:	O	O
+De	O	O
+Widdibin	O	O
+"	O	O
+Grete	B-PER	B-PER
+Streit	I-PER	I-PER
+"	O	O
+und	O	O
+ihr	O	O
+Tochta	O	O
+de	O	O
+"	O	O
+Ilse	B-PER	B-PER
+Cuturi	I-PER	I-PER
+"	O	O
+und	O	O
+deran	O	O
+Kinda	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-88
+# text = Da " Harald Stobitzer " is zan Gsöschofta und Komplementäa bschtimmt woan .
+Da	O	O
+"	O	O
+Harald	B-PER	B-PER
+Stobitzer	I-PER	I-PER
+"	O	O
+is	O	O
+zan	O	O
+Gsöschofta	O	O
+und	O	O
+Komplementäa	O	O
+bschtimmt	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-89
+# text = 1955 am 3. Jenna is des easchte Moi de Zeidung mid an neichn Titl außakema .
+1955	O	O
+am	O	O
+3.	O	O
+Jenna	O	O
+is	O	O
+des	O	O
+easchte	O	O
+Moi	O	O
+de	O	O
+Zeidung	O	O
+mid	O	O
+an	O	O
+neichn	O	O
+Titl	O	O
+außakema	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-90
+# text = Ois Gebuatstogsgschenk zan Hundata hod ma " 1965 " a neiche 64-Seitige Rotazionsmaschin augschoft .
+Ois	O	O
+Gebuatstogsgschenk	O	O
+zan	O	O
+Hundata	O	O
+hod	O	O
+ma	O	O
+"	O	O
+1965	O	O
+"	O	O
+a	O	O
+neiche	O	O
+64-Seitige	O	O
+Rotazionsmaschin	O	O
+augschoft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-91
+# text = 1973 hod da Urenkl vom " Josef Wimmer " , da Hr. " Rudolf Andreas Cuturi " de Gscheftsfiahrung iwanumma und hod damid augfaungt de Zeidung za Modeanisian .
+1973	O	O
+hod	O	O
+da	O	O
+Urenkl	O	O
+vom	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+,	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Rudolf	B-PER	B-PER
+Andreas	I-PER	I-PER
+Cuturi	I-PER	I-PER
+"	O	O
+de	O	O
+Gscheftsfiahrung	O	O
+iwanumma	O	O
+und	O	O
+hod	O	O
+damid	O	O
+augfaungt	O	O
+de	O	O
+Zeidung	O	O
+za	O	O
+Modeanisian	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-92
+# text = " 1976 " hod ma augfaungt vom Blei- afn Fotosotz umzschtön .
+"	O	O
+1976	O	O
+"	O	O
+hod	O	O
+ma	O	O
+augfaungt	O	O
+vom	O	O
+Blei-	O	O
+afn	O	O
+Fotosotz	O	O
+umzschtön	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-93
+# text = In de nextn 15 Joah is im Betriab vü Um- und Zuabaud wuan .
+In	O	O
+de	O	O
+nextn	O	O
+15	O	O
+Joah	O	O
+is	O	O
+im	O	O
+Betriab	O	O
+vü	O	O
+Um-	O	O
+und	O	O
+Zuabaud	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-94
+# text = 1978 is da Hr. " Rudolf Andreas Cuturi " Haubtgsöschofta vom Zeidungsvalog wuan .
+1978	O	O
+is	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Rudolf	B-PER	B-PER
+Andreas	I-PER	I-PER
+Cuturi	I-PER	I-PER
+"	O	O
+Haubtgsöschofta	O	O
+vom	O	O
+Zeidungsvalog	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-95
+# text = Da Valogsleita is bis 1998 da Hr. " Werner Schrotta " bschtöd wuan .
+Da	O	O
+Valogsleita	O	O
+is	O	O
+bis	O	O
+1998	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Werner	B-PER	B-PER
+Schrotta	I-PER	I-PER
+"	O	O
+bschtöd	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-96
+# text = Ob 1981 is de Linza " Druckarei Feichtinger " in Ratn iwanumma und bis 1985 mid da Druckerei " J. Wimmer " fusioniat woan .
+Ob	O	O
+1981	O	O
+is	O	O
+de	O	O
+Linza	B-LOCderiv	B-LOC
+"	O	O
+Druckarei	B-ORG	B-ORG
+Feichtinger	I-ORG	I-ORG
+"	O	O
+in	O	O
+Ratn	O	O
+iwanumma	O	O
+und	O	O
+bis	O	O
+1985	O	O
+mid	O	O
+da	O	O
+Druckerei	B-ORG	B-ORG
+"	I-ORG	I-ORG
+J.	I-ORG	I-ORG
+Wimmer	I-ORG	I-ORG
+"	I-ORG	I-ORG
+fusioniat	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-97
+# text = 1986 hod da Hr. " Dr. Alfred Maletta " seine 26 % Fiamananteu an em Hr. " Rudolf Andreas Cuturi " vakaft .
+1986	O	O
+hod	O	O
+da	O	O
+Hr.	O	O
+"	O	O
+Dr.	O	O
+Alfred	B-PER	B-PER
+Maletta	I-PER	I-PER
+"	O	O
+seine	O	O
+26	O	O
+%	O	O
+Fiamananteu	O	O
+an	O	O
+em	O	O
+Hr.	O	O
+"	O	O
+Rudolf	B-PER	B-PER
+Andreas	I-PER	I-PER
+Cuturi	I-PER	I-PER
+"	O	O
+vakaft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-98
+# text = Somid woan noch dreißg Joah wida olle Fiamananteu bei da Famülie Wimmer .
+Somid	O	O
+woan	O	O
+noch	O	O
+dreißg	O	O
+Joah	O	O
+wida	O	O
+olle	O	O
+Fiamananteu	O	O
+bei	O	O
+da	O	O
+Famülie	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-99
+# text = Obm 1. Jenna 1990 is de Zeidung af da neichn 48 seitign Rollenoffset-Rotazionsmaschin in an neichm Bau druckt wuan .
+Obm	O	O
+1.	O	O
+Jenna	O	O
+1990	O	O
+is	O	O
+de	O	O
+Zeidung	O	O
+af	O	O
+da	O	O
+neichn	O	O
+48	O	O
+seitign	O	O
+Rollenoffset-Rotazionsmaschin	O	O
+in	O	O
+an	O	O
+neichm	O	O
+Bau	O	O
+druckt	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-100
+# text = De Umschtöllung hod umma 150 Müllionan Schilling ( eppa 11 Müllionan € ) kost .
+De	O	O
+Umschtöllung	O	O
+hod	O	O
+umma	O	O
+150	O	O
+Müllionan	O	O
+Schilling	O	O
+(	O	O
+eppa	O	O
+11	O	O
+Müllionan	O	O
+€	O	O
+)	O	O
+kost	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-101
+# text = 1992 : Da Druck vom " Wimmers gelber Fahrplan " wiad noch 114 Joah eigschtöd .
+1992	O	O
+:	O	O
+Da	O	O
+Druck	O	O
+vom	O	O
+"	O	O
+Wimmers	B-MISC	B-MISC
+gelber	I-MISC	I-MISC
+Fahrplan	I-MISC	I-MISC
+"	O	O
+wiad	O	O
+noch	O	O
+114	O	O
+Joah	O	O
+eigschtöd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-102
+# text = Easchmolig is a am 15 Oktowa 1878 afglegd wuan .
+Easchmolig	O	O
+is	O	O
+a	O	O
+am	O	O
+15	O	O
+Oktowa	O	O
+1878	O	O
+afglegd	O	O
+wuan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-103
+# text = Des bliabde Heftl hod 1913 mid 215.000 Schtickl de hechste Aflog ghobd .
+Des	O	O
+bliabde	O	O
+Heftl	O	O
+hod	O	O
+1913	O	O
+mid	O	O
+215.000	O	O
+Schtickl	O	O
+de	O	O
+hechste	O	O
+Aflog	O	O
+ghobd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-104
+# text = 1993 is da Zeidungsvasaund ausbaud wuan und de Firma hod ia hundatfufzgjaarigs Juwileum gfeiat .
+1993	O	O
+is	O	O
+da	O	O
+Zeidungsvasaund	O	O
+ausbaud	O	O
+wuan	O	O
+und	O	O
+de	O	O
+Firma	O	O
+hod	O	O
+ia	O	O
+hundatfufzgjaarigs	O	O
+Juwileum	O	O
+gfeiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-105
+# text = 1995
+1995	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-106
+# text = Im großn Hangar vom Flughofn " Hörsching " ( bei Linz ) hod ma des 50 jaarige Juwileum vo de " Oberösterreichischen Nachrichten " gfeiat .
+Im	O	O
+großn	O	O
+Hangar	O	O
+vom	O	O
+Flughofn	O	O
+"	O	O
+Hörsching	B-LOC	B-LOC
+"	O	O
+(	O	O
+bei	O	O
+Linz	B-LOC	B-LOC
+)	O	O
+hod	O	O
+ma	O	O
+des	O	O
+50	O	O
+jaarige	O	O
+Juwileum	O	O
+vo	O	O
+de	O	O
+"	O	O
+Oberösterreichischen	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+"	O	O
+gfeiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-107
+# text = 1996 is de Zeidung mid an neichan modeanan Ausgschau außakema .
+1996	O	O
+is	O	O
+de	O	O
+Zeidung	O	O
+mid	O	O
+an	O	O
+neichan	O	O
+modeanan	O	O
+Ausgschau	O	O
+außakema	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-108
+# text = 1997 is da Fiamantitl vo " Druckerei und Zeitungshaus J. Wimmer Gmbh " in " J. Wimmer Gmbh " gendat woan .
+1997	O	O
+is	O	O
+da	O	O
+Fiamantitl	O	O
+vo	O	O
+"	O	O
+Druckerei	B-ORG	B-ORG
+und	I-ORG	I-ORG
+Zeitungshaus	I-ORG	I-ORG
+J.	I-ORG	I-ORG
+Wimmer	I-ORG	I-ORG
+Gmbh	I-ORG	I-ORG
+"	O	O
+in	O	O
+"	O	O
+J.	B-ORG	B-ORG
+Wimmer	I-ORG	I-ORG
+Gmbh	I-ORG	I-ORG
+"	O	O
+gendat	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-109
+# text = Fia de Intaressiatn vom regionalm Fuaßboi ( de untan Ligan ) hod ma 1999 a eigne Beilog im Kloafoamat , zan praktischn Außanehma eigfiat .
+Fia	O	O
+de	O	O
+Intaressiatn	O	O
+vom	O	O
+regionalm	O	O
+Fuaßboi	O	O
+(	O	O
+de	O	O
+untan	O	O
+Ligan	O	O
+)	O	O
+hod	O	O
+ma	O	O
+1999	O	O
+a	O	O
+eigne	O	O
+Beilog	O	O
+im	O	O
+Kloafoamat	O	O
+,	O	O
+zan	O	O
+praktischn	O	O
+Außanehma	O	O
+eigfiat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-110
+# text = Septemba 2003 is in Pasching des neibaude Druckzentrum eaeffned woan .
+Septemba	O	O
+2003	O	O
+is	O	O
+in	O	O
+Pasching	B-LOC	B-LOC
+des	O	O
+neibaude	O	O
+Druckzentrum	O	O
+eaeffned	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-111
+# text = Doat wean af neiche Maschienan , nebn da Oberösterreichischen Nachrichten a de Zeidungan druckt : " Tips " • " Superanzeiger " • " Wiatschoftskaummanochrichtn " • " Kitzbühler Anzeiger " • " Lagerhauszeitung " • " Ypstaler " • " PlusCity News " • " BZ Bürmoos " • und ob 2006 a de Gratiszeidung " Oberösterreichs Neue " dazuakema ..
+Doat	O	O
+wean	O	O
+af	O	O
+neiche	O	O
+Maschienan	O	O
+,	O	O
+nebn	O	O
+da	O	O
+Oberösterreichischen	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+a	O	O
+de	O	O
+Zeidungan	O	O
+druckt	O	O
+:	O	O
+"	O	O
+Tips	B-ORG	B-ORG
+"	O	O
+•	O	O
+"	O	O
+Superanzeiger	B-ORG	B-ORG
+"	O	O
+•	O	O
+"	O	O
+Wiatschoftskaummanochrichtn	B-ORG	B-ORG
+"	O	O
+•	O	O
+"	O	O
+Kitzbühler	B-ORG	B-ORG
+Anzeiger	I-ORG	I-ORG
+"	O	O
+•	O	O
+"	O	O
+Lagerhauszeitung	B-ORG	B-ORG
+"	O	O
+•	O	O
+"	O	O
+Ypstaler	B-ORG	B-ORG
+"	O	O
+•	O	O
+"	O	O
+PlusCity	B-ORG	B-ORG
+News	I-ORG	I-ORG
+"	O	O
+•	O	O
+"	O	O
+BZ	B-ORG	B-ORG
+Bürmoos	I-ORG	I-ORG
+"	O	O
+•	O	O
+und	O	O
+ob	O	O
+2006	O	O
+a	O	O
+de	O	O
+Gratiszeidung	O	O
+"	O	O
+Oberösterreichs	B-ORG	B-ORG
+Neue	I-ORG	I-ORG
+"	O	O
+dazuakema	O	O
+..	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-112
+# text = Iwa 40 vaschiedane Zeidungan wean do druckt .
+Iwa	O	O
+40	O	O
+vaschiedane	O	O
+Zeidungan	O	O
+wean	O	O
+do	O	O
+druckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-113
+# text = 2006 is de Gratiszeidung " Oberösterreichs Neue " easchtmolig außakema .
+2006	O	O
+is	O	O
+de	O	O
+Gratiszeidung	O	O
+"	O	O
+Oberösterreichs	B-ORG	B-ORG
+Neue	I-ORG	I-ORG
+"	O	O
+easchtmolig	O	O
+außakema	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-114
+# text = 2007 is de Elektronik afn neichastn Schtaund brocht woan .
+2007	O	O
+is	O	O
+de	O	O
+Elektronik	O	O
+afn	O	O
+neichastn	O	O
+Schtaund	O	O
+brocht	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-115
+# text = Am 12. Septmba 2008 is im Beisei vom Laundeshaubtmau Hr. Josef Pühringer und seim Vize Hr. Haider des umbaude Haubthaus gfeiat woan .
+Am	O	O
+12.	O	O
+Septmba	O	O
+2008	O	O
+is	O	O
+im	O	O
+Beisei	O	O
+vom	O	O
+Laundeshaubtmau	O	O
+Hr.	O	O
+Josef	B-PER	B-PER
+Pühringer	I-PER	I-PER
+und	O	O
+seim	O	O
+Vize	O	O
+Hr.	O	O
+Haider	B-PER	B-PER
+des	O	O
+umbaude	O	O
+Haubthaus	O	O
+gfeiat	O	O
+woan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-116
+# text = Seid em 15. Jenna " 2009 " eascheinan de " Schärdinger Volkszeitung " , de " Braunauer Warthe am Inn " und de " Rieder Volkszeitung " jedn Donnastog ois eigne Beilog vo da " Oberösterreichischen Nachrichten " in de Regionan .
+Seid	O	O
+em	O	O
+15.	O	O
+Jenna	O	O
+"	O	O
+2009	O	O
+"	O	O
+eascheinan	O	O
+de	O	O
+"	O	O
+Schärdinger	B-ORG	B-ORG
+Volkszeitung	I-ORG	I-ORG
+"	O	O
+,	O	O
+de	O	O
+"	O	O
+Braunauer	B-ORG	B-ORG
+Warthe	I-ORG	I-ORG
+am	I-ORG	I-ORG
+Inn	I-ORG	I-ORG
+"	O	O
+und	O	O
+de	O	O
+"	O	O
+Rieder	B-ORG	B-ORG
+Volkszeitung	I-ORG	I-ORG
+"	O	O
+jedn	O	O
+Donnastog	O	O
+ois	O	O
+eigne	O	O
+Beilog	O	O
+vo	O	O
+da	O	O
+"	O	O
+Oberösterreichischen	B-ORG	B-ORG
+Nachrichten	I-ORG	I-ORG
+"	O	O
+in	O	O
+de	O	O
+Regionan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-117
+# text = Josef Wimmer :
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-118
+# text = Geboan 27. 4. 1808 , gschtoam 22. 5. 1894 woa aa in da Schtod Linz Gmoarot .
+Geboan	O	O
+27.	O	O
+4.	O	O
+1808	O	O
+,	O	O
+gschtoam	O	O
+22.	O	O
+5.	O	O
+1894	O	O
+woa	O	O
+aa	O	O
+in	O	O
+da	O	O
+Schtod	O	B-ORG
+Linz	B-LOC	I-ORG
+Gmoarot	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-119
+# text = Julius Wimmer :
+Julius	B-PER	B-PER
+Wimmer	I-PER	I-PER
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-120
+# text = Geboan 9. 03. 1856 , gschtuam 8. 09. 1945 woa nebmbei a da President vo da " Linza Schpoakassa " und a vom linza Museum Francisco-Carolinum .
+Geboan	O	O
+9.	O	O
+03.	O	O
+1856	O	O
+,	O	O
+gschtuam	O	O
+8.	O	O
+09.	O	O
+1945	O	O
+woa	O	O
+nebmbei	O	O
+a	O	O
+da	O	O
+President	O	O
+vo	O	O
+da	O	O
+"	O	O
+Linza	B-LOCderiv	B-ORG
+Schpoakassa	B-ORG	I-ORG
+"	O	O
+und	O	O
+a	O	O
+vom	O	O
+linza	B-LOCderiv	B-ORG
+Museum	O	I-ORG
+Francisco-Carolinum	B-LOC	I-ORG
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-121
+# text = Do woa a aa 65 Joah Midglied vom owaöstareichischn Musealvareins und hod a de Museen mid weatvoi Fund intaschtizt .
+Do	O	O
+woa	O	O
+a	O	O
+aa	O	O
+65	O	O
+Joah	O	O
+Midglied	O	O
+vom	O	O
+owaöstareichischn	B-ORG	B-ORG
+Musealvareins	I-ORG	I-ORG
+und	O	O
+hod	O	O
+a	O	O
+de	O	O
+Museen	O	O
+mid	O	O
+weatvoi	O	O
+Fund	O	O
+intaschtizt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-122
+# text = Rudolf Andreas Cuturi :
+Rudolf	B-PER	B-PER
+Andreas	I-PER	I-PER
+Cuturi	I-PER	I-PER
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-123
+# text = In da fimftn Genarazion , Nochfuiga vom Fiamangrinda Hr. " Josef Wimmer " .
+In	O	O
+da	O	O
+fimftn	O	O
+Genarazion	O	O
+,	O	O
+Nochfuiga	O	O
+vom	O	O
+Fiamangrinda	O	O
+Hr.	O	O
+"	O	O
+Josef	B-PER	B-PER
+Wimmer	I-PER	I-PER
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-124
+# text = Dr. Alfred Maleta :
+Dr.	O	O
+Alfred	B-PER	B-PER
+Maleta	I-PER	I-PER
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-125
+# text = Geboan am 15. 01. 1906 in Mödling , vaschtuam am 16. 01. 1990 in Soizbuag , Jurist .
+Geboan	O	O
+am	O	O
+15.	O	O
+01.	O	O
+1906	O	O
+in	O	O
+Mödling	B-LOC	B-LOC
+,	O	O
+vaschtuam	O	O
+am	O	O
+16.	O	O
+01.	O	O
+1990	O	O
+in	O	O
+Soizbuag	B-LOC	B-LOC
+,	O	O
+Jurist	O	O
+.	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-126
+# text = Medienhaus Wimmer :
+Medienhaus	O	B-ORG
+Wimmer	B-ORG	I-ORG
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-127
+# text = Tips :
+Tips	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-128
+# text = Die Welt der Kindernachrichten :
+Die	B-ORG	B-ORG
+Welt	I-ORG	I-ORG
+der	I-ORG	I-ORG
+Kindernachrichten	I-ORG	I-ORG
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-129
+# text = Genossenschofta vo da APA :
+Genossenschofta	O	O
+vo	O	O
+da	O	O
+APA	B-ORG	B-ORG
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-130
+# text = Live Radio :
+Live	O	O
+Radio	O	O
+:	O	O
+
+# sent_id = bar_wiki_Oberösterreichische-Nachrichten-131
+# text = Oberdonau Zeitung :
+Oberdonau	B-ORG	B-ORG
+Zeitung	I-ORG	I-ORG
+:	O	O
+

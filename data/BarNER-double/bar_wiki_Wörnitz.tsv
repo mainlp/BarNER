@@ -1,0 +1,1490 @@
+# newdoc id = bar_wiki_Wörnitz
+# sent_id = bar_wiki_Wörnitz-1
+# text = Wörnitz
+Wörnitz	B-LOC	B-LOC
+
+# sent_id = bar_wiki_Wörnitz-2
+# text = De Wernitz is a ungefahr 132 Kilometa langa linka und nördlicha Nebnfluss vo da Doana in Baiern .
+De	O	O
+Wernitz	B-LOC	B-LOC
+is	O	O
+a	O	O
+ungefahr	O	O
+132	O	O
+Kilometa	O	O
+langa	O	O
+linka	O	O
+und	O	O
+nördlicha	O	O
+Nebnfluss	O	O
+vo	O	O
+da	O	O
+Doana	B-LOC	B-LOC
+in	O	O
+Baiern	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-3
+# text = Da Nama is im 11. Joahrhundart ois " Werinza " ibaliefart , im 12. Joahrhundart hot ma " Warinza " gschriebn .
+Da	O	O
+Nama	O	O
+is	O	O
+im	O	O
+11.	O	O
+Joahrhundart	O	O
+ois	O	O
+"	O	O
+Werinza	B-LOC	B-LOC
+"	O	O
+ibaliefart	O	O
+,	O	O
+im	O	O
+12.	O	O
+Joahrhundart	O	O
+hot	O	O
+ma	O	O
+"	O	O
+Warinza	B-LOC	B-LOC
+"	O	O
+gschriebn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-4
+# text = Fua den Nam gibt's zwoa Eaklärungsansätz .
+Fua	O	O
+den	O	O
+Nam	O	O
+gibt's	O	O
+zwoa	O	O
+Eaklärungsansätz	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-5
+# text = Da Namaforscha Joseph Schnetz hot 1950 den Nama aaf de indogermanische Wurzl " ver " mit da Grundbedeitung " ( se ) wendn , ( se ) drahn " zruckgführt , woro die Partizialendung " -entia " tren is .
+Da	O	O
+Namaforscha	O	O
+Joseph	B-PER	B-PER
+Schnetz	I-PER	I-PER
+hot	O	O
+1950	O	O
+den	O	O
+Nama	O	O
+aaf	O	O
+de	O	O
+indogermanische	B-LANGderiv	B-LANGderiv
+Wurzl	O	O
+"	O	O
+ver	O	O
+"	O	O
+mit	O	O
+da	O	O
+Grundbedeitung	O	O
+"	O	O
+(	O	O
+se	O	O
+)	O	O
+wendn	O	O
+,	O	O
+(	O	O
+se	O	O
+)	O	O
+drahn	O	O
+"	O	O
+zruckgführt	O	O
+,	O	O
+woro	O	O
+die	O	O
+Partizialendung	O	O
+"	O	O
+-entia	O	O
+"	O	O
+tren	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-6
+# text = Demnoch bedeit " Wörnitz " " de se Krümmende , Windnde " .
+Demnoch	O	O
+bedeit	O	O
+"	O	O
+Wörnitz	B-LOC	B-LOC
+"	O	O
+"	O	O
+de	O	O
+se	O	O
+Krümmende	O	O
+,	O	O
+Windnde	O	O
+"	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-7
+# text = Dem Namaforscha Wolf-Armin vo Reitzenstoa zfolg ligt die indogermanische Wurzl " uer " , wos Wassa bedeit , zgrund , vo wechana durch a " -nt " -Suffix obgleit worn is .
+Dem	O	O
+Namaforscha	O	O
+Wolf-Armin	B-PER	B-PER
+vo	I-PER	I-PER
+Reitzenstoa	I-PER	I-PER
+zfolg	O	O
+ligt	O	O
+die	O	O
+indogermanische	B-LANGderiv	B-LANGderiv
+Wurzl	O	O
+"	O	O
+uer	O	O
+"	O	O
+,	O	O
+wos	O	O
+Wassa	O	O
+bedeit	O	O
+,	O	O
+zgrund	O	O
+,	O	O
+vo	O	O
+wechana	O	O
+durch	O	O
+a	O	O
+"	O	O
+-nt	O	O
+"	O	O
+-Suffix	O	O
+obgleit	O	O
+worn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-8
+# text = De Eaklärung war vo Schnetz jedo vaworfa worn .
+De	O	O
+Eaklärung	O	O
+war	O	O
+vo	O	O
+Schnetz	B-PER	B-PER
+jedo	O	O
+vaworfa	O	O
+worn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-9
+# text = Da Fluss hot mehrare Gmoa ihre Nama gem : Wernitz , Wernitzhofa , Wernitzostheim und Werniztstoa .
+Da	O	O
+Fluss	O	O
+hot	O	O
+mehrare	O	O
+Gmoa	O	O
+ihre	O	O
+Nama	O	O
+gem	O	O
+:	O	O
+Wernitz	B-LOC	B-LOC
+,	O	O
+Wernitzhofa	B-LOC	B-LOC
+,	O	O
+Wernitzostheim	B-LOC	B-LOC
+und	O	O
+Werniztstoa	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-10
+# text = De " Wernitz " endspringd in Schillingsfürst auf da Franknhea am eigfastn Brunna und ziagt vo do in recht beständigam Lauf in südliche bis eastliche Richtunga .
+De	O	O
+"	O	O
+Wernitz	B-LOC	B-LOC
+"	O	O
+endspringd	O	O
+in	O	O
+Schillingsfürst	B-LOC	B-LOC
+auf	O	O
+da	O	O
+Franknhea	B-LOC	B-LOC
+am	O	O
+eigfastn	O	O
+Brunna	O	O
+und	O	O
+ziagt	O	O
+vo	O	O
+do	O	O
+in	O	O
+recht	O	O
+beständigam	O	O
+Lauf	O	O
+in	O	O
+südliche	O	O
+bis	O	O
+eastliche	O	O
+Richtunga	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-11
+# text = Znächst ziagt sie noch Südn durch de Gmoa Wernitz durch a sehr ländlichs , vo bewoidetn Hiegln begleits Wiesndoi in Richtung Dinkelsbühl und nimmt auf dera Streck vo rechts de Ampfrach und de Zwergwernitz auf .
+Znächst	O	O
+ziagt	O	O
+sie	O	O
+noch	O	O
+Südn	O	O
+durch	O	O
+de	O	O
+Gmoa	O	O
+Wernitz	B-LOC	B-LOC
+durch	O	O
+a	O	O
+sehr	O	O
+ländlichs	O	O
+,	O	O
+vo	O	O
+bewoidetn	O	O
+Hiegln	O	O
+begleits	O	O
+Wiesndoi	B-LOC	O
+in	O	O
+Richtung	O	O
+Dinkelsbühl	B-LOC	B-LOC
+und	O	O
+nimmt	O	O
+auf	O	O
+dera	O	O
+Streck	O	O
+vo	O	O
+rechts	O	O
+de	O	O
+Ampfrach	B-LOC	B-LOC
+und	O	O
+de	O	O
+Zwergwernitz	B-LOC	B-LOC
+auf	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-12
+# text = Wene voa dem mittloitalich Stodal mit seina gschlossna Stodmaua fangt a südostwärst grichtata , bis zum Rand vom Neardlinga Rias reichada Obschnitt o , in dem vui vo de Nebnbäch Weiha speisn , de se zuweiln in dichta Folg am Lauf vo de Zuifliss aufreihn .
+Wene	O	O
+voa	O	O
+dem	O	O
+mittloitalich	O	O
+Stodal	O	O
+mit	O	O
+seina	O	O
+gschlossna	O	O
+Stodmaua	O	O
+fangt	O	O
+a	O	O
+südostwärst	O	O
+grichtata	O	O
+,	O	O
+bis	O	O
+zum	O	O
+Rand	O	O
+vom	O	O
+Neardlinga	B-LOC	B-LOC
+Rias	I-LOC	I-LOC
+reichada	O	O
+Obschnitt	O	O
+o	O	O
+,	O	O
+in	O	O
+dem	O	O
+vui	O	O
+vo	O	O
+de	O	O
+Nebnbäch	O	O
+Weiha	O	O
+speisn	O	O
+,	O	O
+de	O	O
+se	O	O
+zuweiln	O	O
+in	O	O
+dichta	O	O
+Folg	O	O
+am	O	O
+Lauf	O	O
+vo	O	O
+de	O	O
+Zuifliss	O	O
+aufreihn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-13
+# text = Inzwischn eha eastlich valaafad , erreicht sie znächst Wilburgstettn , wo ihra - wiedarum aus Westn - de Rotach zualaaft .
+Inzwischn	O	O
+eha	O	O
+eastlich	O	O
+valaafad	O	O
+,	O	O
+erreicht	O	O
+sie	O	O
+znächst	O	O
+Wilburgstettn	B-LOC	B-LOC
+,	O	O
+wo	O	O
+ihra	O	O
+-	O	O
+wiedarum	O	O
+aus	O	O
+Westn	O	O
+-	O	O
+de	O	O
+Rotach	O	B-LOC
+zualaaft	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-14
+# text = Ab do ziagt sie ostnordeastlich bis noch Wittleshofa am Westfuass vom Hesselbeag , wo da greasste Nebnfluss am oban Lauf , de Suilzach , in sie mindt , deran naha und fast parallela Lauf eastlich vo ihram ihr da bisher greasstn linka Zuifluss vawehrt hot .
+Ab	O	O
+do	O	O
+ziagt	O	O
+sie	O	O
+ostnordeastlich	O	O
+bis	O	O
+noch	O	O
+Wittleshofa	B-LOC	B-LOC
+am	O	O
+Westfuass	O	O
+vom	O	O
+Hesselbeag	B-LOC	B-LOC
+,	O	O
+wo	O	O
+da	O	O
+greasste	O	O
+Nebnfluss	O	O
+am	O	O
+oban	O	O
+Lauf	O	O
+,	O	O
+de	O	O
+Suilzach	B-LOC	B-LOC
+,	O	O
+in	O	O
+sie	O	O
+mindt	O	O
+,	O	O
+deran	O	O
+naha	O	O
+und	O	O
+fast	O	O
+parallela	O	O
+Lauf	O	O
+eastlich	O	O
+vo	O	O
+ihram	O	O
+ihr	O	O
+da	O	O
+bisher	O	O
+greasstn	O	O
+linka	O	O
+Zuifluss	O	O
+vawehrt	O	O
+hot	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-15
+# text = Vo do ziagt si in da Richtung vo da zulaafadn Suilzach weida noch Ostsüdostn und areicht in da Näh vom andarn End vom kloana Hesselbeag-Massiv Wassatrüdinga , wo's sa se kurz vor da Aufnahm vom Lentersheimer Muihlboch aus'm Nordn abrubt noch Südn kehrt .
+Vo	O	O
+do	O	O
+ziagt	O	O
+si	O	O
+in	O	O
+da	O	O
+Richtung	O	O
+vo	O	O
+da	O	O
+zulaafadn	O	O
+Suilzach	B-LOC	B-LOC
+weida	O	O
+noch	O	O
+Ostsüdostn	O	O
+und	O	O
+areicht	O	O
+in	O	O
+da	O	O
+Näh	O	O
+vom	O	O
+andarn	O	O
+End	O	O
+vom	O	O
+kloana	O	O
+Hesselbeag-Massiv	B-LOCpart	B-LOC
+Wassatrüdinga	B-LOC	B-LOC
+,	O	O
+wo's	O	O
+sa	O	O
+se	O	O
+kurz	O	O
+vor	O	O
+da	O	O
+Aufnahm	O	O
+vom	O	O
+Lentersheimer	B-LOCderiv	B-LOC
+Muihlboch	B-LOC	I-LOC
+aus'm	O	O
+Nordn	O	O
+abrubt	O	O
+noch	O	O
+Südn	O	O
+kehrt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-16
+# text = Auf Südkurs tritt's bei Auhausen in dern Nordostn in de weite flache Landschaft vom Neardlinga Rias ai .
+Auf	O	O
+Südkurs	O	O
+tritt's	O	O
+bei	O	O
+Auhausen	O	B-LOC
+in	O	O
+dern	O	O
+Nordostn	O	O
+in	O	O
+de	O	O
+weite	O	O
+flache	O	O
+Landschaft	O	O
+vom	O	O
+Neardlinga	B-LOC	B-LOC
+Rias	I-LOC	I-LOC
+ai	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-17
+# text = No in ihram Nordn bassiert's de kloane Residenzstod Oettingen .
+No	O	O
+in	O	O
+ihram	O	O
+Nordn	O	O
+bassiert's	O	O
+de	O	O
+kloane	O	O
+Residenzstod	O	O
+Oettingen	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-18
+# text = Bevor's den Südostfand vom Rias areicht , fliasst ihr noch vo rechts de Eger zua , de den greasstn Teil vo da ebnen Flachlandschaft im Westn entwässart und noch ihrana Entstehung jenseits da wirttmbeagischn Landesgrenz durch Neardlingaheroziagt .
+Bevor's	O	O
+den	O	O
+Südostfand	O	O
+vom	O	O
+Rias	B-LOC	B-LOC
+areicht	O	O
+,	O	O
+fliasst	O	O
+ihr	O	O
+noch	O	O
+vo	O	O
+rechts	O	O
+de	O	O
+Eger	B-LOC	B-LOC
+zua	O	O
+,	O	O
+de	O	O
+den	O	O
+greasstn	O	O
+Teil	O	O
+vo	O	O
+da	O	O
+ebnen	O	O
+Flachlandschaft	O	O
+im	O	O
+Westn	O	O
+entwässart	O	O
+und	O	O
+noch	O	O
+ihrana	O	O
+Entstehung	O	O
+jenseits	O	O
+da	O	O
+wirttmbeagischn	B-LOCderiv	B-LOCderiv
+Landesgrenz	O	O
+durch	O	O
+Neardlingaheroziagt	B-LOCpart	B-LOCpart
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-19
+# text = Oschliassnd bricht's in am enga , gwundna , südeastlich laafadn Doi durch'n Jura an da Grenz vo eastlicher Schwäbis cha Oib und südwestlicha Franknoib , in dem des Stodal Harburg am Ufa liagt .
+Oschliassnd	O	O
+bricht's	O	O
+in	O	O
+am	O	O
+enga	O	O
+,	O	O
+gwundna	O	O
+,	O	O
+südeastlich	O	O
+laafadn	O	O
+Doi	O	O
+durch'n	O	O
+Jura	B-LOC	B-LOC
+an	O	O
+da	O	O
+Grenz	O	O
+vo	O	O
+eastlicher	O	B-LOC
+Schwäbis	B-LOC	I-LOC
+cha	I-LOC	I-LOC
+Oib	I-LOC	I-LOC
+und	O	O
+südwestlicha	O	B-LOC
+Franknoib	B-LOC	I-LOC
+,	O	O
+in	O	O
+dem	O	O
+des	O	O
+Stodal	O	O
+Harburg	B-LOC	B-LOC
+am	O	O
+Ufa	O	B-LOC
+liagt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-20
+# text = Bold danoch mindt's , noch am Lauf vo iba 130 Kilometa , in Doanawearth im boarischn Schwoam vo links in de Doana .
+Bold	O	O
+danoch	O	O
+mindt's	O	O
+,	O	O
+noch	O	O
+am	O	O
+Lauf	O	O
+vo	O	O
+iba	O	O
+130	O	O
+Kilometa	O	O
+,	O	O
+in	O	O
+Doanawearth	B-LOC	B-LOC
+im	O	O
+boarischn	B-LOCderiv	B-LOC
+Schwoam	B-LOC	I-LOC
+vo	O	O
+links	O	O
+in	O	O
+de	O	O
+Doana	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-21
+# text = De Wernitz entwässart a Gebeit vo iba 1680 Quadratkilometa noch Südsüdostn zu Doana .
+De	O	O
+Wernitz	B-LOC	B-LOC
+entwässart	O	O
+a	O	O
+Gebeit	O	O
+vo	O	O
+iba	O	O
+1680	O	O
+Quadratkilometa	O	O
+noch	O	O
+Südsüdostn	O	O
+zu	O	O
+Doana	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-22
+# text = Es umfasst an groassn Teil vo da westlichn Franknhea , an deram Ostran zum Mittlfräkischn Beckn sie nächst valaaft , eh's no voa Dinkelsbühl durh des Mittlfränkische Beckkn fliasst , noch Wilburgstetten nacha durch des Vorland vo da Südlichn Fanknoib , des sie zletzt auf Südlauf valasst .
+Es	O	O
+umfasst	O	O
+an	O	O
+groassn	O	O
+Teil	O	O
+vo	O	O
+da	O	O
+westlichn	O	B-LOC
+Franknhea	B-LOC	I-LOC
+,	O	O
+an	O	O
+deram	O	O
+Ostran	O	O
+zum	O	O
+Mittlfräkischn	B-LOC	B-LOC
+Beckn	I-LOC	I-LOC
+sie	O	O
+nächst	O	O
+valaaft	O	O
+,	O	O
+eh's	O	O
+no	O	O
+voa	O	O
+Dinkelsbühl	B-LOC	B-LOC
+durh	O	O
+des	O	O
+Mittlfränkische	B-LOC	B-LOC
+Beckkn	I-LOC	I-LOC
+fliasst	O	O
+,	O	O
+noch	O	O
+Wilburgstetten	B-LOC	B-LOC
+nacha	O	O
+durch	O	O
+des	O	O
+Vorland	B-LOC	O
+vo	I-LOC	O
+da	I-LOC	O
+Südlichn	I-LOC	B-LOC
+Fanknoib	I-LOC	I-LOC
+,	O	O
+des	O	O
+sie	O	O
+zletzt	O	O
+auf	O	O
+Südlauf	O	O
+valasst	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-23
+# text = Sie wechslt do ins Neardlinga Rias und is oschliassnd mit ihram Doi duch den Jura da westlichste Teil vo da Südlichn Franknoib an da Grenz zur Riasoib im Westn , de ihraseits zur Schäbischn Oib rechnat .
+Sie	O	O
+wechslt	O	O
+do	O	O
+ins	O	O
+Neardlinga	B-LOC	B-LOC
+Rias	I-LOC	I-LOC
+und	O	O
+is	O	O
+oschliassnd	O	O
+mit	O	O
+ihram	O	O
+Doi	O	O
+duch	O	O
+den	O	O
+Jura	B-LOC	B-LOC
+da	O	O
+westlichste	O	O
+Teil	O	O
+vo	O	O
+da	O	O
+Südlichn	O	B-LOC
+Franknoib	B-LOC	I-LOC
+an	O	O
+da	O	O
+Grenz	O	O
+zur	O	O
+Riasoib	B-LOC	B-LOC
+im	O	O
+Westn	O	O
+,	O	O
+de	O	O
+ihraseits	O	O
+zur	O	O
+Schäbischn	B-LOC	B-LOC
+Oib	I-LOC	I-LOC
+rechnat	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-24
+# text = Im Nordwestn und Nordn vo ihram Einzugsgebiet bei Schillingsfürst konkurriert auf am kloana Stück jenseits vo da Wassascheidn de Tauba zum Moa , auf dem greasstn Teil vo da Nordostgrenz vo ihram Einzugsgebiet de Oidmui , de in ungafähr parallelm Lauf zur Doana fliasst .
+Im	O	O
+Nordwestn	O	O
+und	O	O
+Nordn	O	O
+vo	O	O
+ihram	O	O
+Einzugsgebiet	O	O
+bei	O	O
+Schillingsfürst	B-LOC	B-LOC
+konkurriert	O	O
+auf	O	O
+am	O	O
+kloana	O	O
+Stück	O	O
+jenseits	O	O
+vo	O	O
+da	O	O
+Wassascheidn	O	O
+de	O	O
+Tauba	B-LOC	B-LOC
+zum	O	O
+Moa	B-LOC	B-LOC
+,	O	O
+auf	O	O
+dem	O	O
+greasstn	O	O
+Teil	O	O
+vo	O	O
+da	O	O
+Nordostgrenz	O	O
+vo	O	O
+ihram	O	O
+Einzugsgebiet	O	O
+de	O	O
+Oidmui	B-LOC	B-LOC
+,	O	O
+de	O	O
+in	O	O
+ungafähr	O	O
+parallelm	O	O
+Lauf	O	O
+zur	O	O
+Doana	B-LOC	B-LOC
+fliasst	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-25
+# text = Im Westn dessejbign ziagt de Jagstzum Neckar .
+Im	O	O
+Westn	O	O
+dessejbign	O	O
+ziagt	O	O
+de	O	O
+Jagstzum	B-LOCpart	B-LOCpart
+Neckar	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-26
+# text = De Wernitz is a Teil vo oidn , südeastlich orientierdn Zuflusssystem zur Doana , wos se in na na sehr gleichmäßinga Gefällkurvn vo dem Fluss und am geringa mittlarn Sohlgefej vo ungafähr 0,7 Promill ausdruckt .
+De	O	O
+Wernitz	B-LOC	B-LOC
+is	O	O
+a	O	O
+Teil	O	O
+vo	O	O
+oidn	O	O
+,	O	O
+südeastlich	O	O
+orientierdn	O	O
+Zuflusssystem	O	O
+zur	O	O
+Doana	B-LOC	B-LOC
+,	O	O
+wos	O	O
+se	O	O
+in	O	O
+na	O	O
+na	O	O
+sehr	O	O
+gleichmäßinga	O	O
+Gefällkurvn	O	O
+vo	O	O
+dem	O	O
+Fluss	O	O
+und	O	O
+am	O	O
+geringa	O	O
+mittlarn	O	O
+Sohlgefej	O	O
+vo	O	O
+ungafähr	O	O
+0,7	O	O
+Promill	O	O
+ausdruckt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-27
+# text = De emfoills danubische Oidmui im Nordostn hot da an Wert vo rund 0,5 Promill , währand de rheinsch oriendiertn Nachbarfliss Jagst im Westn und Tauba im Nordwest den doppedn Wert vo da Wernitz erreichan oda ibaschreitn .
+De	O	O
+emfoills	O	O
+danubische	B-LOCderiv	O
+Oidmui	B-LOC	B-LOC
+im	O	O
+Nordostn	O	O
+hot	O	O
+da	O	O
+an	O	O
+Wert	O	O
+vo	O	O
+rund	O	O
+0,5	O	O
+Promill	O	O
+,	O	O
+währand	O	O
+de	O	O
+rheinsch	B-LOCderiv	O
+oriendiertn	O	O
+Nachbarfliss	O	O
+Jagst	B-LOC	B-LOC
+im	O	O
+Westn	O	O
+und	O	O
+Tauba	B-LOC	B-LOC
+im	O	O
+Nordwest	O	O
+den	O	O
+doppedn	O	O
+Wert	O	O
+vo	O	O
+da	O	O
+Wernitz	B-LOC	B-LOC
+erreichan	O	O
+oda	O	O
+ibaschreitn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-28
+# text = Sie is da erste greassare , no heit zur Doana noch Südostn entwässarnde Fluss , den ma aus Richtung vom mittlarn Neckar bei Heilbronn
+Sie	O	O
+is	O	O
+da	O	O
+erste	O	O
+greassare	O	O
+,	O	O
+no	O	O
+heit	O	O
+zur	O	O
+Doana	B-LOC	B-LOC
+noch	O	O
+Südostn	O	O
+entwässarnde	O	O
+Fluss	O	O
+,	O	O
+den	O	O
+ma	O	O
+aus	O	O
+Richtung	O	O
+vom	O	O
+mittlarn	O	O
+Neckar	B-LOC	B-LOC
+bei	O	O
+Heilbronn	B-LOC	B-LOC
+
+# sent_id = bar_wiki_Wörnitz-29
+# text = kemmad otrifft , wenn ma in eastlicha Richtung des Südwestdeitsche Stufnland durchquert .
+kemmad	O	O
+otrifft	O	O
+,	O	O
+wenn	O	O
+ma	O	O
+in	O	O
+eastlicha	O	O
+Richtung	O	O
+des	O	O
+Südwestdeitsche	B-LOC	B-LOC
+Stufnland	I-LOC	I-LOC
+durchquert	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-30
+# text = Vor längara geologischa Zeit san aa de dovoa heit zum Neckar lafadn Kocha und Jagst no in dera Richtung zur Doana hi gflossn .
+Vor	O	O
+längara	O	O
+geologischa	O	O
+Zeit	O	O
+san	O	O
+aa	O	O
+de	O	O
+dovoa	O	O
+heit	O	O
+zum	O	O
+Neckar	B-LOC	B-LOC
+lafadn	O	O
+Kocha	B-LOC	B-LOC
+und	O	O
+Jagst	B-LOC	B-LOC
+no	O	O
+in	O	O
+dera	O	O
+Richtung	O	O
+zur	O	O
+Doana	B-LOC	B-LOC
+hi	O	O
+gflossn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-31
+# text = An deitlichn Hiweis auf den Gwinn vom Rhein-System sigt ma beim Schillingsfiasta Ursprung .
+An	O	O
+deitlichn	O	O
+Hiweis	O	O
+auf	O	O
+den	O	O
+Gwinn	O	O
+vom	O	O
+Rhein-System	B-LOCpart	B-LOCpart
+sigt	O	O
+ma	O	O
+beim	O	O
+Schillingsfiasta	B-LOCderiv	B-LOC
+Ursprung	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-32
+# text = Rechts und nordwestle vom obarstn Lauf foillt da de Franknhea jenseits vo na kloana Geländewelln im Stodal auf de erstn 2 Kilometa iba die " Katznling " vom Davidsboch hi durch de heftig ogreifade rheinische Erosion freiglegte Hohenloha Ebne um iba 80 Hehnmeta steil ob , währand de Wernitz auf ihrn iba 130 Kilometa no ned amoi 100 Hehnmeta Gfej zoigt .
+Rechts	O	O
+und	O	O
+nordwestle	O	O
+vom	O	O
+obarstn	O	O
+Lauf	O	O
+foillt	O	O
+da	O	O
+de	O	O
+Franknhea	B-LOC	B-LOC
+jenseits	O	O
+vo	O	O
+na	O	O
+kloana	O	O
+Geländewelln	O	O
+im	O	O
+Stodal	O	O
+auf	O	O
+de	O	O
+erstn	O	O
+2	O	O
+Kilometa	O	O
+iba	O	O
+die	O	O
+"	O	O
+Katznling	O	B-LOC
+"	O	O
+vom	O	O
+Davidsboch	B-LOC	B-LOC
+hi	O	O
+durch	O	O
+de	O	O
+heftig	O	O
+ogreifade	O	O
+rheinische	B-LOCderiv	B-LOCderiv
+Erosion	O	O
+freiglegte	O	O
+Hohenloha	B-LOC	B-LOC
+Ebne	I-LOC	I-LOC
+um	O	O
+iba	O	O
+80	O	O
+Hehnmeta	O	O
+steil	O	O
+ob	O	O
+,	O	O
+währand	O	O
+de	O	O
+Wernitz	B-LOC	B-LOC
+auf	O	O
+ihrn	O	O
+iba	O	O
+130	O	O
+Kilometa	O	O
+no	O	O
+ned	O	O
+amoi	O	O
+100	O	O
+Hehnmeta	O	O
+Gfej	O	O
+zoigt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-33
+# text = Im Doi lign meist nur kloane Dearfa und Ghöfte , de oanzinga Städt vorm Mindungsort Doanawerth an da Doana mit unta
+Im	O	O
+Doi	O	O
+lign	O	O
+meist	O	O
+nur	O	O
+kloane	O	O
+Dearfa	O	O
+und	O	O
+Ghöfte	O	O
+,	O	O
+de	O	O
+oanzinga	O	O
+Städt	O	O
+vorm	O	O
+Mindungsort	O	O
+Doanawerth	B-LOC	B-LOC
+an	O	O
+da	O	O
+Doana	B-LOC	B-LOC
+mit	O	O
+unta	O	O
+
+# sent_id = bar_wiki_Wörnitz-34
+# text = 20.000 Eiwohna san Dinkelsbühl mit unta 12.000 sowie Wassatrüdinga , Oettingen und Harburg mit zwischn 5.000 und 6.000 Eiwohna .
+20.000	O	O
+Eiwohna	O	O
+san	O	O
+Dinkelsbühl	B-LOC	B-LOC
+mit	O	O
+unta	O	O
+12.000	O	O
+sowie	O	O
+Wassatrüdinga	B-LOC	B-LOC
+,	O	O
+Oettingen	B-LOC	B-LOC
+und	O	O
+Harburg	B-LOC	B-LOC
+mit	O	O
+zwischn	O	O
+5.000	O	O
+und	O	O
+6.000	O	O
+Eiwohna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-35
+# text = Sejbst vo dene lebt a merklicha Teil aussahoi vo de Zentren in voi kloane Weila und Oinzlgheft , denn de Gmoa und Städt umfassn in dera dünn besiedldn Landschoft weide Flächn in land- und forstwirtschaftlicha Flua .
+Sejbst	O	O
+vo	O	O
+dene	O	O
+lebt	O	O
+a	O	O
+merklicha	O	O
+Teil	O	O
+aussahoi	O	O
+vo	O	O
+de	O	O
+Zentren	O	O
+in	O	O
+voi	O	O
+kloane	O	O
+Weila	O	O
+und	O	O
+Oinzlgheft	O	O
+,	O	O
+denn	O	O
+de	O	O
+Gmoa	O	O
+und	O	O
+Städt	O	O
+umfassn	O	O
+in	O	O
+dera	O	O
+dünn	O	O
+besiedldn	O	O
+Landschoft	O	O
+weide	O	O
+Flächn	O	O
+in	O	O
+land-	O	O
+und	O	O
+forstwirtschaftlicha	O	O
+Flua	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-36
+# text = Wörnitzquej in Schillingsfürst an da Dombühla Strass auf etwa 490 Meta .
+Wörnitzquej	B-LOCpart	B-LOC
+in	O	O
+Schillingsfürst	B-LOC	B-LOC
+an	O	O
+da	O	O
+Dombühla	B-LOC	B-LOC
+Strass	I-LOC	I-LOC
+auf	O	O
+etwa	O	O
+490	O	O
+Meta	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-37
+# text = Obalauf noch Südsüdostn bis zum Ostknick bei Wilburgstettn :
+Obalauf	O	O
+noch	O	O
+Südsüdostn	O	O
+bis	O	O
+zum	O	O
+Ostknick	O	O
+bei	O	O
+Wilburgstettn	B-LOC	B-LOC
+:	O	O
+
+# sent_id = bar_wiki_Wörnitz-38
+# text = Ostlauf bis Wassatründinga :
+Ostlauf	O	O
+bis	O	O
+Wassatründinga	B-LOC	B-LOC
+:	O	O
+
+# sent_id = bar_wiki_Wörnitz-39
+# text = Südlauf bis zum Rand vo da Franknoib :
+Südlauf	O	O
+bis	O	O
+zum	O	O
+Rand	O	O
+vo	O	O
+da	O	O
+Franknoib	B-LOC	B-LOC
+:	O	O
+
+# sent_id = bar_wiki_Wörnitz-40
+# text = " , vo links bei Bühl im Rias .
+"	O	O
+,	O	O
+vo	O	O
+links	O	O
+bei	O	O
+Bühl	B-LOC	B-LOC
+im	I-LOC	I-LOC
+Rias	I-LOC	I-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-41
+# text = Südeastlichs Durchbruchsdoi durch de Franknoib zur Doana :
+Südeastlichs	O	O
+Durchbruchsdoi	O	O
+durch	O	O
+de	O	O
+Franknoib	B-LOC	B-LOC
+zur	O	O
+Doana	B-LOC	B-LOC
+:	O	O
+
+# sent_id = bar_wiki_Wörnitz-42
+# text = Mindung vo da Wernitz in Doanawerth auf ungafähr 395,1 Meta vo links in'd Doana .
+Mindung	O	O
+vo	O	O
+da	O	O
+Wernitz	B-LOC	B-LOC
+in	O	O
+Doanawerth	B-LOC	B-LOC
+auf	O	O
+ungafähr	O	O
+395,1	O	O
+Meta	O	O
+vo	O	O
+links	O	O
+in'd	O	O
+Doana	B-LOC	B-LOC
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-43
+# text = Da mittlare Obfluss betrogt am Pegl Hartburg ( Fluss-Kilometa : 19,3 ) 11,3 Kubikmeta pro Sekundn .
+Da	O	O
+mittlare	O	O
+Obfluss	O	O
+betrogt	O	O
+am	O	O
+Pegl	B-LOC	O
+Hartburg	I-LOC	B-LOC
+(	O	O
+Fluss-Kilometa	O	O
+:	O	O
+19,3	O	O
+)	O	O
+11,3	O	O
+Kubikmeta	O	O
+pro	O	O
+Sekundn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-44
+# text = Da heachste Obfluss hot am 21. Dezemba 1993 444 Kubikmeta pro Sekundn betrong .
+Da	O	O
+heachste	O	O
+Obfluss	O	O
+hot	O	O
+am	O	O
+21.	O	O
+Dezemba	O	O
+1993	O	O
+444	O	O
+Kubikmeta	O	O
+pro	O	O
+Sekundn	O	O
+betrong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-45
+# text = Derartige Wassaständ führn zu weitn Ausufarunga , de a Sperrung vo da B 25 nötig macha kennan .
+Derartige	O	O
+Wassaständ	O	O
+führn	O	O
+zu	O	O
+weitn	O	O
+Ausufarunga	O	O
+,	O	O
+de	O	O
+a	O	O
+Sperrung	O	O
+vo	O	O
+da	O	O
+B	O	O
+25	O	O
+nötig	O	O
+macha	O	O
+kennan	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-46
+# text = An da Mindung in de Doana hat de Wernitz an mittlarn Obfluss vo guad 12 Kubikmeta pro Sekundn .
+An	O	O
+da	O	O
+Mindung	O	O
+in	O	O
+de	O	O
+Doana	B-LOC	B-LOC
+hat	O	O
+de	O	O
+Wernitz	B-LOC	B-LOC
+an	O	O
+mittlarn	O	O
+Obfluss	O	O
+vo	O	O
+guad	O	O
+12	O	O
+Kubikmeta	O	O
+pro	O	O
+Sekundn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-47
+# text = Des obn gnennde gringe Gfej vo am oidn Flus aklärt aa den Charakta vo dem Wassalauf und seim Doi .
+Des	O	O
+obn	O	O
+gnennde	O	O
+gringe	O	O
+Gfej	O	O
+vo	O	O
+am	O	O
+oidn	O	O
+Flus	O	O
+aklärt	O	O
+aa	O	O
+den	O	O
+Charakta	O	O
+vo	O	O
+dem	O	O
+Wassalauf	O	O
+und	O	O
+seim	O	O
+Doi	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-48
+# text = De Wernitz ziagt auf groisse Streckn vo ihram Lauf mit zoahlreiche Mäandarn durch a flache und feuchete Wiesnmuldn , oft begleit vo zruckglassane Oidwassa und schnurgrod zongne Entwässarungsgräbn , die die Auenflächn vo da Landwirtschaft nutzbar macha solln .
+De	O	O
+Wernitz	B-LOC	B-LOC
+ziagt	O	O
+auf	O	O
+groisse	O	O
+Streckn	O	O
+vo	O	O
+ihram	O	O
+Lauf	O	O
+mit	O	O
+zoahlreiche	O	O
+Mäandarn	O	O
+durch	O	O
+a	O	O
+flache	O	O
+und	O	O
+feuchete	O	O
+Wiesnmuldn	O	O
+,	O	O
+oft	O	O
+begleit	O	O
+vo	O	O
+zruckglassane	O	O
+Oidwassa	O	O
+und	O	O
+schnurgrod	O	O
+zongne	O	O
+Entwässarungsgräbn	O	O
+,	O	O
+die	O	O
+die	O	O
+Auenflächn	O	O
+vo	O	O
+da	O	O
+Landwirtschaft	O	O
+nutzbar	O	O
+macha	O	O
+solln	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-49
+# text = De Obaflächn vo dem Fluss ligt dobei oft spiaglglatt und lasst auf den erstn Blick konalei Bewegung erkenna .
+De	O	O
+Obaflächn	O	O
+vo	O	O
+dem	O	O
+Fluss	O	O
+ligt	O	O
+dobei	O	O
+oft	O	O
+spiaglglatt	O	O
+und	O	O
+lasst	O	O
+auf	O	O
+den	O	O
+erstn	O	O
+Blick	O	O
+konalei	O	O
+Bewegung	O	O
+erkenna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-50
+# text = Zualafade Bäch san oft zu Teichn aufgstaut , mancha davo löst se auf in a Kettn vo solchane Wassaflächn .
+Zualafade	O	O
+Bäch	O	O
+san	O	O
+oft	O	O
+zu	O	O
+Teichn	O	O
+aufgstaut	O	O
+,	O	O
+mancha	O	O
+davo	O	O
+löst	O	O
+se	O	O
+auf	O	O
+in	O	O
+a	O	O
+Kettn	O	O
+vo	O	O
+solchane	O	O
+Wassaflächn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-51
+# text = Manchaorts stehnan oide Muigebäude am Ufa oda an Seitnkanoi .
+Manchaorts	O	O
+stehnan	O	O
+oide	O	O
+Muigebäude	O	O
+am	O	O
+Ufa	O	O
+oda	O	O
+an	O	O
+Seitnkanoi	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-52
+# text = Auf den de Flussmuidn begleitendn niedringa Heahn zu de Nachbardoia wachst oft Woid ; nur auf da Streck duch des flache Rias bleibt de rechte Seitn durchgead offn .
+Auf	O	O
+den	O	O
+de	O	O
+Flussmuidn	O	O
+begleitendn	O	O
+niedringa	O	O
+Heahn	O	O
+zu	O	O
+de	O	O
+Nachbardoia	O	O
+wachst	O	O
+oft	O	O
+Woid	O	O
+;	O	O
+nur	O	O
+auf	O	O
+da	O	O
+Streck	O	O
+duch	O	O
+des	O	O
+flache	O	O
+Rias	B-LOC	B-LOC
+bleibt	O	O
+de	O	O
+rechte	O	O
+Seitn	O	O
+durchgead	O	O
+offn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-53
+# text = Erst kurz zletzt im Durchburchdoi durch den Jura bei Harburg tren ertmois hohe und steile Doiflankn auf .
+Erst	O	O
+kurz	O	O
+zletzt	O	O
+im	O	O
+Durchburchdoi	O	O
+durch	O	O
+den	O	O
+Jura	B-LOC	B-LOC
+bei	O	O
+Harburg	B-LOC	B-LOC
+tren	O	O
+ertmois	O	O
+hohe	O	O
+und	O	O
+steile	O	O
+Doiflankn	O	O
+auf	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-54
+# text = De Wernitz is fia ihran mändrierandn Lauf aus ana Vuizoal vo Schleifn und Beng bekannt , sie werd deshoib aa " Schlangafluss " gnennt .
+De	O	O
+Wernitz	B-LOC	B-LOC
+is	O	O
+fia	O	O
+ihran	O	O
+mändrierandn	O	O
+Lauf	O	O
+aus	O	O
+ana	O	O
+Vuizoal	O	O
+vo	O	O
+Schleifn	O	O
+und	O	O
+Beng	O	O
+bekannt	O	O
+,	O	O
+sie	O	O
+werd	O	O
+deshoib	O	O
+aa	O	O
+"	O	O
+Schlangafluss	O	O
+"	O	O
+gnennt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-55
+# text = Weng ihram reina Wassa und ihram gemächlichn Fliassgschindigkeit gibt's an da Wernitz mehrare Flussschwimmbäda und Bodestejn , unda andarm in Dinkelsbühl ( Wernitzstrandbod ) , Wassatrüdinga ( Wernitzbod ) und Oettingen ( Wernitzfreibod ) .
+Weng	O	O
+ihram	O	O
+reina	O	O
+Wassa	O	O
+und	O	O
+ihram	O	O
+gemächlichn	O	O
+Fliassgschindigkeit	O	O
+gibt's	O	O
+an	O	O
+da	O	O
+Wernitz	B-LOC	B-LOC
+mehrare	O	O
+Flussschwimmbäda	O	O
+und	O	O
+Bodestejn	O	O
+,	O	O
+unda	O	O
+andarm	O	O
+in	O	O
+Dinkelsbühl	B-LOC	B-LOC
+(	O	O
+Wernitzstrandbod	B-LOC	B-LOC
+)	O	O
+,	O	O
+Wassatrüdinga	B-LOC	B-LOC
+(	O	O
+Wernitzbod	B-LOC	B-LOC
+)	O	O
+und	O	O
+Oettingen	B-LOC	B-LOC
+(	O	O
+Wernitzfreibod	B-LOC	B-LOC
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Wörnitz-56
+# text = Weil vui Muin am Fluss ling und derane Wehre andars ois etwa bei da Oidmui nur schlecht zum umtrong san , is de Wernitz nur schwar mit Kanus zu befahrn .
+Weil	O	O
+vui	O	O
+Muin	O	O
+am	O	O
+Fluss	O	O
+ling	O	O
+und	O	O
+derane	O	O
+Wehre	O	O
+andars	O	O
+ois	O	O
+etwa	O	O
+bei	O	O
+da	O	O
+Oidmui	O	B-LOC
+nur	O	O
+schlecht	O	O
+zum	O	O
+umtrong	O	O
+san	O	O
+,	O	O
+is	O	O
+de	O	O
+Wernitz	B-LOC	B-LOC
+nur	O	O
+schwar	O	O
+mit	O	O
+Kanus	O	O
+zu	O	O
+befahrn	O	O
+.	O	O
+

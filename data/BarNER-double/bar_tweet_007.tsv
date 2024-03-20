@@ -1,0 +1,2628 @@
+# newdoc id = bar_tweet_1653606294018826242
+# sent_id = bar_tweet_1653606294018826242-1
+# text = ____ _____ ____ ______ ___________ __ ___________ _ ___ ___________ ___ __ _ _ _ _ _ _ _ _____ ____ ___ ____ ___ __________ _
+____	O	O	O
+_____	O	O	O
+____	O	O	O
+______	O	O	O
+___________	O	O	O
+__	O	O	O
+___________	B-ORGpart	B-ORGderiv	B-ORGpart
+_	O	O	O
+___	O	O	O
+___________	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+__________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1653606294018826242-2
+# text = ______ ______ _ _ _ _ _______________________
+______	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1498346840328220673
+# sent_id = bar_tweet_1498346840328220673-1
+# text = ________________ _____ ___ _ ___ ______ ____ _
+________________	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+______	O	O	O
+____	B-PER	B-PER	B-PER
+_	O	O	O
+
+# sent_id = bar_tweet_1498346840328220673-2
+# text = __ ______ ____ ___ ______ _____ _____ ____ _ __ ____ _ _ _ _ _ _ _ _
+__	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+______	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+____	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1031145895339929600
+# sent_id = bar_tweet_1031145895339929600-1
+# text = _______ __________ __ ________ _____ _____ _____ ___ ___ _____ __ ____ _
+_______	O	O	O
+__________	O	O	O
+__	O	O	O
+________	O	O	O
+_____	O	O	O
+_____	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1651525337744826370
+# sent_id = bar_tweet_1651525337744826370-1
+# text = _____________ _ __ ___ _ _ _ __ _
+_____________	O	O	O
+_	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1438180310844329994
+# sent_id = bar_tweet_1438180310844329994-1
+# text = ___________ ______________ _ ____ ___ ______ ______ ______ _
+___________	O	O	O
+______________	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+______	O	O	O
+______	O	O	O
+______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1650781526680911873
+# sent_id = bar_tweet_1650781526680911873-1
+# text = ___ _____ ___ _________ _ _
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+_________	B-LOC	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1650781526680911873-2
+# text = ____ __ _____ _____ __ ____ ___ ____________ ___ _ ____ _
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+____________	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1650781526680911873-3
+# text = ____ _ _________ ___ _ _ ___ ________ _ __
+____	O	O	O
+_	O	O	O
+_________	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+________	O	O	O
+_	O	O	O
+__	O	O	O
+
+# sent_id = bar_tweet_1650781526680911873-4
+# text = ____ ___ ______ ___ ____ ______ __ ______ _
+____	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+____	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1650781526680911873-5
+# text = __ _____ ___ ___ ___ _ _______________________
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1107635144922406912
+# sent_id = bar_tweet_1107635144922406912-1
+# text = ___________ ____ ___ _____ ____ ___ _ ____ __ _____ _ _ ________ _
+___________	O	O	O
+____	O	O	O
+___	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1107635144922406912-2
+# text = ______ ____ _
+______	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1664007220042801152
+# sent_id = bar_tweet_1664007220042801152-1
+# text = ________________ __ _____ ____ __ ____
+________________	O	O	O
+__	O	O	O
+_____	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+
+# newdoc id = bar_tweet_1658551812687814661
+# sent_id = bar_tweet_1658551812687814661-1
+# text = ___ __ _ ___ __ _
+___	O	O	O
+__	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1499648082706849795
+# sent_id = bar_tweet_1499648082706849795-1
+# text = _____________ _____ ____ _______ ______ ___ ___ ____ ____ ____ _ ____ _____ _ __
+_____________	O	O	O
+_____	O	O	O
+____	O	O	O
+_______	O	O	B-LOC
+______	B-LOC	B-LOCderiv	I-LOC
+___	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1623205402480373760
+# sent_id = bar_tweet_1623205402480373760-1
+# text = _________ ____ _____ _______ _ _
+_________	O	O	O
+____	O	O	O
+_____	O	O	O
+_______	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1557763015944335362
+# sent_id = bar_tweet_1557763015944335362-1
+# text = ____________ ________ _ ____ __ _____ _ _____ ____ _______ ______ _
+____________	O	O	O
+________	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+_____	O	O	O
+____	O	O	O
+_______	B-LOC	B-LOC	B-LOC
+______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1472092343574671364
+# sent_id = bar_tweet_1472092343574671364-1
+# text = __ ____________ _ ________ _____ _ ___ ________ _ ____ ___ _ ____ ______ _____ _________ __________ ________ ____ _
+__	O	O	O
+____________	O	O	O
+_	O	O	O
+________	O	O	O
+_____	O	O	O
+_	O	O	O
+___	O	O	O
+________	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+______	O	O	O
+_____	O	O	O
+_________	O	O	O
+__________	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1472092343574671364-2
+# text = ______ _ ____ ____ _ ____ _
+______	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1512435029489721352
+# sent_id = bar_tweet_1512435029489721352-1
+# text = __________ __________ ___ ___ _ _ ___________ ____ _____ _ _____ ___ ___ _______ _______ ___ _ _____ ____ _
+__________	O	O	O
+__________	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+___________	O	O	O
+____	O	O	O
+_____	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+_______	O	O	O
+_______	O	O	O
+___	O	O	O
+_	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1512435029489721352-2
+# text = ____ _ ____ ________ ____ _
+____	O	O	O
+_	O	O	O
+____	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1512435029489721352-3
+# text = ______ _ ____ _________ _ _
+______	O	O	O
+_	O	O	O
+____	O	O	O
+_________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1654278655743279104
+# sent_id = bar_tweet_1654278655743279104-1
+# text = __ ______ __ _ __ __ __ _____ _ ___ __ _____ __ _ __ __ _ _______ _
+__	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+__	O	O	O
+_	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_829067490223341576
+# sent_id = bar_tweet_829067490223341576-1
+# text = ________________ __ _ __ ____ __ ___ _ _____ ___ _____ ___ _______ ___ ________ _______ _ ___ ___________ __ ____ _ ____ ___ ___ _ ___
+________________	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+_______	O	O	O
+_	O	O	O
+___	O	O	O
+___________	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+
+# newdoc id = bar_tweet_1275755484205715457
+# sent_id = bar_tweet_1275755484205715457-1
+# text = _________ ___ _____ _ __ _
+_________	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1615597930542682113
+# sent_id = bar_tweet_1615597930542682113-1
+# text = ________ ___ __ ___________ ___ ____ _________ _______ ____ _
+________	O	O	O
+___	O	O	O
+__	O	O	O
+___________	O	O	O
+___	O	O	O
+____	O	O	O
+_________	O	O	O
+_______	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1099340209815195648
+# sent_id = bar_tweet_1099340209815195648-1
+# text = __ __ __ __ _______ _
+__	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1099340209815195648-2
+# text = _ _____ ______ _
+_	O	O	O
+_____	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1099340209815195648-3
+# text = ___ ___ ______ ___
+___	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+
+# sent_id = bar_tweet_1099340209815195648-4
+# text = ___ _____ _ ____ ________ _____ _______ _
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+____	O	O	O
+________	O	O	O
+_____	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1099340209815195648-5
+# text = ____ _
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_744839748422893568
+# sent_id = bar_tweet_744839748422893568-1
+# text = _____ __ ____ _______ _ __________ _
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+_______	O	O	O
+_	O	O	O
+__________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_744839748422893568-2
+# text = ________ __ _____ __________ ___ ___ _________ _ ___ _______________________
+________	O	O	O
+__	O	O	O
+_____	O	O	O
+__________	O	O	O
+___	O	O	O
+___	O	O	O
+_________	O	O	O
+_	O	O	O
+___	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_979260630803808256
+# sent_id = bar_tweet_979260630803808256-1
+# text = ___ ____ _ _______ ______ _ _ ____ ______ ____ ___ ___ ___ ___ ____ ____ ___ _____ ___ _____ ____ ____ _______________________
+___	O	O	O
+____	O	O	O
+_	O	O	O
+_______	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+____	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+_____	O	O	O
+____	O	O	O
+____	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1651465008037888000
+# sent_id = bar_tweet_1651465008037888000-1
+# text = ___________ ____ ______ _ _ _
+___________	O	O	O
+____	O	O	O
+______	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1258750488046075907
+# sent_id = bar_tweet_1258750488046075907-1
+# text = ____ ______ ___ ___ ________ _____ _ _ _ ____ ________ _____ ________ _ _ _______________________
+____	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+________	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+____	O	O	O
+________	O	O	O
+_____	O	O	O
+________	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1348535446414888960
+# sent_id = bar_tweet_1348535446414888960-1
+# text = _____________ ______ ___
+_____________	O	O	O
+______	O	O	O
+___	O	O	O
+
+# newdoc id = bar_tweet_1325074463025729538
+# sent_id = bar_tweet_1325074463025729538-1
+# text = _______ _ _____ ____ _ ________________ _____ _
+_______	O	O	O
+_	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+________________	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_695526625962807296
+# sent_id = bar_tweet_695526625962807296-1
+# text = ____ ___ _______________ ___ __ ________ _ ___ _________ __ _________ _______ _____ ___ _____ _ ____ __ __ ___ _______________________
+____	O	O	O
+___	O	O	O
+_______________	O	O	O
+___	O	O	O
+__	O	O	O
+________	O	O	O
+_	O	O	O
+___	O	O	O
+_________	O	O	O
+__	O	O	O
+_________	B-LOC	B-LOC	B-LOC
+_______	I-LOC	I-LOC	I-LOC
+_____	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+__	O	O	O
+___	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1652393596027297793
+# sent_id = bar_tweet_1652393596027297793-1
+# text = _ _____ __ _ ___ ___ _ _ _________ ___ _______ _ ___ ______ ______ _____ _
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+_________	O	O	O
+___	O	O	O
+_______	O	O	O
+_	O	O	O
+___	O	O	O
+______	O	O	O
+______	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1652393596027297793-2
+# text = __ ____ ___ ____ _ _____ _ _ _ ___ ________ ______________ _ _____ _ _ ___ ___ ___ _ ______________ _ __________ ______ _
+__	O	O	O
+____	O	O	O
+___	O	O	O
+____	O	O	B-ORG
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+________	O	O	O
+______________	O	O	O
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+______________	O	O	O
+_	O	O	O
+__________	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1652393596027297793-3
+# text = _____ _
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1652393596027297793-4
+# text = ____ __ ____ _______ ________ _
+____	O	O	O
+__	O	O	O
+____	O	O	O
+_______	O	O	O
+________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1652393596027297793-5
+# text = ________ __ ______ __ ______ _______ ___ _ ____ _______ _
+________	B-LOCderiv	B-LOCderiv	O
+__	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+_______	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1490940545614905345
+# sent_id = bar_tweet_1490940545614905345-1
+# text = _____________ ____ _ _ _______ __ __ __ __ _
+_____________	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+_______	B-PER	B-PER	B-PER
+__	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1651859912656584704
+# sent_id = bar_tweet_1651859912656584704-1
+# text = _________ _________ ________ ____ _ ____ ____ ________ ________ ___ ___ ______ ____ ____ __ ____ _
+_________	O	O	O
+_________	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+________	O	O	O
+________	O	O	O
+___	O	O	O
+___	O	O	O
+______	O	O	O
+____	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1651859912656584704-2
+# text = _____ __ _____ _____ ____ _ ___ __ ____ ____ _ ______ _ ____ ____ ____ ___ ____ __ ___ ________ __ ___ __ ______ ______ _____ ___ _________ ___ _ __________ _
+_____	O	O	O
+__	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+______	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+________	O	O	O
+__	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+______	O	O	O
+_____	O	O	O
+___	O	O	O
+_________	O	O	O
+___	O	O	O
+_	O	O	O
+__________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1646036329132613632
+# sent_id = bar_tweet_1646036329132613632-1
+# text = ____ _____ ____ ______ ___________ __ ___________ _ ___ ___________ ___ __ _ _ _ _ _ _ _____ ____ ___ ____ ___ __________ ___ ______ _ ______ _ _ _ _______________________
+____	O	O	O
+_____	O	O	O
+____	O	O	O
+______	O	O	O
+___________	O	O	O
+__	O	O	O
+___________	B-ORGpart	B-ORGderiv	B-ORGpart
+_	O	O	O
+___	O	O	O
+___________	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+__________	O	O	O
+___	O	O	O
+______	O	O	O
+_	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1653716199568490498
+# sent_id = bar_tweet_1653716199568490498-1
+# text = ____ _ ______ __
+____	O	O	O
+_	O	O	O
+______	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1310206994247278592
+# sent_id = bar_tweet_1310206994247278592-1
+# text = _______ _ _______________________
+_______	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_990972903599562752
+# sent_id = bar_tweet_990972903599562752-1
+# text = ______________ ____ _______ _ ___ ____ _______ ___________
+______________	O	O	O
+____	O	O	O
+_______	B-PER	B-PER	B-PER
+_	O	O	O
+___	O	O	O
+____	O	O	O
+_______	O	O	O
+___________	O	O	O
+
+# newdoc id = bar_tweet_1655426247134965764
+# sent_id = bar_tweet_1655426247134965764-1
+# text = ___________ ____ ____ __ ___ _
+___________	O	O	O
+____	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1391453280887361541
+# sent_id = bar_tweet_1391453280887361541-1
+# text = ________ _____________ _____________ _ ______ ____ ___ ___ __ ______ _ ____________ _
+________	O	O	O
+_____________	O	O	O
+_____________	O	O	O
+_	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+_	O	O	O
+____________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_803852665465827329
+# sent_id = bar_tweet_803852665465827329-1
+# text = ______________ ___ ___ _ _ _______ ___ _____ _____ ____ _ _
+______________	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+_______	O	O	O
+___	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1518806368320372737
+# sent_id = bar_tweet_1518806368320372737-1
+# text = _____________ __ _____ __ ___ _
+_____________	O	O	O
+__	O	O	O
+_____	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1518806368320372737-2
+# text = ___ ____ _ ____ ____ ___ __ __ ____ __ ________ _
+___	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+________	B-LOC	O	B-LOC
+_	O	O	O
+
+# sent_id = bar_tweet_1518806368320372737-3
+# text = ____ ____ ______ _ ____ __ ____ ___ _______ ____ _ __
+____	O	O	O
+____	O	O	O
+______	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+_______	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_981501924192194561
+# sent_id = bar_tweet_981501924192194561-1
+# text = _ _ ______ _ _ ___ _____________ ___ __ ___ ______ _
+_	O	O	O
+_	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+_____________	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_981501924192194561-2
+# text = ___ _ ___ ___ _______ _
+___	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_981501924192194561-3
+# text = _ _ ___ ____ ___ ___________ _
+_	O	O	O
+_	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+___________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_981501924192194561-4
+# text = ___ _ ___ __ ____ _ ____ __ _
+___	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_981501924192194561-5
+# text = _ _ __ _ __ ____ _____ __ ____ ___ _ ___ _ ____ __ ____ _
+_	O	O	O
+_	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+____	O	O	O
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_981501924192194561-6
+# text = _________________ ___ ________ ____
+_________________	O	O	O
+___	O	O	O
+________	B-LANG	B-LANG	B-LANG
+____	O	O	O
+
+# newdoc id = bar_tweet_1332412066070720521
+# sent_id = bar_tweet_1332412066070720521-1
+# text = ________ ___ ____ __ __ ____ ______
+________	O	O	O
+___	O	O	O
+____	B-PER	B-PER	O
+__	O	O	O
+__	O	O	O
+____	O	O	O
+______	O	O	O
+
+# newdoc id = bar_tweet_1503737392091566081
+# sent_id = bar_tweet_1503737392091566081-1
+# text = ____________ __________ __ __ _ _______ ________________ _
+____________	O	O	O
+__________	O	O	O
+__	O	O	O
+__	O	O	O
+_	O	O	O
+_______	O	O	O
+________________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1503737392091566081-2
+# text = __ ____ ___ __________ _____ _ __
+__	O	O	O
+____	B-PER	B-PER	O
+___	O	O	O
+__________	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1527527117537280000
+# sent_id = bar_tweet_1527527117537280000-1
+# text = ___________ ___ ____ ___ __________ _ _
+___________	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+__________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1527527117537280000-2
+# text = ___ _____ _____ _ _
+___	O	O	O
+_____	O	O	O
+_____	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1213036534900891648
+# sent_id = bar_tweet_1213036534900891648-1
+# text = ___ ____ __ ________ ___ ________ ___ ________ ___ __ ___ ____ _____ _____ ___ __ _____ ____ _ _
+___	O	O	O
+____	O	O	O
+__	O	O	O
+________	O	O	O
+___	O	O	O
+________	O	O	O
+___	O	O	O
+________	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+____	O	O	O
+_____	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1213036534900891648-2
+# text = _______________
+_______________	O	O	O
+
+# newdoc id = bar_tweet_1274231766782545920
+# sent_id = bar_tweet_1274231766782545920-1
+# text = ________ ___ _____ _ __
+________	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_831967237225451520
+# sent_id = bar_tweet_831967237225451520-1
+# text = ______ _____ _
+______	O	O	O
+_____	B-LOC	B-LOC	B-LOC
+_	O	O	O
+
+# newdoc id = bar_tweet_970532904110641152
+# sent_id = bar_tweet_970532904110641152-1
+# text = ______ _____ ____ _ ___ __ ____ ___ ___ __ _______ _
+______	O	O	O
+_____	O	O	O
+____	B-PER	B-PER	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_970532904110641152-2
+# text = ____ _____ __ _ ______ ______ ___ __ ______ ____ ___ ___ _
+____	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+______	O	O	O
+______	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1633715242281648128
+# sent_id = bar_tweet_1633715242281648128-1
+# text = ________ __ ____ _ ___ __ _
+________	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1628764075957145600
+# sent_id = bar_tweet_1628764075957145600-1
+# text = ____________ ____ ____
+____________	O	O	O
+____	O	O	O
+____	O	O	O
+
+# newdoc id = bar_tweet_1118741714750119938
+# sent_id = bar_tweet_1118741714750119938-1
+# text = ________ _____ _ _
+________	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1180762217026748416
+# sent_id = bar_tweet_1180762217026748416-1
+# text = _____ ____ _ ___ _ ______ ________ ___ _______ _____
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+_	O	O	O
+______	O	O	O
+________	B-LOCderiv	B-LOCderiv	B-LOCderiv
+___	O	O	O
+__	O	O	O
+_____	O	O	B-EVENT
+_____	O	O	O
+
+# sent_id = bar_tweet_1180762217026748416-2
+# text = ___ _____ ___ __________ ___ ______________ _
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+__________	O	O	O
+___	O	O	O
+______________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1658883430044532748
+# sent_id = bar_tweet_1658883430044532748-1
+# text = _____________ __ _ __ ___ ____ ____ _ _ _ _________ _
+_____________	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+___	O	O	O
+____	O	O	O
+____	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1409943943643607048
+# sent_id = bar_tweet_1409943943643607048-1
+# text = ______________ ____ ____ _
+______________	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1409943943643607048-2
+# text = ____ ______ ____ _______ __ _____ _ ____ __ ______ _____ ___ __ _______ ___ ______ _________ _
+____	O	O	O
+______	O	O	O
+____	O	O	O
+_______	O	O	O
+__	O	O	O
+_____	B-PER	B-PER	B-PER
+_	O	O	O
+____	O	O	O
+__	O	O	O
+______	B-LOC	B-LOC	B-LOC
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+_______	B-LOC	B-LOC	B-LOC
+___	O	O	O
+______	O	O	O
+_________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1409943943643607048-3
+# text = ___ ___ _ __ __________ _
+___	O	O	O
+___	O	O	O
+_	O	O	O
+__	O	O	O
+__________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1409943943643607048-4
+# text = __ ___ ______ __________ _
+__	O	O	O
+___	O	O	O
+______	O	O	O
+__________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1409943943643607048-5
+# text = __ ____ ___ ___ ____ ____ _ ____ _
+__	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1236192979863457792
+# sent_id = bar_tweet_1236192979863457792-1
+# text = ___________ ____ _____ _
+___________	O	O	O
+____	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1351077455038193666
+# sent_id = bar_tweet_1351077455038193666-1
+# text = ________________ _ ___ __ ___ _ ______ _ __
+________________	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+______	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1646580132071571457
+# sent_id = bar_tweet_1646580132071571457-1
+# text = _____________ _____________ ____ _____ ____________ ___ __ _________ _______ ____ _ __________ ___________ _ _
+_____________	O	O	O
+_____________	O	O	O
+____	O	O	O
+_____	O	O	O
+____________	O	O	O
+___	O	O	O
+__	O	O	O
+_________	O	B-PER	B-PER
+_______	O	I-PER	I-PER
+____	O	O	O
+_	O	O	O
+__________	O	O	O
+___________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1646580132071571457-2
+# text = __ _____ __ __ _____ _
+__	O	O	O
+_____	B-PER	O	B-PER
+__	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1646580132071571457-3
+# text = _ _____ _ __ __________ ___________ ______ ________ _ _
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+__________	O	O	O
+___________	O	O	O
+______	O	O	O
+________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_799331290231119873
+# sent_id = bar_tweet_799331290231119873-1
+# text = _____________ ___ _____ _
+_____________	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_799331290231119873-2
+# text = ______ ___ ___ __________ ___ ___ _
+______	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+________	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_799331290231119873-3
+# text = ___ _____ ___ ___ __ ____________ _ _______________________
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+____________	O	B-EVENT	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_617597067154821121
+# sent_id = bar_tweet_617597067154821121-1
+# text = _ _____ __ ____ ___ ___ _________ ____ ________ _
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+___	O	O	O
+_________	B-ORG	B-ORG	B-PER
+____	O	O	O
+________	B-EVENT	B-EVENT	B-EVENT
+_	O	O	O
+
+# sent_id = bar_tweet_617597067154821121-2
+# text = __ ___ __ _ ______________________ ______________________
+__	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+______________________	O	O	O
+______________________	O	O	O
+
+# newdoc id = bar_tweet_1544573274658672642
+# sent_id = bar_tweet_1544573274658672642-1
+# text = ____________ _____ __ _
+____________	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_731543753408839680
+# sent_id = bar_tweet_731543753408839680-1
+# text = _______ __ _ _ _____ ___ _ ______ _____ _
+_______	O	O	O
+__	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+______	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_731543753408839680-2
+# text = ___ ________ ____ ____ ___ _
+___	O	O	O
+________	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_731543753408839680-3
+# text = ___ ____ __ ____ ____ ____ ___ _
+___	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1541459032527060998
+# sent_id = bar_tweet_1541459032527060998-1
+# text = ________ _ _ _ _____ _________ ____ _______ ___ ____________ ___ ______ _
+________	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+_________	O	O	O
+____	O	O	O
+_______	O	O	O
+___	O	O	O
+____________	B-LOCderiv	B-LOCderiv	B-LOCderiv
+___	O	O	O
+______	B-LOCderiv	B-LOCderiv	O
+_	O	O	O
+
+# sent_id = bar_tweet_1541459032527060998-2
+# text = ___ ____ __ ___ __ _____________ ___ ______ ___ ___ ________ ____________ ___________ _
+___	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+__	O	O	O
+_____________	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+________	O	O	O
+____________	O	O	O
+___________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1658310220815245313
+# sent_id = bar_tweet_1658310220815245313-1
+# text = __ ____ __ ______ __ ________ _ ____ ______ _____ _____ ___ _ _____ ___ _
+__	O	O	O
+____	O	O	O
+__	O	O	O
+______	O	O	O
+__	O	O	O
+________	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+_____	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1291972408904232963
+# sent_id = bar_tweet_1291972408904232963-1
+# text = __________ ________________ _______ _ _ _ ___ __ ______ __ _________ ___ _______ ___ _______ ____ ___________ _ _ _
+__________	O	O	O
+________________	O	O	O
+_______	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+__	O	O	O
+_________	O	O	O
+___	O	O	O
+_______	O	O	O
+___	O	O	O
+_______	B-WOA	B-WOA	B-WOA
+____	I-WOA	I-WOA	I-WOA
+___________	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_254260973744029697
+# sent_id = bar_tweet_254260973744029697-1
+# text = ___ _______ ____ _ ___________ _ ________ __________ _ ___ ___ _____ _ ____ _____ _____ _ ___ _____ ___ __ ___ _ ____________________
+___	O	O	O
+_______	O	O	O
+____	O	O	O
+_	O	O	O
+___________	O	O	O
+_	O	O	O
+________	O	O	O
+__________	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+____	O	O	O
+_____	O	O	O
+_____	O	O	O
+_	O	O	O
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+____________________	O	O	O
+
+# newdoc id = bar_tweet_1313336006653902848
+# sent_id = bar_tweet_1313336006653902848-1
+# text = ________ __ _______ _____ _____ ____ _______ __ ____ ___ ______ ___ ____ __ ___ ______ _ ______ _ _
+________	O	O	O
+__	O	O	O
+_______	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+_______	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+______	O	O	O
+_	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1195255092305375232
+# sent_id = bar_tweet_1195255092305375232-1
+# text = ____________ __ _______ _____ _____ ____ ________ ________ _ ______ ____ ___ __ _______ ____ ________ __ __ __ __
+____________	O	O	O
+__	O	O	O
+_______	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+________	B-LOC	B-LOC	B-LOC
+________	O	O	O
+_	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+_______	O	O	O
+____	O	O	O
+________	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1211686241743376384
+# sent_id = bar_tweet_1211686241743376384-1
+# text = _____________ ______ _ _ ___ ____ ___ ______ ______ ___ ___ __ _ ____ _____ ___ _
+_____________	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+______	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+____	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1650835971636703233
+# sent_id = bar_tweet_1650835971636703233-1
+# text = _____ _ ____ __ _____ ____ ______ _
+_____	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+____	O	O	O
+______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_725575714557288448
+# sent_id = bar_tweet_725575714557288448-1
+# text = _______ __ _ _______ ___ __ _____ _____ ___ _____ ___ _____ _______ _ ________ ____ _ ___ _____ __ ____ __________ ___ _______________________
+_______	O	O	O
+__	O	O	O
+_	O	O	O
+_______	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+_____	O	O	O
+___	O	O	O
+_____	O	B-ORG	B-ORG
+___	O	I-ORG	I-ORG
+_____	O	I-ORG	I-ORG
+_______	O	O	O
+_	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+__________	O	O	O
+___	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1600073427498532865
+# sent_id = bar_tweet_1600073427498532865-1
+# text = ________________ _____ ____ ____ _ __ ______ ________ __ ____ __ ___ __ _______ ______________ ______
+________________	O	O	O
+_____	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+______	B-LOC	B-LOC	B-LOC
+________	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+___	O	O	O
+__	O	O	O
+_______	O	O	O
+______________	O	O	O
+______	O	O	O
+
+# newdoc id = bar_tweet_1631729883335335955
+# sent_id = bar_tweet_1631729883335335955-1
+# text = ___ __ ____ _ _ _____ __ __ ___ ________ _ _____ _ _ _ _____ ___ ___ _____ ___ _
+___	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+__	O	O	O
+___	O	O	O
+________	O	O	O
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1631729883335335955-2
+# text = ______ _____ ____________ ______________ __ _ _________ ____ ____ _
+______	O	O	O
+_____	O	O	O
+____________	O	B-LOC	B-EVENT
+______________	O	B-PER	B-PER
+__	O	O	O
+_	O	O	O
+_________	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1570785935180300290
+# sent_id = bar_tweet_1570785935180300290-1
+# text = _____ _________ _________ _ _ ___ ____ ____ _____ _ __ ____ __ ____ _
+_____	O	O	O
+_________	O	O	O
+_________	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1570785935180300290-2
+# text = ___ __ _______ _____ ____ ___ ________ _ _
+___	O	O	O
+__	O	O	O
+_______	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1570785935180300290-3
+# text = ______ ______ ____
+______	B-ORG	B-ORG	B-ORG
+______	I-ORG	I-ORG	I-ORG
+____	I-ORG	I-ORG	I-ORG
+
+# newdoc id = bar_tweet_1514107028347760645
+# sent_id = bar_tweet_1514107028347760645-1
+# text = ________________ _____ __ ___ _____ _____________ _ ___ ______ ____ _
+________________	O	O	O
+_____	O	O	O
+__	O	O	O
+___	O	O	O
+_____	O	O	O
+_____________	O	O	O
+_	O	O	O
+___	O	O	O
+______	O	O	O
+____	B-PER	B-PER	B-PER
+_	O	O	O
+
+# sent_id = bar_tweet_1514107028347760645-2
+# text = ___ __ __ __ ______ ___ ___ ___ __ __ ______ ____ _
+___	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+______	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1514107028347760645-3
+# text = ___ ___ _____ ____ ___ _ __ ____ _ _ _ _ _ _ _ _
+___	O	O	O
+___	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+__	O	O	O
+____	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1657263940416544768
+# sent_id = bar_tweet_1657263940416544768-1
+# text = ___ _____ ___ _________ _ _
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+_________	B-LOC	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1657263940416544768-2
+# text = ___ ______ __ ___ ___________ ____ _
+___	O	O	O
+______	O	O	O
+__	O	O	O
+___	O	O	O
+___________	B-LOCderiv	B-LOC	B-LOC
+____	O	I-LOC	I-LOC
+_	O	O	O
+
+# sent_id = bar_tweet_1657263940416544768-3
+# text = ____ __ __________ ___ ____ ______ ___ __ ______ ___ ____ ________ _
+____	O	O	O
+__	O	O	O
+__________	O	O	O
+___	O	O	O
+____	O	O	O
+______	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+___	O	O	O
+____	O	O	O
+________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1657263940416544768-4
+# text = ___ ________ __ ____ __ _____ _ __________ ____ __ _____ ___ ____ _ _______________________
+___	O	O	O
+________	O	O	O
+__	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+__________	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1641324957610196995
+# sent_id = bar_tweet_1641324957610196995-1
+# text = _____________ ___ _____ ___ ______ _
+_____________	O	O	O
+___	O	O	O
+_____	O	O	O
+___	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1641324957610196995-2
+# text = _________ _ _____ _ _ _________ ___ __ _____ ___ _____ _____ _____ _ _ _______________________
+_________	O	O	O
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_________	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+_____	O	O	O
+_____	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1494523316702306304
+# sent_id = bar_tweet_1494523316702306304-1
+# text = __ _ ____________ __ ____ _ ____ ___ _ ___ ___ _____ _ ____ ____ __ _____ _
+__	O	O	O
+_	O	O	O
+____________	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1494523316702306304-2
+# text = ___ ____ _ __ ________ ____ _ ___ __ __ __ ______ _________ _
+___	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+______	O	O	O
+_________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1494523316702306304-3
+# text = __ _____ _ _____ _ _ _____ ___ ___ ____ _____ ____ ___ _ __
+__	O	O	O
+_____	B-PER	B-PER	B-PER
+_	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+___	O	O	O
+____	O	O	O
+_____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+__	O	O	O
+
+# sent_id = bar_tweet_1494523316702306304-4
+# text = ____ ____ _ __ ____ _____ _ ____ ____ _ __ _____ _____ ____ ________ ________ ________ _ _ _______________________
+____	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+____	B-LOC	O	O
+_____	I-LOC	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+_____	O	O	O
+_____	O	O	O
+____	O	O	O
+________	O	O	O
+________	O	O	O
+________	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1656364541616222224
+# sent_id = bar_tweet_1656364541616222224-1
+# text = ___________ ____ _____ _
+___________	O	O	O
+____	O	O	O
+_____	B-PER	B-PER	B-PER
+_	O	O	O
+
+# sent_id = bar_tweet_1656364541616222224-2
+# text = _ ____ _ ___ ______ ____ ___ __ ____ _________ _
+_	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+______	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+____	O	O	O
+_________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1656364541616222224-3
+# text = _____ ___ _ ____ ____ ____ ___ _ ____ _____ _ _______ ___ ____ _
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+_____	O	O	O
+_	O	O	O
+_______	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1656364541616222224-4
+# text = ___ ___________ __________ ___ _ _________ ______ _
+___	O	O	O
+___________	O	O	O
+__________	O	O	O
+___	O	O	O
+_	O	O	O
+_________	O	O	O
+______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1350483096223830017
+# sent_id = bar_tweet_1350483096223830017-1
+# text = _ ______________ ____ ___ ________ _ _______________________
+_	O	O	O
+______________	O	O	O
+____	O	O	O
+___	O	O	O
+________	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1400856019400597504
+# sent_id = bar_tweet_1400856019400597504-1
+# text = ____________ _ ______ __ ___ ____ _ __ ___ __ _______ __ _ ___ _
+____________	O	O	O
+_	O	O	O
+______	O	O	O
+__	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+__	O	O	O
+___	O	O	O
+__	O	O	O
+_______	O	O	O
+__	O	O	O
+_	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1400856019400597504-2
+# text = __ _____ ___ __ _ _____ ______ _
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+_	O	O	O
+_____	O	O	O
+______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1400856019400597504-3
+# text = __ ____ ____ ___ ________ __ __
+__	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+________	O	O	O
+__	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1320496325289512961
+# sent_id = bar_tweet_1320496325289512961-1
+# text = __________ ______________ _____ _______ _ _
+__________	O	O	O
+______________	O	O	O
+_____	O	O	O
+_______	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-2
+# text = ________ _
+________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-3
+# text = ____ __ ______ _ ______ __ ______ ________ ____ _ ____ ___ __ __ ____ ______ ___ _
+____	O	O	O
+__	O	O	O
+______	O	O	O
+_	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+________	O	O	O
+____	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+____	O	O	O
+______	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-4
+# text = ___ __ _____ _______ _________ __ ___ _
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+_______	O	O	O
+_________	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-5
+# text = ___ ______ __ ______ ___ _____ _____ _
+___	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+___	O	O	O
+_____	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-6
+# text = __ _____ ___ _
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1320496325289512961-7
+# text = ___ _ _ ____ ___
+___	O	O	O
+_	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+
+# newdoc id = bar_tweet_680316027549409280
+# sent_id = bar_tweet_680316027549409280-1
+# text = ___ _ ______ ___ __________ ___________ _
+___	O	O	O
+_	O	O	O
+______	O	O	O
+___	O	O	O
+__________	O	O	O
+___________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_680316027549409280-2
+# text = __ ____ ____________ ___ ___ ______ ______ ___ _______ _ _ ______ ___ _______________________
+__	O	O	O
+____	O	O	O
+____________	O	O	O
+___	O	O	O
+___	O	O	O
+______	B-LOC	B-LOC	B-LOC
+______	I-LOC	I-LOC	I-LOC
+___	O	O	O
+_______	O	O	O
+_	O	O	O
+_	O	O	O
+______	B-PER	B-PER	B-PER
+___	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_778285708326866944
+# sent_id = bar_tweet_778285708326866944-1
+# text = _____ _ __ ___ _ _____ ______ ___ ____ ___ _______________________
+_____	O	O	O
+_	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+_____	O	O	O
+______	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1541279573437980672
+# sent_id = bar_tweet_1541279573437980672-1
+# text = __ _______ _____ _____ ___ _ ______ _____ ______ _ ____ __ _ __ _ __
+__	O	O	O
+_______	O	O	O
+_____	O	O	O
+_____	O	O	O
+___	O	O	O
+_	O	O	O
+______	O	O	O
+_____	O	O	O
+______	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+
+# newdoc id = bar_tweet_1645461293862645761
+# sent_id = bar_tweet_1645461293862645761-1
+# text = __ ___________ _ _ __ __ ___ _____ _ ___ __ _________ ____ ____ ____ _ ______ ________ _ _ _______________________
+__	O	O	O
+___________	O	O	O
+_	O	O	O
+_	O	O	O
+__	O	O	O
+__	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+_________	B-LOC	B-LOC	B-LOC
+____	O	O	O
+____	O	O	O
+____	O	O	O
+_	O	O	O
+______	O	O	O
+________	O	O	O
+_	O	O	O
+_	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_525564694929895424
+# sent_id = bar_tweet_525564694929895424-1
+# text = ____________ _____________ ___ __ ___ ___ ___ _ ___ _ ___ __ ___ _
+____________	O	O	O
+_____________	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_525564694929895424-2
+# text = ____ _ _____ __ _ ____ ____ ____ ___ __ _______________
+____	O	O	O
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+_______________	O	O	O
+
+# newdoc id = bar_tweet_1334526832771784705
+# sent_id = bar_tweet_1334526832771784705-1
+# text = __________ _ _____ __ ___ __ __ _______ _ ____ __ ______ __ ______ _____ _____ __ ______ ___ _____ _
+__________	O	O	O
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+_______	O	O	O
+_	O	O	O
+____	O	O	O
+__	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+_____	O	O	O
+_____	O	O	O
+__	O	O	O
+______	O	O	O
+___	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1334526832771784705-2
+# text = _________ ___________ ___ __________ ______ __ ______ __ ___ _
+_________	O	O	O
+___________	O	O	O
+___	O	O	O
+__________	O	O	O
+______	O	O	O
+__	O	O	O
+______	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1391698464581558277
+# sent_id = bar_tweet_1391698464581558277-1
+# text = ____________ ___ ___ _ ____ ___ _ ________ _ ____ ___ __ ___________ _
+____________	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+________	O	O	O
+_	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+___________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1391698464581558277-2
+# text = _____ ______ __ ___ _
+_____	O	O	O
+______	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1391698464581558277-3
+# text = _________ _ ________ ____ ___ _
+_________	O	O	O
+_	O	O	O
+________	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1516999147601248257
+# sent_id = bar_tweet_1516999147601248257-1
+# text = _____________ __ ____ _
+_____________	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1516999147601248257-2
+# text = ____ __ ________ __ __ __ ____ _ _
+____	O	O	O
+__	O	O	O
+________	O	O	O
+__	O	O	O
+__	O	O	O
+__	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1516999147601248257-3
+# text = ____ ___ ______ ______ ___ __ _____ _____ ________ _
+____	O	O	O
+___	O	O	O
+______	O	O	O
+______	O	O	O
+___	O	O	O
+__	O	O	O
+_____	O	O	O
+_____	O	O	O
+________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1516999147601248257-4
+# text = ___________ __ _
+___________	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1615741762529812481
+# sent_id = bar_tweet_1615741762529812481-1
+# text = _____________ _____ __ _
+_____________	O	O	O
+_____	O	O	O
+__	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1656353559489794051
+# sent_id = bar_tweet_1656353559489794051-1
+# text = ________________ ________ ___ _____ _______ _ _
+________________	O	O	O
+________	O	O	O
+___	O	O	O
+_____	O	O	O
+_______	B-PER	B-PER	B-PER
+_	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1134542937021440000
+# sent_id = bar_tweet_1134542937021440000-1
+# text = ___________ ___ ____ _ ______ __ __________ ____________ ___ _ _____ ___ _____ __ _____ __ ___________ ____ _____ _______ _ ___ ___ ______ ___ ______ _____ _____ _
+___________	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+______	O	O	O
+__	O	O	O
+__________	O	B-EVENT	O
+____________	O	O	O
+___	O	O	O
+_	O	O	O
+_____	O	O	O
+___	O	O	O
+_____	O	O	O
+__	O	O	O
+_____	O	O	O
+__	O	O	O
+___________	O	O	O
+____	O	O	O
+_____	O	O	O
+_______	O	O	O
+_	O	O	O
+___	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+______	O	O	O
+_____	O	O	O
+_____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1152959592827097088
+# sent_id = bar_tweet_1152959592827097088-1
+# text = __ ____________ _ ____________ ___ ___ ____ _ _ ___ ____ ____ ____ ____ _____ ____ ____ _ ___ ___ _ _ ____ _ __________ __________ _ ____ _ ___ _
+__	O	O	O
+____________	O	O	O
+_	O	O	O
+____________	O	O	O
+___	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+____	O	O	O
+_____	O	O	O
+____	O	O	O
+____	O	B-PER	B-PER
+_	O	O	O
+___	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+____	O	O	O
+_	O	O	O
+__________	O	O	O
+__________	O	O	O
+_	O	O	O
+____	O	O	O
+_	O	O	O
+___	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1648255728098967552
+# sent_id = bar_tweet_1648255728098967552-1
+# text = ________ __ ___________ ____ _______ ____ ___ ______ ___ ___ _______ _
+________	O	O	O
+__	O	O	O
+___________	B-LOCderiv	B-LOC	B-LOC
+____	O	I-LOC	I-LOC
+_______	O	O	O
+____	O	O	O
+___	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1648255728098967552-2
+# text = _ ___ ____ _ _ ___ __ __ ____ ____ _____ ______ _ _
+_	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+____	O	O	O
+____	O	O	O
+_____	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1648255728098967552-3
+# text = _ __ ___ _ _ ___ __ ______ ____ _ _____ __ ______ _ _
+_	O	O	O
+__	O	O	O
+___	O	O	O
+_	O	O	O
+_	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+____	O	O	O
+_	O	O	O
+_____	O	O	O
+__	O	O	O
+______	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1648255728098967552-4
+# text = _ __ __ _ __ _____ ___ __ ____________ _ _
+_	O	O	O
+__	O	O	O
+__	O	O	O
+_	O	O	O
+__	O	O	O
+_____	O	O	O
+___	O	O	O
+__	O	O	O
+____________	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1648255728098967552-5
+# text = _______________
+_______________	B-LANGpart	B-LANGpart	B-LANGpart
+
+# newdoc id = bar_tweet_1626994776217092097
+# sent_id = bar_tweet_1626994776217092097-1
+# text = ___ __ ____ _____ ____ _______ ___ ___ ___ _________ ____ ___ _______ ____ _
+___	O	O	O
+__	O	O	O
+____	O	O	O
+_____	O	O	O
+____	O	O	O
+_______	O	O	O
+___	O	O	O
+___	O	O	O
+___	O	O	O
+_________	O	O	O
+____	O	O	O
+___	O	O	O
+_______	O	O	O
+____	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1626994776217092097-2
+# text = ___ ________ ____ ___ __________ _ ______ _____ ______ ______ ___ ____ ____ ___ __ ___________ __ _________ ______ ___ ___________ ____ _______________________
+___	O	O	O
+________	O	O	O
+____	O	O	O
+___	O	O	O
+__________	O	O	O
+_	O	O	O
+______	O	O	O
+_____	O	O	O
+______	B-LOC	B-LOC	O
+______	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+___________	O	O	O
+__	O	O	O
+_________	O	O	O
+______	O	O	O
+___	O	O	O
+___________	O	O	O
+____	O	O	O
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1178402994183913478
+# sent_id = bar_tweet_1178402994183913478-1
+# text = ____ __ ____ ___________ _______ _____ __ ______ _______________________
+____	O	O	O
+__	O	O	O
+____	O	O	O
+___________	B-EVENTpart	B-EVENTpart	B-ORG
+_______	O	O	O
+_____	O	B-ORGderiv	B-WOA
+__	O	O	O
+______	B-EVENT	B-EVENT	B-EVENT
+_______________________	O	O	O
+
+# newdoc id = bar_tweet_1627292498979610625
+# sent_id = bar_tweet_1627292498979610625-1
+# text = _____________ ______ __ ___ ___ ______ __ ________________ _
+_____________	O	O	O
+______	O	O	O
+__	O	O	O
+___	O	O	O
+___	O	O	O
+______	O	O	O
+__	O	O	O
+________________	B-LOC	B-LOC	O
+_	O	O	O
+
+# sent_id = bar_tweet_1627292498979610625-2
+# text = _____ __ ____ ___ _
+_____	O	O	O
+__	O	O	O
+____	O	O	O
+___	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1627292498979610625-3
+# text = ___ _______ ____
+___	O	O	O
+_______	O	O	O
+____	O	O	O
+
+# newdoc id = bar_tweet_1490331819501408260
+# sent_id = bar_tweet_1490331819501408260-1
+# text = __________ _____ ____ _ _______ ___ ____ _ _______ _
+__________	O	O	O
+_____	O	O	O
+____	O	O	O
+_	O	O	O
+_______	O	O	O
+___	O	O	O
+____	O	O	O
+_	O	O	O
+_______	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1658511715267379217
+# sent_id = bar_tweet_1658511715267379217-1
+# text = __ ______________ _ __ ______ _____ _ ___ ___________ ____ __ _____ _ _
+__	O	O	O
+______________	O	O	O
+_	O	O	O
+__	O	O	O
+______	O	O	O
+_____	O	O	O
+_	O	O	O
+___	O	O	O
+___________	O	O	O
+____	O	O	O
+__	O	O	O
+_____	O	O	O
+_	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1658511715267379217-2
+# text = ___ ___ __ ______ ___ ___ _________ _
+___	O	O	O
+___	O	O	O
+__	O	O	O
+______	O	O	O
+___	O	O	O
+___	O	O	O
+_________	O	O	O
+_	O	O	O
+
+# sent_id = bar_tweet_1658511715267379217-3
+# text = ___ ______ ________ ______ ____ _
+___	O	O	O
+______	O	O	O
+________	O	O	O
+______	O	O	O
+____	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1640604342049812483
+# sent_id = bar_tweet_1640604342049812483-1
+# text = ________ __________ ________________ ____________ _____________ _ ___ ____ ____ _____ ___ ____________ _
+________	O	O	O
+__________	O	O	O
+________________	O	O	O
+____________	O	O	O
+_____________	O	O	O
+_	O	O	O
+___	O	O	O
+____	O	O	O
+____	O	O	O
+_____	O	O	O
+___	O	O	O
+____________	O	O	O
+_	O	O	O
+
+# newdoc id = bar_tweet_1588920232994738176
+# sent_id = bar_tweet_1588920232994738176-1
+# text = ____ __ __ __________ ___ ____ ___ __ __ _____ __ _______ __ ____ ____ ___ _____ _____________________
+____	O	O	O
+__	O	O	O
+__	O	O	O
+__________	O	O	O
+___	O	O	O
+____	O	O	O
+___	O	O	O
+__	O	O	O
+__	O	O	O
+_____	O	O	O
+__	O	O	O
+_______	O	O	O
+__	O	O	O
+____	O	O	O
+____	O	O	O
+___	O	O	O
+_____	O	O	O
+_____________________	O	O	O

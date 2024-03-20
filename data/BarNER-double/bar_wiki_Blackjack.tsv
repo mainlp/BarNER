@@ -1,0 +1,1656 @@
+# newdoc id = bar_wiki_Blackjack
+# sent_id = bar_wiki_Blackjack-1
+# text = Blackjack
+Blackjack	B-MISC	B-MISC
+
+# sent_id = bar_wiki_Blackjack-2
+# text = De Regeln vo Blog Jog san internationoi nahezu einheitlich , de nochstehend Beschreibung folgt am Reglement , des fia den Schbuia am günstigsdn is .
+De	O	O
+Regeln	O	O
+vo	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+san	O	O
+internationoi	O	O
+nahezu	O	O
+einheitlich	O	O
+,	O	O
+de	O	O
+nochstehend	O	O
+Beschreibung	O	O
+folgt	O	O
+am	O	O
+Reglement	O	O
+,	O	O
+des	O	O
+fia	O	O
+den	O	O
+Schbuia	O	O
+am	O	O
+günstigsdn	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-3
+# text = Dess Reglement gilt in den meisdn deitschn Casinos sowia in da Schbuibank vo Monte Carlo und den Schbuibankn da Casinos Austria .
+Dess	O	O
+Reglement	O	O
+gilt	O	O
+in	O	O
+den	O	O
+meisdn	O	O
+deitschn	B-LOCderiv	B-LOCderiv
+Casinos	O	O
+sowia	O	O
+in	O	O
+da	O	O
+Schbuibank	B-LOC	O
+vo	I-LOC	O
+Monte	I-LOC	B-LOC
+Carlo	I-LOC	I-LOC
+und	O	O
+den	O	O
+Schbuibankn	O	O
+da	O	O
+Casinos	B-ORG	B-ORG
+Austria	I-ORG	I-ORG
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-4
+# text = Blog Jog werd an am onähernd hoibkreisförmign Disch geschbuit .
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+werd	O	O
+an	O	O
+am	O	O
+onähernd	O	O
+hoibkreisförmign	O	O
+Disch	O	O
+geschbuit	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-5
+# text = An da geradn Seitn des Dischs sitzt da Croupia ( Deala , Bankhoida , Kartengeba ) .
+An	O	O
+da	O	O
+geradn	O	O
+Seitn	O	O
+des	O	O
+Dischs	O	O
+sitzt	O	O
+da	O	O
+Croupia	O	O
+(	O	O
+Deala	O	O
+,	O	O
+Bankhoida	O	O
+,	O	O
+Kartengeba	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-6
+# text = Eahm gegenüba befindn si de Plätze fia bis zua siebn Schbuia ( Pointeire ) .
+Eahm	O	O
+gegenüba	O	O
+befindn	O	O
+si	O	O
+de	O	O
+Plätze	O	O
+fia	O	O
+bis	O	O
+zua	O	O
+siebn	O	O
+Schbuia	O	O
+(	O	O
+Pointeire	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-7
+# text = 's werd mid secks Pakedn franzesischa Schbuikardn zua 52 Blatt , oiso 312 Kardn geschbuit ? de Blog-Jog-Kartn hod Bridge-Foamad und drägt extra grouse Indexzeichn ( large index ) mid den englischn Bezeichnunga K , Q und J fia de Buida .
+'s	O	O
+werd	O	O
+mid	O	O
+secks	O	O
+Pakedn	O	O
+franzesischa	B-LOCderiv	B-LOCderiv
+Schbuikardn	O	O
+zua	O	O
+52	O	O
+Blatt	O	O
+,	O	O
+oiso	O	O
+312	O	O
+Kardn	O	O
+geschbuit	O	O
+?	O	O
+de	O	O
+Blog-Jog-Kartn	B-MISCpart	B-MISCpart
+hod	O	O
+Bridge-Foamad	O	O
+und	O	O
+drägt	O	O
+extra	O	O
+grouse	O	O
+Indexzeichn	O	O
+(	O	O
+large	O	O
+index	O	O
+)	O	O
+mid	O	O
+den	O	O
+englischn	B-LANGderiv	B-LANGderiv
+Bezeichnunga	O	O
+K	O	O
+,	O	O
+Q	O	O
+und	O	O
+J	O	O
+fia	O	O
+de	O	O
+Buida	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-8
+# text = Zil des Schbuis is 's , mid zwoa oda mehr Kardn näha an 21 Punkte heranzukomma ois da Croupia , ohne dabei den Wert vo 21 Punkdn zua übaschreidn .
+Zil	O	O
+des	O	O
+Schbuis	O	O
+is	O	O
+'s	O	O
+,	O	O
+mid	O	O
+zwoa	O	O
+oda	O	O
+mehr	O	O
+Kardn	O	O
+näha	O	O
+an	O	O
+21	O	O
+Punkte	O	O
+heranzukomma	O	O
+ois	O	O
+da	O	O
+Croupia	O	O
+,	O	O
+ohne	O	O
+dabei	O	O
+den	O	O
+Wert	O	O
+vo	O	O
+21	O	O
+Punkdn	O	O
+zua	O	O
+übaschreidn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-9
+# text = Voa Ofang eins Schbuis blotziern de Schbuia ihre Einsätze auf den bezeichnedn Fejdern ( boxs ) entsprechend den vom Casino festgesetzdn Einsatzlimits .
+Voa	O	O
+Ofang	O	O
+eins	O	O
+Schbuis	O	O
+blotziern	O	O
+de	O	O
+Schbuia	O	O
+ihre	O	O
+Einsätze	O	O
+auf	O	O
+den	O	O
+bezeichnedn	O	O
+Fejdern	O	O
+(	O	O
+boxs	O	O
+)	O	O
+entsprechend	O	O
+den	O	O
+vom	O	O
+Casino	O	O
+festgesetzdn	O	O
+Einsatzlimits	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-10
+# text = In oana Box dürfa nebn am Boxeninhobr aa andere Schbuia mitsetzn ; mitsetzend Schbuia hom aba koa Mitspracherecht und miassn de Entscheidunga des Boxeninhobrs akzeptiern .
+In	O	O
+oana	O	O
+Box	O	O
+dürfa	O	O
+nebn	O	O
+am	O	O
+Boxeninhobr	O	O
+aa	O	O
+andere	O	O
+Schbuia	O	O
+mitsetzn	O	O
+;	O	O
+mitsetzend	O	O
+Schbuia	O	O
+hom	O	O
+aba	O	O
+koa	O	O
+Mitspracherecht	O	O
+und	O	O
+miassn	O	O
+de	O	O
+Entscheidunga	O	O
+des	O	O
+Boxeninhobrs	O	O
+akzeptiern	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-11
+# text = Da Einsatz da mitsetzendn Schbuia deaf grod so houch sei , dass des vom Casino festgelegte Limit pro Box ned übaschritdn werd .
+Da	O	O
+Einsatz	O	O
+da	O	O
+mitsetzendn	O	O
+Schbuia	O	O
+deaf	O	O
+grod	O	O
+so	O	O
+houch	O	O
+sei	O	O
+,	O	O
+dass	O	O
+des	O	O
+vom	O	O
+Casino	O	O
+festgelegte	O	O
+Limit	O	O
+pro	O	O
+Box	O	O
+ned	O	O
+übaschritdn	O	O
+werd	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-12
+# text = Hod da Boxinhobr bereits den maximoi möglichn Einsatz getätigt , deaf somit koa Mitschbuia mehr auf de Box mitsetzn .
+Hod	O	O
+da	O	O
+Boxinhobr	O	O
+bereits	O	O
+den	O	O
+maximoi	O	O
+möglichn	O	O
+Einsatz	O	O
+getätigt	O	O
+,	O	O
+deaf	O	O
+somit	O	O
+koa	O	O
+Mitschbuia	O	O
+mehr	O	O
+auf	O	O
+de	O	O
+Box	O	O
+mitsetzn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-13
+# text = San de Einsätze getätigt , ofangt da Croupia de Kardn auszuteiln .
+San	O	O
+de	O	O
+Einsätze	O	O
+getätigt	O	O
+,	O	O
+ofangt	O	O
+da	O	O
+Croupia	O	O
+de	O	O
+Kardn	O	O
+auszuteiln	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-14
+# text = Jeda Schbuia und da Croupia eahoidn zuaerst a offene Kartn , danoch eahält jeda Schbuia ? ned aba da Croupia ? a zwoate offene Kartn ( vgl. Regl-Variandn ) .
+Jeda	O	O
+Schbuia	O	O
+und	O	O
+da	O	O
+Croupia	O	O
+eahoidn	O	O
+zuaerst	O	O
+a	O	O
+offene	O	O
+Kartn	O	O
+,	O	O
+danoch	O	O
+eahält	O	O
+jeda	O	O
+Schbuia	O	O
+?	O	O
+ned	O	O
+aba	O	O
+da	O	O
+Croupia	O	O
+?	O	O
+a	O	O
+zwoate	O	O
+offene	O	O
+Kartn	O	O
+(	O	O
+vgl.	O	O
+Regl-Variandn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-15
+# text = Ofangend mid am Schbuia zua Linkn des Croupiers konn jetz jeda Teilnehma solange weidere Kardn valangn ( hit , Kartn oda cartn ) , bis ea glaubt , nahe genug an 21 Punkte herankema zua sei und koa weidere Kartn mehr wui ( stay , Koa Kartn oda reste ) .
+Ofangend	O	O
+mid	O	O
+am	O	O
+Schbuia	O	O
+zua	O	O
+Linkn	O	O
+des	O	O
+Croupiers	O	O
+konn	O	O
+jetz	O	O
+jeda	O	O
+Teilnehma	O	O
+solange	O	O
+weidere	O	O
+Kardn	O	O
+valangn	O	O
+(	O	O
+hit	O	O
+,	O	O
+Kartn	O	O
+oda	O	O
+cartn	O	O
+)	O	O
+,	O	O
+bis	O	O
+ea	O	O
+glaubt	O	O
+,	O	O
+nahe	O	O
+genug	O	O
+an	O	O
+21	O	O
+Punkte	O	O
+herankema	O	O
+zua	O	O
+sei	O	O
+und	O	O
+koa	O	O
+weidere	O	O
+Kartn	O	O
+mehr	O	O
+wui	O	O
+(	O	O
+stay	O	O
+,	O	O
+Koa	O	O
+Kartn	O	O
+oda	O	O
+reste	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-16
+# text = Wa jedoch mid sein Kardn den Wert 21 übaschreitet ( bust ) , hod si übakafft und valiad sofoat ; de Kardn und da Einsatz wern vom Croupia einzong .
+Wa	O	O
+jedoch	O	O
+mid	O	O
+sein	O	O
+Kardn	O	O
+den	O	O
+Wert	O	O
+21	O	O
+übaschreitet	O	O
+(	O	O
+bust	O	O
+)	O	O
+,	O	O
+hod	O	O
+si	O	O
+übakafft	O	O
+und	O	O
+valiad	O	O
+sofoat	O	O
+;	O	O
+de	O	O
+Kardn	O	O
+und	O	O
+da	O	O
+Einsatz	O	O
+wern	O	O
+vom	O	O
+Croupia	O	O
+einzong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-17
+# text = San olle Schbuia bedeant , ziagd da Croupia sei zwoate Kartn .
+San	O	O
+olle	O	O
+Schbuia	O	O
+bedeant	O	O
+,	O	O
+ziagd	O	O
+da	O	O
+Croupia	O	O
+sei	O	O
+zwoate	O	O
+Kartn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-18
+# text = Hod ea 17 oda mehr Punkte , mua ea schdengan bleim , hod ea 16 oda wenga Punkte , mua ea a weidere Kartn ziang ( Deala must stand on 17 and must draw to 16 ) .
+Hod	O	O
+ea	O	O
+17	O	O
+oda	O	O
+mehr	O	O
+Punkte	O	O
+,	O	O
+mua	O	O
+ea	O	O
+schdengan	O	O
+bleim	O	O
+,	O	O
+hod	O	O
+ea	O	O
+16	O	O
+oda	O	O
+wenga	O	O
+Punkte	O	O
+,	O	O
+mua	O	O
+ea	O	O
+a	O	O
+weidere	O	O
+Kartn	O	O
+ziang	O	O
+(	O	O
+Deala	O	O
+must	O	O
+stand	O	O
+on	O	O
+17	O	O
+and	O	O
+must	O	O
+draw	O	O
+to	O	O
+16	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-19
+# text = Dabei gilt foigende Regl : Da Croupia mua a Ass stets mid ejf Punkdn zähln , 's sei denn , ea würde auf de Weise den Wert 21 übaschreidn ; grod dann zählt ea des Ass mid am Punkt .
+Dabei	O	O
+gilt	O	O
+foigende	O	O
+Regl	O	O
+:	O	O
+Da	O	O
+Croupia	O	O
+mua	O	O
+a	O	O
+Ass	O	O
+stets	O	O
+mid	O	O
+ejf	O	O
+Punkdn	O	O
+zähln	O	O
+,	O	O
+'s	O	O
+sei	O	O
+denn	O	O
+,	O	O
+ea	O	O
+würde	O	O
+auf	O	O
+de	O	O
+Weise	O	O
+den	O	O
+Wert	O	O
+21	O	O
+übaschreidn	O	O
+;	O	O
+grod	O	O
+dann	O	O
+zählt	O	O
+ea	O	O
+des	O	O
+Ass	O	O
+mid	O	O
+am	O	O
+Punkt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-20
+# text = Hod da Croupia z. B. a Ass und a Secks , mua ea des Ass mid ejf und de Bratz mid siebzehn Punkdn bewerdn und deaf koa weidere Kartn ziang ( Deala stands on soft 17 ) .
+Hod	O	O
+da	O	O
+Croupia	O	O
+z.	O	O
+B.	O	O
+a	O	O
+Ass	O	O
+und	O	O
+a	O	O
+Secks	O	O
+,	O	O
+mua	O	O
+ea	O	O
+des	O	O
+Ass	O	O
+mid	O	O
+ejf	O	O
+und	O	O
+de	O	O
+Bratz	O	O
+mid	O	O
+siebzehn	O	O
+Punkdn	O	O
+bewerdn	O	O
+und	O	O
+deaf	O	O
+koa	O	O
+weidere	O	O
+Kartn	O	O
+ziang	O	O
+(	O	O
+Deala	O	O
+stands	O	O
+on	O	O
+soft	O	O
+17	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-21
+# text = Wenn da Croupia 21 Punkte übaschreitet , hom olle no im Schbui vableibendn Teilnehma automadisch gwonna .
+Wenn	O	O
+da	O	O
+Croupia	O	O
+21	O	O
+Punkte	O	O
+übaschreitet	O	O
+,	O	O
+hom	O	O
+olle	O	O
+no	O	O
+im	O	O
+Schbui	O	O
+vableibendn	O	O
+Teilnehma	O	O
+automadisch	O	O
+gwonna	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-22
+# text = Sonst gewinna grod jene Schbuia , dern Kartenwert näha an 21 Punkte heranreicht ois da des Croupiers .
+Sonst	O	O
+gewinna	O	O
+grod	O	O
+jene	O	O
+Schbuia	O	O
+,	O	O
+dern	O	O
+Kartenwert	O	O
+näha	O	O
+an	O	O
+21	O	O
+Punkte	O	O
+heranreicht	O	O
+ois	O	O
+da	O	O
+des	O	O
+Croupiers	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-23
+# text = Hod a Schbuia gleich vui Punkte wia da Croupia , so is des Schbui unentschiedn ( stand off , push , tie , égalité , en carts ) , da Schbuia valiad nix , ea gwinnt aba aa nix .
+Hod	O	O
+a	O	O
+Schbuia	O	O
+gleich	O	O
+vui	O	O
+Punkte	O	O
+wia	O	O
+da	O	O
+Croupia	O	O
+,	O	O
+so	O	O
+is	O	O
+des	O	O
+Schbui	O	O
+unentschiedn	O	O
+(	O	O
+stand	O	O
+off	O	O
+,	O	O
+push	O	O
+,	O	O
+tie	O	O
+,	O	O
+égalité	O	O
+,	O	O
+en	O	O
+carts	O	O
+)	O	O
+,	O	O
+da	O	O
+Schbuia	O	O
+valiad	O	O
+nix	O	O
+,	O	O
+ea	O	O
+gwinnt	O	O
+aba	O	O
+aa	O	O
+nix	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-24
+# text = Gwinnt a Schbuia , eahält ea oan Gewinn in da Hechn seis Einsatzs ( 1 : 1 , evn money ) ; in den beidn foigendn Fälln wern jedoch eahöhte Gewinne ausgeschüttnt .
+Gwinnt	O	O
+a	O	O
+Schbuia	O	O
+,	O	O
+eahält	O	O
+ea	O	O
+oan	O	O
+Gewinn	O	O
+in	O	O
+da	O	O
+Hechn	O	O
+seis	O	O
+Einsatzs	O	O
+(	O	O
+1	O	O
+:	O	O
+1	O	O
+,	O	O
+evn	O	O
+money	O	O
+)	O	O
+;	O	O
+in	O	O
+den	O	O
+beidn	O	O
+foigendn	O	O
+Fälln	O	O
+wern	O	O
+jedoch	O	O
+eahöhte	O	O
+Gewinne	O	O
+ausgeschüttnt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-25
+# text = Hod a Schbuia 21 Punkte bestehend aus drei Siebenern ( Driple sevn ) , gwinnt ea sofoat im Vahältnis 3 : 2 , unobhängig vo da Kartn des Croupiers .
+Hod	O	O
+a	O	O
+Schbuia	O	O
+21	O	O
+Punkte	O	O
+bestehend	O	O
+aus	O	O
+drei	O	O
+Siebenern	O	O
+(	O	O
+Driple	O	O
+sevn	O	O
+)	O	O
+,	O	O
+gwinnt	O	O
+ea	O	O
+sofoat	O	O
+im	O	O
+Vahältnis	O	O
+3	O	O
+:	O	O
+2	O	O
+,	O	O
+unobhängig	O	O
+vo	O	O
+da	O	O
+Kartn	O	O
+des	O	O
+Croupiers	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-26
+# text = Des Schbui is fia de betreffend Box noch da Gewinnauszoiung beendt .
+Des	O	O
+Schbui	O	O
+is	O	O
+fia	O	O
+de	O	O
+betreffend	O	O
+Box	O	O
+noch	O	O
+da	O	O
+Gewinnauszoiung	O	O
+beendt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-27
+# text = ( De Regl is außerhoib Österreichs unüblich ; oierdings hod 's si aa in Deitschland und da Schweiz etobliad , dass da Gast in irgendoana Foam oan Bonus eahält . )
+(	O	O
+De	O	O
+Regl	O	O
+is	O	O
+außerhoib	O	O
+Österreichs	B-LOC	B-LOC
+unüblich	O	O
+;	O	O
+oierdings	O	O
+hod	O	O
+'s	O	O
+si	O	O
+aa	O	O
+in	O	O
+Deitschland	B-LOC	B-LOC
+und	O	O
+da	O	O
+Schweiz	B-LOC	B-LOC
+etobliad	O	O
+,	O	O
+dass	O	O
+da	O	O
+Gast	O	O
+in	O	O
+irgendoana	O	O
+Foam	O	O
+oan	O	O
+Bonus	O	O
+eahält	O	O
+.	O	O
+)	O	O
+
+# sent_id = bar_wiki_Blackjack-28
+# text = Noch am Simma-Drilling is Blog Jog , a Kombination vo 21 Punkdn , bestehend aus den easdn beidn Kardn ? oiso Ass und Zehn , bzw. Ass und Buidl ? , des beste Resultod .
+Noch	O	O
+am	O	O
+Simma-Drilling	O	O
+is	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+a	O	O
+Kombination	O	O
+vo	O	O
+21	O	O
+Punkdn	O	O
+,	O	O
+bestehend	O	O
+aus	O	O
+den	O	O
+easdn	O	O
+beidn	O	O
+Kardn	O	O
+?	O	O
+oiso	O	O
+Ass	O	O
+und	O	O
+Zehn	O	O
+,	O	O
+bzw.	O	O
+Ass	O	O
+und	O	O
+Buidl	O	O
+?	O	O
+,	O	O
+des	O	O
+beste	O	O
+Resultod	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-29
+# text = Hod a Schbuia oan Blog Jog , ned aba da Croupia , so eahält da Schbuia oan 3 : 2-Gewinn ausbezoit ( Blog Jog pays 3 to 2 ) .
+Hod	O	O
+a	O	O
+Schbuia	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+ned	O	O
+aba	O	O
+da	O	O
+Croupia	O	O
+,	O	O
+so	O	O
+eahält	O	O
+da	O	O
+Schbuia	O	O
+oan	O	O
+3	O	O
+:	O	O
+2-Gewinn	O	O
+ausbezoit	O	O
+(	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+pays	O	O
+3	O	O
+to	O	O
+2	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-30
+# text = Hod da Croupia jedoch aa oan Blog Jog , is des Schbui unentschiedn .
+Hod	O	O
+da	O	O
+Croupia	O	O
+jedoch	O	O
+aa	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+is	O	O
+des	O	O
+Schbui	O	O
+unentschiedn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-31
+# text = Hod da Croupia oan Blog Jog , valiarn olle no im Schbui befindlichn Teilnehma , ausgnomma dejenign , welche ebenfois oan Blog Jog besitzn ; insbesondere aa oi dejenign Schbuia , welche 21 Punkte in da Bratz hoidn .
+Hod	O	O
+da	O	O
+Croupia	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+valiarn	O	O
+olle	O	O
+no	O	O
+im	O	O
+Schbui	O	O
+befindlichn	O	O
+Teilnehma	O	O
+,	O	O
+ausgnomma	O	O
+dejenign	O	O
+,	O	O
+welche	O	O
+ebenfois	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+besitzn	O	O
+;	O	O
+insbesondere	O	O
+aa	O	O
+oi	O	O
+dejenign	O	O
+Schbuia	O	O
+,	O	O
+welche	O	O
+21	O	O
+Punkte	O	O
+in	O	O
+da	O	O
+Bratz	O	O
+hoidn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-32
+# text = ( Hod a Schbuia oan Simma-Drilling , hod ea sein Gewinn scho eahoidn und is bereits aus am Schbui . )
+(	O	O
+Hod	O	O
+a	O	O
+Schbuia	O	O
+oan	O	O
+Simma-Drilling	O	O
+,	O	O
+hod	O	O
+ea	O	O
+sein	O	O
+Gewinn	O	O
+scho	O	O
+eahoidn	O	O
+und	O	O
+is	O	O
+bereits	O	O
+aus	O	O
+am	O	O
+Schbui	O	O
+.	O	O
+)	O	O
+
+# sent_id = bar_wiki_Blackjack-33
+# text = Hod da Croupia ois easte Kartn a Ass , so könna si de Schbuia gegn oan Blog Jog des Croupiers vasichern , indem sie oan entsprechendn Einsatz auf de Insurance line setzn .
+Hod	O	O
+da	O	O
+Croupia	O	O
+ois	O	O
+easte	O	O
+Kartn	O	O
+a	O	O
+Ass	O	O
+,	O	O
+so	O	O
+könna	O	O
+si	O	O
+de	O	O
+Schbuia	O	O
+gegn	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+des	O	O
+Croupiers	O	O
+vasichern	O	O
+,	O	O
+indem	O	O
+sie	O	O
+oan	O	O
+entsprechendn	O	O
+Einsatz	O	O
+auf	O	O
+de	O	O
+Insurance	O	O
+line	O	O
+setzn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-34
+# text = Ziagd da Croupia ois zwoate Kartn a Zehn oda a Buidkartn , hod ea oan Blog Jog und de Vasicherung werd im Vahältnis 2 : 1 ausbezoit ( ?
+Ziagd	O	O
+da	O	O
+Croupia	O	O
+ois	O	O
+zwoate	O	O
+Kartn	O	O
+a	O	O
+Zehn	O	O
+oda	O	O
+a	O	O
+Buidkartn	O	O
+,	O	O
+hod	O	O
+ea	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+und	O	O
+de	O	O
+Vasicherung	O	O
+werd	O	O
+im	O	O
+Vahältnis	O	O
+2	O	O
+:	O	O
+1	O	O
+ausbezoit	O	O
+(	O	O
+?	O	O
+
+# sent_id = bar_wiki_Blackjack-35
+# text = Insurance pays 2 to 1 ? ) .
+Insurance	O	O
+pays	O	O
+2	O	O
+to	O	O
+1	O	O
+?	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-36
+# text = Hod da Croupia jedoch koan Blog Jog , werd de Vasicherungsprämie einzong .
+Hod	O	O
+da	O	O
+Croupia	O	O
+jedoch	O	O
+koan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+werd	O	O
+de	O	O
+Vasicherungsprämie	O	O
+einzong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-37
+# text = Hod a Schbuia oan Blog Jog und da Croupia ois easte Kartn a Ass , so konn si da Schbuia oan 1 : 1-Gewinn auszoin lossn und des Schbui beendn .
+Hod	O	O
+a	O	O
+Schbuia	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+und	O	O
+da	O	O
+Croupia	O	O
+ois	O	O
+easte	O	O
+Kartn	O	O
+a	O	O
+Ass	O	O
+,	O	O
+so	O	O
+konn	O	O
+si	O	O
+da	O	O
+Schbuia	O	O
+oan	O	O
+1	O	O
+:	O	O
+1-Gewinn	O	O
+auszoin	O	O
+lossn	O	O
+und	O	O
+des	O	O
+Schbui	O	O
+beendn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-38
+# text = Des entspricht grod am Obschluss oana Vasicherung , wobei da Schbuia de Häiftn seis ursprünglichn Einsatzs auf de Insurance line blotziad .
+Des	O	O
+entspricht	O	O
+grod	O	O
+am	O	O
+Obschluss	O	O
+oana	O	O
+Vasicherung	O	O
+,	O	O
+wobei	O	O
+da	O	O
+Schbuia	O	O
+de	O	O
+Häiftn	O	O
+seis	O	O
+ursprünglichn	O	O
+Einsatzs	O	O
+auf	O	O
+de	O	O
+Insurance	O	O
+line	O	O
+blotziad	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-39
+# text = De Vasicherung gegn oan Blog Jog des Croupiers is im Grunde a Nebenwette , da Bankvoateil beträgt bei da Insurance ca. 1/13 = 7,692 % .
+De	O	O
+Vasicherung	O	O
+gegn	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+des	O	O
+Croupiers	O	O
+is	O	O
+im	O	O
+Grunde	O	O
+a	O	O
+Nebenwette	O	O
+,	O	O
+da	O	O
+Bankvoateil	O	O
+beträgt	O	O
+bei	O	O
+da	O	O
+Insurance	O	O
+ca.	O	O
+1/13	O	O
+=	O	O
+7,692	O	O
+%	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-40
+# text = A Schbuia konn sei Bratz teiln ( split ) , wenn de easdn beidn Kardn gleichwertig san ( z. B. zwoa Sexa oda Bube und Dame ) ; ea schbuit dann mid ? geteilta Bratz ? mid zwoa getrenndn Einsätzn weida , wobei mehrfachs Teiln ( resplit ) möglich is ( in deitschn Schbuibankn is des mehrfache Teiln i. d. R. ned zualässig ) .
+A	O	O
+Schbuia	O	O
+konn	O	O
+sei	O	O
+Bratz	O	O
+teiln	O	O
+(	O	O
+split	O	O
+)	O	O
+,	O	O
+wenn	O	O
+de	O	O
+easdn	O	O
+beidn	O	O
+Kardn	O	O
+gleichwertig	O	O
+san	O	O
+(	O	O
+z.	O	O
+B.	O	O
+zwoa	O	O
+Sexa	O	O
+oda	O	O
+Bube	O	O
+und	O	O
+Dame	O	O
+)	O	O
+;	O	O
+ea	O	O
+schbuit	O	O
+dann	O	O
+mid	O	O
+?	O	O
+geteilta	O	O
+Bratz	O	O
+?	O	O
+mid	O	O
+zwoa	O	O
+getrenndn	O	O
+Einsätzn	O	O
+weida	O	O
+,	O	O
+wobei	O	O
+mehrfachs	O	O
+Teiln	O	O
+(	O	O
+resplit	O	O
+)	O	O
+möglich	O	O
+is	O	O
+(	O	O
+in	O	O
+deitschn	B-LOCderiv	B-LOCderiv
+Schbuibankn	O	O
+is	O	O
+des	O	O
+mehrfache	O	O
+Teiln	O	O
+i.	O	O
+d.	O	O
+R.	O	O
+ned	O	O
+zualässig	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-41
+# text = Fia jede geteilte Bratz is a weidera Einsatz in da Hechn des ursprünglichn Einsatzs zua leisdn .
+Fia	O	O
+jede	O	O
+geteilte	O	O
+Bratz	O	O
+is	O	O
+a	O	O
+weidera	O	O
+Einsatz	O	O
+in	O	O
+da	O	O
+Hechn	O	O
+des	O	O
+ursprünglichn	O	O
+Einsatzs	O	O
+zua	O	O
+leisdn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-42
+# text = Da Schbuia eahält jetz in jeda geteildn Bratz beliabig vui Kardn .
+Da	O	O
+Schbuia	O	O
+eahält	O	O
+jetz	O	O
+in	O	O
+jeda	O	O
+geteildn	O	O
+Bratz	O	O
+beliabig	O	O
+vui	O	O
+Kardn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-43
+# text = Ausnahme : Teilt a Schbuia zwoa Asse , so eahält ea auf jeds Ass grod mehr a weidere Kartn .
+Ausnahme	O	O
+:	O	O
+Teilt	O	O
+a	O	O
+Schbuia	O	O
+zwoa	O	O
+Asse	O	O
+,	O	O
+so	O	O
+eahält	O	O
+ea	O	O
+auf	O	O
+jeds	O	O
+Ass	O	O
+grod	O	O
+mehr	O	O
+a	O	O
+weidere	O	O
+Kartn	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-44
+# text = Is de a weiders Ass , is a nochmaligs Teiln aba weiderhin möglich .
+Is	O	O
+de	O	O
+a	O	O
+weiders	O	O
+Ass	O	O
+,	O	O
+is	O	O
+a	O	O
+nochmaligs	O	O
+Teiln	O	O
+aba	O	O
+weiderhin	O	O
+möglich	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-45
+# text = In oana geteildn Bratz gilt de Kombination Ass und Buidl bzw. Ass und Zehn jedoch ned ois Blog Jog , sondern ois 21 Punkte , do de Kartenkombination ned mid den easdn beidn Kardn eazielt wurde .
+In	O	O
+oana	O	O
+geteildn	O	O
+Bratz	O	O
+gilt	O	O
+de	O	O
+Kombination	O	O
+Ass	O	O
+und	O	O
+Buidl	O	O
+bzw.	O	O
+Ass	O	O
+und	O	O
+Zehn	O	O
+jedoch	O	O
+ned	O	O
+ois	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+,	O	O
+sondern	O	O
+ois	O	O
+21	O	O
+Punkte	O	O
+,	O	O
+do	O	O
+de	O	O
+Kartenkombination	O	O
+ned	O	O
+mid	O	O
+den	O	O
+easdn	O	O
+beidn	O	O
+Kardn	O	O
+eazielt	O	O
+wurde	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-46
+# text = A Schbuia konn , nochdem ea sei easdn beidn Kardn eahoidn hod , sein Einsatz vadoppeln ( double ) .
+A	O	O
+Schbuia	O	O
+konn	O	O
+,	O	O
+nochdem	O	O
+ea	O	O
+sei	O	O
+easdn	O	O
+beidn	O	O
+Kardn	O	O
+eahoidn	O	O
+hod	O	O
+,	O	O
+sein	O	O
+Einsatz	O	O
+vadoppeln	O	O
+(	O	O
+double	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-47
+# text = Da Wert da beidn Kardn is dabei unerheblich ( Double down on oy two ) .
+Da	O	O
+Wert	O	O
+da	O	O
+beidn	O	O
+Kardn	O	O
+is	O	O
+dabei	O	O
+unerheblich	O	O
+(	O	O
+Double	O	O
+down	O	O
+on	O	O
+oy	O	O
+two	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-48
+# text = Vadoppelt a Schbuia , werd eahm danoch no genau a Kartn zuageteilt .
+Vadoppelt	O	O
+a	O	O
+Schbuia	O	O
+,	O	O
+werd	O	O
+eahm	O	O
+danoch	O	O
+no	O	O
+genau	O	O
+a	O	O
+Kartn	O	O
+zuageteilt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-49
+# text = A Vadoppeln noch am Teiln is möglich ( Double down on split pairs ) ( vgl. Regl-Variandn ) .
+A	O	O
+Vadoppeln	O	O
+noch	O	O
+am	O	O
+Teiln	O	O
+is	O	O
+möglich	O	O
+(	O	O
+Double	O	O
+down	O	O
+on	O	O
+split	O	O
+pairs	O	O
+)	O	O
+(	O	O
+vgl.	O	O
+Regl-Variandn	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-50
+# text = A mitsetzendr Schbuia in oana Box konn grod dann vadoppeln , wenn aa da Boxinhobr sein Einsatz vadoppelt .
+A	O	O
+mitsetzendr	O	O
+Schbuia	O	O
+in	O	O
+oana	O	O
+Box	O	O
+konn	O	O
+grod	O	O
+dann	O	O
+vadoppeln	O	O
+,	O	O
+wenn	O	O
+aa	O	O
+da	O	O
+Boxinhobr	O	O
+sein	O	O
+Einsatz	O	O
+vadoppelt	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-51
+# text = Bust
+Bust	O	O
+
+# sent_id = bar_wiki_Blackjack-52
+# text = In vuin Schbuibankn konn a Schbuia voa Ofang da Kartenausgob darauf wetdn , dass si da Deala in dea Runde übakafft ( Deala busts oda kuaz Bust ) .
+In	O	O
+vuin	O	O
+Schbuibankn	O	O
+konn	O	O
+a	O	O
+Schbuia	O	O
+voa	O	O
+Ofang	O	O
+da	O	O
+Kartenausgob	O	O
+darauf	O	O
+wetdn	O	O
+,	O	O
+dass	O	O
+si	O	O
+da	O	O
+Deala	O	O
+in	O	O
+dea	O	O
+Runde	O	O
+übakafft	O	O
+(	O	O
+Deala	O	O
+busts	O	O
+oda	O	O
+kuaz	O	O
+Bust	O	O
+)	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-53
+# text = Soiad da Deala 22 oda mehr Augn eahoidn und si somit übakaffn , wos mid oana Wahrscheinlichkeit vo 28,16 % gschieht ? oiso im Middl in wos wenga ois zwoa vo siebn Fälln ? , werd de Nebenwette im Vahältnis 5 : 2 ausbezoit , andernfois werd da Einsatz auf de Wette einzong .
+Soiad	O	O
+da	O	O
+Deala	O	O
+22	O	O
+oda	O	O
+mehr	O	O
+Augn	O	O
+eahoidn	O	O
+und	O	O
+si	O	O
+somit	O	O
+übakaffn	O	O
+,	O	O
+wos	O	O
+mid	O	O
+oana	O	O
+Wahrscheinlichkeit	O	O
+vo	O	O
+28,16	O	O
+%	O	O
+gschieht	O	O
+?	O	O
+oiso	O	O
+im	O	O
+Middl	O	O
+in	O	O
+wos	O	O
+wenga	O	O
+ois	O	O
+zwoa	O	O
+vo	O	O
+siebn	O	O
+Fälln	O	O
+?	O	O
+,	O	O
+werd	O	O
+de	O	O
+Nebenwette	O	O
+im	O	O
+Vahältnis	O	O
+5	O	O
+:	O	O
+2	O	O
+ausbezoit	O	O
+,	O	O
+andernfois	O	O
+werd	O	O
+da	O	O
+Einsatz	O	O
+auf	O	O
+de	O	O
+Wette	O	O
+einzong	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-54
+# text = Da Bankvoateil bei dea Wettart beträgt 1,44 % .
+Da	O	O
+Bankvoateil	O	O
+bei	O	O
+dea	O	O
+Wettart	O	O
+beträgt	O	O
+1,44	O	O
+%	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-55
+# text = Vui Casinos schränkn de Woimöglichkeitn da Schbuia a. De am häufigsdn ozutreffendn Obweichunga vo den obign Regeln san :
+Vui	O	O
+Casinos	O	O
+schränkn	O	O
+de	O	O
+Woimöglichkeitn	O	O
+da	O	O
+Schbuia	O	O
+a.	O	O
+De	O	O
+am	O	O
+häufigsdn	O	O
+ozutreffendn	O	O
+Obweichunga	O	O
+vo	O	O
+den	O	O
+obign	O	O
+Regeln	O	O
+san	O	O
+:	O	O
+
+# sent_id = bar_wiki_Blackjack-56
+# text = De Art da Kartenausgob is vuifach unterschiedlich , in den USA eahält da Croupia in da Regl sei zwoate Kartn unmiddlbar nochdem olle Schbuia ihre easdn beidn Kardn eahoidn hom ? oiso ned east , nochdem olle Schbuia si eaklärt hom und bedeant san .
+De	O	O
+Art	O	O
+da	O	O
+Kartenausgob	O	O
+is	O	O
+vuifach	O	O
+unterschiedlich	O	O
+,	O	O
+in	O	O
+den	O	O
+USA	B-LOC	B-LOC
+eahält	O	O
+da	O	O
+Croupia	O	O
+in	O	O
+da	O	O
+Regl	O	O
+sei	O	O
+zwoate	O	O
+Kartn	O	O
+unmiddlbar	O	O
+nochdem	O	O
+olle	O	O
+Schbuia	O	O
+ihre	O	O
+easdn	O	O
+beidn	O	O
+Kardn	O	O
+eahoidn	O	O
+hom	O	O
+?	O	O
+oiso	O	O
+ned	O	O
+east	O	O
+,	O	O
+nochdem	O	O
+olle	O	O
+Schbuia	O	O
+si	O	O
+eaklärt	O	O
+hom	O	O
+und	O	O
+bedeant	O	O
+san	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-57
+# text = In dem Foi werd de zwoate Kartn des Croupiers oierdings vadeckt gegem und east dann umgedreht , wenn da letzte Schbuia bedeant is .
+In	O	O
+dem	O	O
+Foi	O	O
+werd	O	O
+de	O	O
+zwoate	O	O
+Kartn	O	O
+des	O	O
+Croupiers	O	O
+oierdings	O	O
+vadeckt	O	O
+gegem	O	O
+und	O	O
+east	O	O
+dann	O	O
+umgedreht	O	O
+,	O	O
+wenn	O	O
+da	O	O
+letzte	O	O
+Schbuia	O	O
+bedeant	O	O
+is	O	O
+.	O	O
+
+# sent_id = bar_wiki_Blackjack-58
+# text = Zeigt de easte Kartn des Croupiers a Ass oda a Kartn mid am Wert zehn , prüft dea , ob ea oan Blog Jog hod ? dess Vafahrn hod fia den Schbuia den Voateil , dass ea bei am Blog Jog des Dealers in jedem Foi grod den oafachn Einsatz valiad und ned den duach Teiln oda Vadoppeln eahöhdn Einsatz .
+Zeigt	O	O
+de	O	O
+easte	O	O
+Kartn	O	O
+des	O	O
+Croupiers	O	O
+a	O	O
+Ass	O	O
+oda	O	O
+a	O	O
+Kartn	O	O
+mid	O	O
+am	O	O
+Wert	O	O
+zehn	O	O
+,	O	O
+prüft	O	O
+dea	O	O
+,	O	O
+ob	O	O
+ea	O	O
+oan	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+hod	O	O
+?	O	O
+dess	O	O
+Vafahrn	O	O
+hod	O	O
+fia	O	O
+den	O	O
+Schbuia	O	O
+den	O	O
+Voateil	O	O
+,	O	O
+dass	O	O
+ea	O	O
+bei	O	O
+am	O	O
+Blog	B-MISC	B-MISC
+Jog	I-MISC	I-MISC
+des	O	O
+Dealers	O	O
+in	O	O
+jedem	O	O
+Foi	O	O
+grod	O	O
+den	O	O
+oafachn	O	O
+Einsatz	O	O
+valiad	O	O
+und	O	O
+ned	O	O
+den	O	O
+duach	O	O
+Teiln	O	O
+oda	O	O
+Vadoppeln	O	O
+eahöhdn	O	O
+Einsatz	O	O
+.	O	O
+
